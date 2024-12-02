@@ -33,7 +33,7 @@
 
         // Daten aus der Blitzer.de API laden
         fetch('https://direct.blitzer.de/export/v3/xml/?key=94b8b000-7f1f-483c-8f7f-2e75cecb7eb1', {
-            mode: "no-cors"
+            mode: "cors"
         })
             .then(response => {
                 if (!response.ok) {
