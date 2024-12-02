@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blitzer-Karte</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map { height: 500px; width: 100%; }
+    </style>
+</head>
+<body>
+    <h1>Blitzer-Karte</h1>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        // Karte initialisieren
+        const map = L.map('map').setView([48.3665, 10.8944], 12);
+
+        // OpenStreetMap-Tiles hinzufügen
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(map);
+
+        // Benutzerdefiniertes Icon definieren
+        const customIcon = L.icon({
+            iconUrl: 'https://daviddasklarist.github.io/repositoryname/Blitzer_Icon.png', // Absoluter Pfad
+            iconSize: [40, 40],
+            iconAnchor: [15, 30],
+            popupAnchor: [0, -30]
+        });
+
+        // JSON-Daten laden
+        fetch('data.json') // Ersetzen Sie 'data.json' mit der URL oder dem Pfad zu Ihrer Datei
+            .then(response => response.json())
+            .then(data => {
+                const bounds = [];
+
+                data.forEach(item => {
+                    if (item.type === '7') { // Optional: Filtern nach Typ
+                        const { latitude, longitude, street, city } = item;
+
+                        // Marker hinzufügen
+                        L.marker([latitude, longitude], { icon: customIcon })
+                            .addTo(map)
+                            .bindPopup(`<b>${street}</b><br>${city}`);
+                        bounds.push([latitude, longitude]);
+                    }
+                });
+
+                // Karte an die Marker anpassen
+                if (bounds.length > 0) {
+                    map.fitBounds(bounds);
+                }
+            })
+            .catch(error => console.error('Fehler beim Laden der JSON-Daten:', error));
+    </script>
+</body>
+</html>
