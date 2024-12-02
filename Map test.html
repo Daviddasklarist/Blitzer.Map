@@ -25,14 +25,14 @@
 
         // Benutzerdefiniertes Icon definieren
         const customIcon = L.icon({
-            iconUrl: './Blitzer_Icon.png',
+            iconUrl: 'https://daviddasklarist.github.io/repositoryname/Blitzer_Icon.png', // Absoluter Pfad
             iconSize: [40, 40],
             iconAnchor: [15, 30],
             popupAnchor: [0, -30]
         });
 
         // XML-Daten abrufen
-        fetch('http://localhost:5000/proxy') // Proxy-URL
+        fetch('https://deinproxy.onrender.com/proxy') // Öffentliche Proxy-URL
             .then(response => response.text())
             .then(data => {
                 const parser = new DOMParser();
@@ -50,9 +50,6 @@
                         const longitude = parseFloat(event.getElementsByTagName('longitude')[0]?.textContent);
                         const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
                         const city = event.getElementsByTagName('city')[0]?.textContent || 'Unbekannte Stadt';
-
-                        // Debugging: Logge die Daten
-                        console.log(`Blitzer gefunden: Typ ${type}, Latitude: ${latitude}, Longitude: ${longitude}, Straße: ${street}, Stadt: ${city}`);
 
                         // Marker hinzufügen
                         L.marker([latitude, longitude], { icon: customIcon })
