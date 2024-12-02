@@ -25,21 +25,27 @@
 
         // Benutzerdefiniertes Icon definieren
         const customIcon = L.icon({
-            iconUrl: 'https://daviddasklarist.github.io/repositoryname/Blitzer_Icon.png', // Absoluter Pfad
-            iconSize: [40, 40],
-            iconAnchor: [15, 30],
-            popupAnchor: [0, -30]
+            iconUrl: 'Blitzer_Icon.png', // Relativer Pfad zu Ihrem Icon
+            iconSize: [40, 40], // Größe des Icons
+            iconAnchor: [20, 40], // Ankerpunkt (unten mittig)
+            popupAnchor: [0, -40] // Position des Popups relativ zum Icon
         });
 
-        // XML-Daten abrufen
-        fetch('https://deinproxy.onrender.com/proxy') // Öffentliche Proxy-URL
-            .then(response => response.text())
+        // Daten aus der Blitzer.de API laden
+        fetch('http://direct.blitzer.de/export/v3/xml/?key=94b8b000-7f1f-483c-8f7f-2e75cecb7eb1')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Netzwerkantwort war nicht ok');
+                }
+                return response.text();
+            })
             .then(data => {
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(data, 'application/xml');
                 const events = xmlDoc.getElementsByTagName('event');
                 const bounds = [];
 
+                // Iteration über alle Events
                 for (let i = 0; i < events.length; i++) {
                     const event = events[i];
                     const type = event.getElementsByTagName('type')[0]?.textContent;
@@ -64,7 +70,7 @@
                     map.fitBounds(bounds);
                 }
             })
-            .catch(error => console.error('Fehler beim Abrufen der XML-Daten:', error));
+            .catch(error => console.error('Fehler beim Abrufen der API-Daten:', error));
     </script>
 </body>
 </html>
