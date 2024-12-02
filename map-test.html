@@ -25,29 +25,21 @@
 
         // Benutzerdefiniertes Icon definieren
         const customIcon = L.icon({
-            iconUrl: 'Blitzer_Icon.png', // Relativer Pfad zu Ihrem Icon
-            iconSize: [40, 40], // Größe des Icons
-            iconAnchor: [20, 40], // Ankerpunkt (unten mittig)
-            popupAnchor: [0, -40] // Position des Popups relativ zum Icon
+            iconUrl: 'Blitzer_Icon.png', // Relativer oder absoluter Pfad zu Ihrem Icon
+            iconSize: [40, 40],
+            iconAnchor: [20, 40],
+            popupAnchor: [0, -40]
         });
 
-        // Daten aus der Blitzer.de API laden
-        fetch('https://direct.blitzer.de/export/v3/xml/?key=94b8b000-7f1f-483c-8f7f-2e75cecb7eb1', {
-            mode: "cors"
-        })
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Netzwerkantwort war nicht ok');
-                }
-                return response.text();
-            })
+        // XML-Datei von GitHub laden
+        fetch('https://raw.githubusercontent.com/Daviddasklarist/Blitzer.Map/refs/heads/main/blitzer.xml')
+            .then(response => response.text())
             .then(data => {
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(data, 'application/xml');
                 const events = xmlDoc.getElementsByTagName('event');
                 const bounds = [];
 
-                // Iteration über alle Events
                 for (let i = 0; i < events.length; i++) {
                     const event = events[i];
                     const type = event.getElementsByTagName('type')[0]?.textContent;
@@ -72,7 +64,7 @@
                     map.fitBounds(bounds);
                 }
             })
-            .catch(error => console.error('Fehler beim Abrufen der API-Daten:', error));
+            .catch(error => console.error('Fehler beim Laden der XML-Daten:', error));
     </script>
 </body>
 </html>
