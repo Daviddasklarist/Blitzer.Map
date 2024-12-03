@@ -36,7 +36,7 @@
             maxZoom: 19,
         }).addTo(map);
 
-        // Benutzerdefiniertes Icon definieren
+        // Benutzerdefinierte Icons definieren
         const customIcon = L.icon({
             iconUrl: 'Blitzer_Icon.png', // Relativer oder absoluter Pfad zu Ihrem Icon
             iconSize: [40, 40],
@@ -44,7 +44,26 @@
             popupAnchor: [0, -40]
         });
 
+        const warningIcon = L.icon({
+            iconUrl: 'Warnung_Icon.png', // Relativer oder absoluter Pfad zu Ihrem Warnungs-Icon
+            iconSize: [40, 40],
+            iconAnchor: [20, 40],
+            popupAnchor: [0, -40]
+        });
+
         let markers = []; // Array, um die Marker zu speichern
+
+        // Typ-Übersetzungen
+        const typeTranslations = {
+            "1": "Blitzer",
+            "7": "Blitzeranhänger",
+            "20": "Stauende",
+            "21": "Unfall",
+            "23": "Hindernis",
+            "24": "rutschige Fahrbahn",
+            "25": "Sichtbehinderung",
+            "29": "Pannenfahrzeug"
+        };
 
         // Funktion zum Laden und Aktualisieren der XML-Daten
         function loadXMLAndUpdateMap() {
@@ -65,16 +84,33 @@
                         const event = events[i];
                         const type = event.getElementsByTagName('type')[0]?.textContent;
 
-                        // Nur Blitzer vom Typ 7 oder Typ 1 verarbeiten
+                        // Marker-Icon basierend auf dem Typ auswählen
+                        let iconToUse = null;
                         if (type === '7' || type === '1') {
+                            iconToUse = customIcon;
+                        } else if (['20', '21', '23', '24', '25', '29'].includes(type)) {
+                            iconToUse = warningIcon;
+                        }
+
+                        // Marker nur erstellen, wenn ein Icon definiert ist
+                        if (iconToUse) {
                             const latitude = parseFloat(event.getElementsByTagName('latitude')[0]?.textContent);
                             const longitude = parseFloat(event.getElementsByTagName('longitude')[0]?.textContent);
                             const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
                             const city = event.getElementsByTagName('city')[0]?.textContent || 'Unbekannte Stadt';
 
+                            // Typ-Übersetzung und Popup-Inhalt erstellen
+                            const translatedType = typeTranslations[type] || "Unbekannter Typ";
+                            const popupContent = `
+                                <div>
+                                    <b>${translatedType}</b>
+                                    <br>${city}<br>${street}
+                                </div>
+                            `;
+
                             // Marker erstellen und hinzufügen
-                            const marker = L.marker([latitude, longitude], { icon: customIcon })
-                                .bindPopup(`<b>${street}</b><br>${city}`);
+                            const marker = L.marker([latitude, longitude], { icon: iconToUse })
+                                .bindPopup(popupContent);
                             marker.addTo(map);
                             markers.push(marker); // Marker speichern
                             bounds.push([latitude, longitude]);
