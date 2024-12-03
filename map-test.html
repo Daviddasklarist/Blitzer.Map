@@ -53,6 +53,18 @@
 
         let markers = []; // Array, um die Marker zu speichern
 
+        // Typ-Übersetzungen
+        const typeTranslations = {
+            "1": "Blitzer",
+            "7": "Blitzeranhänger",
+            "20": "Stauende",
+            "21": "Unfall",
+            "23": "Hindernis",
+            "24": "rutschige Fahrbahn",
+            "25": "Sichtbehinderung",
+            "29": "Pannenfahrzeug"
+        };
+
         // Funktion zum Laden und Aktualisieren der XML-Daten
         function loadXMLAndUpdateMap() {
             fetch('https://raw.githubusercontent.com/Daviddasklarist/Blitzer.Map/main/blitzer.xml?' + new Date().getTime())
@@ -87,9 +99,18 @@
                             const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
                             const city = event.getElementsByTagName('city')[0]?.textContent || 'Unbekannte Stadt';
 
+                            // Typ-Übersetzung und Popup-Inhalt erstellen
+                            const translatedType = typeTranslations[type] || "Unbekannter Typ";
+                            const popupContent = `
+                                <div>
+                                    <b>Was ist?</b><br>${translatedType}<br><br>
+                                    <b>Wo?</b><br>${city}<br>${street}
+                                </div>
+                            `;
+
                             // Marker erstellen und hinzufügen
                             const marker = L.marker([latitude, longitude], { icon: iconToUse })
-                                .bindPopup(`<b>${street}</b><br>${city}`);
+                                .bindPopup(popupContent);
                             marker.addTo(map);
                             markers.push(marker); // Marker speichern
                             bounds.push([latitude, longitude]);
