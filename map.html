@@ -5,78 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <style>
-        body {
+        body, html {
             margin: 0;
             padding: 0;
+            height: 100%;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        body {
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh; /* Nimmt die gesamte Fensterhöhe ein */
-            background-color: #f0f0f0; /* Optionaler Hintergrund für besseren Kontrast */
+            background-color: #f0f0f0;
         }
         #map {
-            height: 500px; /* Quadratgröße definieren */
-            width: 500px; /* Gleiche Breite und Höhe */
-            border: 2px solid #000; /* Optional: Rahmen für die Karte */
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Optional: Schatteneffekt */
+            height: 500px;
+            width: 500px;
+            border: none;
         }
     </style>
 </head>
 <body>
+    <!-- Hier wird die Karte eingefügt -->
     <div id="map"></div>
 
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script>
-        // Karte initialisieren
         const map = L.map('map').setView([48.3665, 10.8944], 12);
-
-        // OpenStreetMap-Tiles hinzufügen
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
         }).addTo(map);
-
-        // Benutzerdefiniertes Icon definieren
-        const customIcon = L.icon({
-            iconUrl: 'Blitzer_Icon.png', // Relativer oder absoluter Pfad zu Ihrem Icon
-            iconSize: [40, 40],
-            iconAnchor: [20, 40],
-            popupAnchor: [0, -40]
-        });
-
-        // XML-Datei von GitHub laden
-        fetch('https://raw.githubusercontent.com/Daviddasklarist/Blitzer.Map/refs/heads/main/blitzer.xml')
-            .then(response => response.text())
-            .then(data => {
-                const parser = new DOMParser();
-                const xmlDoc = parser.parseFromString(data, 'application/xml');
-                const events = xmlDoc.getElementsByTagName('event');
-                const bounds = [];
-
-                for (let i = 0; i < events.length; i++) {
-                    const event = events[i];
-                    const type = event.getElementsByTagName('type')[0]?.textContent;
-
-                    // Nur Blitzer vom Typ 7 verarbeiten
-                    if (type === '7') {
-                        const latitude = parseFloat(event.getElementsByTagName('latitude')[0]?.textContent);
-                        const longitude = parseFloat(event.getElementsByTagName('longitude')[0]?.textContent);
-                        const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
-                        const city = event.getElementsByTagName('city')[0]?.textContent || 'Unbekannte Stadt';
-
-                        // Marker hinzufügen
-                        L.marker([latitude, longitude], { icon: customIcon })
-                            .addTo(map)
-                            .bindPopup(`<b>${street}</b><br>${city}`);
-                        bounds.push([latitude, longitude]);
-                    }
-                }
-
-                // Karte an die Marker anpassen
-                if (bounds.length > 0) {
-                    map.fitBounds(bounds);
-                }
-            })
-            .catch(error => console.error('Fehler beim Laden der XML-Daten:', error));
     </script>
 </body>
 </html>
