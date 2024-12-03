@@ -65,8 +65,8 @@
                         const event = events[i];
                         const type = event.getElementsByTagName('type')[0]?.textContent;
 
-                        // Nur Blitzer vom Typ 7 verarbeiten
-                        if (type === '7') {
+                        // Nur Blitzer vom Typ 7 oder Typ 1 verarbeiten
+                        if (type === '7' || type === '1') {
                             const latitude = parseFloat(event.getElementsByTagName('latitude')[0]?.textContent);
                             const longitude = parseFloat(event.getElementsByTagName('longitude')[0]?.textContent);
                             const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
