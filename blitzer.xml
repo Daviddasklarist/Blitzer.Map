@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>14973618096</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+    <point>
+      <latitude>48.337350</latitude>
+      <longitude>10.902581</longitude>
+    </point>
+    </location>
+    <date>
+      <create>2024-12-03T11:37:59+01:00</create>
+      <lastuse>2024-12-03T15:42:13+01:00</lastuse>
+      <lastconfirm>2024-12-03T14:12:14+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>14974186485</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Holzbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+    <point>
+      <latitude>48.370587</latitude>
+      <longitude>10.878882</longitude>
+    </point>
+    </location>
+    <date>
+      <create>2024-12-03T13:39:43+01:00</create>
+      <lastuse>2024-12-03T16:10:46+01:00</lastuse>
+      <lastconfirm>2024-12-03T14:10:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>14974132108</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-03T13:26:36+01:00</create>
-      <lastuse>2024-12-03T16:04:51+01:00</lastuse>
-      <lastconfirm>2024-12-03T14:04:52+01:00</lastconfirm>
+      <lastuse>2024-12-03T16:12:48+01:00</lastuse>
+      <lastconfirm>2024-12-03T14:12:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -70,6 +118,30 @@
       <create>2024-12-02T15:33:45+01:00</create>
       <lastuse>2024-12-03T22:00:04+01:00</lastuse>
       <lastconfirm>2024-12-03T14:00:04+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>14973275270</id>
+    <type>7</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Hermann-Löns-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+    <point>
+      <latitude>48.357597</latitude>
+      <longitude>10.986580</longitude>
+    </point>
+    </location>
+    <date>
+      <create>2024-12-03T10:25:23+01:00</create>
+      <lastuse>2024-12-03T22:11:56+01:00</lastuse>
+      <lastconfirm>2024-12-03T14:11:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +236,8 @@
     </location>
     <date>
       <create>2024-10-21T12:45:57+02:00</create>
-      <lastuse>2024-12-05T14:08:40+01:00</lastuse>
-      <lastconfirm>2024-12-03T14:08:40+01:00</lastconfirm>
+      <lastuse>2024-12-05T14:10:08+01:00</lastuse>
+      <lastconfirm>2024-12-03T14:10:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +356,8 @@
     </location>
     <date>
       <create>2024-11-14T06:25:16+01:00</create>
-      <lastuse>2024-12-05T14:06:36+01:00</lastuse>
-      <lastconfirm>2024-12-03T14:06:36+01:00</lastconfirm>
+      <lastuse>2024-12-05T06:12:26+01:00</lastuse>
+      <lastconfirm>2024-11-14T06:25:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
