@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>14974914894</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86868</zip>
+      <city>Mittelneufnach</city>
+      <state>DE-BY</state>
+      <street>St 2027</street>
+      <country>DE</country>
+    </address>
+    <location>
+    <point>
+      <latitude>48.173233</latitude>
+      <longitude>10.624506</longitude>
+    </point>
+    </location>
+    <date>
+      <create>2024-12-03T16:09:20+01:00</create>
+      <lastuse>2024-12-03T18:34:26+01:00</lastuse>
+      <lastconfirm>2024-12-03T16:34:27+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>14973325235</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2024-12-03T10:35:39+01:00</create>
-      <lastuse>2024-12-03T18:13:17+01:00</lastuse>
+      <lastuse>2024-12-03T17:43:17+01:00</lastuse>
       <lastconfirm>2024-12-03T16:13:17+01:00</lastconfirm>
     </date>
   </event>
@@ -70,6 +94,54 @@
       <create>2024-12-03T10:25:23+01:00</create>
       <lastuse>2024-12-10T14:30:17+01:00</lastuse>
       <lastconfirm>2024-12-03T14:23:29+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>14975010222</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+    <point>
+      <latitude>48.331950</latitude>
+      <longitude>10.887106</longitude>
+    </point>
+    </location>
+    <date>
+      <create>2024-12-03T16:26:27+01:00</create>
+      <lastuse>2024-12-03T17:34:37+01:00</lastuse>
+      <lastconfirm>2024-12-03T16:34:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>14973718736</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Untermeitingen</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+    <point>
+      <latitude>48.168521</latitude>
+      <longitude>10.837610</longitude>
+    </point>
+    </location>
+    <date>
+      <create>2024-12-03T11:57:02+01:00</create>
+      <lastuse>2024-12-05T16:34:14+01:00</lastuse>
+      <lastconfirm>2024-12-03T16:34:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +236,8 @@
     </location>
     <date>
       <create>2024-09-12T18:07:30+02:00</create>
-      <lastuse>2024-12-05T16:10:11+01:00</lastuse>
-      <lastconfirm>2024-12-03T16:10:11+01:00</lastconfirm>
+      <lastuse>2024-12-05T16:32:45+01:00</lastuse>
+      <lastconfirm>2024-12-03T16:32:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,7 +428,7 @@
     </location>
     <date>
       <create>2024-09-19T14:19:44+02:00</create>
-      <lastuse>2024-12-05T06:33:44+01:00</lastuse>
+      <lastuse>2024-12-04T22:33:44+01:00</lastuse>
       <lastconfirm>2024-09-19T14:19:44+02:00</lastconfirm>
     </date>
   </event>
@@ -404,8 +476,8 @@
     </location>
     <date>
       <create>2024-11-16T10:47:46+01:00</create>
-      <lastuse>2024-12-05T14:47:28+01:00</lastuse>
-      <lastconfirm>2024-12-03T14:47:28+01:00</lastconfirm>
+      <lastuse>2024-12-05T16:30:02+01:00</lastuse>
+      <lastconfirm>2024-12-03T16:30:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
