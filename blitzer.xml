@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>14977065977</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Riedingerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+    <point>
+      <latitude>48.384178</latitude>
+      <longitude>10.889045</longitude>
+    </point>
+    </location>
+    <date>
+      <create>2024-12-04T00:12:35+01:00</create>
+      <lastuse>2024-12-04T04:05:55+01:00</lastuse>
+      <lastconfirm>2024-12-04T02:05:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>14968381598</id>
     <type>7</type>
     <speed>70</speed>
