@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>14980791403</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+    <point>
+      <latitude>48.227550</latitude>
+      <longitude>10.866763</longitude>
+    </point>
+    </location>
+    <date>
+      <create>2024-12-04T15:25:23+01:00</create>
+      <lastuse>2024-12-04T17:30:59+01:00</lastuse>
+      <lastconfirm>2024-12-04T15:30:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>14980223852</id>
     <type>2</type>
     <speed></speed>
@@ -118,30 +142,6 @@
       <create>2024-12-03T10:25:23+01:00</create>
       <lastuse>2024-12-04T23:10:24+01:00</lastuse>
       <lastconfirm>2024-12-04T15:10:25+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>14980451355</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-    <point>
-      <latitude>48.419969</latitude>
-      <longitude>10.790811</longitude>
-    </point>
-    </location>
-    <date>
-      <create>2024-12-04T14:15:48+01:00</create>
-      <lastuse>2024-12-04T17:23:34+01:00</lastuse>
-      <lastconfirm>2024-12-04T15:23:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2024-11-26T15:57:23+01:00</create>
-      <lastuse>2024-12-06T15:24:46+01:00</lastuse>
-      <lastconfirm>2024-12-04T15:24:47+01:00</lastconfirm>
+      <lastuse>2024-12-06T15:29:32+01:00</lastuse>
+      <lastconfirm>2024-12-04T15:29:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2024-09-26T14:59:46+02:00</create>
-      <lastuse>2024-12-06T12:49:44+01:00</lastuse>
-      <lastconfirm>2024-12-04T12:49:44+01:00</lastconfirm>
+      <lastuse>2024-12-06T15:25:07+01:00</lastuse>
+      <lastconfirm>2024-12-04T15:25:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +596,8 @@
     </location>
     <date>
       <create>2024-08-30T13:20:03+02:00</create>
-      <lastuse>2024-12-06T14:44:05+01:00</lastuse>
-      <lastconfirm>2024-12-04T14:44:05+01:00</lastconfirm>
+      <lastuse>2024-12-06T15:29:41+01:00</lastuse>
+      <lastconfirm>2024-12-04T15:29:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
