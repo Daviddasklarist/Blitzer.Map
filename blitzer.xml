@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>14986839325</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Lechstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.270734</latitude>
-        <longitude>10.901250</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-05T14:56:08+01:00</create>
-      <lastuse>2024-12-05T21:11:43+01:00</lastuse>
-      <lastconfirm>2024-12-05T20:41:43+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>14968381598</id>
     <type>7</type>
     <speed>70</speed>
@@ -310,6 +286,30 @@
       <create>2024-10-04T10:46:26+02:00</create>
       <lastuse>2024-12-07T11:12:17+01:00</lastuse>
       <lastconfirm>2024-12-05T11:12:18+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>14988535444</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.363618</latitude>
+        <longitude>10.853425</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-05T20:42:51+01:00</create>
+      <lastuse>2024-12-07T21:13:36+01:00</lastuse>
+      <lastconfirm>2024-12-05T21:13:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
