@@ -52,7 +52,7 @@
     <id>15103104337</id>
     <type>1</type>
     <speed>100</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86551</zip>
       <city>Aichach</city>
@@ -69,7 +69,7 @@
     <date>
       <create>2024-12-06T23:47:29+01:00</create>
       <lastuse>2024-12-07T02:47:29+01:00</lastuse>
-      <lastconfirm>2024-12-07T00:08:11+01:00</lastconfirm>
+      <lastconfirm>2024-12-07T00:15:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -436,7 +436,7 @@
     <id>14867690172</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2024-11-16T10:47:46+01:00</create>
-      <lastuse>2024-12-08T23:54:11+01:00</lastuse>
-      <lastconfirm>2024-12-06T23:54:11+01:00</lastconfirm>
+      <lastuse>2024-12-09T00:15:23+01:00</lastuse>
+      <lastconfirm>2024-12-07T00:15:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -526,6 +526,30 @@
       <create>2024-10-29T07:25:24+01:00</create>
       <lastuse>2024-12-08T20:59:24+01:00</lastuse>
       <lastconfirm>2024-12-06T20:59:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>14355299416</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Holzweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.391450</latitude>
+        <longitude>10.857411</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-08-30T13:20:03+02:00</create>
+      <lastuse>2024-12-09T00:19:36+01:00</lastuse>
+      <lastconfirm>2024-12-07T00:19:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
