@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>14990928198</id>
+    <type>1</type>
+    <speed>40</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86514</zip>
+      <city>Ustersbach</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.317087</latitude>
+        <longitude>10.645061</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-06T07:39:16+01:00</create>
+      <lastuse>2024-12-06T10:10:00+01:00</lastuse>
+      <lastconfirm>2024-12-06T08:10:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>14990590363</id>
     <type>1</type>
     <speed>30</speed>
@@ -46,6 +70,30 @@
       <create>2024-12-06T07:15:40+01:00</create>
       <lastuse>2024-12-06T10:04:32+01:00</lastuse>
       <lastconfirm>2024-12-06T08:04:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>14990795798</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Karlsruher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403926</latitude>
+        <longitude>10.862818</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-06T07:04:04+01:00</create>
+      <lastuse>2024-12-06T10:08:50+01:00</lastuse>
+      <lastconfirm>2024-12-06T08:08:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +236,8 @@
     </location>
     <date>
       <create>2024-09-30T12:37:25+02:00</create>
-      <lastuse>2024-12-08T07:08:39+01:00</lastuse>
-      <lastconfirm>2024-12-06T07:08:40+01:00</lastconfirm>
+      <lastuse>2024-12-08T08:05:40+01:00</lastuse>
+      <lastconfirm>2024-12-06T08:05:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +476,8 @@
     </location>
     <date>
       <create>2024-10-18T17:29:00+02:00</create>
-      <lastuse>2024-12-08T07:06:57+01:00</lastuse>
-      <lastconfirm>2024-12-06T07:06:57+01:00</lastconfirm>
+      <lastuse>2024-12-08T08:08:57+01:00</lastuse>
+      <lastconfirm>2024-12-06T08:08:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
