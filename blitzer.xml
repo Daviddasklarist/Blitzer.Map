@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15102308484</id>
+    <type>1</type>
+    <speed>130</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.269136</latitude>
+        <longitude>10.867308</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-06T20:28:34+01:00</create>
+      <lastuse>2024-12-06T22:18:00+01:00</lastuse>
+      <lastconfirm>2024-12-06T20:48:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15100607005</id>
     <type>1</type>
     <speed>30</speed>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2024-12-06T19:31:39+01:00</create>
-      <lastuse>2024-12-06T22:42:51+01:00</lastuse>
-      <lastconfirm>2024-12-06T20:42:52+01:00</lastconfirm>
+      <lastuse>2024-12-06T22:46:45+01:00</lastuse>
+      <lastconfirm>2024-12-06T20:46:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
