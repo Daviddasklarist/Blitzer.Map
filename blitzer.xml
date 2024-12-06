@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15102308484</id>
+    <type>1</type>
+    <speed>130</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.269136</latitude>
+        <longitude>10.867308</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-06T20:28:34+01:00</create>
+      <lastuse>2024-12-06T23:16:22+01:00</lastuse>
+      <lastconfirm>2024-12-06T21:16:23+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15102328464</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86459</zip>
+      <city>Gessertshausen</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.325898</latitude>
+        <longitude>10.701665</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-06T20:33:01+01:00</create>
+      <lastuse>2024-12-06T23:33:01+01:00</lastuse>
+      <lastconfirm>2024-12-06T21:18:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15100607005</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +140,8 @@
     </location>
     <date>
       <create>2024-12-02T15:33:45+01:00</create>
-      <lastuse>2024-12-07T05:10:44+01:00</lastuse>
-      <lastconfirm>2024-12-06T21:10:45+01:00</lastconfirm>
+      <lastuse>2024-12-07T05:18:35+01:00</lastuse>
+      <lastconfirm>2024-12-06T21:18:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +188,8 @@
     </location>
     <date>
       <create>2024-12-06T19:31:39+01:00</create>
-      <lastuse>2024-12-06T22:57:33+01:00</lastuse>
-      <lastconfirm>2024-12-06T20:57:34+01:00</lastconfirm>
+      <lastuse>2024-12-06T23:17:07+01:00</lastuse>
+      <lastconfirm>2024-12-06T21:17:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +500,8 @@
     </location>
     <date>
       <create>2024-10-18T17:29:00+02:00</create>
-      <lastuse>2024-12-07T19:20:43+01:00</lastuse>
-      <lastconfirm>2024-10-18T17:29:00+02:00</lastconfirm>
+      <lastuse>2024-12-08T21:15:20+01:00</lastuse>
+      <lastconfirm>2024-12-06T21:15:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
