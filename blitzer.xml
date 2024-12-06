@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15102328464</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86459</zip>
-      <city>Gessertshausen</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.325898</latitude>
-        <longitude>10.701665</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-06T20:33:01+01:00</create>
-      <lastuse>2024-12-06T23:33:01+01:00</lastuse>
-      <lastconfirm>2024-12-06T21:47:46+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15101637547</id>
     <type>1</type>
     <speed>20</speed>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-02T15:33:45+01:00</create>
-      <lastuse>2024-12-07T06:38:30+01:00</lastuse>
-      <lastconfirm>2024-12-06T22:38:30+01:00</lastconfirm>
+      <lastuse>2024-12-07T06:59:13+01:00</lastuse>
+      <lastconfirm>2024-12-06T22:59:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -454,30 +430,6 @@
       <create>2024-10-18T17:29:00+02:00</create>
       <lastuse>2024-12-08T21:15:20+01:00</lastuse>
       <lastconfirm>2024-12-06T21:15:21+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>14867690172</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Lechhauser Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.375302</latitude>
-        <longitude>10.912695</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-11-16T10:47:46+01:00</create>
-      <lastuse>2024-12-08T22:45:00+01:00</lastuse>
-      <lastconfirm>2024-12-06T22:45:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
