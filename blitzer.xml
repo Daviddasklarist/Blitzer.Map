@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15102328464</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86459</zip>
+      <city>Gessertshausen</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.325898</latitude>
+        <longitude>10.701665</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-06T20:33:01+01:00</create>
+      <lastuse>2024-12-07T01:31:05+01:00</lastuse>
+      <lastconfirm>2024-12-06T23:31:05+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15101637547</id>
     <type>1</type>
     <speed>20</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-06T22:55:49+01:00</create>
-      <lastuse>2024-12-07T01:29:43+01:00</lastuse>
-      <lastconfirm>2024-12-06T23:29:43+01:00</lastconfirm>
+      <lastuse>2024-12-07T01:34:36+01:00</lastuse>
+      <lastconfirm>2024-12-06T23:34:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2024-09-12T18:07:30+02:00</create>
-      <lastuse>2024-12-08T22:32:51+01:00</lastuse>
-      <lastconfirm>2024-12-06T22:32:52+01:00</lastconfirm>
+      <lastuse>2024-12-08T23:34:41+01:00</lastuse>
+      <lastconfirm>2024-12-06T23:34:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
