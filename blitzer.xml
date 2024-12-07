@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15105687225</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370545</latitude>
+        <longitude>10.804969</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-07T11:32:37+01:00</create>
+      <lastuse>2024-12-07T15:43:18+01:00</lastuse>
+      <lastconfirm>2024-12-07T13:43:20+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15105369031</id>
     <type>1</type>
     <speed>70</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-07T10:13:55+01:00</create>
-      <lastuse>2024-12-07T15:39:25+01:00</lastuse>
-      <lastconfirm>2024-12-07T13:39:26+01:00</lastconfirm>
+      <lastuse>2024-12-07T15:41:40+01:00</lastuse>
+      <lastconfirm>2024-12-07T13:41:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-07T10:54:33+01:00</create>
-      <lastuse>2024-12-07T15:39:51+01:00</lastuse>
-      <lastconfirm>2024-12-07T13:39:51+01:00</lastconfirm>
+      <lastuse>2024-12-07T15:45:08+01:00</lastuse>
+      <lastconfirm>2024-12-07T13:45:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,7 +121,7 @@
     </date>
   </event>
   <event>
-    <id>15106194289</id>
+    <id>15106250259</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -110,14 +134,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.414745</latitude>
-        <longitude>10.866142</longitude>
+        <latitude>48.414560</latitude>
+        <longitude>10.870978</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-07T13:33:01+01:00</create>
-      <lastuse>2024-12-07T13:45:00+01:00</lastuse>
-      <lastconfirm>2024-12-07T13:33:01+01:00</lastconfirm>
+      <create>2024-12-07T13:45:02+01:00</create>
+      <lastuse>2024-12-07T13:50:00+01:00</lastuse>
+      <lastconfirm>2024-12-07T13:45:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
