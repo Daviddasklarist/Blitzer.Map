@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15110871675</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Kleinaitingen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.221425</latitude>
+        <longitude>10.864399</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-08T09:48:28+01:00</create>
+      <lastuse>2024-12-08T12:19:02+01:00</lastuse>
+      <lastconfirm>2024-12-08T11:49:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15110833318</id>
     <type>1</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-08T09:37:47+01:00</create>
-      <lastuse>2024-12-08T13:54:11+01:00</lastuse>
-      <lastconfirm>2024-12-08T11:54:12+01:00</lastconfirm>
+      <lastuse>2024-12-08T13:58:58+01:00</lastuse>
+      <lastconfirm>2024-12-08T11:59:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,56 +68,8 @@
     </location>
     <date>
       <create>2024-12-08T09:44:53+01:00</create>
-      <lastuse>2024-12-08T13:54:53+01:00</lastuse>
-      <lastconfirm>2024-12-08T11:54:53+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15110865750</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417145</latitude>
-        <longitude>10.837392</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-08T09:46:01+01:00</create>
-      <lastuse>2024-12-08T13:46:01+01:00</lastuse>
-      <lastconfirm>2024-12-08T11:52:19+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15110871675</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86507</zip>
-      <city>Kleinaitingen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.221425</latitude>
-        <longitude>10.864399</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-08T09:48:28+01:00</create>
-      <lastuse>2024-12-08T12:49:02+01:00</lastuse>
-      <lastconfirm>2024-12-08T11:49:03+01:00</lastconfirm>
+      <lastuse>2024-12-08T13:55:16+01:00</lastuse>
+      <lastconfirm>2024-12-08T11:55:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +92,32 @@
     </location>
     <date>
       <create>2024-12-08T10:15:40+01:00</create>
-      <lastuse>2024-12-08T13:53:32+01:00</lastuse>
-      <lastconfirm>2024-12-08T11:53:33+01:00</lastconfirm>
+      <lastuse>2024-12-08T13:59:22+01:00</lastuse>
+      <lastconfirm>2024-12-08T11:59:23+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15110865750</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417145</latitude>
+        <longitude>10.837392</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-08T09:46:01+01:00</create>
+      <lastuse>2024-12-08T13:46:01+01:00</lastuse>
+      <lastconfirm>2024-12-08T11:58:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2024-12-02T15:33:45+01:00</create>
-      <lastuse>2024-12-08T19:35:34+01:00</lastuse>
-      <lastconfirm>2024-12-08T11:35:34+01:00</lastconfirm>
+      <lastuse>2024-12-08T19:58:56+01:00</lastuse>
+      <lastconfirm>2024-12-08T11:58:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
