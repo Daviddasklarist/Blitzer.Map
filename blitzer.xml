@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15117156689</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86459</zip>
-      <city>Gessertshausen</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.324539</latitude>
-        <longitude>10.696976</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-09T12:09:32+01:00</create>
-      <lastuse>2024-12-09T19:25:21+01:00</lastuse>
-      <lastconfirm>2024-12-09T18:25:22+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15118887698</id>
     <type>1</type>
     <speed>70</speed>
@@ -46,54 +22,6 @@
       <create>2024-12-09T18:16:09+01:00</create>
       <lastuse>2024-12-09T22:16:09+01:00</lastuse>
       <lastconfirm>2024-12-09T19:22:19+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15117802557</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Mühlhauser Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.402909</latitude>
-        <longitude>10.920335</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-09T14:27:39+01:00</create>
-      <lastuse>2024-12-09T19:46:59+01:00</lastuse>
-      <lastconfirm>2024-12-09T19:16:59+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15116918818</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.415270</latitude>
-        <longitude>10.861228</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-09T11:17:12+01:00</create>
-      <lastuse>2024-12-09T21:23:26+01:00</lastuse>
-      <lastconfirm>2024-12-09T19:23:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
