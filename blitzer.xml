@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15118887698</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Mühlhauser Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.398437</latitude>
-        <longitude>10.920793</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-09T18:16:09+01:00</create>
-      <lastuse>2024-12-09T22:16:09+01:00</lastuse>
-      <lastconfirm>2024-12-09T20:13:46+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15119370020</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86167</zip>
       <city>Augsburg</city>
@@ -45,7 +21,7 @@
     <date>
       <create>2024-12-09T20:09:50+01:00</create>
       <lastuse>2024-12-10T00:09:50+01:00</lastuse>
-      <lastconfirm>2024-12-09T20:18:31+01:00</lastconfirm>
+      <lastconfirm>2024-12-09T20:22:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
