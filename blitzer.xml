@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15123784444</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86415</zip>
-      <city>Mering</city>
-      <state>DE-BY</state>
-      <street>Münchener Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.257778</latitude>
-        <longitude>10.985315</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-10T14:35:23+01:00</create>
-      <lastuse>2024-12-17T17:52:48+01:00</lastuse>
-      <lastconfirm>2024-12-10T17:49:33+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15123465875</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2024-12-10T13:26:31+01:00</create>
-      <lastuse>2024-12-10T21:49:00+01:00</lastuse>
-      <lastconfirm>2024-12-10T20:04:01+01:00</lastconfirm>
+      <lastuse>2024-12-10T21:54:32+01:00</lastuse>
+      <lastconfirm>2024-12-10T20:09:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-10T17:51:57+01:00</create>
-      <lastuse>2024-12-10T22:03:08+01:00</lastuse>
-      <lastconfirm>2024-12-10T20:03:09+01:00</lastconfirm>
+      <lastuse>2024-12-10T22:06:08+01:00</lastuse>
+      <lastconfirm>2024-12-10T20:06:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
