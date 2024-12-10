@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15123784444</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86415</zip>
+      <city>Mering</city>
+      <state>DE-BY</state>
+      <street>Münchener Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.257778</latitude>
+        <longitude>10.985315</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-10T14:35:23+01:00</create>
+      <lastuse>2024-12-10T17:28:24+01:00</lastuse>
+      <lastconfirm>2024-12-10T15:28:24+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15123195785</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,32 +44,8 @@
     </location>
     <date>
       <create>2024-12-10T12:28:21+01:00</create>
-      <lastuse>2024-12-10T17:17:08+01:00</lastuse>
+      <lastuse>2024-12-10T16:47:08+01:00</lastuse>
       <lastconfirm>2024-12-10T15:17:09+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15123560616</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Friedberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.355187</latitude>
-        <longitude>10.922820</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-10T13:47:19+01:00</create>
-      <lastuse>2024-12-10T16:47:19+01:00</lastuse>
-      <lastconfirm>2024-12-10T14:47:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -141,7 +141,7 @@
     <date>
       <create>2024-12-10T13:26:31+01:00</create>
       <lastuse>2024-12-10T17:26:31+01:00</lastuse>
-      <lastconfirm>2024-12-10T15:24:37+01:00</lastconfirm>
+      <lastconfirm>2024-12-10T15:30:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,30 +193,6 @@
     </date>
   </event>
   <event>
-    <id>15123864554</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417555</latitude>
-        <longitude>10.834402</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-10T14:54:22+01:00</create>
-      <lastuse>2024-12-10T15:30:23+01:00</lastuse>
-      <lastconfirm>2024-12-10T15:15:24+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15122482114</id>
     <type>22</type>
     <speed></speed>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2024-12-10T09:54:50+01:00</create>
-      <lastuse>2024-12-10T23:15:39+01:00</lastuse>
-      <lastconfirm>2024-12-10T15:15:39+01:00</lastconfirm>
+      <lastuse>2024-12-10T23:25:36+01:00</lastuse>
+      <lastconfirm>2024-12-10T15:25:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +308,8 @@
     </location>
     <date>
       <create>2024-11-14T06:25:16+01:00</create>
-      <lastuse>2024-12-12T06:21:42+01:00</lastuse>
-      <lastconfirm>2024-11-14T06:25:16+01:00</lastconfirm>
+      <lastuse>2024-12-12T15:28:10+01:00</lastuse>
+      <lastconfirm>2024-12-10T15:28:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +332,8 @@
     </location>
     <date>
       <create>2024-11-26T15:57:23+01:00</create>
-      <lastuse>2024-12-12T15:19:33+01:00</lastuse>
-      <lastconfirm>2024-12-10T15:19:34+01:00</lastconfirm>
+      <lastuse>2024-12-12T15:25:50+01:00</lastuse>
+      <lastconfirm>2024-12-10T15:25:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2024-12-05T07:51:53+01:00</create>
-      <lastuse>2024-12-10T16:05:14+01:00</lastuse>
-      <lastconfirm>2024-12-10T07:25:02+01:00</lastconfirm>
+      <lastuse>2024-12-11T00:05:14+01:00</lastuse>
+      <lastconfirm>2024-12-10T15:25:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2024-09-19T14:19:44+02:00</create>
-      <lastuse>2024-12-12T15:18:21+01:00</lastuse>
-      <lastconfirm>2024-12-10T15:18:22+01:00</lastconfirm>
+      <lastuse>2024-12-12T15:25:49+01:00</lastuse>
+      <lastconfirm>2024-12-10T15:25:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
