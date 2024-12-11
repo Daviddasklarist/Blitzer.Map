@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15131510961</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Stuttgarter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.403968</latitude>
-        <longitude>10.870340</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-11T20:37:14+01:00</create>
-      <lastuse>2024-12-12T00:30:21+01:00</lastuse>
-      <lastconfirm>2024-12-11T22:30:21+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15121357997</id>
     <type>7</type>
     <speed>50</speed>
@@ -70,30 +46,6 @@
       <create>2024-12-11T12:51:15+01:00</create>
       <lastuse>2024-12-12T07:08:54+01:00</lastuse>
       <lastconfirm>2024-12-11T23:08:54+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15131827454</id>
-    <type>7</type>
-    <speed>10</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>Stuttgarter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.404818</latitude>
-        <longitude>10.869205</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-11T21:56:22+01:00</create>
-      <lastuse>2024-12-12T05:06:38+01:00</lastuse>
-      <lastconfirm>2024-12-11T22:06:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -412,7 +364,7 @@
     <id>14355299416</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -428,8 +380,8 @@
     </location>
     <date>
       <create>2024-08-30T13:20:03+02:00</create>
-      <lastuse>2024-12-13T21:36:31+01:00</lastuse>
-      <lastconfirm>2024-12-11T21:36:34+01:00</lastconfirm>
+      <lastuse>2024-12-13T13:36:31+01:00</lastuse>
+      <lastconfirm>2024-08-30T13:20:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
