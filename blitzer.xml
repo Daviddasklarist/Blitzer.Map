@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15129212875</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Lechhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.375402</latitude>
+        <longitude>10.912647</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-11T12:24:09+01:00</create>
+      <lastuse>2024-12-11T14:33:36+01:00</lastuse>
+      <lastconfirm>2024-12-11T12:33:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15129001440</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-11T08:32:52+01:00</create>
-      <lastuse>2024-12-11T14:21:01+01:00</lastuse>
-      <lastconfirm>2024-12-11T12:21:02+01:00</lastconfirm>
+      <lastuse>2024-12-11T14:31:13+01:00</lastuse>
+      <lastconfirm>2024-12-11T12:31:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
