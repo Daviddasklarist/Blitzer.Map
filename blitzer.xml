@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15129950346</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Maximilianstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.364500</latitude>
+        <longitude>10.899755</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-11T15:03:31+01:00</create>
+      <lastuse>2024-12-11T18:26:38+01:00</lastuse>
+      <lastconfirm>2024-12-11T16:26:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15129412915</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-11T13:47:23+01:00</create>
-      <lastuse>2024-12-11T18:24:00+01:00</lastuse>
-      <lastconfirm>2024-12-11T16:24:02+01:00</lastconfirm>
+      <lastuse>2024-12-11T17:59:44+01:00</lastuse>
+      <lastconfirm>2024-12-11T16:29:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2024-12-10T05:29:04+01:00</create>
-      <lastuse>2024-12-12T00:14:41+01:00</lastuse>
-      <lastconfirm>2024-12-11T16:14:43+01:00</lastconfirm>
+      <lastuse>2024-12-12T00:27:58+01:00</lastuse>
+      <lastconfirm>2024-12-11T16:27:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-12T00:22:28+01:00</lastuse>
-      <lastconfirm>2024-12-11T16:22:28+01:00</lastconfirm>
+      <lastuse>2024-12-12T00:29:02+01:00</lastuse>
+      <lastconfirm>2024-12-11T16:29:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
