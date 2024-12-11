@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15131510961</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Stuttgarter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403968</latitude>
+        <longitude>10.870340</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-11T20:37:14+01:00</create>
+      <lastuse>2024-12-12T00:30:21+01:00</lastuse>
+      <lastconfirm>2024-12-11T22:30:21+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15131495605</id>
     <type>1</type>
     <speed>120</speed>
@@ -21,7 +45,7 @@
     <date>
       <create>2024-12-11T20:34:17+01:00</create>
       <lastuse>2024-12-12T00:34:17+01:00</lastuse>
-      <lastconfirm>2024-12-11T22:20:37+01:00</lastconfirm>
+      <lastconfirm>2024-12-11T22:31:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2024-11-14T06:25:16+01:00</create>
-      <lastuse>2024-12-13T22:09:26+01:00</lastuse>
-      <lastconfirm>2024-12-11T22:09:27+01:00</lastconfirm>
+      <lastuse>2024-12-13T22:34:31+01:00</lastuse>
+      <lastconfirm>2024-12-11T22:34:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -460,7 +484,7 @@
     <id>15131598720</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Friedberg</city>
@@ -476,7 +500,7 @@
     </location>
     <date>
       <create>2024-12-11T20:58:48+01:00</create>
-      <lastuse>2024-12-12T01:46:31+01:00</lastuse>
+      <lastuse>2024-12-11T23:46:31+01:00</lastuse>
       <lastconfirm>2024-12-11T20:58:48+01:00</lastconfirm>
     </date>
   </event>
