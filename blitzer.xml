@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15127707498</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Römerallee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.264726</latitude>
+        <longitude>10.881277</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-11T06:49:04+01:00</create>
+      <lastuse>2024-12-11T10:32:26+01:00</lastuse>
+      <lastconfirm>2024-12-11T08:32:27+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15128008391</id>
     <type>6</type>
     <speed></speed>
@@ -25,10 +49,34 @@
     </date>
   </event>
   <event>
+    <id>15128116869</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86163</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Zugspitzstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.359318</latitude>
+        <longitude>10.941205</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-11T08:25:41+01:00</create>
+      <lastuse>2024-12-11T10:30:48+01:00</lastuse>
+      <lastconfirm>2024-12-11T08:30:48+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15127840308</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -44,7 +92,7 @@
     </location>
     <date>
       <create>2024-12-11T07:23:06+01:00</create>
-      <lastuse>2024-12-11T09:52:17+01:00</lastuse>
+      <lastuse>2024-12-11T09:23:06+01:00</lastuse>
       <lastconfirm>2024-12-11T08:22:18+01:00</lastconfirm>
     </date>
   </event>
@@ -124,7 +172,7 @@
     <id>15128053108</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -140,8 +188,8 @@
     </location>
     <date>
       <create>2024-12-11T08:11:30+01:00</create>
-      <lastuse>2024-12-11T09:27:55+01:00</lastuse>
-      <lastconfirm>2024-12-11T08:27:56+01:00</lastconfirm>
+      <lastuse>2024-12-11T09:30:59+01:00</lastuse>
+      <lastconfirm>2024-12-11T08:31:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
