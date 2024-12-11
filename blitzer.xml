@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15130749334</id>
-    <type>2</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>Henleinstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.440861</latitude>
-        <longitude>10.874788</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-11T17:45:04+01:00</create>
-      <lastuse>2024-12-11T20:05:19+01:00</lastuse>
-      <lastconfirm>2024-12-11T19:05:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15131223283</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.456547</latitude>
-        <longitude>10.877105</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-11T19:29:23+01:00</create>
-      <lastuse>2024-12-11T23:29:23+01:00</lastuse>
-      <lastconfirm>2024-12-11T20:04:28+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15121357997</id>
     <type>7</type>
     <speed>50</speed>
@@ -140,8 +92,8 @@
     </location>
     <date>
       <create>2024-09-12T18:07:30+02:00</create>
-      <lastuse>2024-12-13T18:09:21+01:00</lastuse>
-      <lastconfirm>2024-12-11T18:09:22+01:00</lastconfirm>
+      <lastuse>2024-12-13T10:09:21+01:00</lastuse>
+      <lastconfirm>2024-09-12T18:07:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
