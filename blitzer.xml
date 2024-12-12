@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15136583214</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86424</zip>
+      <city>Dinkelscherben</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.304909</latitude>
+        <longitude>10.597844</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-12T17:00:51+01:00</create>
+      <lastuse>2024-12-12T19:47:27+01:00</lastuse>
+      <lastconfirm>2024-12-12T17:47:27+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15136196975</id>
     <type>1</type>
     <speed>100</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-12T15:45:32+01:00</create>
-      <lastuse>2024-12-12T18:34:51+01:00</lastuse>
-      <lastconfirm>2024-12-12T17:04:51+01:00</lastconfirm>
+      <lastuse>2024-12-12T19:46:51+01:00</lastuse>
+      <lastconfirm>2024-12-12T17:46:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2024-12-12T17:12:03+01:00</create>
-      <lastuse>2024-12-12T18:59:31+01:00</lastuse>
+      <lastuse>2024-12-12T18:29:31+01:00</lastuse>
       <lastconfirm>2024-12-12T17:29:31+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-13T01:44:53+01:00</lastuse>
-      <lastconfirm>2024-12-12T17:44:55+01:00</lastconfirm>
+      <lastuse>2024-12-13T01:49:29+01:00</lastuse>
+      <lastconfirm>2024-12-12T17:49:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,6 +169,30 @@
     </date>
   </event>
   <event>
+    <id>15136749205</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410274</latitude>
+        <longitude>10.918161</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-12T17:33:09+01:00</create>
+      <lastuse>2024-12-12T18:17:40+01:00</lastuse>
+      <lastconfirm>2024-12-12T17:47:41+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15136238005</id>
     <type>20</type>
     <speed></speed>
@@ -164,8 +212,8 @@
     </location>
     <date>
       <create>2024-12-12T15:54:48+01:00</create>
-      <lastuse>2024-12-12T18:45:05+01:00</lastuse>
-      <lastconfirm>2024-12-12T17:45:05+01:00</lastconfirm>
+      <lastuse>2024-12-12T18:46:58+01:00</lastuse>
+      <lastconfirm>2024-12-12T17:46:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -199,20 +247,20 @@
     <quality>3</quality>
     <address>
       <zip>86316</zip>
-      <city>Friedberg</city>
+      <city>Landkreis Aichach-Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.401497</latitude>
-        <longitude>10.988164</longitude>
+        <latitude>48.401392</latitude>
+        <longitude>10.989748</longitude>
       </point>
     </location>
     <date>
       <create>2024-12-12T17:05:02+01:00</create>
-      <lastuse>2024-12-12T17:50:00+01:00</lastuse>
+      <lastuse>2024-12-12T17:54:00+01:00</lastuse>
       <lastconfirm>2024-12-12T17:05:02+01:00</lastconfirm>
     </date>
   </event>
@@ -500,8 +548,8 @@
     </location>
     <date>
       <create>2024-09-19T14:19:44+02:00</create>
-      <lastuse>2024-12-14T16:52:30+01:00</lastuse>
-      <lastconfirm>2024-12-12T16:52:30+01:00</lastconfirm>
+      <lastuse>2024-12-14T17:46:05+01:00</lastuse>
+      <lastconfirm>2024-12-12T17:46:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +572,8 @@
     </location>
     <date>
       <create>2024-10-07T08:31:25+02:00</create>
-      <lastuse>2024-12-14T15:46:18+01:00</lastuse>
-      <lastconfirm>2024-12-12T15:46:19+01:00</lastconfirm>
+      <lastuse>2024-12-14T17:45:41+01:00</lastuse>
+      <lastconfirm>2024-12-12T17:45:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
