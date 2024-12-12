@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15134982667</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86637</zip>
-      <city>Wertingen</city>
-      <state>DE-BY</state>
-      <street>St 2033</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.539960</latitude>
-        <longitude>10.736991</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-12T11:27:52+01:00</create>
-      <lastuse>2024-12-19T16:38:26+01:00</lastuse>
-      <lastconfirm>2024-12-12T16:34:12+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15121357997</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-12T23:31:41+01:00</lastuse>
-      <lastconfirm>2024-12-12T16:31:41+01:00</lastconfirm>
+      <lastuse>2024-12-13T00:43:46+01:00</lastuse>
+      <lastconfirm>2024-12-12T16:43:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -217,6 +193,30 @@
     </date>
   </event>
   <event>
+    <id>15136505735</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413612</latitude>
+        <longitude>10.897131</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-12T16:45:02+01:00</create>
+      <lastuse>2024-12-12T16:50:00+01:00</lastuse>
+      <lastconfirm>2024-12-12T16:45:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15136427873</id>
     <type>20</type>
     <speed></speed>
@@ -238,6 +238,30 @@
       <create>2024-12-12T16:30:41+01:00</create>
       <lastuse>2024-12-12T17:39:56+01:00</lastuse>
       <lastconfirm>2024-12-12T16:39:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15136453740</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.432013</latitude>
+        <longitude>10.867820</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-12T16:35:27+01:00</create>
+      <lastuse>2024-12-12T17:44:31+01:00</lastuse>
+      <lastconfirm>2024-12-12T16:44:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +620,8 @@
     </location>
     <date>
       <create>2024-12-02T08:45:08+01:00</create>
-      <lastuse>2024-12-14T14:15:59+01:00</lastuse>
-      <lastconfirm>2024-12-12T14:16:00+01:00</lastconfirm>
+      <lastuse>2024-12-14T06:15:59+01:00</lastuse>
+      <lastconfirm>2024-12-02T08:45:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
