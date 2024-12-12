@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15133790184</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedrich-Ebert-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337677</latitude>
+        <longitude>10.877963</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-12T07:05:50+01:00</create>
+      <lastuse>2024-12-12T09:36:10+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:36:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15133813764</id>
     <type>1</type>
     <speed>30</speed>
@@ -52,7 +76,7 @@
     <id>15133735657</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -69,7 +93,7 @@
     <date>
       <create>2024-12-12T06:51:11+01:00</create>
       <lastuse>2024-12-12T10:51:11+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:34:56+01:00</lastconfirm>
+      <lastconfirm>2024-12-12T07:39:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +124,7 @@
     <id>15129345252</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86179</zip>
       <city>Augsburg</city>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-12T13:22:48+01:00</lastuse>
+      <lastuse>2024-12-12T12:22:48+01:00</lastuse>
       <lastconfirm>2024-12-12T07:22:51+01:00</lastconfirm>
     </date>
   </event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2024-12-12T07:23:14+01:00</create>
-      <lastuse>2024-12-12T08:02:30+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:32:30+01:00</lastconfirm>
+      <lastuse>2024-12-12T08:10:51+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:40:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2024-12-12T07:07:17+01:00</create>
-      <lastuse>2024-12-12T08:29:57+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:29:58+01:00</lastconfirm>
+      <lastuse>2024-12-12T08:37:35+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:37:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2024-09-12T18:07:30+02:00</create>
-      <lastuse>2024-12-14T06:14:15+01:00</lastuse>
-      <lastconfirm>2024-12-12T06:14:15+01:00</lastconfirm>
+      <lastuse>2024-12-14T07:36:56+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:36:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
