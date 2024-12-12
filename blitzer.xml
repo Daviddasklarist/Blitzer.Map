@@ -28,7 +28,7 @@
     <id>15133813764</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -44,15 +44,15 @@
     </location>
     <date>
       <create>2024-12-12T07:12:05+01:00</create>
-      <lastuse>2024-12-12T09:25:38+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:25:38+01:00</lastconfirm>
+      <lastuse>2024-12-12T09:58:21+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:58:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15133758788</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-12T06:58:55+01:00</create>
-      <lastuse>2024-12-12T09:51:50+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:51:51+01:00</lastconfirm>
+      <lastuse>2024-12-12T09:25:12+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:55:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +93,7 @@
     <date>
       <create>2024-12-12T06:51:11+01:00</create>
       <lastuse>2024-12-12T10:51:11+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:54:19+01:00</lastconfirm>
+      <lastconfirm>2024-12-12T07:58:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -124,7 +124,7 @@
     <id>15129345252</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86179</zip>
       <city>Augsburg</city>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-12T15:51:46+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:51:46+01:00</lastconfirm>
+      <lastuse>2024-12-12T15:56:05+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:56:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,32 @@
     </location>
     <date>
       <create>2024-12-12T07:23:14+01:00</create>
-      <lastuse>2024-12-12T08:20:37+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:50:39+01:00</lastconfirm>
+      <lastuse>2024-12-12T08:28:05+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:58:06+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15133918366</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.280202</latitude>
+        <longitude>10.871216</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-12T07:38:39+01:00</create>
+      <lastuse>2024-12-12T08:59:58+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:59:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2024-12-12T07:07:17+01:00</create>
-      <lastuse>2024-12-12T08:44:53+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:44:54+01:00</lastconfirm>
+      <lastuse>2024-12-12T08:58:11+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:58:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2024-11-26T15:57:23+01:00</create>
-      <lastuse>2024-12-14T07:28:33+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:28:34+01:00</lastconfirm>
+      <lastuse>2024-12-14T07:59:48+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:59:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -382,6 +406,30 @@
       <create>2024-11-15T10:31:15+01:00</create>
       <lastuse>2024-12-14T02:55:09+01:00</lastuse>
       <lastconfirm>2024-12-12T02:55:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>14629248600</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Eichleitnerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.349587</latitude>
+        <longitude>10.885944</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-10-10T15:23:36+02:00</create>
+      <lastuse>2024-12-14T07:55:22+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:55:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +500,8 @@
     </location>
     <date>
       <create>2024-09-19T14:19:44+02:00</create>
-      <lastuse>2024-12-14T07:54:39+01:00</lastuse>
-      <lastconfirm>2024-12-12T07:54:39+01:00</lastconfirm>
+      <lastuse>2024-12-14T07:55:55+01:00</lastuse>
+      <lastconfirm>2024-12-12T07:55:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
