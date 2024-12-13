@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15139924312</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Postillionstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.307959</latitude>
+        <longitude>10.893834</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-13T07:03:39+01:00</create>
+      <lastuse>2024-12-13T09:34:51+01:00</lastuse>
+      <lastconfirm>2024-12-13T07:34:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15121357997</id>
     <type>7</type>
     <speed>50</speed>
