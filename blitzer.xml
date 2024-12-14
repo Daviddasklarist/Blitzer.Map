@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15148301680</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hohenstaufenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.310237</latitude>
+        <longitude>10.881790</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-14T16:16:43+01:00</create>
+      <lastuse>2024-12-14T19:02:36+01:00</lastuse>
+      <lastconfirm>2024-12-14T17:02:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15147446997</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-14T13:02:48+01:00</create>
-      <lastuse>2024-12-14T19:00:51+01:00</lastuse>
-      <lastconfirm>2024-12-14T17:00:52+01:00</lastconfirm>
+      <lastuse>2024-12-14T19:05:10+01:00</lastuse>
+      <lastconfirm>2024-12-14T17:05:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -142,30 +166,6 @@
       <create>2024-12-11T12:51:15+01:00</create>
       <lastuse>2024-12-15T00:58:27+01:00</lastuse>
       <lastconfirm>2024-12-14T16:58:27+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15148306869</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410494</latitude>
-        <longitude>10.641023</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-14T16:18:04+01:00</create>
-      <lastuse>2024-12-14T18:53:31+01:00</lastuse>
-      <lastconfirm>2024-12-14T16:53:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
