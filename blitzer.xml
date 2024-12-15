@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15152250912</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417139</latitude>
-        <longitude>10.837588</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-15T09:20:03+01:00</create>
-      <lastuse>2024-12-15T13:20:03+01:00</lastuse>
-      <lastconfirm>2024-12-15T11:08:06+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15152377221</id>
     <type>1</type>
     <speed>120</speed>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2024-12-15T09:56:26+01:00</create>
-      <lastuse>2024-12-15T13:07:12+01:00</lastuse>
+      <lastuse>2024-12-15T12:52:12+01:00</lastuse>
       <lastconfirm>2024-12-15T11:07:12+01:00</lastconfirm>
     </date>
   </event>
@@ -52,7 +28,7 @@
     <id>15152377222</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-15T09:56:26+01:00</create>
-      <lastuse>2024-12-15T12:37:52+01:00</lastuse>
-      <lastconfirm>2024-12-15T11:07:52+01:00</lastconfirm>
+      <lastuse>2024-12-15T13:14:41+01:00</lastuse>
+      <lastconfirm>2024-12-15T11:14:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
