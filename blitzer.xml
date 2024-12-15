@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15154388070</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Nagahama-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.366223</latitude>
+        <longitude>10.914812</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-15T18:38:02+01:00</create>
+      <lastuse>2024-12-15T20:47:32+01:00</lastuse>
+      <lastconfirm>2024-12-15T18:47:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15153702883</id>
     <type>1</type>
     <speed>60</speed>
@@ -92,8 +116,32 @@
     </location>
     <date>
       <create>2024-12-15T17:38:12+01:00</create>
-      <lastuse>2024-12-15T20:37:31+01:00</lastuse>
-      <lastconfirm>2024-12-15T18:37:32+01:00</lastconfirm>
+      <lastuse>2024-12-15T20:49:24+01:00</lastuse>
+      <lastconfirm>2024-12-15T18:49:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15154387842</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.249786</latitude>
+        <longitude>10.868966</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-15T18:38:39+01:00</create>
+      <lastuse>2024-12-15T19:48:37+01:00</lastuse>
+      <lastconfirm>2024-12-15T18:48:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
