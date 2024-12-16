@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15156755594</id>
+    <type>1</type>
+    <speed>40</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86420</zip>
+      <city>Diedorf</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352509</latitude>
+        <longitude>10.772955</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-16T05:36:53+01:00</create>
+      <lastuse>2024-12-16T07:41:06+01:00</lastuse>
+      <lastconfirm>2024-12-16T05:41:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15121357997</id>
     <type>7</type>
     <speed>50</speed>
@@ -46,6 +70,30 @@
       <create>2024-12-11T12:51:15+01:00</create>
       <lastuse>2024-12-16T13:39:43+01:00</lastuse>
       <lastconfirm>2024-12-16T05:39:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15156738439</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.415930</latitude>
+        <longitude>10.854250</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-16T05:31:12+01:00</create>
+      <lastuse>2024-12-16T06:43:19+01:00</lastuse>
+      <lastconfirm>2024-12-16T05:43:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +332,8 @@
     </location>
     <date>
       <create>2024-08-30T13:20:03+02:00</create>
-      <lastuse>2024-12-17T21:25:39+01:00</lastuse>
-      <lastconfirm>2024-12-15T21:25:39+01:00</lastconfirm>
+      <lastuse>2024-12-18T05:42:51+01:00</lastuse>
+      <lastconfirm>2024-12-16T05:42:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
