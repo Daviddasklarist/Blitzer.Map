@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15159099372</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kriegshaberstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.374537</latitude>
+        <longitude>10.848330</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-16T14:38:45+01:00</create>
+      <lastuse>2024-12-16T16:52:10+01:00</lastuse>
+      <lastconfirm>2024-12-16T14:52:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15121357997</id>
     <type>7</type>
     <speed>50</speed>
