@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15164264031</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Blücherstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372560</latitude>
+        <longitude>10.934102</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-17T11:53:07+01:00</create>
+      <lastuse>2024-12-17T14:06:46+01:00</lastuse>
+      <lastconfirm>2024-12-17T12:06:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15163084299</id>
     <type>1</type>
     <speed>100</speed>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2024-12-17T11:04:12+01:00</create>
-      <lastuse>2024-12-17T20:00:35+01:00</lastuse>
-      <lastconfirm>2024-12-17T12:00:36+01:00</lastconfirm>
+      <lastuse>2024-12-17T20:08:13+01:00</lastuse>
+      <lastconfirm>2024-12-17T12:08:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
