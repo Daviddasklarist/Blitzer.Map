@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15165487403</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Egerländer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.272657</latitude>
-        <longitude>10.896024</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-17T16:13:41+01:00</create>
-      <lastuse>2024-12-17T19:40:57+01:00</lastuse>
-      <lastconfirm>2024-12-17T18:40:57+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15164264031</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-17T14:32:43+01:00</create>
-      <lastuse>2024-12-17T21:04:01+01:00</lastuse>
-      <lastconfirm>2024-12-17T19:34:01+01:00</lastconfirm>
+      <lastuse>2024-12-17T21:11:49+01:00</lastuse>
+      <lastconfirm>2024-12-17T19:41:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-18T03:06:16+01:00</lastuse>
-      <lastconfirm>2024-12-17T19:06:16+01:00</lastconfirm>
+      <lastuse>2024-12-18T03:40:39+01:00</lastuse>
+      <lastconfirm>2024-12-17T19:40:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -172,7 +148,7 @@
     <id>15166455724</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2024-12-17T19:32:53+01:00</create>
-      <lastuse>2024-12-17T21:38:41+01:00</lastuse>
-      <lastconfirm>2024-12-17T19:38:42+01:00</lastconfirm>
+      <lastuse>2024-12-17T21:43:24+01:00</lastuse>
+      <lastconfirm>2024-12-17T19:43:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +380,8 @@
     </location>
     <date>
       <create>2024-08-30T13:20:03+02:00</create>
-      <lastuse>2024-12-19T10:17:30+01:00</lastuse>
-      <lastconfirm>2024-08-30T13:20:03+02:00</lastconfirm>
+      <lastuse>2024-12-19T19:41:02+01:00</lastuse>
+      <lastconfirm>2024-12-17T19:41:03+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
