@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15165487403</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Egerländer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.272657</latitude>
+        <longitude>10.896024</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-17T16:13:41+01:00</create>
+      <lastuse>2024-12-17T19:28:14+01:00</lastuse>
+      <lastconfirm>2024-12-17T17:28:15+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15164264031</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2024-12-17T11:53:07+01:00</create>
-      <lastuse>2024-12-17T18:17:37+01:00</lastuse>
+      <lastuse>2024-12-17T17:47:37+01:00</lastuse>
       <lastconfirm>2024-12-17T16:47:38+01:00</lastconfirm>
     </date>
   </event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-17T14:32:43+01:00</create>
-      <lastuse>2024-12-17T18:52:15+01:00</lastuse>
-      <lastconfirm>2024-12-17T17:22:17+01:00</lastconfirm>
+      <lastuse>2024-12-17T19:30:07+01:00</lastuse>
+      <lastconfirm>2024-12-17T17:30:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-18T01:24:29+01:00</lastuse>
+      <lastuse>2024-12-18T00:24:29+01:00</lastuse>
       <lastconfirm>2024-12-17T17:24:30+01:00</lastconfirm>
     </date>
   </event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2024-12-17T15:40:07+01:00</create>
-      <lastuse>2024-12-17T17:54:49+01:00</lastuse>
-      <lastconfirm>2024-12-17T17:24:49+01:00</lastconfirm>
+      <lastuse>2024-12-17T17:58:07+01:00</lastuse>
+      <lastconfirm>2024-12-17T17:28:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2024-12-17T16:44:25+01:00</create>
-      <lastuse>2024-12-17T17:42:46+01:00</lastuse>
-      <lastconfirm>2024-12-17T17:12:47+01:00</lastconfirm>
+      <lastuse>2024-12-17T18:00:03+01:00</lastuse>
+      <lastconfirm>2024-12-17T17:30:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2024-12-17T17:06:17+01:00</create>
-      <lastuse>2024-12-17T19:25:20+01:00</lastuse>
-      <lastconfirm>2024-12-17T17:25:20+01:00</lastconfirm>
+      <lastuse>2024-12-17T19:29:48+01:00</lastuse>
+      <lastconfirm>2024-12-17T17:29:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,32 @@
     </location>
     <date>
       <create>2024-12-17T16:44:13+01:00</create>
-      <lastuse>2024-12-17T18:03:55+01:00</lastuse>
-      <lastconfirm>2024-12-17T17:21:56+01:00</lastconfirm>
+      <lastuse>2024-12-17T18:26:10+01:00</lastuse>
+      <lastconfirm>2024-12-17T17:26:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15165878154</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.395082</latitude>
+        <longitude>11.062159</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-17T17:30:03+01:00</create>
+      <lastuse>2024-12-17T17:35:00+01:00</lastuse>
+      <lastconfirm>2024-12-17T17:30:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
