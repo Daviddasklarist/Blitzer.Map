@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15169411269</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86157</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.363950</latitude>
-        <longitude>10.874792</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-18T08:29:56+01:00</create>
-      <lastuse>2024-12-18T15:51:41+01:00</lastuse>
-      <lastconfirm>2024-12-18T14:51:42+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15171281784</id>
     <type>1</type>
     <speed>120</speed>
@@ -44,15 +20,15 @@
     </location>
     <date>
       <create>2024-12-18T15:11:56+01:00</create>
-      <lastuse>2024-12-18T17:18:04+01:00</lastuse>
-      <lastconfirm>2024-12-18T15:48:04+01:00</lastconfirm>
+      <lastuse>2024-12-18T17:50:42+01:00</lastuse>
+      <lastconfirm>2024-12-18T15:50:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15171436711</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -69,7 +45,7 @@
     <date>
       <create>2024-12-18T15:44:17+01:00</create>
       <lastuse>2024-12-18T18:44:17+01:00</lastuse>
-      <lastconfirm>2024-12-18T15:48:49+01:00</lastconfirm>
+      <lastconfirm>2024-12-18T15:53:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,6 +73,30 @@
     </date>
   </event>
   <event>
+    <id>15171427221</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413281</latitude>
+        <longitude>10.899538</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-18T15:41:22+01:00</create>
+      <lastuse>2024-12-18T16:22:06+01:00</lastuse>
+      <lastconfirm>2024-12-18T15:52:06+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15171453710</id>
     <type>20</type>
     <speed></speed>
@@ -110,13 +110,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.410978</latitude>
-        <longitude>10.913769</longitude>
+        <latitude>48.409633</latitude>
+        <longitude>10.921933</longitude>
       </point>
     </location>
     <date>
       <create>2024-12-18T15:46:01+01:00</create>
-      <lastuse>2024-12-18T15:53:00+01:00</lastuse>
+      <lastuse>2024-12-18T15:58:00+01:00</lastuse>
       <lastconfirm>2024-12-18T15:46:01+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2024-10-25T12:19:46+02:00</create>
-      <lastuse>2024-12-20T15:14:51+01:00</lastuse>
-      <lastconfirm>2024-12-18T15:14:52+01:00</lastconfirm>
+      <lastuse>2024-12-20T07:14:51+01:00</lastuse>
+      <lastconfirm>2024-10-25T12:19:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
