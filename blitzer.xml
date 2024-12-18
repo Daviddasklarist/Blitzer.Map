@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15168688395</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Gartenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.267978</latitude>
+        <longitude>10.875675</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-18T05:23:41+01:00</create>
+      <lastuse>2024-12-18T08:43:54+01:00</lastuse>
+      <lastconfirm>2024-12-18T06:43:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15168774659</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2024-12-18T06:17:55+01:00</create>
-      <lastuse>2024-12-18T08:35:27+01:00</lastuse>
+      <lastuse>2024-12-18T08:17:55+01:00</lastuse>
       <lastconfirm>2024-12-18T06:35:28+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-18T14:38:37+01:00</lastuse>
-      <lastconfirm>2024-12-18T06:38:38+01:00</lastconfirm>
+      <lastuse>2024-12-18T14:43:51+01:00</lastuse>
+      <lastconfirm>2024-12-18T06:43:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -118,6 +142,30 @@
       <create>2024-12-17T18:46:25+01:00</create>
       <lastuse>2024-12-18T14:16:44+01:00</lastuse>
       <lastconfirm>2024-12-18T06:16:44+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15168950777</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400737</latitude>
+        <longitude>10.997727</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-18T06:35:33+01:00</create>
+      <lastuse>2024-12-18T08:45:00+01:00</lastuse>
+      <lastconfirm>2024-12-18T06:45:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
