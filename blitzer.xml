@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15168774659</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86444</zip>
+      <city>Affing</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.440750</latitude>
+        <longitude>10.934593</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-18T05:47:40+01:00</create>
+      <lastuse>2024-12-18T08:06:02+01:00</lastuse>
+      <lastconfirm>2024-12-18T06:06:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15164013055</id>
     <type>7</type>
     <speed>20</speed>
@@ -44,32 +68,8 @@
     </location>
     <date>
       <create>2024-12-11T12:51:15+01:00</create>
-      <lastuse>2024-12-18T14:03:41+01:00</lastuse>
-      <lastconfirm>2024-12-18T06:03:41+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15168814481</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.400526</latitude>
-        <longitude>11.000974</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-18T05:59:30+01:00</create>
-      <lastuse>2024-12-18T06:18:14+01:00</lastuse>
-      <lastconfirm>2024-12-18T06:03:15+01:00</lastconfirm>
+      <lastuse>2024-12-18T14:08:09+01:00</lastuse>
+      <lastconfirm>2024-12-18T06:08:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
