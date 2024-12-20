@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15183705236</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401888</latitude>
+        <longitude>10.911312</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-20T16:50:08+01:00</create>
+      <lastuse>2024-12-20T19:54:49+01:00</lastuse>
+      <lastconfirm>2024-12-20T17:54:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15182690605</id>
     <type>1</type>
     <speed>70</speed>
@@ -68,15 +92,15 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-21T01:50:38+01:00</lastuse>
-      <lastconfirm>2024-12-20T17:50:39+01:00</lastconfirm>
+      <lastuse>2024-12-21T01:58:12+01:00</lastuse>
+      <lastconfirm>2024-12-20T17:58:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15183647939</id>
     <type>24</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86507</zip>
       <city>Kleinaitingen</city>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-20T16:39:04+01:00</create>
-      <lastuse>2024-12-20T19:49:53+01:00</lastuse>
-      <lastconfirm>2024-12-20T17:49:54+01:00</lastconfirm>
+      <lastuse>2024-12-20T19:58:08+01:00</lastuse>
+      <lastconfirm>2024-12-20T17:58:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2024-12-20T17:13:05+01:00</create>
-      <lastuse>2024-12-20T18:46:45+01:00</lastuse>
-      <lastconfirm>2024-12-20T17:46:45+01:00</lastconfirm>
+      <lastuse>2024-12-20T18:58:51+01:00</lastuse>
+      <lastconfirm>2024-12-20T17:58:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -182,13 +206,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.417805</latitude>
-        <longitude>10.829427</longitude>
+        <latitude>48.417942</latitude>
+        <longitude>10.827729</longitude>
       </point>
     </location>
     <date>
       <create>2024-12-20T17:50:03+01:00</create>
-      <lastuse>2024-12-20T17:57:00+01:00</lastuse>
+      <lastuse>2024-12-20T18:03:00+01:00</lastuse>
       <lastconfirm>2024-12-20T17:50:03+01:00</lastconfirm>
     </date>
   </event>
