@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-20T19:51:48+01:00</create>
-      <lastuse>2024-12-20T21:59:05+01:00</lastuse>
-      <lastconfirm>2024-12-20T19:59:06+01:00</lastconfirm>
+      <lastuse>2024-12-20T22:07:48+01:00</lastuse>
+      <lastconfirm>2024-12-20T20:07:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2024-12-17T10:58:21+01:00</create>
-      <lastuse>2024-12-21T03:44:49+01:00</lastuse>
-      <lastconfirm>2024-12-20T19:44:51+01:00</lastconfirm>
+      <lastuse>2024-12-21T04:06:25+01:00</lastuse>
+      <lastconfirm>2024-12-20T20:06:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-21T03:58:18+01:00</lastuse>
-      <lastconfirm>2024-12-20T19:58:18+01:00</lastconfirm>
+      <lastuse>2024-12-21T04:07:33+01:00</lastuse>
+      <lastconfirm>2024-12-20T20:07:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,15 +140,15 @@
     </location>
     <date>
       <create>2024-12-20T18:04:47+01:00</create>
-      <lastuse>2024-12-20T20:46:33+01:00</lastuse>
-      <lastconfirm>2024-12-20T20:01:33+01:00</lastconfirm>
+      <lastuse>2024-12-20T21:08:25+01:00</lastuse>
+      <lastconfirm>2024-12-20T20:08:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15184167222</id>
     <type>21</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -164,8 +164,32 @@
     </location>
     <date>
       <create>2024-12-20T18:31:25+01:00</create>
-      <lastuse>2024-12-20T20:41:05+01:00</lastuse>
+      <lastuse>2024-12-20T20:11:05+01:00</lastuse>
       <lastconfirm>2024-12-20T19:56:06+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15184540971</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.405808</latitude>
+        <longitude>10.944169</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-20T19:55:30+01:00</create>
+      <lastuse>2024-12-20T22:07:57+01:00</lastuse>
+      <lastconfirm>2024-12-20T20:07:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -182,13 +206,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.415269</latitude>
-        <longitude>10.859345</longitude>
+        <latitude>48.414745</latitude>
+        <longitude>10.866142</longitude>
       </point>
     </location>
     <date>
       <create>2024-12-20T19:17:01+01:00</create>
-      <lastuse>2024-12-20T20:07:00+01:00</lastuse>
+      <lastuse>2024-12-20T20:13:00+01:00</lastuse>
       <lastconfirm>2024-12-20T19:17:01+01:00</lastconfirm>
     </date>
   </event>
@@ -206,14 +230,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.396129</latitude>
-        <longitude>11.030070</longitude>
+        <latitude>48.397720</latitude>
+        <longitude>11.022526</longitude>
       </point>
     </location>
     <date>
       <create>2024-12-20T19:49:01+01:00</create>
-      <lastuse>2024-12-20T20:07:00+01:00</lastuse>
+      <lastuse>2024-12-20T20:13:00+01:00</lastuse>
       <lastconfirm>2024-12-20T19:49:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15184571671</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401302</latitude>
+        <longitude>10.988737</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-20T20:04:01+01:00</create>
+      <lastuse>2024-12-20T20:13:00+01:00</lastuse>
+      <lastconfirm>2024-12-20T20:04:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
