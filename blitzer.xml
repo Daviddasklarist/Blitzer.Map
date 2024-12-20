@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15184485240</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86473</zip>
+      <city>Ziemetshausen</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.295813</latitude>
+        <longitude>10.550242</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-20T19:43:45+01:00</create>
+      <lastuse>2024-12-20T22:43:45+01:00</lastuse>
+      <lastconfirm>2024-12-20T19:52:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15183705236</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-21T03:47:20+01:00</lastuse>
-      <lastconfirm>2024-12-20T19:47:20+01:00</lastconfirm>
+      <lastuse>2024-12-21T03:51:36+01:00</lastuse>
+      <lastconfirm>2024-12-20T19:51:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2024-12-20T18:04:47+01:00</create>
-      <lastuse>2024-12-20T20:48:11+01:00</lastuse>
-      <lastconfirm>2024-12-20T19:48:11+01:00</lastconfirm>
+      <lastuse>2024-12-20T20:53:06+01:00</lastuse>
+      <lastconfirm>2024-12-20T19:53:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2024-12-20T18:31:25+01:00</create>
-      <lastuse>2024-12-20T20:48:28+01:00</lastuse>
-      <lastconfirm>2024-12-20T19:48:29+01:00</lastconfirm>
+      <lastuse>2024-12-20T20:49:30+01:00</lastuse>
+      <lastconfirm>2024-12-20T19:49:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -158,14 +182,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.415721</latitude>
-        <longitude>10.854160</longitude>
+        <latitude>48.415569</latitude>
+        <longitude>10.855888</longitude>
       </point>
     </location>
     <date>
       <create>2024-12-20T19:17:01+01:00</create>
-      <lastuse>2024-12-20T19:53:00+01:00</lastuse>
+      <lastuse>2024-12-20T19:58:00+01:00</lastuse>
       <lastconfirm>2024-12-20T19:17:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15184510155</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396358</latitude>
+        <longitude>11.054755</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-20T19:49:01+01:00</create>
+      <lastuse>2024-12-20T19:58:00+01:00</lastuse>
+      <lastconfirm>2024-12-20T19:49:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
