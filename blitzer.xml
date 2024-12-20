@@ -28,7 +28,7 @@
     <id>15182690605</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86444</zip>
       <city>Affing</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-20T13:12:58+01:00</create>
-      <lastuse>2024-12-20T15:20:41+01:00</lastuse>
-      <lastconfirm>2024-12-20T13:20:42+01:00</lastconfirm>
+      <lastuse>2024-12-20T15:28:50+01:00</lastuse>
+      <lastconfirm>2024-12-20T13:28:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-20T21:27:24+01:00</lastuse>
-      <lastconfirm>2024-12-20T13:27:25+01:00</lastconfirm>
+      <lastuse>2024-12-20T21:31:34+01:00</lastuse>
+      <lastconfirm>2024-12-20T13:31:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2024-12-20T13:12:18+01:00</create>
-      <lastuse>2024-12-20T13:49:03+01:00</lastuse>
+      <lastuse>2024-12-20T13:34:03+01:00</lastuse>
       <lastconfirm>2024-12-20T13:19:04+01:00</lastconfirm>
     </date>
   </event>
@@ -140,36 +140,60 @@
     </location>
     <date>
       <create>2024-12-20T12:42:23+01:00</create>
-      <lastuse>2024-12-20T14:23:21+01:00</lastuse>
-      <lastconfirm>2024-12-20T13:23:21+01:00</lastconfirm>
+      <lastuse>2024-12-20T14:30:57+01:00</lastuse>
+      <lastconfirm>2024-12-20T13:30:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>15182722249</id>
+    <id>15182696993</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
+      <zip>86159</zip>
+      <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>A8</street>
+      <street>B17</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.414745</latitude>
-        <longitude>10.866142</longitude>
+        <latitude>48.331662</latitude>
+        <longitude>10.887105</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-20T13:19:01+01:00</create>
-      <lastuse>2024-12-20T13:32:00+01:00</lastuse>
-      <lastconfirm>2024-12-20T13:19:01+01:00</lastconfirm>
+      <create>2024-12-20T13:14:28+01:00</create>
+      <lastuse>2024-12-20T14:31:51+01:00</lastuse>
+      <lastconfirm>2024-12-20T13:31:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>15182751871</id>
+    <id>15182729522</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.405247</latitude>
+        <longitude>10.874274</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-20T13:20:59+01:00</create>
+      <lastuse>2024-12-20T14:28:47+01:00</lastuse>
+      <lastconfirm>2024-12-20T13:28:48+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15182777651</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -182,14 +206,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.413395</latitude>
-        <longitude>10.898832</longitude>
+        <latitude>48.411790</latitude>
+        <longitude>10.908871</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-20T13:25:02+01:00</create>
-      <lastuse>2024-12-20T13:32:00+01:00</lastuse>
-      <lastconfirm>2024-12-20T13:25:02+01:00</lastconfirm>
+      <create>2024-12-20T13:30:02+01:00</create>
+      <lastuse>2024-12-20T13:37:00+01:00</lastuse>
+      <lastconfirm>2024-12-20T13:30:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15182784113</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.415721</latitude>
+        <longitude>10.854160</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-20T13:32:01+01:00</create>
+      <lastuse>2024-12-20T13:37:00+01:00</lastuse>
+      <lastconfirm>2024-12-20T13:32:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
