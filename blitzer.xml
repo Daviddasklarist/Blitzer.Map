@@ -4,7 +4,7 @@
     <id>15183705236</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2024-12-20T16:50:08+01:00</create>
-      <lastuse>2024-12-20T19:54:49+01:00</lastuse>
-      <lastconfirm>2024-12-20T17:54:50+01:00</lastconfirm>
+      <lastuse>2024-12-20T20:20:37+01:00</lastuse>
+      <lastconfirm>2024-12-20T18:20:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-20T13:12:58+01:00</create>
-      <lastuse>2024-12-20T20:17:07+01:00</lastuse>
-      <lastconfirm>2024-12-20T18:17:07+01:00</lastconfirm>
+      <lastuse>2024-12-20T20:18:10+01:00</lastuse>
+      <lastconfirm>2024-12-20T18:18:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-21T01:12:27+01:00</lastuse>
+      <lastuse>2024-12-21T00:12:27+01:00</lastuse>
       <lastconfirm>2024-12-20T18:12:28+01:00</lastconfirm>
     </date>
   </event>
@@ -121,30 +121,6 @@
     </date>
   </event>
   <event>
-    <id>15183850925</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.383565</latitude>
-        <longitude>10.858466</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-20T17:22:18+01:00</create>
-      <lastuse>2024-12-20T18:29:04+01:00</lastuse>
-      <lastconfirm>2024-12-20T17:59:06+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15183946948</id>
     <type>21</type>
     <speed></speed>
@@ -164,7 +140,7 @@
     </location>
     <date>
       <create>2024-12-20T17:43:10+01:00</create>
-      <lastuse>2024-12-20T19:17:13+01:00</lastuse>
+      <lastuse>2024-12-20T19:02:13+01:00</lastuse>
       <lastconfirm>2024-12-20T18:17:14+01:00</lastconfirm>
     </date>
   </event>
@@ -196,7 +172,7 @@
     <id>15184014960</id>
     <type>21</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -212,7 +188,7 @@
     </location>
     <date>
       <create>2024-12-20T17:58:30+01:00</create>
-      <lastuse>2024-12-20T18:39:34+01:00</lastuse>
+      <lastuse>2024-12-20T18:24:34+01:00</lastuse>
       <lastconfirm>2024-12-20T18:09:35+01:00</lastconfirm>
     </date>
   </event>
@@ -241,7 +217,7 @@
     </date>
   </event>
   <event>
-    <id>15184064122</id>
+    <id>15184128435</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -254,62 +230,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.415269</latitude>
-        <longitude>10.859345</longitude>
+        <latitude>48.418398</latitude>
+        <longitude>10.822640</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-20T18:09:02+01:00</create>
-      <lastuse>2024-12-20T18:22:00+01:00</lastuse>
-      <lastconfirm>2024-12-20T18:09:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15184102382</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410671</latitude>
-        <longitude>10.914741</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-20T18:16:02+01:00</create>
-      <lastuse>2024-12-20T18:22:00+01:00</lastuse>
-      <lastconfirm>2024-12-20T18:16:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15184105592</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.418083</latitude>
-        <longitude>10.826032</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-20T18:17:01+01:00</create>
-      <lastuse>2024-12-20T18:22:00+01:00</lastuse>
-      <lastconfirm>2024-12-20T18:17:01+01:00</lastconfirm>
+      <create>2024-12-20T18:23:01+01:00</create>
+      <lastuse>2024-12-20T18:28:00+01:00</lastuse>
+      <lastconfirm>2024-12-20T18:23:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
