@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15189908490</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Stuttgarter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.398304</latitude>
+        <longitude>10.877131</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-21T18:33:21+01:00</create>
+      <lastuse>2024-12-21T21:02:25+01:00</lastuse>
+      <lastconfirm>2024-12-21T19:02:26+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15189882125</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.501267</latitude>
+        <longitude>10.859239</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-21T18:26:32+01:00</create>
+      <lastuse>2024-12-21T21:26:32+01:00</lastuse>
+      <lastconfirm>2024-12-21T18:59:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15164013055</id>
     <type>7</type>
     <speed>20</speed>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-22T02:55:21+01:00</lastuse>
-      <lastconfirm>2024-12-21T18:55:21+01:00</lastconfirm>
+      <lastuse>2024-12-22T03:03:31+01:00</lastuse>
+      <lastconfirm>2024-12-21T19:03:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
