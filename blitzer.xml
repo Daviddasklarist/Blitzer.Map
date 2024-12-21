@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15188080479</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.248483</latitude>
+        <longitude>10.869282</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-21T11:27:11+01:00</create>
+      <lastuse>2024-12-21T15:27:11+01:00</lastuse>
+      <lastconfirm>2024-12-21T11:31:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15187715373</id>
     <type>1</type>
     <speed>60</speed>
@@ -21,7 +45,7 @@
     <date>
       <create>2024-12-21T09:58:53+01:00</create>
       <lastuse>2024-12-21T13:58:53+01:00</lastuse>
-      <lastconfirm>2024-12-21T11:27:20+01:00</lastconfirm>
+      <lastconfirm>2024-12-21T11:33:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-17T10:58:21+01:00</create>
-      <lastuse>2024-12-21T19:03:20+01:00</lastuse>
-      <lastconfirm>2024-12-21T11:03:20+01:00</lastconfirm>
+      <lastuse>2024-12-21T19:31:51+01:00</lastuse>
+      <lastconfirm>2024-12-21T11:31:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-21T19:27:59+01:00</lastuse>
-      <lastconfirm>2024-12-21T11:28:00+01:00</lastconfirm>
+      <lastuse>2024-12-21T19:32:04+01:00</lastuse>
+      <lastconfirm>2024-12-21T11:32:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-21T11:17:19+01:00</create>
-      <lastuse>2024-12-21T11:55:10+01:00</lastuse>
-      <lastconfirm>2024-12-21T11:25:10+01:00</lastconfirm>
+      <lastuse>2024-12-21T12:03:42+01:00</lastuse>
+      <lastconfirm>2024-12-21T11:33:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
