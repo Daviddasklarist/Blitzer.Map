@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15202918658</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.362250</latitude>
-        <longitude>10.852887</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-24T07:45:46+01:00</create>
-      <lastuse>2024-12-24T14:36:26+01:00</lastuse>
-      <lastconfirm>2024-12-24T13:36:26+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15202980526</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86551</zip>
-      <city>Aichach</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.435252</latitude>
-        <longitude>11.125594</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-24T08:08:29+01:00</create>
-      <lastuse>2024-12-24T13:46:24+01:00</lastuse>
-      <lastconfirm>2024-12-24T13:16:25+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15179551330</id>
     <type>7</type>
     <speed>120</speed>
