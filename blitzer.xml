@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15207863515</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86415</zip>
-      <city>Mering</city>
-      <state>DE-BY</state>
-      <street>St 2380</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.266090</latitude>
-        <longitude>10.941752</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-25T11:58:54+01:00</create>
-      <lastuse>2024-12-25T14:58:54+01:00</lastuse>
-      <lastconfirm>2024-12-25T13:42:00+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15207531764</id>
     <type>1</type>
     <speed>40</speed>
@@ -44,8 +20,32 @@
     </location>
     <date>
       <create>2024-12-25T10:02:53+01:00</create>
-      <lastuse>2024-12-25T15:52:23+01:00</lastuse>
-      <lastconfirm>2024-12-25T13:52:23+01:00</lastconfirm>
+      <lastuse>2024-12-25T16:20:01+01:00</lastuse>
+      <lastconfirm>2024-12-25T14:20:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15208274233</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.399250</latitude>
+        <longitude>10.920684</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-25T14:10:42+01:00</create>
+      <lastuse>2024-12-25T17:10:42+01:00</lastuse>
+      <lastconfirm>2024-12-25T14:20:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,15 +68,15 @@
     </location>
     <date>
       <create>2024-12-25T08:16:49+01:00</create>
-      <lastuse>2024-12-25T16:17:31+01:00</lastuse>
-      <lastconfirm>2024-12-25T14:17:31+01:00</lastconfirm>
+      <lastuse>2024-12-25T16:22:08+01:00</lastuse>
+      <lastconfirm>2024-12-25T14:22:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15207754817</id>
     <type>6</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2024-12-25T11:20:33+01:00</create>
-      <lastuse>2024-12-25T15:48:53+01:00</lastuse>
-      <lastconfirm>2024-12-25T14:18:53+01:00</lastconfirm>
+      <lastuse>2024-12-25T15:22:19+01:00</lastuse>
+      <lastconfirm>2024-12-25T14:22:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-25T22:15:15+01:00</lastuse>
-      <lastconfirm>2024-12-25T14:15:16+01:00</lastconfirm>
+      <lastuse>2024-12-25T22:23:46+01:00</lastuse>
+      <lastconfirm>2024-12-25T14:23:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
