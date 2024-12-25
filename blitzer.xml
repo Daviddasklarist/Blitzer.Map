@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15179551330</id>
+    <type>7</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.492383</latitude>
+        <longitude>10.860178</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-19T11:35:30+01:00</create>
+      <lastuse>2024-12-25T10:44:19+01:00</lastuse>
+      <lastconfirm>2024-12-25T02:44:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>14564025372</id>
     <type>26</type>
     <speed></speed>
