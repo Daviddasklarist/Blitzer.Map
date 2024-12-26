@@ -1,6 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15211677977</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370560</latitude>
+        <longitude>10.809128</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-26T09:44:34+01:00</create>
+      <lastuse>2024-12-26T13:04:41+01:00</lastuse>
+      <lastconfirm>2024-12-26T11:04:41+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15211699757</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.387680</latitude>
+        <longitude>10.860554</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-26T09:50:14+01:00</create>
+      <lastuse>2024-12-26T13:06:29+01:00</lastuse>
+      <lastconfirm>2024-12-26T11:06:30+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15211699759</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385808</latitude>
+        <longitude>10.859483</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-26T09:50:37+01:00</create>
+      <lastuse>2024-12-26T12:50:37+01:00</lastuse>
+      <lastconfirm>2024-12-26T11:02:48+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15211717368</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.501273</latitude>
+        <longitude>10.858880</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-26T09:57:08+01:00</create>
+      <lastuse>2024-12-26T12:35:51+01:00</lastuse>
+      <lastconfirm>2024-12-26T11:05:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15211815112</id>
     <type>1</type>
     <speed>70</speed>
@@ -25,75 +121,27 @@
     </date>
   </event>
   <event>
-    <id>15211677977</id>
-    <type>1</type>
-    <speed>70</speed>
+    <id>15211849799</id>
+    <type>6</type>
+    <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-BY</state>
-      <street>Ulmer Landstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.370560</latitude>
-        <longitude>10.809128</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-26T09:44:34+01:00</create>
-      <lastuse>2024-12-26T12:53:49+01:00</lastuse>
-      <lastconfirm>2024-12-26T10:53:50+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15211699759</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
+      <zip>86169</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Dayton-Ring</street>
+      <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.385808</latitude>
-        <longitude>10.859483</longitude>
+        <latitude>48.413865</latitude>
+        <longitude>10.893612</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-26T09:50:37+01:00</create>
-      <lastuse>2024-12-26T13:02:46+01:00</lastuse>
-      <lastconfirm>2024-12-26T11:02:48+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15211699757</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.387680</latitude>
-        <longitude>10.860554</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-26T09:50:14+01:00</create>
-      <lastuse>2024-12-26T13:02:59+01:00</lastuse>
-      <lastconfirm>2024-12-26T11:02:59+01:00</lastconfirm>
+      <create>2024-12-26T10:43:23+01:00</create>
+      <lastuse>2024-12-26T12:18:05+01:00</lastuse>
+      <lastconfirm>2024-12-26T11:03:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -118,54 +166,6 @@
       <create>2024-12-26T10:57:35+01:00</create>
       <lastuse>2024-12-26T12:33:21+01:00</lastuse>
       <lastconfirm>2024-12-26T11:03:22+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15211849799</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.413865</latitude>
-        <longitude>10.893612</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-26T10:43:23+01:00</create>
-      <lastuse>2024-12-26T12:33:05+01:00</lastuse>
-      <lastconfirm>2024-12-26T11:03:06+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15211717368</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.501273</latitude>
-        <longitude>10.858880</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-26T09:57:08+01:00</create>
-      <lastuse>2024-12-26T12:32:29+01:00</lastuse>
-      <lastconfirm>2024-12-26T11:02:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
