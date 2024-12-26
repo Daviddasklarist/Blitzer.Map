@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15211677977</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370560</latitude>
+        <longitude>10.809128</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-26T09:44:34+01:00</create>
+      <lastuse>2024-12-26T11:52:22+01:00</lastuse>
+      <lastconfirm>2024-12-26T09:52:23+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15179551330</id>
     <type>7</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-19T11:35:30+01:00</create>
-      <lastuse>2024-12-26T17:46:18+01:00</lastuse>
-      <lastconfirm>2024-12-26T09:46:20+01:00</lastconfirm>
+      <lastuse>2024-12-26T17:50:41+01:00</lastuse>
+      <lastconfirm>2024-12-26T09:50:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
