@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15212715847</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>AIC 25</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.367922</latitude>
+        <longitude>10.959352</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-26T15:04:57+01:00</create>
+      <lastuse>2024-12-26T18:04:57+01:00</lastuse>
+      <lastconfirm>2024-12-26T15:21:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15211677977</id>
     <type>1</type>
     <speed>70</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2024-12-26T14:18:28+01:00</create>
-      <lastuse>2024-12-26T16:18:28+01:00</lastuse>
-      <lastconfirm>2024-12-26T15:02:29+01:00</lastconfirm>
+      <lastuse>2024-12-26T17:21:44+01:00</lastuse>
+      <lastconfirm>2024-12-26T15:21:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2024-12-26T09:50:14+01:00</create>
-      <lastuse>2024-12-26T17:18:54+01:00</lastuse>
-      <lastconfirm>2024-12-26T15:18:54+01:00</lastconfirm>
+      <lastuse>2024-12-26T17:22:39+01:00</lastuse>
+      <lastconfirm>2024-12-26T15:22:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-26T10:43:23+01:00</create>
-      <lastuse>2024-12-26T16:47:22+01:00</lastuse>
-      <lastconfirm>2024-12-26T15:17:23+01:00</lastconfirm>
+      <lastuse>2024-12-26T16:51:43+01:00</lastuse>
+      <lastconfirm>2024-12-26T15:21:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -142,30 +166,6 @@
       <create>2024-12-19T11:35:30+01:00</create>
       <lastuse>2024-12-26T23:07:22+01:00</lastuse>
       <lastconfirm>2024-12-26T15:07:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15212732045</id>
-    <type>7</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86695</zip>
-      <city>Allmannshofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.606413</latitude>
-        <longitude>10.838227</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-26T15:08:35+01:00</create>
-      <lastuse>2024-12-26T22:17:51+01:00</lastuse>
-      <lastconfirm>2024-12-26T15:17:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
