@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15211849799</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413808</latitude>
+        <longitude>10.894384</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-26T10:43:23+01:00</create>
+      <lastuse>2024-12-27T09:08:13+01:00</lastuse>
+      <lastconfirm>2024-12-27T07:38:14+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15215708750</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ulrich-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.327648</latitude>
+        <longitude>10.907901</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-27T07:14:36+01:00</create>
+      <lastuse>2024-12-27T09:35:29+01:00</lastuse>
+      <lastconfirm>2024-12-27T07:35:29+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15179551330</id>
     <type>7</type>
     <speed>120</speed>
