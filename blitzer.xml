@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15222321918</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.200208</latitude>
+        <longitude>10.854099</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-28T16:24:16+01:00</create>
+      <lastuse>2024-12-28T18:30:48+01:00</lastuse>
+      <lastconfirm>2024-12-28T16:30:49+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15220955954</id>
     <type>1</type>
     <speed>120</speed>
@@ -20,8 +44,32 @@
     </location>
     <date>
       <create>2024-12-28T10:04:55+01:00</create>
-      <lastuse>2024-12-28T18:27:10+01:00</lastuse>
-      <lastconfirm>2024-12-28T16:27:11+01:00</lastconfirm>
+      <lastuse>2024-12-28T18:16:01+01:00</lastuse>
+      <lastconfirm>2024-12-28T16:31:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15222319563</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414242</latitude>
+        <longitude>10.889006</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-28T16:23:41+01:00</create>
+      <lastuse>2024-12-28T18:31:11+01:00</lastuse>
+      <lastconfirm>2024-12-28T16:31:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,15 +92,15 @@
     </location>
     <date>
       <create>2024-12-28T16:11:25+01:00</create>
-      <lastuse>2024-12-28T18:27:07+01:00</lastuse>
-      <lastconfirm>2024-12-28T16:27:09+01:00</lastconfirm>
+      <lastuse>2024-12-28T18:32:48+01:00</lastuse>
+      <lastconfirm>2024-12-28T16:32:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15221663032</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -68,7 +116,7 @@
     </location>
     <date>
       <create>2024-12-28T13:25:22+01:00</create>
-      <lastuse>2024-12-28T17:23:45+01:00</lastuse>
+      <lastuse>2024-12-28T17:05:45+01:00</lastuse>
       <lastconfirm>2024-12-28T16:23:45+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +140,8 @@
     </location>
     <date>
       <create>2024-12-28T15:01:38+01:00</create>
-      <lastuse>2024-12-28T17:22:55+01:00</lastuse>
-      <lastconfirm>2024-12-28T16:22:56+01:00</lastconfirm>
+      <lastuse>2024-12-28T17:31:36+01:00</lastuse>
+      <lastconfirm>2024-12-28T16:31:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
