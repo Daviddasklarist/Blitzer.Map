@@ -1,58 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15220955954</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.413834</latitude>
-        <longitude>10.894988</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-28T10:04:55+01:00</create>
-      <lastuse>2024-12-28T18:10:42+01:00</lastuse>
-      <lastconfirm>2024-12-28T16:55:43+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15222319563</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.414242</latitude>
-        <longitude>10.889006</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-28T16:23:41+01:00</create>
-      <lastuse>2024-12-28T18:58:53+01:00</lastuse>
-      <lastconfirm>2024-12-28T16:58:53+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15221663032</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -68,7 +20,7 @@
     </location>
     <date>
       <create>2024-12-28T13:25:22+01:00</create>
-      <lastuse>2024-12-28T17:56:46+01:00</lastuse>
+      <lastuse>2024-12-28T17:38:46+01:00</lastuse>
       <lastconfirm>2024-12-28T16:56:47+01:00</lastconfirm>
     </date>
   </event>
