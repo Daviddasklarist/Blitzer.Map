@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15231014532</id>
-    <type>1</type>
-    <speed>20</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Wohlfarth-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.269327</latitude>
-        <longitude>10.887762</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-30T14:47:30+01:00</create>
-      <lastuse>2024-12-30T17:47:30+01:00</lastuse>
-      <lastconfirm>2024-12-30T15:49:37+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15231250678</id>
     <type>1</type>
     <speed>120</speed>
@@ -45,7 +21,7 @@
     <date>
       <create>2024-12-30T15:55:41+01:00</create>
       <lastuse>2024-12-30T19:55:41+01:00</lastuse>
-      <lastconfirm>2024-12-30T16:43:46+01:00</lastconfirm>
+      <lastconfirm>2024-12-30T16:46:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
