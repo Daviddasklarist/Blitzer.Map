@@ -1,27 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15229399667</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
+    <id>15229885580</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
     <address>
-      <zip>86156</zip>
+      <zip>86159</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Karlsruher Straße</street>
+      <street>B17</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.403388</latitude>
-        <longitude>10.863658</longitude>
+        <latitude>48.329316</latitude>
+        <longitude>10.886638</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-30T06:12:49+01:00</create>
-      <lastuse>2025-01-06T09:00:23+01:00</lastuse>
-      <lastconfirm>2024-12-30T08:50:18+01:00</lastconfirm>
+      <create>2024-12-30T09:01:37+01:00</create>
+      <lastuse>2024-12-30T13:01:37+01:00</lastuse>
+      <lastconfirm>2024-12-30T09:07:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15229765841</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.336735</latitude>
+        <longitude>10.907911</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-30T08:20:24+01:00</create>
+      <lastuse>2024-12-30T12:20:24+01:00</lastuse>
+      <lastconfirm>2024-12-30T09:07:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -49,27 +73,27 @@
     </date>
   </event>
   <event>
-    <id>15229765841</id>
+    <id>15229399667</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
-      <zip>86161</zip>
+      <zip>86156</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Haunstetter Straße</street>
+      <street>Karlsruher Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.336735</latitude>
-        <longitude>10.907911</longitude>
+        <latitude>48.403388</latitude>
+        <longitude>10.863658</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-30T08:20:24+01:00</create>
-      <lastuse>2025-01-06T08:45:02+01:00</lastuse>
-      <lastconfirm>2024-12-30T08:40:15+01:00</lastconfirm>
+      <create>2024-12-30T06:12:49+01:00</create>
+      <lastuse>2025-01-06T09:00:23+01:00</lastuse>
+      <lastconfirm>2024-12-30T08:50:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
