@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15229399667</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Karlsruher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403388</latitude>
+        <longitude>10.863658</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-30T06:12:49+01:00</create>
+      <lastuse>2024-12-30T10:50:17+01:00</lastuse>
+      <lastconfirm>2024-12-30T08:50:18+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15229626720</id>
     <type>1</type>
     <speed>30</speed>
