@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15234517812</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86507</zip>
-      <city>Oberottmarshausen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.228441</latitude>
-        <longitude>10.866692</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-31T10:32:57+01:00</create>
-      <lastuse>2024-12-31T19:55:37+01:00</lastuse>
-      <lastconfirm>2024-12-31T17:55:38+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15235787068</id>
     <type>25</type>
     <speed></speed>
@@ -44,8 +20,32 @@
     </location>
     <date>
       <create>2024-12-31T17:37:50+01:00</create>
-      <lastuse>2024-12-31T18:53:38+01:00</lastuse>
-      <lastconfirm>2024-12-31T17:53:39+01:00</lastconfirm>
+      <lastuse>2024-12-31T19:03:36+01:00</lastuse>
+      <lastconfirm>2024-12-31T18:03:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15235836621</id>
+    <type>25</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.616831</latitude>
+        <longitude>10.837677</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-31T17:54:08+01:00</create>
+      <lastuse>2024-12-31T19:03:40+01:00</lastuse>
+      <lastconfirm>2024-12-31T18:03:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
