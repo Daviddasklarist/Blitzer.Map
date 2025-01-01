@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15239162069</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.387028</latitude>
+        <longitude>10.860155</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-01T14:11:44+01:00</create>
+      <lastuse>2025-01-01T16:16:08+01:00</lastuse>
+      <lastconfirm>2025-01-01T14:16:08+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15238885451</id>
     <type>1</type>
     <speed>80</speed>
@@ -20,15 +44,15 @@
     </location>
     <date>
       <create>2025-01-01T12:34:51+01:00</create>
-      <lastuse>2025-01-01T16:10:00+01:00</lastuse>
-      <lastconfirm>2025-01-01T14:10:01+01:00</lastconfirm>
+      <lastuse>2025-01-01T16:16:36+01:00</lastuse>
+      <lastconfirm>2025-01-01T14:16:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15238493800</id>
     <type>1</type>
     <speed>80</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,15 +68,15 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-01T15:08:21+01:00</lastuse>
-      <lastconfirm>2025-01-01T14:08:21+01:00</lastconfirm>
+      <lastuse>2025-01-01T15:43:52+01:00</lastuse>
+      <lastconfirm>2025-01-01T14:13:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15239149519</id>
     <type>23</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-01T14:07:18+01:00</create>
-      <lastuse>2025-01-01T14:42:45+01:00</lastuse>
-      <lastconfirm>2025-01-01T14:12:45+01:00</lastconfirm>
+      <lastuse>2025-01-01T14:47:53+01:00</lastuse>
+      <lastconfirm>2025-01-01T14:17:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
