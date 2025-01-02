@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15245451622</id>
+    <type>7</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.405652</latitude>
+        <longitude>10.874387</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-03T00:30:41+01:00</create>
+      <lastuse>2025-01-03T08:42:19+01:00</lastuse>
+      <lastconfirm>2025-01-03T00:42:20+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15240563340</id>
     <type>7</type>
     <speed>80</speed>
@@ -22,30 +46,6 @@
       <create>2025-01-01T10:06:10+01:00</create>
       <lastuse>2025-01-03T08:35:24+01:00</lastuse>
       <lastconfirm>2025-01-03T00:35:24+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15244351959</id>
-    <type>24</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.414291</latitude>
-        <longitude>10.662931</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-02T18:49:08+01:00</create>
-      <lastuse>2025-01-03T01:05:34+01:00</lastuse>
-      <lastconfirm>2025-01-03T00:05:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
