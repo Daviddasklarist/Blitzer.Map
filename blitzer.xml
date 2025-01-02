@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15242317877</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Hofackerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.312597</latitude>
-        <longitude>10.897397</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-02T09:03:42+01:00</create>
-      <lastuse>2025-01-02T12:41:27+01:00</lastuse>
-      <lastconfirm>2025-01-02T11:11:29+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15242065368</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Aurnhammer-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337249</latitude>
-        <longitude>10.867831</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-02T07:34:02+01:00</create>
-      <lastuse>2025-01-02T13:04:20+01:00</lastuse>
-      <lastconfirm>2025-01-02T11:34:22+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15242945677</id>
     <type>1</type>
     <speed>30</speed>
@@ -97,10 +49,34 @@
     </date>
   </event>
   <event>
+    <id>15242893466</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Senkelbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.374210</latitude>
+        <longitude>10.885945</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-02T12:06:04+01:00</create>
+      <lastuse>2025-01-02T14:33:50+01:00</lastuse>
+      <lastconfirm>2025-01-02T12:33:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15240563340</id>
     <type>7</type>
     <speed>80</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -116,7 +92,7 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-02T20:30:41+01:00</lastuse>
+      <lastuse>2025-01-02T17:30:41+01:00</lastuse>
       <lastconfirm>2025-01-02T12:30:41+01:00</lastconfirm>
     </date>
   </event>
