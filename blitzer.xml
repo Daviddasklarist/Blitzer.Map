@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15248199625</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.369210</latitude>
-        <longitude>10.854600</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-03T15:08:08+01:00</create>
-      <lastuse>2025-01-03T17:08:08+01:00</lastuse>
-      <lastconfirm>2025-01-03T15:19:11+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15247933852</id>
     <type>1</type>
     <speed>50</speed>
@@ -69,7 +45,7 @@
     <date>
       <create>2025-01-03T14:40:57+01:00</create>
       <lastuse>2025-01-03T18:40:57+01:00</lastuse>
-      <lastconfirm>2025-01-03T15:22:13+01:00</lastconfirm>
+      <lastconfirm>2025-01-03T15:24:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,6 +70,30 @@
       <create>2025-01-03T14:27:55+01:00</create>
       <lastuse>2025-01-03T17:10:40+01:00</lastuse>
       <lastconfirm>2025-01-03T15:10:41+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15248061480</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Karlsruher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403375</latitude>
+        <longitude>10.863705</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-03T14:32:12+01:00</create>
+      <lastuse>2025-01-03T17:23:19+01:00</lastuse>
+      <lastconfirm>2025-01-03T15:23:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-03T13:14:02+01:00</create>
-      <lastuse>2025-01-03T17:22:53+01:00</lastuse>
-      <lastconfirm>2025-01-03T15:22:54+01:00</lastconfirm>
+      <lastuse>2025-01-03T17:25:00+01:00</lastuse>
+      <lastconfirm>2025-01-03T15:25:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,7 +164,7 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-03T23:20:38+01:00</lastuse>
+      <lastuse>2025-01-03T22:20:38+01:00</lastuse>
       <lastconfirm>2025-01-03T15:20:40+01:00</lastconfirm>
     </date>
   </event>
@@ -241,12 +241,12 @@
     </date>
   </event>
   <event>
-    <id>15248250209</id>
+    <id>15248274926</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86453</zip>
+      <zip>86316</zip>
       <city>Landkreis Aichach-Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
@@ -254,14 +254,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.367053</latitude>
-        <longitude>11.113322</longitude>
+        <latitude>48.401624</latitude>
+        <longitude>10.975470</longitude>
       </point>
     </location>
     <date>
-      <create>2025-01-03T15:21:01+01:00</create>
-      <lastuse>2025-01-03T15:27:00+01:00</lastuse>
-      <lastconfirm>2025-01-03T15:21:01+01:00</lastconfirm>
+      <create>2025-01-03T15:27:02+01:00</create>
+      <lastuse>2025-01-03T15:33:00+01:00</lastuse>
+      <lastconfirm>2025-01-03T15:27:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
