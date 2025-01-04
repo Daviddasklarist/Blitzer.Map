@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15252154943</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.245755</latitude>
+        <longitude>10.869562</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-04T09:50:35+01:00</create>
+      <lastuse>2025-01-04T13:50:35+01:00</lastuse>
+      <lastconfirm>2025-01-04T10:02:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15252154941</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.245820</latitude>
+        <longitude>10.869567</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-04T09:50:24+01:00</create>
+      <lastuse>2025-01-04T13:50:24+01:00</lastuse>
+      <lastconfirm>2025-01-04T10:02:24+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15251879523</id>
     <type>1</type>
     <speed>40</speed>
@@ -20,7 +68,7 @@
     </location>
     <date>
       <create>2025-01-04T08:29:59+01:00</create>
-      <lastuse>2025-01-04T10:35:04+01:00</lastuse>
+      <lastuse>2025-01-04T10:05:04+01:00</lastuse>
       <lastconfirm>2025-01-04T09:35:05+01:00</lastconfirm>
     </date>
   </event>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-04T09:48:40+01:00</create>
-      <lastuse>2025-01-04T11:57:52+01:00</lastuse>
-      <lastconfirm>2025-01-04T09:57:52+01:00</lastconfirm>
+      <lastuse>2025-01-04T12:03:18+01:00</lastuse>
+      <lastconfirm>2025-01-04T10:03:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-04T17:57:02+01:00</lastuse>
-      <lastconfirm>2025-01-04T09:57:02+01:00</lastconfirm>
+      <lastuse>2025-01-04T18:00:47+01:00</lastuse>
+      <lastconfirm>2025-01-04T10:00:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
