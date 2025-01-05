@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15257208727</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.415196</latitude>
-        <longitude>10.861100</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-05T10:41:21+01:00</create>
-      <lastuse>2025-01-05T12:43:13+01:00</lastuse>
-      <lastconfirm>2025-01-05T10:58:14+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15257213138</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.416492</latitude>
-        <longitude>10.845081</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-05T10:43:03+01:00</create>
-      <lastuse>2025-01-05T12:57:50+01:00</lastuse>
-      <lastconfirm>2025-01-05T10:57:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15257225252</id>
     <type>1</type>
     <speed>120</speed>
@@ -62,14 +14,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.417039</latitude>
-        <longitude>10.838553</longitude>
+        <latitude>48.417153</latitude>
+        <longitude>10.837587</longitude>
       </point>
     </location>
     <date>
       <create>2025-01-05T10:46:28+01:00</create>
-      <lastuse>2025-01-05T12:43:18+01:00</lastuse>
-      <lastconfirm>2025-01-05T10:58:18+01:00</lastconfirm>
+      <lastuse>2025-01-05T14:46:28+01:00</lastuse>
+      <lastconfirm>2025-01-05T11:02:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,7 +44,7 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-05T18:56:58+01:00</lastuse>
+      <lastuse>2025-01-05T16:56:58+01:00</lastuse>
       <lastconfirm>2025-01-05T10:56:58+01:00</lastconfirm>
     </date>
   </event>
