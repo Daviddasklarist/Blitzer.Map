@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15266479170</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86830</zip>
-      <city>Schwabmünchen</city>
-      <state>DE-BY</state>
-      <street>Schwabegger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.177112</latitude>
-        <longitude>10.723211</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-07T07:45:15+01:00</create>
-      <lastuse>2025-01-07T11:00:53+01:00</lastuse>
-      <lastconfirm>2025-01-07T09:00:54+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15266425709</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Postillionstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.305772</latitude>
-        <longitude>10.893753</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-07T07:30:40+01:00</create>
-      <lastuse>2025-01-07T11:26:15+01:00</lastuse>
-      <lastconfirm>2025-01-07T09:56:16+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15266752493</id>
     <type>1</type>
     <speed>30</speed>
@@ -94,6 +46,30 @@
       <create>2025-01-07T06:00:31+01:00</create>
       <lastuse>2025-01-07T12:07:06+01:00</lastuse>
       <lastconfirm>2025-01-07T10:37:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15267195400</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410387</latitude>
+        <longitude>11.087962</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-07T10:49:58+01:00</create>
+      <lastuse>2025-01-07T14:49:58+01:00</lastuse>
+      <lastconfirm>2025-01-07T11:02:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,7 +140,7 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-07T18:57:47+01:00</lastuse>
+      <lastuse>2025-01-07T17:57:47+01:00</lastuse>
       <lastconfirm>2025-01-07T10:57:48+01:00</lastconfirm>
     </date>
   </event>
@@ -188,7 +164,7 @@
     </location>
     <date>
       <create>2025-01-07T09:54:46+01:00</create>
-      <lastuse>2025-01-07T11:41:47+01:00</lastuse>
+      <lastuse>2025-01-07T11:23:47+01:00</lastuse>
       <lastconfirm>2025-01-07T10:41:48+01:00</lastconfirm>
     </date>
   </event>
