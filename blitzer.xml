@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15271265141</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Römerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.340503</latitude>
+        <longitude>11.019924</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-08T05:45:48+01:00</create>
+      <lastuse>2025-01-08T09:17:21+01:00</lastuse>
+      <lastconfirm>2025-01-08T07:17:21+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15240563340</id>
     <type>7</type>
     <speed>80</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-08T15:10:07+01:00</lastuse>
-      <lastconfirm>2025-01-08T07:10:09+01:00</lastconfirm>
+      <lastuse>2025-01-08T15:14:40+01:00</lastuse>
+      <lastconfirm>2025-01-08T07:14:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
