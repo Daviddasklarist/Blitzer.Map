@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15272064142</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86830</zip>
-      <city>Schwabmünchen</city>
-      <state>DE-BY</state>
-      <street>Krumbacher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.198489</latitude>
-        <longitude>10.713321</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-08T09:25:06+01:00</create>
-      <lastuse>2025-01-08T13:17:44+01:00</lastuse>
-      <lastconfirm>2025-01-08T11:17:45+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15272696890</id>
     <type>1</type>
     <speed>30</speed>
@@ -52,7 +28,7 @@
     <id>15272879976</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-01-08T12:46:56+01:00</create>
-      <lastuse>2025-01-08T15:03:25+01:00</lastuse>
-      <lastconfirm>2025-01-08T13:03:25+01:00</lastconfirm>
+      <lastuse>2025-01-08T15:18:56+01:00</lastuse>
+      <lastconfirm>2025-01-08T13:18:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-08T20:15:46+01:00</lastuse>
-      <lastconfirm>2025-01-08T13:15:47+01:00</lastconfirm>
+      <lastuse>2025-01-08T20:22:30+01:00</lastuse>
+      <lastconfirm>2025-01-08T13:22:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
