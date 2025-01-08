@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15271928579</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86830</zip>
+      <city>Schwabmünchen</city>
+      <state>DE-BY</state>
+      <street>Krumbacher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.192118</latitude>
+        <longitude>10.728157</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-08T08:52:31+01:00</create>
+      <lastuse>2025-01-08T12:23:33+01:00</lastuse>
+      <lastconfirm>2025-01-08T10:23:35+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15271715967</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,7 +116,7 @@
     </location>
     <date>
       <create>2025-01-08T06:59:18+01:00</create>
-      <lastuse>2025-01-08T11:52:04+01:00</lastuse>
+      <lastuse>2025-01-08T11:22:04+01:00</lastuse>
       <lastconfirm>2025-01-08T09:52:04+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-01-08T08:27:50+01:00</create>
-      <lastuse>2025-01-08T12:13:15+01:00</lastuse>
-      <lastconfirm>2025-01-08T10:13:15+01:00</lastconfirm>
+      <lastuse>2025-01-08T12:21:18+01:00</lastuse>
+      <lastconfirm>2025-01-08T10:21:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
