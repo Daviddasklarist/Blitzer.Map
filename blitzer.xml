@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15276563610</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Amagasaki-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.366880</latitude>
+        <longitude>10.916695</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-09T05:55:44+01:00</create>
+      <lastuse>2025-01-09T08:36:16+01:00</lastuse>
+      <lastconfirm>2025-01-09T06:36:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15271235084</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-09T14:31:05+01:00</lastuse>
-      <lastconfirm>2025-01-09T06:31:05+01:00</lastconfirm>
+      <lastuse>2025-01-09T14:33:35+01:00</lastuse>
+      <lastconfirm>2025-01-09T06:33:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
