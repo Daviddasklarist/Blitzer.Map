@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15279172256</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86514</zip>
+      <city>Ustersbach</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.317056</latitude>
+        <longitude>10.644979</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-09T16:57:44+01:00</create>
+      <lastuse>2025-01-09T19:19:34+01:00</lastuse>
+      <lastconfirm>2025-01-09T17:19:36+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15278924292</id>
     <type>1</type>
     <speed>50</speed>
@@ -73,6 +97,54 @@
     </date>
   </event>
   <event>
+    <id>15279032266</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.397326</latitude>
+        <longitude>11.071982</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-09T16:26:01+01:00</create>
+      <lastuse>2025-01-09T18:19:19+01:00</lastuse>
+      <lastconfirm>2025-01-09T17:19:20+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15279232654</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401771</latitude>
+        <longitude>10.555310</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-09T17:10:36+01:00</create>
+      <lastuse>2025-01-09T19:21:39+01:00</lastuse>
+      <lastconfirm>2025-01-09T17:21:40+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15278712527</id>
     <type>29</type>
     <speed></speed>
@@ -92,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-09T15:11:26+01:00</create>
-      <lastuse>2025-01-09T19:16:33+01:00</lastuse>
-      <lastconfirm>2025-01-09T17:16:33+01:00</lastconfirm>
+      <lastuse>2025-01-09T19:23:00+01:00</lastuse>
+      <lastconfirm>2025-01-09T17:23:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +308,8 @@
     </location>
     <date>
       <create>2025-01-09T15:38:48+01:00</create>
-      <lastuse>2025-01-10T01:11:33+01:00</lastuse>
-      <lastconfirm>2025-01-09T17:11:34+01:00</lastconfirm>
+      <lastuse>2025-01-10T01:16:15+01:00</lastuse>
+      <lastconfirm>2025-01-09T17:16:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
