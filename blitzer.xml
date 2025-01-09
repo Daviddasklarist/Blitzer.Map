@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15276706341</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Römerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.340873</latitude>
+        <longitude>11.022186</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-09T06:42:35+01:00</create>
+      <lastuse>2025-01-09T09:16:33+01:00</lastuse>
+      <lastconfirm>2025-01-09T07:16:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15276672745</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-01-09T06:31:25+01:00</create>
-      <lastuse>2025-01-09T08:37:22+01:00</lastuse>
-      <lastconfirm>2025-01-09T07:07:22+01:00</lastconfirm>
+      <lastuse>2025-01-09T09:17:46+01:00</lastuse>
+      <lastconfirm>2025-01-09T07:17:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -38,14 +62,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.366880</latitude>
-        <longitude>10.916695</longitude>
+        <latitude>48.366574</latitude>
+        <longitude>10.915805</longitude>
       </point>
     </location>
     <date>
       <create>2025-01-09T05:55:44+01:00</create>
-      <lastuse>2025-01-09T09:08:31+01:00</lastuse>
-      <lastconfirm>2025-01-09T07:08:32+01:00</lastconfirm>
+      <lastuse>2025-01-16T07:16:26+01:00</lastuse>
+      <lastconfirm>2025-01-09T07:14:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-09T06:49:17+01:00</create>
-      <lastuse>2025-01-09T09:11:55+01:00</lastuse>
-      <lastconfirm>2025-01-09T07:11:56+01:00</lastconfirm>
+      <lastuse>2025-01-09T09:17:36+01:00</lastuse>
+      <lastconfirm>2025-01-09T07:17:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-01T10:06:10+01:00</create>
-      <lastuse>2025-01-09T15:01:30+01:00</lastuse>
-      <lastconfirm>2025-01-09T07:01:31+01:00</lastconfirm>
+      <lastuse>2025-01-09T15:16:54+01:00</lastuse>
+      <lastconfirm>2025-01-09T07:16:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
