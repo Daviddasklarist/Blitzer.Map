@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15278272841</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86438</zip>
-      <city>Kissing</city>
-      <state>DE-BY</state>
-      <street>Münchner Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.293895</latitude>
-        <longitude>10.965497</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-09T13:24:36+01:00</create>
-      <lastuse>2025-01-09T16:43:12+01:00</lastuse>
-      <lastconfirm>2025-01-09T15:13:12+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15278042049</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-01-08T05:35:57+01:00</create>
-      <lastuse>2025-01-09T22:56:41+01:00</lastuse>
-      <lastconfirm>2025-01-09T14:56:42+01:00</lastconfirm>
+      <lastuse>2025-01-09T23:23:10+01:00</lastuse>
+      <lastconfirm>2025-01-09T15:23:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,6 +70,30 @@
       <create>2025-01-08T10:12:21+01:00</create>
       <lastuse>2025-01-09T22:44:50+01:00</lastuse>
       <lastconfirm>2025-01-09T14:44:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15278712527</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.408490</latitude>
+        <longitude>10.580179</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-09T15:11:26+01:00</create>
+      <lastuse>2025-01-09T17:23:28+01:00</lastuse>
+      <lastconfirm>2025-01-09T15:23:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
