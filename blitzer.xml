@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15282161938</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bergheimer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.314226</latitude>
-        <longitude>10.850567</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-10T07:35:14+01:00</create>
-      <lastuse>2025-01-10T10:51:16+01:00</lastuse>
-      <lastconfirm>2025-01-10T09:21:16+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15282169249</id>
     <type>1</type>
     <speed>30</speed>
@@ -69,7 +45,7 @@
     <date>
       <create>2025-01-10T08:47:51+01:00</create>
       <lastuse>2025-01-10T12:47:51+01:00</lastuse>
-      <lastconfirm>2025-01-10T10:48:08+01:00</lastconfirm>
+      <lastconfirm>2025-01-10T10:53:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -142,6 +118,30 @@
       <create>2025-01-10T10:02:52+01:00</create>
       <lastuse>2025-01-10T11:17:07+01:00</lastuse>
       <lastconfirm>2025-01-10T10:17:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15282815925</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Adelsried</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417148</latitude>
+        <longitude>10.738410</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-10T10:34:28+01:00</create>
+      <lastuse>2025-01-10T11:21:10+01:00</lastuse>
+      <lastconfirm>2025-01-10T10:51:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
