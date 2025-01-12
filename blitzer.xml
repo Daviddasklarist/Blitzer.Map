@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15293746631</id>
+    <type>2</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.283798</latitude>
+        <longitude>10.874050</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-12T14:57:38+01:00</create>
+      <lastuse>2025-01-12T17:19:11+01:00</lastuse>
+      <lastconfirm>2025-01-12T15:19:12+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15293713786</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,32 +68,8 @@
     </location>
     <date>
       <create>2025-01-12T09:58:59+01:00</create>
-      <lastuse>2025-01-12T17:18:01+01:00</lastuse>
-      <lastconfirm>2025-01-12T15:18:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15293777243</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.397353</latitude>
-        <longitude>10.868244</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-12T15:05:32+01:00</create>
-      <lastuse>2025-01-12T16:43:58+01:00</lastuse>
-      <lastconfirm>2025-01-12T15:14:00+01:00</lastconfirm>
+      <lastuse>2025-01-12T17:22:56+01:00</lastuse>
+      <lastconfirm>2025-01-12T15:22:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-12T10:06:39+01:00</create>
-      <lastuse>2025-01-12T17:13:02+01:00</lastuse>
-      <lastconfirm>2025-01-12T15:13:03+01:00</lastconfirm>
+      <lastuse>2025-01-12T17:21:08+01:00</lastuse>
+      <lastconfirm>2025-01-12T15:21:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,15 +140,15 @@
     </location>
     <date>
       <create>2025-01-12T10:13:46+01:00</create>
-      <lastuse>2025-01-12T17:16:47+01:00</lastuse>
-      <lastconfirm>2025-01-12T15:16:47+01:00</lastconfirm>
+      <lastuse>2025-01-12T16:48:22+01:00</lastuse>
+      <lastconfirm>2025-01-12T15:18:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15292866195</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-12T10:39:21+01:00</create>
-      <lastuse>2025-01-12T16:46:13+01:00</lastuse>
-      <lastconfirm>2025-01-12T15:16:14+01:00</lastconfirm>
+      <lastuse>2025-01-12T17:18:51+01:00</lastuse>
+      <lastconfirm>2025-01-12T15:18:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
