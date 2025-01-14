@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15306057298</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.434018</latitude>
+        <longitude>11.111443</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-14T22:55:46+01:00</create>
+      <lastuse>2025-01-15T01:30:33+01:00</lastuse>
+      <lastconfirm>2025-01-14T23:30:33+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15303726087</id>
     <type>7</type>
     <speed>30</speed>
