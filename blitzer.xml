@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15302152799</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.368361</latitude>
+        <longitude>10.902491</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-14T06:35:36+01:00</create>
+      <lastuse>2025-01-14T12:57:17+01:00</lastuse>
+      <lastconfirm>2025-01-14T10:57:18+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15302060041</id>
     <type>1</type>
     <speed>50</speed>
@@ -86,14 +110,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.355116</latitude>
-        <longitude>10.928251</longitude>
+        <latitude>48.355155</latitude>
+        <longitude>10.927479</longitude>
       </point>
     </location>
     <date>
       <create>2025-01-14T10:27:19+01:00</create>
-      <lastuse>2025-01-14T18:47:27+01:00</lastuse>
-      <lastconfirm>2025-01-14T10:47:27+01:00</lastconfirm>
+      <lastuse>2025-01-21T10:58:06+01:00</lastuse>
+      <lastconfirm>2025-01-14T10:54:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,32 +140,8 @@
     </location>
     <date>
       <create>2025-01-13T14:40:56+01:00</create>
-      <lastuse>2025-01-14T18:43:55+01:00</lastuse>
-      <lastconfirm>2025-01-14T10:43:56+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15302991689</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.311729</latitude>
-        <longitude>10.884403</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-14T10:02:50+01:00</create>
-      <lastuse>2025-01-14T11:00:50+01:00</lastuse>
-      <lastconfirm>2025-01-14T10:45:51+01:00</lastconfirm>
+      <lastuse>2025-01-14T18:56:25+01:00</lastuse>
+      <lastconfirm>2025-01-14T10:56:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-01-14T08:26:30+01:00</create>
-      <lastuse>2025-01-14T18:48:14+01:00</lastuse>
-      <lastconfirm>2025-01-14T10:48:14+01:00</lastconfirm>
+      <lastuse>2025-01-14T18:50:22+01:00</lastuse>
+      <lastconfirm>2025-01-14T10:50:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
