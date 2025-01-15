@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15308785905</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Nagahama-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365748</latitude>
+        <longitude>10.913847</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-15T12:09:51+01:00</create>
+      <lastuse>2025-01-15T14:09:51+01:00</lastuse>
+      <lastconfirm>2025-01-15T12:17:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15307911968</id>
     <type>1</type>
     <speed>100</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-01-15T08:39:58+01:00</create>
-      <lastuse>2025-01-15T14:05:02+01:00</lastuse>
+      <lastuse>2025-01-15T13:35:02+01:00</lastuse>
       <lastconfirm>2025-01-15T12:05:03+01:00</lastconfirm>
     </date>
   </event>
@@ -76,7 +100,7 @@
     <id>15308734841</id>
     <type>1</type>
     <speed>90</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86695</zip>
       <city>Nordendorf</city>
@@ -93,7 +117,7 @@
     <date>
       <create>2025-01-15T11:56:34+01:00</create>
       <lastuse>2025-01-15T14:56:34+01:00</lastuse>
-      <lastconfirm>2025-01-15T12:12:31+01:00</lastconfirm>
+      <lastconfirm>2025-01-15T12:14:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-15T08:28:50+01:00</create>
-      <lastuse>2025-01-15T14:13:10+01:00</lastuse>
-      <lastconfirm>2025-01-15T12:13:11+01:00</lastconfirm>
+      <lastuse>2025-01-15T14:15:38+01:00</lastuse>
+      <lastconfirm>2025-01-15T12:15:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-01-13T14:40:56+01:00</create>
-      <lastuse>2025-01-15T20:12:11+01:00</lastuse>
-      <lastconfirm>2025-01-15T12:12:12+01:00</lastconfirm>
+      <lastuse>2025-01-15T20:15:32+01:00</lastuse>
+      <lastconfirm>2025-01-15T12:15:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-01-15T11:43:50+01:00</create>
-      <lastuse>2025-01-15T13:57:07+01:00</lastuse>
-      <lastconfirm>2025-01-15T11:57:08+01:00</lastconfirm>
+      <lastuse>2025-01-15T14:18:23+01:00</lastuse>
+      <lastconfirm>2025-01-15T12:18:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
