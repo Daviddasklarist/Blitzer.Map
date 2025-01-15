@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15306515705</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Kleinaitingen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.206588</latitude>
+        <longitude>10.857000</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-15T01:23:16+01:00</create>
+      <lastuse>2025-01-15T06:01:36+01:00</lastuse>
+      <lastconfirm>2025-01-15T04:31:36+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15303726087</id>
     <type>7</type>
     <speed>30</speed>
