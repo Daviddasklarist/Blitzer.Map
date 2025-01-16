@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15314670533</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.335782</latitude>
+        <longitude>10.907734</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-16T14:20:08+01:00</create>
+      <lastuse>2025-01-16T17:20:08+01:00</lastuse>
+      <lastconfirm>2025-01-16T14:40:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15313021722</id>
     <type>1</type>
     <speed>70</speed>
