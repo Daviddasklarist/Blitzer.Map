@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15312777861</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ulrich-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.327641</latitude>
+        <longitude>10.907318</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-16T06:40:56+01:00</create>
+      <lastuse>2025-01-16T09:03:49+01:00</lastuse>
+      <lastconfirm>2025-01-16T07:03:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15312662031</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-01-16T06:04:06+01:00</create>
-      <lastuse>2025-01-16T09:02:30+01:00</lastuse>
+      <lastuse>2025-01-16T08:32:30+01:00</lastuse>
       <lastconfirm>2025-01-16T07:02:31+01:00</lastconfirm>
     </date>
   </event>
