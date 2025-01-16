@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15314962468</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-BY</state>
+      <street>Landsberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.185088</latitude>
+        <longitude>10.846113</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-16T15:29:29+01:00</create>
+      <lastuse>2025-01-16T17:37:34+01:00</lastuse>
+      <lastconfirm>2025-01-16T15:37:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15313021722</id>
     <type>1</type>
     <speed>70</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-01-16T11:56:19+01:00</create>
-      <lastuse>2025-01-16T17:20:25+01:00</lastuse>
-      <lastconfirm>2025-01-16T15:20:25+01:00</lastconfirm>
+      <lastuse>2025-01-16T17:37:12+01:00</lastuse>
+      <lastconfirm>2025-01-16T15:37:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
