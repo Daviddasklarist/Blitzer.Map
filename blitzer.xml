@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15313332185</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Lohwaldstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.399045</latitude>
+        <longitude>10.823221</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-16T09:05:06+01:00</create>
+      <lastuse>2025-01-16T13:31:11+01:00</lastuse>
+      <lastconfirm>2025-01-16T11:31:12+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15313021722</id>
     <type>1</type>
     <speed>70</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-13T14:40:56+01:00</create>
-      <lastuse>2025-01-16T19:27:52+01:00</lastuse>
-      <lastconfirm>2025-01-16T11:27:52+01:00</lastconfirm>
+      <lastuse>2025-01-16T19:32:10+01:00</lastuse>
+      <lastconfirm>2025-01-16T11:32:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-16T08:29:45+01:00</create>
-      <lastuse>2025-01-16T12:10:31+01:00</lastuse>
-      <lastconfirm>2025-01-16T11:25:32+01:00</lastconfirm>
+      <lastuse>2025-01-16T12:30:36+01:00</lastuse>
+      <lastconfirm>2025-01-16T11:30:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
