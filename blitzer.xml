@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15312777861</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Ulrich-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.327641</latitude>
-        <longitude>10.907318</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-16T06:40:56+01:00</create>
-      <lastuse>2025-01-16T11:13:50+01:00</lastuse>
-      <lastconfirm>2025-01-16T09:43:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15313021722</id>
     <type>1</type>
     <speed>70</speed>
@@ -140,32 +116,8 @@
     </location>
     <date>
       <create>2025-01-16T08:29:45+01:00</create>
-      <lastuse>2025-01-16T12:00:51+01:00</lastuse>
+      <lastuse>2025-01-16T11:45:51+01:00</lastuse>
       <lastconfirm>2025-01-16T11:00:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15313646753</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.405963</latitude>
-        <longitude>10.567683</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-16T10:20:56+01:00</create>
-      <lastuse>2025-01-16T13:07:41+01:00</lastuse>
-      <lastconfirm>2025-01-16T11:07:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
