@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15315206237</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.368417</latitude>
+        <longitude>10.902380</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-16T16:24:17+01:00</create>
+      <lastuse>2025-01-16T19:00:29+01:00</lastuse>
+      <lastconfirm>2025-01-16T17:00:30+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15314050587</id>
     <type>1</type>
     <speed>100</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-13T14:40:56+01:00</create>
-      <lastuse>2025-01-17T00:57:10+01:00</lastuse>
-      <lastconfirm>2025-01-16T16:57:10+01:00</lastconfirm>
+      <lastuse>2025-01-17T01:00:41+01:00</lastuse>
+      <lastconfirm>2025-01-16T17:00:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-16T15:37:40+01:00</create>
-      <lastuse>2025-01-16T17:27:33+01:00</lastuse>
-      <lastconfirm>2025-01-16T16:57:34+01:00</lastconfirm>
+      <lastuse>2025-01-16T17:30:40+01:00</lastuse>
+      <lastconfirm>2025-01-16T17:00:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-16T16:17:39+01:00</create>
-      <lastuse>2025-01-16T17:27:52+01:00</lastuse>
-      <lastconfirm>2025-01-16T16:57:53+01:00</lastconfirm>
+      <lastuse>2025-01-16T17:32:59+01:00</lastuse>
+      <lastconfirm>2025-01-16T17:03:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-01-16T16:31:21+01:00</create>
-      <lastuse>2025-01-16T17:48:04+01:00</lastuse>
-      <lastconfirm>2025-01-16T16:48:05+01:00</lastconfirm>
+      <lastuse>2025-01-16T18:01:06+01:00</lastuse>
+      <lastconfirm>2025-01-16T17:01:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-01-18T12:32:12+01:00</lastuse>
-      <lastconfirm>2025-01-16T12:32:13+01:00</lastconfirm>
+      <lastuse>2025-01-18T16:58:53+01:00</lastuse>
+      <lastconfirm>2025-01-16T16:58:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
