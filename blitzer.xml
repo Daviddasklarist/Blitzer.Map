@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15318136332</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hohenstaufenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.308514</latitude>
+        <longitude>10.868197</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-17T05:59:18+01:00</create>
+      <lastuse>2025-01-17T08:32:45+01:00</lastuse>
+      <lastconfirm>2025-01-17T06:32:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15303726087</id>
     <type>7</type>
     <speed>30</speed>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-01-18T18:06:01+01:00</lastuse>
-      <lastconfirm>2025-01-16T18:06:01+01:00</lastconfirm>
+      <lastuse>2025-01-19T06:25:59+01:00</lastuse>
+      <lastconfirm>2025-01-17T06:25:59+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
