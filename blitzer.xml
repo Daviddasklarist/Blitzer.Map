@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15319157266</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86415</zip>
+      <city>Mering</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.274013</latitude>
+        <longitude>10.981300</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-17T10:37:22+01:00</create>
+      <lastuse>2025-01-17T14:37:22+01:00</lastuse>
+      <lastconfirm>2025-01-17T11:56:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15318391058</id>
     <type>1</type>
     <speed>30</speed>
@@ -28,7 +52,7 @@
     <id>15319376846</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -45,7 +69,7 @@
     <date>
       <create>2025-01-17T11:30:59+01:00</create>
       <lastuse>2025-01-17T14:30:59+01:00</lastuse>
-      <lastconfirm>2025-01-17T11:49:38+01:00</lastconfirm>
+      <lastconfirm>2025-01-17T11:56:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -69,7 +93,7 @@
     <date>
       <create>2025-01-17T10:10:52+01:00</create>
       <lastuse>2025-01-17T14:10:52+01:00</lastuse>
-      <lastconfirm>2025-01-17T11:45:44+01:00</lastconfirm>
+      <lastconfirm>2025-01-17T11:54:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -148,7 +172,7 @@
     <id>15319022793</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86154</zip>
       <city>Gersthofen</city>
@@ -164,7 +188,7 @@
     </location>
     <date>
       <create>2025-01-17T10:04:16+01:00</create>
-      <lastuse>2025-01-17T13:52:48+01:00</lastuse>
+      <lastuse>2025-01-17T12:52:48+01:00</lastuse>
       <lastconfirm>2025-01-17T11:52:49+01:00</lastconfirm>
     </date>
   </event>
@@ -189,7 +213,7 @@
     <date>
       <create>2025-01-17T09:50:00+01:00</create>
       <lastuse>2025-01-17T13:50:00+01:00</lastuse>
-      <lastconfirm>2025-01-17T11:51:22+01:00</lastconfirm>
+      <lastconfirm>2025-01-17T11:57:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-01-17T07:31:48+01:00</create>
-      <lastuse>2025-01-17T13:52:37+01:00</lastuse>
-      <lastconfirm>2025-01-17T11:52:38+01:00</lastconfirm>
+      <lastuse>2025-01-17T13:57:53+01:00</lastuse>
+      <lastconfirm>2025-01-17T11:57:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
