@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15320175151</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86517</zip>
+      <city>Wehringen</city>
+      <state>DE-BY</state>
+      <street>Waldstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.263440</latitude>
+        <longitude>10.789060</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-17T14:39:05+01:00</create>
+      <lastuse>2025-01-17T18:20:57+01:00</lastuse>
+      <lastconfirm>2025-01-17T16:20:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15320313419</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,32 +44,8 @@
     </location>
     <date>
       <create>2025-01-17T15:10:52+01:00</create>
-      <lastuse>2025-01-17T17:31:44+01:00</lastuse>
-      <lastconfirm>2025-01-17T16:01:45+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15319590824</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Argonstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.369623</latitude>
-        <longitude>10.911022</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-17T12:21:57+01:00</create>
-      <lastuse>2025-01-17T16:21:57+01:00</lastuse>
-      <lastconfirm>2025-01-17T14:52:01+01:00</lastconfirm>
+      <lastuse>2025-01-17T18:22:58+01:00</lastuse>
+      <lastconfirm>2025-01-17T16:22:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-17T15:28:41+01:00</create>
-      <lastuse>2025-01-17T18:08:15+01:00</lastuse>
-      <lastconfirm>2025-01-17T16:08:17+01:00</lastconfirm>
+      <lastuse>2025-01-17T18:22:53+01:00</lastuse>
+      <lastconfirm>2025-01-17T16:22:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-13T14:40:56+01:00</create>
-      <lastuse>2025-01-18T00:18:37+01:00</lastuse>
-      <lastconfirm>2025-01-17T16:18:38+01:00</lastconfirm>
+      <lastuse>2025-01-18T00:22:22+01:00</lastuse>
+      <lastconfirm>2025-01-17T16:22:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,13 +188,13 @@
     </location>
     <date>
       <create>2025-01-17T15:46:38+01:00</create>
-      <lastuse>2025-01-17T16:47:12+01:00</lastuse>
-      <lastconfirm>2025-01-17T16:17:12+01:00</lastconfirm>
+      <lastuse>2025-01-17T16:52:24+01:00</lastuse>
+      <lastconfirm>2025-01-17T16:22:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>15320569673</id>
-    <type>20</type>
+    <id>15320588963</id>
+    <type>29</type>
     <speed></speed>
     <quality>3</quality>
     <address>
@@ -206,14 +206,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.419111</latitude>
-        <longitude>10.816906</longitude>
+        <latitude>48.420131</latitude>
+        <longitude>10.797601</longitude>
       </point>
     </location>
     <date>
-      <create>2025-01-17T16:08:02+01:00</create>
-      <lastuse>2025-01-17T16:23:00+01:00</lastuse>
-      <lastconfirm>2025-01-17T16:08:02+01:00</lastconfirm>
+      <create>2025-01-17T16:13:32+01:00</create>
+      <lastuse>2025-01-17T18:22:20+01:00</lastuse>
+      <lastconfirm>2025-01-17T16:22:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
