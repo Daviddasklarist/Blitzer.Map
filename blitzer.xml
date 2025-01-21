@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15339671529</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86830</zip>
-      <city>Schwabmünchen</city>
-      <state>DE-BY</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.193146</latitude>
-        <longitude>10.754094</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-21T10:40:54+01:00</create>
-      <lastuse>2025-01-21T15:08:21+01:00</lastuse>
-      <lastconfirm>2025-01-21T13:38:22+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15340274857</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-01-21T13:57:20+01:00</create>
-      <lastuse>2025-01-21T16:55:42+01:00</lastuse>
-      <lastconfirm>2025-01-21T14:55:43+01:00</lastconfirm>
+      <lastuse>2025-01-21T17:10:14+01:00</lastuse>
+      <lastconfirm>2025-01-21T15:10:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-21T10:56:24+01:00</create>
-      <lastuse>2025-01-21T22:57:33+01:00</lastuse>
-      <lastconfirm>2025-01-21T14:57:33+01:00</lastconfirm>
+      <lastuse>2025-01-21T23:08:47+01:00</lastuse>
+      <lastconfirm>2025-01-21T15:08:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,32 @@
     </location>
     <date>
       <create>2025-01-21T14:54:00+01:00</create>
-      <lastuse>2025-01-21T15:46:19+01:00</lastuse>
+      <lastuse>2025-01-21T15:31:19+01:00</lastuse>
       <lastconfirm>2025-01-21T15:01:20+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15340753541</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.353238</latitude>
+        <longitude>10.855339</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T14:54:45+01:00</create>
+      <lastuse>2025-01-21T16:10:17+01:00</lastuse>
+      <lastconfirm>2025-01-21T15:10:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-01-21T14:44:16+01:00</create>
-      <lastuse>2025-01-21T15:48:44+01:00</lastuse>
-      <lastconfirm>2025-01-21T15:06:44+01:00</lastconfirm>
+      <lastuse>2025-01-21T15:55:30+01:00</lastuse>
+      <lastconfirm>2025-01-21T15:13:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-01-21T14:46:46+01:00</create>
-      <lastuse>2025-01-21T16:06:50+01:00</lastuse>
-      <lastconfirm>2025-01-21T15:06:51+01:00</lastconfirm>
+      <lastuse>2025-01-21T16:11:23+01:00</lastuse>
+      <lastconfirm>2025-01-21T15:11:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
