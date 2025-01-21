@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15339671529</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86830</zip>
+      <city>Schwabmünchen</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.195427</latitude>
+        <longitude>10.755982</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T10:40:54+01:00</create>
+      <lastuse>2025-01-21T14:04:38+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:04:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15339233407</id>
     <type>2</type>
     <speed></speed>
@@ -46,30 +70,6 @@
       <create>2025-01-21T06:41:23+01:00</create>
       <lastuse>2025-01-21T12:53:57+01:00</lastuse>
       <lastconfirm>2025-01-21T11:53:58+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15339277879</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>St 2510</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.404010</latitude>
-        <longitude>10.604083</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-21T09:07:28+01:00</create>
-      <lastuse>2025-01-21T12:20:41+01:00</lastuse>
-      <lastconfirm>2025-01-21T10:50:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,6 +121,30 @@
     </date>
   </event>
   <event>
+    <id>15339992446</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Nordendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.605767</latitude>
+        <longitude>10.838172</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T11:57:37+01:00</create>
+      <lastuse>2025-01-21T14:57:37+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:08:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15339734943</id>
     <type>7</type>
     <speed>50</speed>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-01-21T10:02:00+01:00</create>
-      <lastuse>2025-01-21T13:00:21+01:00</lastuse>
-      <lastconfirm>2025-01-21T12:00:21+01:00</lastconfirm>
+      <lastuse>2025-01-21T13:05:20+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:05:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -190,6 +214,30 @@
       <create>2025-01-21T10:31:36+01:00</create>
       <lastuse>2025-01-21T12:31:50+01:00</lastuse>
       <lastconfirm>2025-01-21T11:31:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15340013752</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410418</latitude>
+        <longitude>10.915954</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T12:02:24+01:00</create>
+      <lastuse>2025-01-21T14:07:55+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:07:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
