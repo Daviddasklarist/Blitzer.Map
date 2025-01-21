@@ -4,7 +4,7 @@
     <id>15339671529</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86830</zip>
       <city>Schwabmünchen</city>
@@ -20,15 +20,39 @@
     </location>
     <date>
       <create>2025-01-21T10:40:54+01:00</create>
-      <lastuse>2025-01-28T12:30:31+01:00</lastuse>
-      <lastconfirm>2025-01-21T12:04:39+01:00</lastconfirm>
+      <lastuse>2025-01-21T14:43:42+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:43:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15340186642</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337324</latitude>
+        <longitude>10.903032</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T12:42:21+01:00</create>
+      <lastuse>2025-01-21T16:42:21+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:47:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15340009496</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -70,6 +94,30 @@
       <create>2025-01-21T08:57:52+01:00</create>
       <lastuse>2025-01-21T14:32:41+01:00</lastuse>
       <lastconfirm>2025-01-21T12:32:41+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15339803949</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Westheimer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.387686</latitude>
+        <longitude>10.827095</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T11:13:35+01:00</create>
+      <lastuse>2025-01-21T14:43:37+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:43:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +188,8 @@
     </location>
     <date>
       <create>2025-01-21T10:02:00+01:00</create>
-      <lastuse>2025-01-21T13:40:19+01:00</lastuse>
-      <lastconfirm>2025-01-21T12:40:20+01:00</lastconfirm>
+      <lastuse>2025-01-21T13:45:55+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:45:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -286,6 +334,30 @@
       <create>2024-12-21T15:13:27+01:00</create>
       <lastuse>2025-01-23T10:05:28+01:00</lastuse>
       <lastconfirm>2025-01-21T10:05:29+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15339539890</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.633064</latitude>
+        <longitude>10.835529</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T10:07:35+01:00</create>
+      <lastuse>2025-01-21T20:40:29+01:00</lastuse>
+      <lastconfirm>2025-01-21T12:40:30+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
