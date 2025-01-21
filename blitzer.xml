@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15338772286</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Von-Cobres-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.343350</latitude>
+        <longitude>10.869732</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T07:07:12+01:00</create>
+      <lastuse>2025-01-21T09:32:59+01:00</lastuse>
+      <lastconfirm>2025-01-21T07:32:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15338684739</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-01-21T07:06:10+01:00</create>
-      <lastuse>2025-01-21T09:20:57+01:00</lastuse>
-      <lastconfirm>2025-01-21T07:20:58+01:00</lastconfirm>
+      <lastuse>2025-01-21T09:30:17+01:00</lastuse>
+      <lastconfirm>2025-01-21T07:30:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
