@@ -121,10 +121,34 @@
     </date>
   </event>
   <event>
+    <id>15339690520</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.546450</latitude>
+        <longitude>10.852400</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T10:45:51+01:00</create>
+      <lastuse>2025-01-21T13:32:31+01:00</lastuse>
+      <lastconfirm>2025-01-21T11:32:31+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15339734943</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-21T10:56:24+01:00</create>
-      <lastuse>2025-01-21T19:22:24+01:00</lastuse>
-      <lastconfirm>2025-01-21T11:22:26+01:00</lastconfirm>
+      <lastuse>2025-01-21T19:29:32+01:00</lastuse>
+      <lastconfirm>2025-01-21T11:29:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,32 @@
     </location>
     <date>
       <create>2025-01-21T10:02:00+01:00</create>
-      <lastuse>2025-01-21T12:24:11+01:00</lastuse>
-      <lastconfirm>2025-01-21T11:24:11+01:00</lastconfirm>
+      <lastuse>2025-01-21T12:31:39+01:00</lastuse>
+      <lastconfirm>2025-01-21T11:31:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15339631332</id>
+    <type>25</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86415</zip>
+      <city>Mering</city>
+      <state>DE-BY</state>
+      <street>St 2380</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.268422</latitude>
+        <longitude>10.955387</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T10:31:36+01:00</create>
+      <lastuse>2025-01-21T12:31:50+01:00</lastuse>
+      <lastconfirm>2025-01-21T11:31:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +236,8 @@
     </location>
     <date>
       <create>2025-01-21T10:59:56+01:00</create>
-      <lastuse>2025-01-21T12:27:21+01:00</lastuse>
-      <lastconfirm>2025-01-21T11:27:22+01:00</lastconfirm>
+      <lastuse>2025-01-21T12:31:42+01:00</lastuse>
+      <lastconfirm>2025-01-21T11:31:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +380,8 @@
     </location>
     <date>
       <create>2025-01-21T10:07:35+01:00</create>
-      <lastuse>2025-01-21T18:59:42+01:00</lastuse>
-      <lastconfirm>2025-01-21T10:59:42+01:00</lastconfirm>
+      <lastuse>2025-01-21T19:29:26+01:00</lastuse>
+      <lastconfirm>2025-01-21T11:29:26+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
