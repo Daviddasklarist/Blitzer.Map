@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15339035322</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Alter Postweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.342798</latitude>
+        <longitude>10.900292</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-21T08:14:07+01:00</create>
+      <lastuse>2025-01-21T10:48:34+01:00</lastuse>
+      <lastconfirm>2025-01-21T08:48:36+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15338772286</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-01-21T07:07:12+01:00</create>
-      <lastuse>2025-01-21T10:43:24+01:00</lastuse>
+      <lastuse>2025-01-21T10:13:24+01:00</lastuse>
       <lastconfirm>2025-01-21T08:43:25+01:00</lastconfirm>
     </date>
   </event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-01-21T06:41:23+01:00</create>
-      <lastuse>2025-01-21T10:45:34+01:00</lastuse>
-      <lastconfirm>2025-01-21T08:45:35+01:00</lastconfirm>
+      <lastuse>2025-01-21T10:50:09+01:00</lastuse>
+      <lastconfirm>2025-01-21T08:50:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +117,7 @@
     <date>
       <create>2025-01-21T07:06:10+01:00</create>
       <lastuse>2025-01-21T11:06:10+01:00</lastuse>
-      <lastconfirm>2025-01-21T08:46:42+01:00</lastconfirm>
+      <lastconfirm>2025-01-21T08:49:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2025-01-21T07:47:38+01:00</create>
-      <lastuse>2025-01-21T09:41:47+01:00</lastuse>
+      <lastuse>2025-01-21T09:23:47+01:00</lastuse>
       <lastconfirm>2025-01-21T08:41:48+01:00</lastconfirm>
     </date>
   </event>
@@ -172,7 +196,7 @@
     <id>15338972288</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-01-21T07:56:33+01:00</create>
-      <lastuse>2025-01-21T16:44:24+01:00</lastuse>
-      <lastconfirm>2025-01-21T08:44:26+01:00</lastconfirm>
+      <lastuse>2025-01-21T16:45:37+01:00</lastuse>
+      <lastconfirm>2025-01-21T08:45:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
