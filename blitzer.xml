@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15343110908</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.402815</latitude>
+        <longitude>10.920805</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-22T00:45:39+01:00</create>
+      <lastuse>2025-01-22T09:25:00+01:00</lastuse>
+      <lastconfirm>2025-01-22T07:25:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15344343540</id>
     <type>1</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-01-22T07:14:35+01:00</create>
-      <lastuse>2025-01-22T09:20:32+01:00</lastuse>
-      <lastconfirm>2025-01-22T07:20:33+01:00</lastconfirm>
+      <lastuse>2025-01-22T09:27:16+01:00</lastuse>
+      <lastconfirm>2025-01-22T07:27:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-22T06:11:04+01:00</create>
-      <lastuse>2025-01-22T07:48:55+01:00</lastuse>
-      <lastconfirm>2025-01-22T07:18:55+01:00</lastconfirm>
+      <lastuse>2025-01-22T07:56:14+01:00</lastuse>
+      <lastconfirm>2025-01-22T07:26:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
