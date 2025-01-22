@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15344490293</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86399</zip>
-      <city>Bobingen</city>
-      <state>DE-BY</state>
-      <street>Frieda-Forster-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.272957</latitude>
-        <longitude>10.785719</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-22T07:51:16+01:00</create>
-      <lastuse>2025-01-22T10:33:25+01:00</lastuse>
-      <lastconfirm>2025-01-22T09:03:26+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15344592405</id>
     <type>1</type>
     <speed>30</speed>
@@ -140,7 +116,7 @@
     </location>
     <date>
       <create>2025-01-22T10:18:09+01:00</create>
-      <lastuse>2025-01-22T12:32:20+01:00</lastuse>
+      <lastuse>2025-01-22T12:18:09+01:00</lastuse>
       <lastconfirm>2025-01-22T10:32:21+01:00</lastconfirm>
     </date>
   </event>
@@ -172,7 +148,7 @@
     <id>15344475529</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-22T07:48:27+01:00</create>
-      <lastuse>2025-01-22T12:30:03+01:00</lastuse>
-      <lastconfirm>2025-01-22T10:30:04+01:00</lastconfirm>
+      <lastuse>2025-01-22T11:49:55+01:00</lastuse>
+      <lastconfirm>2025-01-22T10:34:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +236,32 @@
     </location>
     <date>
       <create>2025-01-22T08:42:26+01:00</create>
-      <lastuse>2025-01-22T11:29:14+01:00</lastuse>
-      <lastconfirm>2025-01-22T10:29:14+01:00</lastconfirm>
+      <lastuse>2025-01-22T11:20:32+01:00</lastuse>
+      <lastconfirm>2025-01-22T10:35:33+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15345147387</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.406278</latitude>
+        <longitude>10.569218</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-22T10:26:47+01:00</create>
+      <lastuse>2025-01-22T11:06:28+01:00</lastuse>
+      <lastconfirm>2025-01-22T10:36:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +332,8 @@
     </location>
     <date>
       <create>2024-12-29T15:15:11+01:00</create>
-      <lastuse>2025-01-24T08:39:18+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:39:19+01:00</lastconfirm>
+      <lastuse>2025-01-24T10:31:46+01:00</lastuse>
+      <lastconfirm>2025-01-22T10:31:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
