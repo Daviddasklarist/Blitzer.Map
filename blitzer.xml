@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15344268141</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Firnhaberstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.346352</latitude>
+        <longitude>10.894665</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-22T06:52:27+01:00</create>
+      <lastuse>2025-01-22T10:32:09+01:00</lastuse>
+      <lastconfirm>2025-01-22T08:32:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15344487105</id>
     <type>1</type>
     <speed>30</speed>
@@ -45,7 +69,7 @@
     <date>
       <create>2025-01-22T07:48:27+01:00</create>
       <lastuse>2025-01-22T11:48:27+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:28:28+01:00</lastconfirm>
+      <lastconfirm>2025-01-22T08:32:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -73,34 +97,10 @@
     </date>
   </event>
   <event>
-    <id>15344133088</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.406007</latitude>
-        <longitude>10.567804</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-22T06:11:04+01:00</create>
-      <lastuse>2025-01-22T08:31:14+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:16:14+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15344498512</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2025-01-22T07:53:28+01:00</create>
-      <lastuse>2025-01-22T09:19:26+01:00</lastuse>
+      <lastuse>2025-01-22T08:43:26+01:00</lastuse>
       <lastconfirm>2025-01-22T08:19:26+01:00</lastconfirm>
     </date>
   </event>
