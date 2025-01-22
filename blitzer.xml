@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15344490293</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Frieda-Forster-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.272957</latitude>
+        <longitude>10.785719</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-22T07:51:16+01:00</create>
+      <lastuse>2025-01-22T11:03:25+01:00</lastuse>
+      <lastconfirm>2025-01-22T09:03:26+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15344268141</id>
     <type>1</type>
     <speed>30</speed>
@@ -69,7 +93,7 @@
     <date>
       <create>2025-01-22T07:48:27+01:00</create>
       <lastuse>2025-01-22T11:48:27+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:58:27+01:00</lastconfirm>
+      <lastconfirm>2025-01-22T09:02:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-22T08:25:52+01:00</create>
-      <lastuse>2025-01-22T10:58:36+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:58:36+01:00</lastconfirm>
+      <lastuse>2025-01-22T11:03:23+01:00</lastuse>
+      <lastconfirm>2025-01-22T09:03:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-22T08:42:26+01:00</create>
-      <lastuse>2025-01-22T09:56:36+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:56:36+01:00</lastconfirm>
+      <lastuse>2025-01-22T10:01:57+01:00</lastuse>
+      <lastconfirm>2025-01-22T09:01:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
