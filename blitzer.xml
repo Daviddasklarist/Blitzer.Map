@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15344858684</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Friedrich-Ebert-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337721</latitude>
-        <longitude>10.875563</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-22T09:18:50+01:00</create>
-      <lastuse>2025-01-22T14:08:51+01:00</lastuse>
-      <lastconfirm>2025-01-22T13:08:53+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15345603068</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,15 +68,15 @@
     </location>
     <date>
       <create>2025-01-22T11:58:22+01:00</create>
-      <lastuse>2025-01-22T16:00:56+01:00</lastuse>
-      <lastconfirm>2025-01-22T14:00:56+01:00</lastconfirm>
+      <lastuse>2025-01-22T16:13:42+01:00</lastuse>
+      <lastconfirm>2025-01-22T14:13:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15345804627</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -117,7 +93,7 @@
     <date>
       <create>2025-01-22T13:01:43+01:00</create>
       <lastuse>2025-01-22T17:01:43+01:00</lastuse>
-      <lastconfirm>2025-01-22T14:03:46+01:00</lastconfirm>
+      <lastconfirm>2025-01-22T14:13:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -196,7 +172,7 @@
     <id>15344800943</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -212,7 +188,7 @@
     </location>
     <date>
       <create>2025-01-22T09:00:09+01:00</create>
-      <lastuse>2025-01-22T19:38:55+01:00</lastuse>
+      <lastuse>2025-01-22T17:38:55+01:00</lastuse>
       <lastconfirm>2025-01-22T09:00:09+01:00</lastconfirm>
     </date>
   </event>
