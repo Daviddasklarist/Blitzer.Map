@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15344487105</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schertlinstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.353981</latitude>
+        <longitude>10.888927</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-22T07:50:38+01:00</create>
+      <lastuse>2025-01-22T10:12:06+01:00</lastuse>
+      <lastconfirm>2025-01-22T08:12:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15344475529</id>
     <type>1</type>
     <speed>120</speed>
@@ -21,7 +45,7 @@
     <date>
       <create>2025-01-22T07:48:27+01:00</create>
       <lastuse>2025-01-22T11:48:27+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:06:05+01:00</lastconfirm>
+      <lastconfirm>2025-01-22T08:11:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,32 +92,8 @@
     </location>
     <date>
       <create>2025-01-22T06:11:04+01:00</create>
-      <lastuse>2025-01-22T08:35:01+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:05:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15344498941</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>89343</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.400122</latitude>
-        <longitude>10.548601</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-22T07:54:57+01:00</create>
-      <lastuse>2025-01-22T10:08:51+01:00</lastuse>
-      <lastconfirm>2025-01-22T08:08:52+01:00</lastconfirm>
+      <lastuse>2025-01-22T08:40:54+01:00</lastuse>
+      <lastconfirm>2025-01-22T08:10:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
