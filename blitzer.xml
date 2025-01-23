@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15349697531</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Aurnhammer-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337284</latitude>
+        <longitude>10.867808</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-23T06:43:19+01:00</create>
+      <lastuse>2025-01-23T09:10:55+01:00</lastuse>
+      <lastconfirm>2025-01-23T07:10:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15349676963</id>
     <type>1</type>
     <speed>30</speed>
@@ -22,6 +46,30 @@
       <create>2025-01-23T06:36:16+01:00</create>
       <lastuse>2025-01-23T09:36:16+01:00</lastuse>
       <lastconfirm>2025-01-23T07:08:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15349758198</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hans-Böckler-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383368</latitude>
+        <longitude>10.906636</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-23T07:00:31+01:00</create>
+      <lastuse>2025-01-23T09:11:37+01:00</lastuse>
+      <lastconfirm>2025-01-23T07:11:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,32 +140,8 @@
     </location>
     <date>
       <create>2025-01-23T03:46:54+01:00</create>
-      <lastuse>2025-01-23T09:07:08+01:00</lastuse>
-      <lastconfirm>2025-01-23T07:07:08+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15349747763</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.409153</latitude>
-        <longitude>10.584262</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-23T06:58:16+01:00</create>
-      <lastuse>2025-01-23T09:07:32+01:00</lastuse>
-      <lastconfirm>2025-01-23T07:07:33+01:00</lastconfirm>
+      <lastuse>2025-01-23T08:39:42+01:00</lastuse>
+      <lastconfirm>2025-01-23T07:09:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
