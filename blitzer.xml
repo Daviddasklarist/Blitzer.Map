@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15350717853</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-BY</state>
-      <street>Westheimer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.387639</latitude>
-        <longitude>10.825297</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-23T11:00:58+01:00</create>
-      <lastuse>2025-01-23T14:07:07+01:00</lastuse>
-      <lastconfirm>2025-01-23T12:37:08+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15350784450</id>
     <type>1</type>
     <speed>90</speed>
@@ -49,27 +25,27 @@
     </date>
   </event>
   <event>
-    <id>15350949983</id>
+    <id>15351074238</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
+      <zip>86157</zip>
+      <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Hadubertstraße</street>
+      <street>Augsburger Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.394196</latitude>
-        <longitude>10.995611</longitude>
+        <latitude>48.363623</latitude>
+        <longitude>10.873507</longitude>
       </point>
     </location>
     <date>
-      <create>2025-01-23T11:56:31+01:00</create>
-      <lastuse>2025-01-23T14:31:40+01:00</lastuse>
-      <lastconfirm>2025-01-23T12:31:40+01:00</lastconfirm>
+      <create>2025-01-23T12:25:03+01:00</create>
+      <lastuse>2025-01-23T15:22:47+01:00</lastuse>
+      <lastconfirm>2025-01-23T13:22:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,32 +68,56 @@
     </location>
     <date>
       <create>2025-01-23T12:04:04+01:00</create>
-      <lastuse>2025-01-23T15:55:52+01:00</lastuse>
-      <lastconfirm>2025-01-23T13:55:52+01:00</lastconfirm>
+      <lastuse>2025-01-23T16:03:04+01:00</lastuse>
+      <lastconfirm>2025-01-23T14:03:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>15351074238</id>
+    <id>15350717853</id>
     <type>1</type>
     <speed>30</speed>
     <quality>3</quality>
     <address>
-      <zip>86157</zip>
-      <city>Augsburg</city>
+      <zip>86356</zip>
+      <city>Neusäß</city>
       <state>DE-BY</state>
-      <street>Augsburger Straße</street>
+      <street>Westheimer Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.363623</latitude>
-        <longitude>10.873507</longitude>
+        <latitude>48.387639</latitude>
+        <longitude>10.825297</longitude>
       </point>
     </location>
     <date>
-      <create>2025-01-23T12:25:03+01:00</create>
-      <lastuse>2025-01-23T15:22:47+01:00</lastuse>
-      <lastconfirm>2025-01-23T13:22:48+01:00</lastconfirm>
+      <create>2025-01-23T11:00:58+01:00</create>
+      <lastuse>2025-01-23T14:07:07+01:00</lastuse>
+      <lastconfirm>2025-01-23T12:37:08+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15350949983</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Hadubertstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.394196</latitude>
+        <longitude>10.995611</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-23T11:56:31+01:00</create>
+      <lastuse>2025-01-23T14:31:40+01:00</lastuse>
+      <lastconfirm>2025-01-23T12:31:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-23T12:38:03+01:00</create>
-      <lastuse>2025-01-23T14:31:08+01:00</lastuse>
-      <lastconfirm>2025-01-23T14:01:09+01:00</lastconfirm>
+      <lastuse>2025-01-23T14:32:01+01:00</lastuse>
+      <lastconfirm>2025-01-23T14:02:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -217,27 +217,27 @@
     </date>
   </event>
   <event>
-    <id>15189056799</id>
+    <id>15226877501</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>89420</zip>
-      <city>Höchstädt an der Donau</city>
+      <zip>86199</zip>
+      <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>Donauwörther Straße</street>
+      <street>Peter-Dörfler-Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.617226</latitude>
-        <longitude>10.567626</longitude>
+        <latitude>48.348041</latitude>
+        <longitude>10.880894</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-01-25T12:43:39+01:00</lastuse>
-      <lastconfirm>2025-01-23T12:43:40+01:00</lastconfirm>
+      <create>2024-12-29T16:25:43+01:00</create>
+      <lastuse>2025-01-25T13:55:13+01:00</lastuse>
+      <lastconfirm>2025-01-23T13:55:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -265,27 +265,27 @@
     </date>
   </event>
   <event>
-    <id>15226877501</id>
+    <id>15189056799</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
+      <zip>89420</zip>
+      <city>Höchstädt an der Donau</city>
       <state>DE-HH</state>
-      <street>Peter-Dörfler-Straße</street>
+      <street>Donauwörther Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.348041</latitude>
-        <longitude>10.880894</longitude>
+        <latitude>48.617226</latitude>
+        <longitude>10.567626</longitude>
       </point>
     </location>
     <date>
-      <create>2024-12-29T16:25:43+01:00</create>
-      <lastuse>2025-01-25T13:55:13+01:00</lastuse>
-      <lastconfirm>2025-01-23T13:55:14+01:00</lastconfirm>
+      <create>2024-12-21T15:13:27+01:00</create>
+      <lastuse>2025-01-25T12:43:39+01:00</lastuse>
+      <lastconfirm>2025-01-23T12:43:40+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
