@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15350784450</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86459</zip>
+      <city>Gessertshausen</city>
+      <state>DE-BY</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.325951</latitude>
+        <longitude>10.707551</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-23T11:16:04+01:00</create>
+      <lastuse>2025-01-23T13:52:43+01:00</lastuse>
+      <lastconfirm>2025-01-23T11:52:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15349676963</id>
     <type>1</type>
     <speed>30</speed>
@@ -94,6 +118,30 @@
       <create>2025-01-21T10:56:24+01:00</create>
       <lastuse>2025-01-23T19:38:34+01:00</lastuse>
       <lastconfirm>2025-01-23T11:38:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15350864376</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.323132</latitude>
+        <longitude>10.887914</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-23T11:35:06+01:00</create>
+      <lastuse>2025-01-23T12:51:14+01:00</lastuse>
+      <lastconfirm>2025-01-23T11:51:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
