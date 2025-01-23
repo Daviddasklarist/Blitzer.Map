@@ -49,30 +49,6 @@
     </date>
   </event>
   <event>
-    <id>15349676963</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Wertachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.378053</latitude>
-        <longitude>10.886577</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-23T06:36:16+01:00</create>
-      <lastuse>2025-01-23T12:46:38+01:00</lastuse>
-      <lastconfirm>2025-01-23T11:16:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15350717853</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-23T07:26:15+01:00</create>
-      <lastuse>2025-01-23T14:33:39+01:00</lastuse>
-      <lastconfirm>2025-01-23T12:33:39+01:00</lastconfirm>
+      <lastuse>2025-01-23T14:44:30+01:00</lastuse>
+      <lastconfirm>2025-01-23T12:44:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -166,6 +142,30 @@
       <create>2025-01-21T10:56:24+01:00</create>
       <lastuse>2025-01-23T19:38:34+01:00</lastuse>
       <lastconfirm>2025-01-23T11:38:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15351123373</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.375447</latitude>
+        <longitude>11.094407</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-23T12:38:03+01:00</create>
+      <lastuse>2025-01-23T13:16:52+01:00</lastuse>
+      <lastconfirm>2025-01-23T12:46:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-01-25T12:35:42+01:00</lastuse>
-      <lastconfirm>2025-01-23T12:35:43+01:00</lastconfirm>
+      <lastuse>2025-01-25T12:43:39+01:00</lastuse>
+      <lastconfirm>2025-01-23T12:43:40+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
