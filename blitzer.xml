@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15349676963</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378053</latitude>
+        <longitude>10.886577</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-23T06:36:16+01:00</create>
+      <lastuse>2025-01-23T09:36:16+01:00</lastuse>
+      <lastconfirm>2025-01-23T07:08:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15349399671</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-01-21T10:56:24+01:00</create>
-      <lastuse>2025-01-23T14:47:22+01:00</lastuse>
-      <lastconfirm>2025-01-23T06:47:23+01:00</lastconfirm>
+      <lastuse>2025-01-23T15:08:02+01:00</lastuse>
+      <lastconfirm>2025-01-23T07:08:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,15 +92,15 @@
     </location>
     <date>
       <create>2025-01-23T03:46:54+01:00</create>
-      <lastuse>2025-01-23T08:59:38+01:00</lastuse>
-      <lastconfirm>2025-01-23T06:59:39+01:00</lastconfirm>
+      <lastuse>2025-01-23T09:07:08+01:00</lastuse>
+      <lastconfirm>2025-01-23T07:07:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15349747763</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-23T06:58:16+01:00</create>
-      <lastuse>2025-01-23T09:02:06+01:00</lastuse>
-      <lastconfirm>2025-01-23T07:02:07+01:00</lastconfirm>
+      <lastuse>2025-01-23T09:07:32+01:00</lastuse>
+      <lastconfirm>2025-01-23T07:07:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
