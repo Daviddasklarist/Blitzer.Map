@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15355130572</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Luitpoldstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.351290</latitude>
+        <longitude>10.978716</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-24T06:44:51+01:00</create>
+      <lastuse>2025-01-24T09:17:29+01:00</lastuse>
+      <lastconfirm>2025-01-24T07:17:30+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15339734943</id>
     <type>7</type>
     <speed>50</speed>
@@ -22,30 +46,6 @@
       <create>2025-01-21T10:56:24+01:00</create>
       <lastuse>2025-01-24T15:08:40+01:00</lastuse>
       <lastconfirm>2025-01-24T07:08:42+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15355089934</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.414641</latitude>
-        <longitude>10.663423</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-24T06:30:44+01:00</create>
-      <lastuse>2025-01-24T09:13:12+01:00</lastuse>
-      <lastconfirm>2025-01-24T07:13:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
