@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15357045131</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Unterer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.373961</latitude>
+        <longitude>10.901571</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-24T14:34:49+01:00</create>
+      <lastuse>2025-01-24T17:01:09+01:00</lastuse>
+      <lastconfirm>2025-01-24T15:31:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15356795720</id>
     <type>2</type>
     <speed></speed>
@@ -68,7 +92,7 @@
     </location>
     <date>
       <create>2025-01-24T15:07:26+01:00</create>
-      <lastuse>2025-01-24T16:28:21+01:00</lastuse>
+      <lastuse>2025-01-24T15:58:21+01:00</lastuse>
       <lastconfirm>2025-01-24T15:28:22+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-24T14:53:36+01:00</create>
-      <lastuse>2025-01-24T15:52:21+01:00</lastuse>
-      <lastconfirm>2025-01-24T15:10:22+01:00</lastconfirm>
+      <lastuse>2025-01-24T16:30:57+01:00</lastuse>
+      <lastconfirm>2025-01-24T15:30:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,32 @@
     </location>
     <date>
       <create>2025-01-24T14:57:51+01:00</create>
-      <lastuse>2025-01-24T16:23:32+01:00</lastuse>
-      <lastconfirm>2025-01-24T15:23:33+01:00</lastconfirm>
+      <lastuse>2025-01-24T16:30:52+01:00</lastuse>
+      <lastconfirm>2025-01-24T15:30:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15357244107</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413903</latitude>
+        <longitude>10.872013</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-24T15:22:03+01:00</create>
+      <lastuse>2025-01-24T16:33:31+01:00</lastuse>
+      <lastconfirm>2025-01-24T15:33:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
