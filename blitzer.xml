@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15366671633</id>
+    <type>1</type>
+    <speed>40</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362004</latitude>
+        <longitude>10.852790</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-26T12:09:40+01:00</create>
+      <lastuse>2025-01-26T16:09:40+01:00</lastuse>
+      <lastconfirm>2025-01-26T12:17:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15366208963</id>
     <type>1</type>
-    <speed>80</speed>
+    <speed>70</speed>
     <quality>3</quality>
     <address>
       <zip>86169</zip>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-01-26T09:46:16+01:00</create>
-      <lastuse>2025-01-26T14:13:01+01:00</lastuse>
+      <lastuse>2025-02-02T12:17:21+01:00</lastuse>
       <lastconfirm>2025-01-26T12:13:01+01:00</lastconfirm>
     </date>
   </event>
@@ -44,15 +68,15 @@
     </location>
     <date>
       <create>2025-01-26T09:06:03+01:00</create>
-      <lastuse>2025-01-26T13:42:30+01:00</lastuse>
-      <lastconfirm>2025-01-26T12:12:31+01:00</lastconfirm>
+      <lastuse>2025-01-26T13:32:24+01:00</lastuse>
+      <lastconfirm>2025-01-26T12:17:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15366228302</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Gersthofen</city>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-26T09:53:15+01:00</create>
-      <lastuse>2025-01-26T13:42:08+01:00</lastuse>
-      <lastconfirm>2025-01-26T12:12:08+01:00</lastconfirm>
+      <lastuse>2025-01-26T14:16:50+01:00</lastuse>
+      <lastconfirm>2025-01-26T12:16:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-21T10:56:24+01:00</create>
-      <lastuse>2025-01-26T20:11:35+01:00</lastuse>
-      <lastconfirm>2025-01-26T12:11:36+01:00</lastconfirm>
+      <lastuse>2025-01-26T20:16:42+01:00</lastuse>
+      <lastconfirm>2025-01-26T12:16:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-26T12:02:45+01:00</create>
-      <lastuse>2025-01-26T14:11:04+01:00</lastuse>
-      <lastconfirm>2025-01-26T12:11:05+01:00</lastconfirm>
+      <lastuse>2025-01-26T14:17:22+01:00</lastuse>
+      <lastconfirm>2025-01-26T12:17:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
