@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15371541436</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86830</zip>
+      <city>Schwabmünchen</city>
+      <state>DE-BY</state>
+      <street>Kaufbeurer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.169552</latitude>
+        <longitude>10.756365</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-27T11:25:23+01:00</create>
+      <lastuse>2025-01-27T15:25:23+01:00</lastuse>
+      <lastconfirm>2025-01-27T12:10:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15371389846</id>
     <type>6</type>
     <speed></speed>
@@ -21,7 +45,7 @@
     <date>
       <create>2025-01-27T10:49:42+01:00</create>
       <lastuse>2025-01-27T14:49:42+01:00</lastuse>
-      <lastconfirm>2025-01-27T11:55:26+01:00</lastconfirm>
+      <lastconfirm>2025-01-27T12:09:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-27T06:21:38+01:00</create>
-      <lastuse>2025-01-27T14:00:23+01:00</lastuse>
-      <lastconfirm>2025-01-27T12:00:24+01:00</lastconfirm>
+      <lastuse>2025-01-27T14:08:26+01:00</lastuse>
+      <lastconfirm>2025-01-27T12:08:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,7 +116,7 @@
     </location>
     <date>
       <create>2025-01-27T06:36:00+01:00</create>
-      <lastuse>2025-01-27T13:46:42+01:00</lastuse>
+      <lastuse>2025-01-27T13:16:42+01:00</lastuse>
       <lastconfirm>2025-01-27T11:46:43+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-01-25T18:59:32+01:00</create>
-      <lastuse>2025-01-29T09:42:03+01:00</lastuse>
-      <lastconfirm>2025-01-27T09:42:03+01:00</lastconfirm>
+      <lastuse>2025-01-29T12:06:08+01:00</lastuse>
+      <lastconfirm>2025-01-27T12:06:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2025-01-27T11:00:10+01:00</create>
-      <lastuse>2025-01-27T19:42:57+01:00</lastuse>
-      <lastconfirm>2025-01-27T11:42:58+01:00</lastconfirm>
+      <lastuse>2025-01-27T20:06:39+01:00</lastuse>
+      <lastconfirm>2025-01-27T12:06:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
