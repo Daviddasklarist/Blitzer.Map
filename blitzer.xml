@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15372112173</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Lechstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.273548</latitude>
+        <longitude>10.901364</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-27T13:40:28+01:00</create>
+      <lastuse>2025-01-27T18:02:41+01:00</lastuse>
+      <lastconfirm>2025-01-27T16:02:41+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15372371838</id>
     <type>1</type>
     <speed>40</speed>
@@ -49,30 +73,6 @@
     </date>
   </event>
   <event>
-    <id>15371677453</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86150</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Stettenstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.360048</latitude>
-        <longitude>10.895913</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-27T11:58:16+01:00</create>
-      <lastuse>2025-01-27T16:02:14+01:00</lastuse>
-      <lastconfirm>2025-01-27T15:32:15+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15372324794</id>
     <type>1</type>
     <speed>100</speed>
@@ -93,7 +93,7 @@
     <date>
       <create>2025-01-27T14:31:50+01:00</create>
       <lastuse>2025-01-27T18:31:50+01:00</lastuse>
-      <lastconfirm>2025-01-27T15:54:44+01:00</lastconfirm>
+      <lastconfirm>2025-01-27T15:59:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -196,7 +196,7 @@
     <id>15372584620</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-01-27T15:33:41+01:00</create>
-      <lastuse>2025-01-27T16:35:26+01:00</lastuse>
-      <lastconfirm>2025-01-27T15:53:27+01:00</lastconfirm>
+      <lastuse>2025-01-27T17:01:10+01:00</lastuse>
+      <lastconfirm>2025-01-27T16:01:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +308,8 @@
     </location>
     <date>
       <create>2024-12-29T15:15:11+01:00</create>
-      <lastuse>2025-01-29T15:01:18+01:00</lastuse>
-      <lastconfirm>2025-01-27T15:01:18+01:00</lastconfirm>
+      <lastuse>2025-01-29T15:58:59+01:00</lastuse>
+      <lastconfirm>2025-01-27T15:59:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
