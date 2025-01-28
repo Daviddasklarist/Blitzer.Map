@@ -62,13 +62,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.378589</latitude>
-        <longitude>10.882910</longitude>
+        <latitude>48.378329</latitude>
+        <longitude>10.884600</longitude>
       </point>
     </location>
     <date>
       <create>2025-01-28T06:47:06+01:00</create>
-      <lastuse>2025-01-28T10:52:11+01:00</lastuse>
+      <lastuse>2025-02-04T08:57:50+01:00</lastuse>
       <lastconfirm>2025-01-28T08:52:11+01:00</lastconfirm>
     </date>
   </event>
@@ -97,82 +97,10 @@
     </date>
   </event>
   <event>
-    <id>15375980386</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.271258</latitude>
-        <longitude>10.868157</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-28T07:53:12+01:00</create>
-      <lastuse>2025-01-28T09:33:51+01:00</lastuse>
-      <lastconfirm>2025-01-28T08:33:52+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15375913110</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.277871</latitude>
-        <longitude>10.870350</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-28T07:35:37+01:00</create>
-      <lastuse>2025-01-28T09:34:52+01:00</lastuse>
-      <lastconfirm>2025-01-28T08:34:52+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15375860899</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.292206</latitude>
-        <longitude>10.875950</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-28T07:21:48+01:00</create>
-      <lastuse>2025-01-28T09:36:44+01:00</lastuse>
-      <lastconfirm>2025-01-28T08:36:45+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15375762091</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -188,8 +116,80 @@
     </location>
     <date>
       <create>2025-01-28T06:53:28+01:00</create>
-      <lastuse>2025-01-28T09:52:50+01:00</lastuse>
+      <lastuse>2025-01-28T09:34:50+01:00</lastuse>
       <lastconfirm>2025-01-28T08:52:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15375860899</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.292206</latitude>
+        <longitude>10.875950</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-28T07:21:48+01:00</create>
+      <lastuse>2025-01-28T09:01:58+01:00</lastuse>
+      <lastconfirm>2025-01-28T08:56:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15375913110</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.277871</latitude>
+        <longitude>10.870350</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-28T07:35:37+01:00</create>
+      <lastuse>2025-01-28T09:01:00+01:00</lastuse>
+      <lastconfirm>2025-01-28T08:55:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15375980386</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.271258</latitude>
+        <longitude>10.868157</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-28T07:53:12+01:00</create>
+      <lastuse>2025-01-28T09:00:37+01:00</lastuse>
+      <lastconfirm>2025-01-28T08:54:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
