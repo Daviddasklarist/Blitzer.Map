@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15377607591</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Landsberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.260192</latitude>
+        <longitude>10.883851</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-28T14:18:59+01:00</create>
+      <lastuse>2025-01-28T17:18:59+01:00</lastuse>
+      <lastconfirm>2025-01-28T15:16:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15377040987</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-01-28T12:07:16+01:00</create>
-      <lastuse>2025-01-28T15:48:15+01:00</lastuse>
+      <lastuse>2025-01-28T15:18:15+01:00</lastuse>
       <lastconfirm>2025-01-28T14:18:16+01:00</lastconfirm>
     </date>
   </event>
