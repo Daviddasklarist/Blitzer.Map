@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15381223545</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86504</zip>
+      <city>Merching</city>
+      <state>DE-BY</state>
+      <street>St 2380</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.266517</latitude>
+        <longitude>10.935848</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-29T06:52:13+01:00</create>
+      <lastuse>2025-01-29T09:06:53+01:00</lastuse>
+      <lastconfirm>2025-01-29T07:06:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15381223547</id>
     <type>1</type>
     <speed>60</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-29T05:58:15+01:00</create>
-      <lastuse>2025-01-29T08:56:23+01:00</lastuse>
-      <lastconfirm>2025-01-29T06:56:24+01:00</lastconfirm>
+      <lastuse>2025-01-29T09:06:35+01:00</lastuse>
+      <lastconfirm>2025-01-29T07:06:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
