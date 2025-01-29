@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15383158283</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Wohlfarth-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.273233</latitude>
+        <longitude>10.889496</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-29T14:18:58+01:00</create>
+      <lastuse>2025-01-29T17:13:39+01:00</lastuse>
+      <lastconfirm>2025-01-29T15:13:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15383242218</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,32 @@
     </location>
     <date>
       <create>2025-01-29T14:36:52+01:00</create>
-      <lastuse>2025-01-29T16:31:16+01:00</lastuse>
+      <lastuse>2025-01-29T16:01:16+01:00</lastuse>
       <lastconfirm>2025-01-29T15:01:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15383148261</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Lechhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.374601</latitude>
+        <longitude>10.912297</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-29T14:15:50+01:00</create>
+      <lastuse>2025-01-29T17:15:50+01:00</lastuse>
+      <lastconfirm>2025-01-29T15:14:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2025-01-29T14:22:31+01:00</create>
-      <lastuse>2025-01-29T17:11:13+01:00</lastuse>
-      <lastconfirm>2025-01-29T15:11:15+01:00</lastconfirm>
+      <lastuse>2025-01-29T17:17:27+01:00</lastuse>
+      <lastconfirm>2025-01-29T15:17:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-29T11:43:45+01:00</create>
-      <lastuse>2025-01-29T15:43:45+01:00</lastuse>
-      <lastconfirm>2025-01-29T14:26:54+01:00</lastconfirm>
+      <lastuse>2025-01-29T17:14:57+01:00</lastuse>
+      <lastconfirm>2025-01-29T15:14:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,30 +142,6 @@
       <create>2025-01-29T05:43:11+01:00</create>
       <lastuse>2025-01-29T20:37:25+01:00</lastuse>
       <lastconfirm>2025-01-29T13:37:26+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15383146137</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.420058</latitude>
-        <longitude>10.682365</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-29T14:16:00+01:00</create>
-      <lastuse>2025-01-29T15:35:52+01:00</lastuse>
-      <lastconfirm>2025-01-29T15:05:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2025-01-29T10:19:41+01:00</create>
-      <lastuse>2025-01-29T23:04:11+01:00</lastuse>
-      <lastconfirm>2025-01-29T15:04:13+01:00</lastconfirm>
+      <lastuse>2025-01-29T23:11:34+01:00</lastuse>
+      <lastconfirm>2025-01-29T15:11:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
