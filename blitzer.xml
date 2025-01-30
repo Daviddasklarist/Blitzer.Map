@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15389985211</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedrich-Ebert-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337825</latitude>
+        <longitude>10.885112</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-30T18:37:40+01:00</create>
+      <lastuse>2025-01-30T21:37:40+01:00</lastuse>
+      <lastconfirm>2025-01-30T19:06:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15389235370</id>
     <type>1</type>
     <speed>50</speed>
@@ -92,32 +116,8 @@
     </location>
     <date>
       <create>2025-01-30T09:34:02+01:00</create>
-      <lastuse>2025-01-30T23:57:35+01:00</lastuse>
+      <lastuse>2025-01-30T21:57:35+01:00</lastuse>
       <lastconfirm>2025-01-30T09:34:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15388579514</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Haunstetter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.329468</latitude>
-        <longitude>10.908257</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-30T13:26:56+01:00</create>
-      <lastuse>2025-01-30T20:08:55+01:00</lastuse>
-      <lastconfirm>2025-01-30T13:26:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
