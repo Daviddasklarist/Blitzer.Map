@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15387404327</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.247698</latitude>
+        <longitude>10.869293</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-30T09:02:09+01:00</create>
+      <lastuse>2025-01-30T13:02:09+01:00</lastuse>
+      <lastconfirm>2025-01-30T09:11:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15387074000</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-30T07:02:43+01:00</create>
-      <lastuse>2025-01-30T11:08:28+01:00</lastuse>
-      <lastconfirm>2025-01-30T09:08:28+01:00</lastconfirm>
+      <lastuse>2025-01-30T11:13:51+01:00</lastuse>
+      <lastconfirm>2025-01-30T09:13:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-01-30T07:28:07+01:00</create>
-      <lastuse>2025-01-30T11:05:08+01:00</lastuse>
-      <lastconfirm>2025-01-30T09:05:08+01:00</lastconfirm>
+      <lastuse>2025-01-30T11:12:42+01:00</lastuse>
+      <lastconfirm>2025-01-30T09:12:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-30T06:36:19+01:00</create>
-      <lastuse>2025-01-30T09:59:16+01:00</lastuse>
-      <lastconfirm>2025-01-30T08:29:16+01:00</lastconfirm>
+      <lastuse>2025-01-30T11:13:18+01:00</lastuse>
+      <lastconfirm>2025-01-30T09:13:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-01-30T07:49:59+01:00</create>
-      <lastuse>2025-01-30T09:38:50+01:00</lastuse>
-      <lastconfirm>2025-01-30T09:08:50+01:00</lastconfirm>
+      <lastuse>2025-01-30T09:27:23+01:00</lastuse>
+      <lastconfirm>2025-01-30T09:12:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -364,7 +388,7 @@
     <id>15387327659</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2025-01-30T08:44:53+01:00</create>
-      <lastuse>2025-01-30T16:54:45+01:00</lastuse>
-      <lastconfirm>2025-01-30T08:54:46+01:00</lastconfirm>
+      <lastuse>2025-01-30T17:05:33+01:00</lastuse>
+      <lastconfirm>2025-01-30T09:05:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
