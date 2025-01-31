@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15393563649</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Von-Cobres-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.344931</latitude>
+        <longitude>10.869947</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-31T11:10:47+01:00</create>
+      <lastuse>2025-01-31T14:27:50+01:00</lastuse>
+      <lastconfirm>2025-01-31T12:27:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15392783746</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-01-31T08:00:00+01:00</create>
-      <lastuse>2025-01-31T13:33:04+01:00</lastuse>
+      <lastuse>2025-01-31T13:03:04+01:00</lastuse>
       <lastconfirm>2025-01-31T12:03:05+01:00</lastconfirm>
     </date>
   </event>
@@ -148,7 +172,7 @@
     <id>15393757279</id>
     <type>21</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -164,8 +188,32 @@
     </location>
     <date>
       <create>2025-01-31T11:55:55+01:00</create>
-      <lastuse>2025-01-31T13:22:57+01:00</lastuse>
-      <lastconfirm>2025-01-31T12:22:58+01:00</lastconfirm>
+      <lastuse>2025-01-31T13:25:57+01:00</lastuse>
+      <lastconfirm>2025-01-31T12:25:57+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15393825677</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.327262</latitude>
+        <longitude>10.887064</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-31T12:11:52+01:00</create>
+      <lastuse>2025-01-31T13:27:34+01:00</lastuse>
+      <lastconfirm>2025-01-31T12:27:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
