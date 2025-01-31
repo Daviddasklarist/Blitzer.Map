@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15394678276</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.229101</latitude>
+        <longitude>10.866785</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-31T15:23:52+01:00</create>
+      <lastuse>2025-01-31T22:57:18+01:00</lastuse>
+      <lastconfirm>2025-01-31T20:57:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15395261570</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-01-31T19:27:03+01:00</create>
-      <lastuse>2025-01-31T21:34:25+01:00</lastuse>
-      <lastconfirm>2025-01-31T20:34:26+01:00</lastconfirm>
+      <lastuse>2025-01-31T22:57:37+01:00</lastuse>
+      <lastconfirm>2025-01-31T20:57:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2025-01-31T20:03:20+01:00</create>
-      <lastuse>2025-02-01T04:35:02+01:00</lastuse>
-      <lastconfirm>2025-01-31T20:35:03+01:00</lastconfirm>
+      <lastuse>2025-02-01T04:51:33+01:00</lastuse>
+      <lastconfirm>2025-01-31T20:51:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-01-31T19:57:19+01:00</create>
-      <lastuse>2025-02-01T04:46:48+01:00</lastuse>
-      <lastconfirm>2025-01-31T20:46:48+01:00</lastconfirm>
+      <lastuse>2025-02-01T04:53:32+01:00</lastuse>
+      <lastconfirm>2025-01-31T20:53:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
