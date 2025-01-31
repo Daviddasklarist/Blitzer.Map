@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15392410144</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.335002</latitude>
+        <longitude>10.907741</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-01-31T06:10:52+01:00</create>
+      <lastuse>2025-01-31T08:22:01+01:00</lastuse>
+      <lastconfirm>2025-01-31T06:22:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15380998778</id>
     <type>7</type>
     <speed>50</speed>
@@ -100,7 +124,7 @@
     <id>15391993582</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2025-01-31T03:55:42+01:00</create>
-      <lastuse>2025-01-31T12:07:04+01:00</lastuse>
+      <lastuse>2025-01-31T10:07:04+01:00</lastuse>
       <lastconfirm>2025-01-31T03:55:42+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-01-29T17:57:19+01:00</create>
-      <lastuse>2025-02-01T23:24:10+01:00</lastuse>
-      <lastconfirm>2025-01-30T23:24:11+01:00</lastconfirm>
+      <lastuse>2025-02-02T06:18:14+01:00</lastuse>
+      <lastconfirm>2025-01-31T06:18:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
