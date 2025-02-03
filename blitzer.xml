@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15410269394</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Kleinaitingen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.218569</latitude>
+        <longitude>10.862936</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-03T14:15:26+01:00</create>
+      <lastuse>2025-02-03T17:00:51+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:00:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15410147264</id>
     <type>1</type>
     <speed>20</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-03T13:47:19+01:00</create>
-      <lastuse>2025-02-03T16:33:09+01:00</lastuse>
-      <lastconfirm>2025-02-03T14:33:10+01:00</lastconfirm>
+      <lastuse>2025-02-03T17:01:19+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:01:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2025-02-03T13:07:50+01:00</create>
-      <lastuse>2025-02-03T16:42:00+01:00</lastuse>
+      <lastuse>2025-02-03T16:12:00+01:00</lastuse>
       <lastconfirm>2025-02-03T14:42:00+01:00</lastconfirm>
     </date>
   </event>
@@ -68,14 +92,14 @@
     </location>
     <date>
       <create>2025-02-03T14:37:06+01:00</create>
-      <lastuse>2025-02-03T16:57:26+01:00</lastuse>
-      <lastconfirm>2025-02-03T14:57:27+01:00</lastconfirm>
+      <lastuse>2025-02-03T17:02:36+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:02:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15410417909</id>
-    <type>1</type>
-    <speed>80</speed>
+    <type>6</type>
+    <speed></speed>
     <quality>3</quality>
     <address>
       <zip>86441</zip>
@@ -86,14 +110,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.410310</latitude>
-        <longitude>10.613470</longitude>
+        <latitude>48.410424</latitude>
+        <longitude>10.617483</longitude>
       </point>
     </location>
     <date>
       <create>2025-02-03T14:50:04+01:00</create>
-      <lastuse>2025-02-03T16:55:39+01:00</lastuse>
-      <lastconfirm>2025-02-03T14:55:40+01:00</lastconfirm>
+      <lastuse>2025-02-03T17:00:46+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:00:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-01-29T05:43:11+01:00</create>
-      <lastuse>2025-02-03T21:45:05+01:00</lastuse>
-      <lastconfirm>2025-02-03T13:45:05+01:00</lastconfirm>
+      <lastuse>2025-02-03T23:02:03+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:02:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,32 @@
     </location>
     <date>
       <create>2025-02-03T14:34:27+01:00</create>
-      <lastuse>2025-02-03T15:26:46+01:00</lastuse>
-      <lastconfirm>2025-02-03T14:56:46+01:00</lastconfirm>
+      <lastuse>2025-02-03T15:33:57+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:03:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15410421882</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.357368</latitude>
+        <longitude>10.850830</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-03T14:51:16+01:00</create>
+      <lastuse>2025-02-03T17:00:55+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:00:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,7 +236,7 @@
     </location>
     <date>
       <create>2025-02-03T13:20:53+01:00</create>
-      <lastuse>2025-02-03T15:52:49+01:00</lastuse>
+      <lastuse>2025-02-03T15:34:49+01:00</lastuse>
       <lastconfirm>2025-02-03T14:52:50+01:00</lastconfirm>
     </date>
   </event>
@@ -212,8 +260,8 @@
     </location>
     <date>
       <create>2025-02-03T13:32:24+01:00</create>
-      <lastuse>2025-02-03T15:37:27+01:00</lastuse>
-      <lastconfirm>2025-02-03T14:55:27+01:00</lastconfirm>
+      <lastuse>2025-02-03T16:01:42+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:01:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +284,8 @@
     </location>
     <date>
       <create>2025-02-03T14:04:41+01:00</create>
-      <lastuse>2025-02-03T15:57:23+01:00</lastuse>
-      <lastconfirm>2025-02-03T14:57:24+01:00</lastconfirm>
+      <lastuse>2025-02-03T16:00:17+01:00</lastuse>
+      <lastconfirm>2025-02-03T15:00:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +356,8 @@
     </location>
     <date>
       <create>2025-02-03T12:56:28+01:00</create>
-      <lastuse>2025-02-03T22:54:03+01:00</lastuse>
-      <lastconfirm>2025-02-03T14:54:04+01:00</lastconfirm>
+      <lastuse>2025-02-03T22:57:42+01:00</lastuse>
+      <lastconfirm>2025-02-03T14:57:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +404,8 @@
     </location>
     <date>
       <create>2024-12-29T15:15:11+01:00</create>
-      <lastuse>2025-02-05T14:51:26+01:00</lastuse>
-      <lastconfirm>2025-02-03T14:51:28+01:00</lastconfirm>
+      <lastuse>2025-02-05T14:56:23+01:00</lastuse>
+      <lastconfirm>2025-02-03T14:56:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
