@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15414330511</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Frieda-Forster-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.271712</latitude>
+        <longitude>10.782408</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-04T08:53:49+01:00</create>
+      <lastuse>2025-02-04T12:46:34+01:00</lastuse>
+      <lastconfirm>2025-02-04T10:46:35+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15413892238</id>
     <type>1</type>
     <speed>30</speed>
