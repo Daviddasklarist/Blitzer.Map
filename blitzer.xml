@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15413875312</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Postillionstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.308168</latitude>
+        <longitude>10.893854</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-04T06:57:02+01:00</create>
+      <lastuse>2025-02-04T10:24:24+01:00</lastuse>
+      <lastconfirm>2025-02-04T08:24:24+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15413796241</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-04T06:06:39+01:00</create>
-      <lastuse>2025-02-04T10:06:39+01:00</lastuse>
-      <lastconfirm>2025-02-04T08:03:00+01:00</lastconfirm>
+      <lastuse>2025-02-04T10:24:15+01:00</lastuse>
+      <lastconfirm>2025-02-04T08:24:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,32 +140,8 @@
     </location>
     <date>
       <create>2025-02-04T06:05:00+01:00</create>
-      <lastuse>2025-02-04T10:16:34+01:00</lastuse>
+      <lastuse>2025-02-04T09:46:34+01:00</lastuse>
       <lastconfirm>2025-02-04T08:16:35+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15380998778</id>
-    <type>7</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Landsberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.258835</latitude>
-        <longitude>10.883213</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-01-29T05:43:11+01:00</create>
-      <lastuse>2025-02-04T06:38:49+01:00</lastuse>
-      <lastconfirm>2025-02-04T01:38:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-02-04T07:59:06+01:00</create>
-      <lastuse>2025-02-04T10:16:46+01:00</lastuse>
-      <lastconfirm>2025-02-04T08:16:47+01:00</lastconfirm>
+      <lastuse>2025-02-04T10:27:30+01:00</lastuse>
+      <lastconfirm>2025-02-04T08:27:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -220,7 +220,7 @@
     <id>15414157245</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-02-04T08:10:37+01:00</create>
-      <lastuse>2025-02-04T09:17:58+01:00</lastuse>
-      <lastconfirm>2025-02-04T08:17:59+01:00</lastconfirm>
+      <lastuse>2025-02-04T09:27:07+01:00</lastuse>
+      <lastconfirm>2025-02-04T08:27:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
