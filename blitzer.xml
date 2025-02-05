@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15422563379</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355141</latitude>
+        <longitude>10.928925</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-05T19:03:56+01:00</create>
+      <lastuse>2025-02-05T21:12:08+01:00</lastuse>
+      <lastconfirm>2025-02-05T19:12:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15422014461</id>
     <type>1</type>
     <speed>100</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-05T13:49:29+01:00</create>
-      <lastuse>2025-02-05T23:07:59+01:00</lastuse>
-      <lastconfirm>2025-02-05T19:08:00+01:00</lastconfirm>
+      <lastuse>2025-02-05T23:12:52+01:00</lastuse>
+      <lastconfirm>2025-02-05T19:12:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2024-12-29T15:15:11+01:00</create>
-      <lastuse>2025-02-07T17:32:12+01:00</lastuse>
-      <lastconfirm>2025-02-05T17:32:12+01:00</lastconfirm>
+      <lastuse>2025-02-07T19:09:27+01:00</lastuse>
+      <lastconfirm>2025-02-05T19:09:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
