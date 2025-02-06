@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15425096142</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Isegrimstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.341689</latitude>
-        <longitude>10.847579</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-06T07:33:05+01:00</create>
-      <lastuse>2025-02-06T11:29:30+01:00</lastuse>
-      <lastconfirm>2025-02-06T09:59:30+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15424808341</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-06T06:54:58+01:00</create>
-      <lastuse>2025-02-06T12:47:57+01:00</lastuse>
-      <lastconfirm>2025-02-06T10:47:57+01:00</lastconfirm>
+      <lastuse>2025-02-06T12:52:44+01:00</lastuse>
+      <lastconfirm>2025-02-06T10:52:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2025-02-05T13:49:29+01:00</create>
-      <lastuse>2025-02-06T14:48:00+01:00</lastuse>
-      <lastconfirm>2025-02-06T10:48:01+01:00</lastconfirm>
+      <lastuse>2025-02-06T14:52:39+01:00</lastuse>
+      <lastconfirm>2025-02-06T10:52:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2025-02-06T09:22:46+01:00</create>
-      <lastuse>2025-02-06T11:43:20+01:00</lastuse>
-      <lastconfirm>2025-02-06T10:43:21+01:00</lastconfirm>
+      <lastuse>2025-02-06T11:51:20+01:00</lastuse>
+      <lastconfirm>2025-02-06T10:51:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -286,6 +262,30 @@
       <create>2025-02-05T14:47:28+01:00</create>
       <lastuse>2025-02-08T09:08:14+01:00</lastuse>
       <lastconfirm>2025-02-06T09:08:14+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15425736230</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.345528</latitude>
+        <longitude>10.881349</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-06T10:06:12+01:00</create>
+      <lastuse>2025-02-06T18:46:27+01:00</lastuse>
+      <lastconfirm>2025-02-06T10:46:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
