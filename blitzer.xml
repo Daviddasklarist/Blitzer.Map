@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15427998530</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86459</zip>
-      <city>Gessertshausen</city>
-      <state>DE-BY</state>
-      <street>Oberschönenfelder Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.328058</latitude>
-        <longitude>10.730016</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-06T18:38:16+01:00</create>
-      <lastuse>2025-02-06T21:48:29+01:00</lastuse>
-      <lastconfirm>2025-02-06T20:18:30+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15428639952</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-02-06T21:18:23+01:00</create>
-      <lastuse>2025-02-06T23:41:42+01:00</lastuse>
-      <lastconfirm>2025-02-06T21:41:42+01:00</lastconfirm>
+      <lastuse>2025-02-06T23:45:56+01:00</lastuse>
+      <lastconfirm>2025-02-06T21:45:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-05T13:49:29+01:00</create>
-      <lastuse>2025-02-07T01:42:29+01:00</lastuse>
-      <lastconfirm>2025-02-06T21:42:30+01:00</lastconfirm>
+      <lastuse>2025-02-07T01:15:18+01:00</lastuse>
+      <lastconfirm>2025-02-06T21:45:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
