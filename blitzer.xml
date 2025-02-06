@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15427583235</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.267483</latitude>
+        <longitude>10.873433</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-06T17:04:23+01:00</create>
+      <lastuse>2025-02-06T19:32:43+01:00</lastuse>
+      <lastconfirm>2025-02-06T17:32:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15427339880</id>
     <type>1</type>
     <speed>50</speed>
@@ -116,15 +140,15 @@
     </location>
     <date>
       <create>2025-02-05T13:49:29+01:00</create>
-      <lastuse>2025-02-06T21:27:43+01:00</lastuse>
-      <lastconfirm>2025-02-06T17:27:43+01:00</lastconfirm>
+      <lastuse>2025-02-06T20:32:45+01:00</lastuse>
+      <lastconfirm>2025-02-06T17:32:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15426100041</id>
     <type>7</type>
     <speed>100</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86637</zip>
       <city>Wertingen</city>
@@ -140,7 +164,7 @@
     </location>
     <date>
       <create>2025-02-06T10:56:13+01:00</create>
-      <lastuse>2025-02-07T01:05:47+01:00</lastuse>
+      <lastuse>2025-02-06T22:05:47+01:00</lastuse>
       <lastconfirm>2025-02-06T17:05:47+01:00</lastconfirm>
     </date>
   </event>
