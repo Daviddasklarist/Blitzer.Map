@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15433801867</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362890</latitude>
+        <longitude>10.853236</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-07T19:28:35+01:00</create>
+      <lastuse>2025-02-08T06:50:31+01:00</lastuse>
+      <lastconfirm>2025-02-08T04:50:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15414620635</id>
     <type>7</type>
     <speed>50</speed>
