@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15444413015</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.368334</latitude>
+        <longitude>10.854615</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-09T19:13:17+01:00</create>
+      <lastuse>2025-02-09T21:23:42+01:00</lastuse>
+      <lastconfirm>2025-02-09T19:23:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15444050158</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Stuttgarter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.398737</latitude>
+        <longitude>10.871401</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-09T17:37:09+01:00</create>
+      <lastuse>2025-02-09T21:23:58+01:00</lastuse>
+      <lastconfirm>2025-02-09T19:23:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15414620635</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-05T13:49:29+01:00</create>
-      <lastuse>2025-02-09T23:16:20+01:00</lastuse>
-      <lastconfirm>2025-02-09T19:16:21+01:00</lastconfirm>
+      <lastuse>2025-02-09T23:22:00+01:00</lastuse>
+      <lastconfirm>2025-02-09T19:22:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
