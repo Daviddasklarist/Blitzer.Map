@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15442332214</id>
+    <type>1</type>
+    <speed>40</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86438</zip>
+      <city>Kissing</city>
+      <state>DE-BY</state>
+      <street>Münchner Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.296373</latitude>
+        <longitude>10.965052</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-09T09:49:19+01:00</create>
+      <lastuse>2025-02-09T12:26:09+01:00</lastuse>
+      <lastconfirm>2025-02-09T10:26:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15442129360</id>
     <type>6</type>
     <speed></speed>
@@ -21,7 +45,7 @@
     <date>
       <create>2025-02-09T08:46:05+01:00</create>
       <lastuse>2025-02-09T12:46:05+01:00</lastuse>
-      <lastconfirm>2025-02-09T10:22:14+01:00</lastconfirm>
+      <lastconfirm>2025-02-09T10:27:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-05T13:49:29+01:00</create>
-      <lastuse>2025-02-09T13:47:44+01:00</lastuse>
-      <lastconfirm>2025-02-09T10:17:44+01:00</lastconfirm>
+      <lastuse>2025-02-09T14:28:20+01:00</lastuse>
+      <lastconfirm>2025-02-09T10:28:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
