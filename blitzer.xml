@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15447028977</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedrich-Ebert-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337676</latitude>
+        <longitude>10.878379</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-10T07:56:57+01:00</create>
+      <lastuse>2025-02-10T10:48:12+01:00</lastuse>
+      <lastconfirm>2025-02-10T08:48:12+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15447026726</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-05T13:49:29+01:00</create>
-      <lastuse>2025-02-10T12:47:12+01:00</lastuse>
-      <lastconfirm>2025-02-10T08:47:13+01:00</lastconfirm>
+      <lastuse>2025-02-10T12:52:54+01:00</lastuse>
+      <lastconfirm>2025-02-10T08:52:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-10T06:53:34+01:00</create>
-      <lastuse>2025-02-10T09:16:04+01:00</lastuse>
-      <lastconfirm>2025-02-10T08:46:05+01:00</lastconfirm>
+      <lastuse>2025-02-10T09:22:35+01:00</lastuse>
+      <lastconfirm>2025-02-10T08:52:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,51 +169,27 @@
     </date>
   </event>
   <event>
-    <id>15446748735</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.420573</latitude>
-        <longitude>10.868116</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-10T06:40:12+01:00</create>
-      <lastuse>2025-02-10T09:09:01+01:00</lastuse>
-      <lastconfirm>2025-02-10T08:27:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15446789530</id>
+    <id>15447256473</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
+      <zip>86316</zip>
+      <city>Landkreis Aichach-Friedberg</city>
       <state>DE-BY</state>
-      <street>B2</street>
+      <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.429310</latitude>
-        <longitude>10.867100</longitude>
+        <latitude>48.399348</latitude>
+        <longitude>11.016656</longitude>
       </point>
     </location>
     <date>
-      <create>2025-02-10T06:52:58+01:00</create>
-      <lastuse>2025-02-10T08:56:28+01:00</lastuse>
-      <lastconfirm>2025-02-10T08:32:29+01:00</lastconfirm>
+      <create>2025-02-10T08:52:02+01:00</create>
+      <lastuse>2025-02-10T08:58:00+01:00</lastuse>
+      <lastconfirm>2025-02-10T08:52:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
