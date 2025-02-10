@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15448416079</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.358821</latitude>
-        <longitude>10.980347</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-10T13:26:16+01:00</create>
-      <lastuse>2025-02-10T17:26:16+01:00</lastuse>
-      <lastconfirm>2025-02-10T15:49:49+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15448122815</id>
     <type>1</type>
     <speed>20</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-10T14:51:31+01:00</create>
-      <lastuse>2025-02-10T17:25:29+01:00</lastuse>
-      <lastconfirm>2025-02-10T15:55:32+01:00</lastconfirm>
+      <lastuse>2025-02-10T18:01:19+01:00</lastuse>
+      <lastconfirm>2025-02-10T16:01:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +76,7 @@
     <id>15421188500</id>
     <type>7</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -116,8 +92,32 @@
     </location>
     <date>
       <create>2025-02-05T13:49:29+01:00</create>
-      <lastuse>2025-02-10T19:56:54+01:00</lastuse>
-      <lastconfirm>2025-02-10T15:56:56+01:00</lastconfirm>
+      <lastuse>2025-02-10T19:32:37+01:00</lastuse>
+      <lastconfirm>2025-02-10T16:02:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15449042721</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.399995</latitude>
+        <longitude>11.008353</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-10T15:50:46+01:00</create>
+      <lastuse>2025-02-10T18:02:14+01:00</lastuse>
+      <lastconfirm>2025-02-10T16:02:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -214,30 +214,6 @@
       <create>2025-02-05T14:47:28+01:00</create>
       <lastuse>2025-02-11T21:38:22+01:00</lastuse>
       <lastconfirm>2025-02-05T14:47:28+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15448000232</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.345732</latitude>
-        <longitude>10.880775</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-10T11:48:31+01:00</create>
-      <lastuse>2025-02-10T19:47:33+01:00</lastuse>
-      <lastconfirm>2025-02-10T11:48:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,32 +332,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-02-12T15:47:30+01:00</lastuse>
-      <lastconfirm>2025-02-10T15:47:30+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15448320961</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.403727</latitude>
-        <longitude>10.956776</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-10T13:02:40+01:00</create>
-      <lastuse>2025-02-10T19:46:18+01:00</lastuse>
-      <lastconfirm>2025-02-10T13:02:40+01:00</lastconfirm>
+      <lastuse>2025-02-12T15:56:27+01:00</lastuse>
+      <lastconfirm>2025-02-10T15:56:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
