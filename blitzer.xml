@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15456066343</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86836</zip>
-      <city>Graben</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.179077</latitude>
-        <longitude>10.842840</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-11T20:58:53+01:00</create>
-      <lastuse>2025-02-12T00:27:06+01:00</lastuse>
-      <lastconfirm>2025-02-11T22:57:07+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15454311261</id>
-    <type>2</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.355829</latitude>
-        <longitude>10.964962</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-11T14:14:43+01:00</create>
-      <lastuse>2025-02-11T23:54:30+01:00</lastuse>
-      <lastconfirm>2025-02-11T22:24:30+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15363365193</id>
     <type>26</type>
     <speed></speed>
