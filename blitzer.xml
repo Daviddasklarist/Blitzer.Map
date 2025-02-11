@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15454005870</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Aurnhammer-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.336932</latitude>
+        <longitude>10.867702</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-11T13:06:52+01:00</create>
+      <lastuse>2025-02-11T15:36:15+01:00</lastuse>
+      <lastconfirm>2025-02-11T13:36:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15453333298</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-11T10:38:01+01:00</create>
-      <lastuse>2025-02-11T15:26:30+01:00</lastuse>
-      <lastconfirm>2025-02-11T13:26:31+01:00</lastconfirm>
+      <lastuse>2025-02-11T15:34:30+01:00</lastuse>
+      <lastconfirm>2025-02-11T13:34:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-11T12:13:16+01:00</create>
-      <lastuse>2025-02-11T15:22:17+01:00</lastuse>
-      <lastconfirm>2025-02-11T13:22:17+01:00</lastconfirm>
+      <lastuse>2025-02-11T15:35:32+01:00</lastuse>
+      <lastconfirm>2025-02-11T13:35:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +100,7 @@
     <id>15454039980</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-11T13:14:29+01:00</create>
-      <lastuse>2025-02-11T15:25:51+01:00</lastuse>
-      <lastconfirm>2025-02-11T13:25:52+01:00</lastconfirm>
+      <lastuse>2025-02-11T15:36:18+01:00</lastuse>
+      <lastconfirm>2025-02-11T13:36:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-02-11T13:00:31+01:00</create>
-      <lastuse>2025-02-11T14:02:17+01:00</lastuse>
-      <lastconfirm>2025-02-11T13:32:18+01:00</lastconfirm>
+      <lastuse>2025-02-11T14:05:56+01:00</lastuse>
+      <lastconfirm>2025-02-11T13:35:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,32 +188,8 @@
     </location>
     <date>
       <create>2025-02-11T13:07:49+01:00</create>
-      <lastuse>2025-02-11T15:32:08+01:00</lastuse>
-      <lastconfirm>2025-02-11T13:32:08+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15453678099</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.361734</latitude>
-        <longitude>10.852572</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-11T11:54:34+01:00</create>
-      <lastuse>2025-02-11T13:48:59+01:00</lastuse>
-      <lastconfirm>2025-02-11T13:24:59+01:00</lastconfirm>
+      <lastuse>2025-02-11T15:36:11+01:00</lastuse>
+      <lastconfirm>2025-02-11T13:36:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-02-11T08:32:37+01:00</create>
-      <lastuse>2025-02-11T21:26:37+01:00</lastuse>
-      <lastconfirm>2025-02-11T13:26:37+01:00</lastconfirm>
+      <lastuse>2025-02-11T21:31:45+01:00</lastuse>
+      <lastconfirm>2025-02-11T13:31:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +428,8 @@
     </location>
     <date>
       <create>2025-02-11T13:13:34+01:00</create>
-      <lastuse>2025-02-11T21:29:16+01:00</lastuse>
-      <lastconfirm>2025-02-11T13:29:16+01:00</lastconfirm>
+      <lastuse>2025-02-11T21:31:04+01:00</lastuse>
+      <lastconfirm>2025-02-11T13:31:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
