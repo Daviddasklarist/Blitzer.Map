@@ -25,10 +25,34 @@
     </date>
   </event>
   <event>
+    <id>15453254711</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>AIC 25</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.368165</latitude>
+        <longitude>10.959380</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-11T10:20:57+01:00</create>
+      <lastuse>2025-02-11T13:20:57+01:00</lastuse>
+      <lastconfirm>2025-02-11T10:46:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15453054023</id>
     <type>1</type>
     <speed>100</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-11T09:35:33+01:00</create>
-      <lastuse>2025-02-11T11:59:00+01:00</lastuse>
-      <lastconfirm>2025-02-11T10:29:01+01:00</lastconfirm>
+      <lastuse>2025-02-11T12:15:35+01:00</lastuse>
+      <lastconfirm>2025-02-11T10:45:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-02-11T07:33:17+01:00</create>
-      <lastuse>2025-02-11T12:41:17+01:00</lastuse>
-      <lastconfirm>2025-02-11T10:41:17+01:00</lastconfirm>
+      <lastuse>2025-02-11T12:47:28+01:00</lastuse>
+      <lastconfirm>2025-02-11T10:47:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-02-11T09:11:16+01:00</create>
-      <lastuse>2025-02-11T11:42:05+01:00</lastuse>
-      <lastconfirm>2025-02-11T10:42:05+01:00</lastconfirm>
+      <lastuse>2025-02-11T11:47:03+01:00</lastuse>
+      <lastconfirm>2025-02-11T10:47:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2025-02-11T09:52:40+01:00</create>
-      <lastuse>2025-02-11T11:18:57+01:00</lastuse>
-      <lastconfirm>2025-02-11T10:33:58+01:00</lastconfirm>
+      <lastuse>2025-02-11T11:44:10+01:00</lastuse>
+      <lastconfirm>2025-02-11T10:44:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -278,13 +302,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.411627</latitude>
-        <longitude>10.648596</longitude>
+        <latitude>48.410452</latitude>
+        <longitude>10.640697</longitude>
       </point>
     </location>
     <date>
       <create>2025-02-11T10:40:02+01:00</create>
-      <lastuse>2025-02-11T10:47:00+01:00</lastuse>
+      <lastuse>2025-02-11T10:52:00+01:00</lastuse>
       <lastconfirm>2025-02-11T10:40:02+01:00</lastconfirm>
     </date>
   </event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-02-11T08:32:37+01:00</create>
-      <lastuse>2025-02-11T18:32:33+01:00</lastuse>
-      <lastconfirm>2025-02-11T10:32:35+01:00</lastconfirm>
+      <lastuse>2025-02-11T18:44:37+01:00</lastuse>
+      <lastconfirm>2025-02-11T10:44:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -502,30 +526,6 @@
       <create>2024-12-21T15:13:27+01:00</create>
       <lastuse>2025-02-12T19:46:31+01:00</lastuse>
       <lastconfirm>2024-12-21T15:13:27+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15452980559</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86695</zip>
-      <city>Mertingen</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.640009</latitude>
-        <longitude>10.835611</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-11T09:18:30+01:00</create>
-      <lastuse>2025-02-11T12:20:49+01:00</lastuse>
-      <lastconfirm>2025-02-11T09:18:30+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
