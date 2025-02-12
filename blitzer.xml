@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15458198813</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370574</latitude>
+        <longitude>10.810335</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-12T07:16:36+01:00</create>
+      <lastuse>2025-02-12T09:23:08+01:00</lastuse>
+      <lastconfirm>2025-02-12T07:23:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15457478936</id>
     <type>21</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-12T03:44:44+01:00</create>
-      <lastuse>2025-02-12T08:22:15+01:00</lastuse>
-      <lastconfirm>2025-02-12T07:22:16+01:00</lastconfirm>
+      <lastuse>2025-02-12T08:23:45+01:00</lastuse>
+      <lastconfirm>2025-02-12T07:23:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -52,7 +76,7 @@
     <id>15458126117</id>
     <type>21</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-12T06:57:41+01:00</create>
-      <lastuse>2025-02-12T08:15:17+01:00</lastuse>
-      <lastconfirm>2025-02-12T07:15:18+01:00</lastconfirm>
+      <lastuse>2025-02-12T08:27:54+01:00</lastuse>
+      <lastconfirm>2025-02-12T07:27:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -86,14 +110,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.412084</latitude>
-        <longitude>10.652863</longitude>
+        <latitude>48.410882</latitude>
+        <longitude>10.644596</longitude>
       </point>
     </location>
     <date>
       <create>2025-02-12T06:49:02+01:00</create>
-      <lastuse>2025-02-12T07:27:00+01:00</lastuse>
+      <lastuse>2025-02-12T07:32:00+01:00</lastuse>
       <lastconfirm>2025-02-12T06:49:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15458203390</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.431729</latitude>
+        <longitude>10.867677</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-12T07:17:41+01:00</create>
+      <lastuse>2025-02-12T08:25:24+01:00</lastuse>
+      <lastconfirm>2025-02-12T07:25:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -102,21 +150,21 @@
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.401509</latitude>
-        <longitude>10.985489</longitude>
+        <latitude>48.400994</latitude>
+        <longitude>10.993444</longitude>
       </point>
     </location>
     <date>
       <create>2025-02-12T07:19:02+01:00</create>
-      <lastuse>2025-02-12T07:27:00+01:00</lastuse>
+      <lastuse>2025-02-12T07:32:00+01:00</lastuse>
       <lastconfirm>2025-02-12T07:19:02+01:00</lastconfirm>
     </date>
   </event>
