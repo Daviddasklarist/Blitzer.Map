@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15458007168</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.350357</latitude>
+        <longitude>10.862251</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-12T06:24:41+01:00</create>
+      <lastuse>2025-02-12T09:01:39+01:00</lastuse>
+      <lastconfirm>2025-02-12T07:01:40+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15457478936</id>
     <type>21</type>
     <speed></speed>
@@ -25,30 +49,6 @@
     </date>
   </event>
   <event>
-    <id>15457767935</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.402230</latitude>
-        <longitude>10.965560</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-12T05:11:01+01:00</create>
-      <lastuse>2025-02-12T07:02:00+01:00</lastuse>
-      <lastconfirm>2025-02-12T05:11:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15458094800</id>
     <type>20</type>
     <speed></speed>
@@ -62,14 +62,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.418733</latitude>
-        <longitude>10.673402</longitude>
+        <latitude>48.416174</latitude>
+        <longitude>10.667240</longitude>
       </point>
     </location>
     <date>
       <create>2025-02-12T06:49:02+01:00</create>
-      <lastuse>2025-02-12T07:02:00+01:00</lastuse>
+      <lastuse>2025-02-12T07:08:00+01:00</lastuse>
       <lastconfirm>2025-02-12T06:49:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15458144464</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401485</latitude>
+        <longitude>10.972186</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-12T07:01:02+01:00</create>
+      <lastuse>2025-02-12T07:08:00+01:00</lastuse>
+      <lastconfirm>2025-02-12T07:01:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
