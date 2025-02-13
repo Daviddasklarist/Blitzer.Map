@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15465087968</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Holzbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.371193</latitude>
+        <longitude>10.879247</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-13T11:47:48+01:00</create>
+      <lastuse>2025-02-13T14:47:48+01:00</lastuse>
+      <lastconfirm>2025-02-13T12:09:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15464168409</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-13T07:01:25+01:00</create>
-      <lastuse>2025-02-13T14:07:49+01:00</lastuse>
-      <lastconfirm>2025-02-13T12:07:50+01:00</lastconfirm>
+      <lastuse>2025-02-13T14:12:44+01:00</lastuse>
+      <lastconfirm>2025-02-13T12:12:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,30 +118,6 @@
       <create>2025-02-13T09:23:53+01:00</create>
       <lastuse>2025-02-13T13:08:13+01:00</lastuse>
       <lastconfirm>2025-02-13T12:08:13+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15464516046</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.342572</latitude>
-        <longitude>10.887923</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-13T09:37:24+01:00</create>
-      <lastuse>2025-02-13T12:46:47+01:00</lastuse>
-      <lastconfirm>2025-02-13T12:04:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
