@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15470834869</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86150</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Stettenstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.359912</latitude>
-        <longitude>10.897009</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-14T11:38:03+01:00</create>
-      <lastuse>2025-02-14T18:11:08+01:00</lastuse>
-      <lastconfirm>2025-02-14T17:41:09+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15471740206</id>
     <type>1</type>
     <speed>50</speed>
@@ -92,15 +68,15 @@
     </location>
     <date>
       <create>2025-02-14T16:40:26+01:00</create>
-      <lastuse>2025-02-14T18:58:19+01:00</lastuse>
-      <lastconfirm>2025-02-14T17:58:20+01:00</lastconfirm>
+      <lastuse>2025-02-14T19:02:24+01:00</lastuse>
+      <lastconfirm>2025-02-14T18:02:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15472241486</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -116,7 +92,7 @@
     </location>
     <date>
       <create>2025-02-14T16:50:58+01:00</create>
-      <lastuse>2025-02-14T18:57:25+01:00</lastuse>
+      <lastuse>2025-02-14T18:39:25+01:00</lastuse>
       <lastconfirm>2025-02-14T17:57:25+01:00</lastconfirm>
     </date>
   </event>
