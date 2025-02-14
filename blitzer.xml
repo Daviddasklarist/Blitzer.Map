@@ -73,30 +73,6 @@
     </date>
   </event>
   <event>
-    <id>15471510905</id>
-    <type>1</type>
-    <speed>80</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.348918</latitude>
-        <longitude>10.867315</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-14T14:11:34+01:00</create>
-      <lastuse>2025-02-14T16:20:38+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:50:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15470834869</id>
     <type>1</type>
     <speed>30</speed>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-14T12:44:05+01:00</create>
-      <lastuse>2025-02-14T15:44:05+01:00</lastuse>
-      <lastconfirm>2025-02-14T13:54:16+01:00</lastconfirm>
+      <lastuse>2025-02-14T16:57:35+01:00</lastuse>
+      <lastconfirm>2025-02-14T14:57:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -172,7 +148,7 @@
     <id>15471296816</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -188,8 +164,32 @@
     </location>
     <date>
       <create>2025-02-14T13:24:33+01:00</create>
-      <lastuse>2025-02-14T16:33:09+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:33:09+01:00</lastconfirm>
+      <lastuse>2025-02-14T16:57:38+01:00</lastuse>
+      <lastconfirm>2025-02-14T14:57:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15471514060</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86559</zip>
+      <city>Adelzhausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.354550</latitude>
+        <longitude>11.132250</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-14T14:12:02+01:00</create>
+      <lastuse>2025-02-14T15:28:13+01:00</lastuse>
+      <lastconfirm>2025-02-14T14:58:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -238,126 +238,6 @@
       <create>2025-02-14T14:06:30+01:00</create>
       <lastuse>2025-02-14T15:30:00+01:00</lastuse>
       <lastconfirm>2025-02-14T14:30:00+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15471514060</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86559</zip>
-      <city>Adelzhausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.354550</latitude>
-        <longitude>11.132250</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-14T14:12:02+01:00</create>
-      <lastuse>2025-02-14T15:21:59+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:51:59+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15470237605</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.369073</latitude>
-        <longitude>10.854750</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-14T09:16:43+01:00</create>
-      <lastuse>2025-02-14T15:52:39+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:52:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15470347537</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.364263</latitude>
-        <longitude>10.853795</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-14T09:43:15+01:00</create>
-      <lastuse>2025-02-14T14:53:51+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:29:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15470476098</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86157</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.353557</latitude>
-        <longitude>10.854681</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-14T10:14:16+01:00</create>
-      <lastuse>2025-02-14T15:33:03+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:51:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15471067954</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.360295</latitude>
-        <longitude>10.851656</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-14T12:30:27+01:00</create>
-      <lastuse>2025-02-14T15:27:28+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:45:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +380,8 @@
     </location>
     <date>
       <create>2025-02-14T14:30:18+01:00</create>
-      <lastuse>2025-02-14T15:51:19+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:51:19+01:00</lastconfirm>
+      <lastuse>2025-02-14T15:35:09+01:00</lastuse>
+      <lastconfirm>2025-02-14T14:53:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +548,8 @@
     </location>
     <date>
       <create>2025-02-14T09:37:25+01:00</create>
-      <lastuse>2025-02-14T20:41:53+01:00</lastuse>
-      <lastconfirm>2025-02-14T09:37:25+01:00</lastconfirm>
+      <lastuse>2025-02-14T22:50:25+01:00</lastuse>
+      <lastconfirm>2025-02-14T14:50:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +596,8 @@
     </location>
     <date>
       <create>2025-02-14T08:59:06+01:00</create>
-      <lastuse>2025-02-14T22:25:16+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:25:17+01:00</lastconfirm>
+      <lastuse>2025-02-14T20:25:16+01:00</lastuse>
+      <lastconfirm>2025-02-14T08:59:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,15 +668,15 @@
     </location>
     <date>
       <create>2025-02-14T10:56:33+01:00</create>
-      <lastuse>2025-02-14T22:49:42+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:49:43+01:00</lastconfirm>
+      <lastuse>2025-02-14T22:53:54+01:00</lastuse>
+      <lastconfirm>2025-02-14T14:53:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15189056799</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>89420</zip>
       <city>Höchstädt an der Donau</city>
@@ -812,8 +692,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-02-16T14:11:12+01:00</lastuse>
-      <lastconfirm>2025-02-14T14:11:13+01:00</lastconfirm>
+      <lastuse>2025-02-16T14:51:09+01:00</lastuse>
+      <lastconfirm>2025-02-14T14:51:09+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
