@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15469690749</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Provinostraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.364013</latitude>
+        <longitude>10.913790</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-14T06:58:06+01:00</create>
+      <lastuse>2025-02-14T09:50:19+01:00</lastuse>
+      <lastconfirm>2025-02-14T07:50:20+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15469729651</id>
     <type>1</type>
     <speed>70</speed>
@@ -20,8 +44,32 @@
     </location>
     <date>
       <create>2025-02-14T07:09:30+01:00</create>
-      <lastuse>2025-02-14T09:09:30+01:00</lastuse>
-      <lastconfirm>2025-02-14T07:36:45+01:00</lastconfirm>
+      <lastuse>2025-02-14T09:50:37+01:00</lastuse>
+      <lastconfirm>2025-02-14T07:50:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15469629722</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.305652</latitude>
+        <longitude>10.882115</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-14T06:40:30+01:00</create>
+      <lastuse>2025-02-14T08:52:55+01:00</lastuse>
+      <lastconfirm>2025-02-14T07:52:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -49,30 +97,6 @@
     </date>
   </event>
   <event>
-    <id>15469473039</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Landkreis Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.401268</latitude>
-        <longitude>10.554523</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-14T05:55:02+01:00</create>
-      <lastuse>2025-02-14T07:52:00+01:00</lastuse>
-      <lastconfirm>2025-02-14T05:55:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15469794952</id>
     <type>20</type>
     <speed></speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-14T07:25:36+01:00</create>
-      <lastuse>2025-02-14T08:44:47+01:00</lastuse>
-      <lastconfirm>2025-02-14T07:44:47+01:00</lastconfirm>
+      <lastuse>2025-02-14T08:48:33+01:00</lastuse>
+      <lastconfirm>2025-02-14T07:48:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -118,6 +142,30 @@
       <create>2025-02-14T07:29:37+01:00</create>
       <lastuse>2025-02-14T08:26:05+01:00</lastuse>
       <lastconfirm>2025-02-14T07:44:06+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15469894085</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400425</latitude>
+        <longitude>10.551316</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-14T07:51:01+01:00</create>
+      <lastuse>2025-02-14T07:57:00+01:00</lastuse>
+      <lastconfirm>2025-02-14T07:51:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +212,8 @@
     </location>
     <date>
       <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-02-16T04:00:50+01:00</lastuse>
-      <lastconfirm>2025-02-14T04:00:50+01:00</lastconfirm>
+      <lastuse>2025-02-16T07:45:28+01:00</lastuse>
+      <lastconfirm>2025-02-14T07:45:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +356,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-02-16T07:32:06+01:00</lastuse>
-      <lastconfirm>2025-02-14T07:32:06+01:00</lastconfirm>
+      <lastuse>2025-02-16T07:47:15+01:00</lastuse>
+      <lastconfirm>2025-02-14T07:47:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
