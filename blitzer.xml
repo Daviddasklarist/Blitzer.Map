@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15478187462</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.386711</latitude>
+        <longitude>10.860092</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-15T18:54:48+01:00</create>
+      <lastuse>2025-02-15T21:02:45+01:00</lastuse>
+      <lastconfirm>2025-02-15T19:02:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15363365193</id>
     <type>26</type>
     <speed></speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-02-17T14:58:51+01:00</lastuse>
-      <lastconfirm>2025-02-15T14:58:51+01:00</lastconfirm>
+      <lastuse>2025-02-17T06:58:51+01:00</lastuse>
+      <lastconfirm>2025-02-11T12:58:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
