@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15485915385</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Georgstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.308472</latitude>
+        <longitude>11.045157</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-17T07:09:00+01:00</create>
+      <lastuse>2025-02-17T09:22:21+01:00</lastuse>
+      <lastconfirm>2025-02-17T07:22:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15485718148</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-17T06:11:06+01:00</create>
-      <lastuse>2025-02-17T08:38:11+01:00</lastuse>
-      <lastconfirm>2025-02-17T07:08:11+01:00</lastconfirm>
+      <lastuse>2025-02-17T09:23:40+01:00</lastuse>
+      <lastconfirm>2025-02-17T07:23:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-02-19T06:59:16+01:00</lastuse>
-      <lastconfirm>2025-02-17T06:59:16+01:00</lastconfirm>
+      <lastuse>2025-02-19T07:15:39+01:00</lastuse>
+      <lastconfirm>2025-02-17T07:15:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
