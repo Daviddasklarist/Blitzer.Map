@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15487884060</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.227754</latitude>
+        <longitude>10.866814</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-17T14:45:29+01:00</create>
+      <lastuse>2025-02-17T22:26:18+01:00</lastuse>
+      <lastconfirm>2025-02-17T20:26:18+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15487516168</id>
     <type>1</type>
     <speed>70</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-17T13:23:32+01:00</create>
-      <lastuse>2025-02-17T22:22:46+01:00</lastuse>
-      <lastconfirm>2025-02-17T20:22:46+01:00</lastconfirm>
+      <lastuse>2025-02-17T22:27:19+01:00</lastuse>
+      <lastconfirm>2025-02-17T20:27:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-17T13:49:58+01:00</create>
-      <lastuse>2025-02-17T22:16:01+01:00</lastuse>
-      <lastconfirm>2025-02-17T20:16:03+01:00</lastconfirm>
+      <lastuse>2025-02-17T22:24:09+01:00</lastuse>
+      <lastconfirm>2025-02-17T20:24:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
