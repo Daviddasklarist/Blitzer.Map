@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15506310517</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.282049</latitude>
+        <longitude>10.893380</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-20T20:05:10+01:00</create>
+      <lastuse>2025-02-20T23:17:13+01:00</lastuse>
+      <lastconfirm>2025-02-20T21:17:14+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15506280676</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-20T16:29:19+01:00</create>
-      <lastuse>2025-02-20T21:52:54+01:00</lastuse>
-      <lastconfirm>2025-02-20T19:52:55+01:00</lastconfirm>
+      <lastuse>2025-02-20T23:14:03+01:00</lastuse>
+      <lastconfirm>2025-02-20T21:14:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +124,7 @@
     <id>15506402211</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86179</zip>
       <city>Königsbrunn</city>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-02-20T20:29:35+01:00</create>
-      <lastuse>2025-02-20T21:44:08+01:00</lastuse>
-      <lastconfirm>2025-02-20T20:44:09+01:00</lastconfirm>
+      <lastuse>2025-02-20T22:16:00+01:00</lastuse>
+      <lastconfirm>2025-02-20T21:16:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
