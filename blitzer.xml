@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15505274273</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Lindauer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.262165</latitude>
+        <longitude>10.822353</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-20T16:13:45+01:00</create>
+      <lastuse>2025-02-20T20:13:45+01:00</lastuse>
+      <lastconfirm>2025-02-20T17:15:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15504089693</id>
     <type>1</type>
     <speed>70</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-02-20T11:54:54+01:00</create>
-      <lastuse>2025-02-20T19:12:05+01:00</lastuse>
+      <lastuse>2025-02-20T18:42:05+01:00</lastuse>
       <lastconfirm>2025-02-20T17:12:06+01:00</lastconfirm>
     </date>
   </event>
@@ -68,32 +92,32 @@
     </location>
     <date>
       <create>2025-02-18T07:05:43+01:00</create>
-      <lastuse>2025-02-20T21:12:59+01:00</lastuse>
-      <lastconfirm>2025-02-20T17:12:59+01:00</lastconfirm>
+      <lastuse>2025-02-20T20:44:56+01:00</lastuse>
+      <lastconfirm>2025-02-20T17:14:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>15505246357</id>
+    <id>15505523340</id>
     <type>21</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
-      <street>Donauwörther Straße</street>
+      <street>B2</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.385607</latitude>
-        <longitude>10.880795</longitude>
+        <latitude>48.419848</latitude>
+        <longitude>10.868505</longitude>
       </point>
     </location>
     <date>
-      <create>2025-02-20T16:07:29+01:00</create>
-      <lastuse>2025-02-20T17:16:14+01:00</lastuse>
-      <lastconfirm>2025-02-20T16:16:15+01:00</lastconfirm>
+      <create>2025-02-20T17:05:21+01:00</create>
+      <lastuse>2025-02-20T18:17:07+01:00</lastuse>
+      <lastconfirm>2025-02-20T17:17:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-02-20T15:43:01+01:00</create>
-      <lastuse>2025-02-20T18:10:49+01:00</lastuse>
-      <lastconfirm>2025-02-20T17:10:51+01:00</lastconfirm>
+      <lastuse>2025-02-20T18:17:31+01:00</lastuse>
+      <lastconfirm>2025-02-20T17:17:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-02-20T17:00:45+01:00</create>
-      <lastuse>2025-02-20T18:11:03+01:00</lastuse>
-      <lastconfirm>2025-02-20T17:11:04+01:00</lastconfirm>
+      <lastuse>2025-02-20T18:15:09+01:00</lastuse>
+      <lastconfirm>2025-02-20T17:15:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
