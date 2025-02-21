@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15508633774</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Von-Cobres-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.343141</latitude>
-        <longitude>10.869543</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-21T07:14:00+01:00</create>
-      <lastuse>2025-02-21T10:21:18+01:00</lastuse>
-      <lastconfirm>2025-02-21T09:51:19+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15508801272</id>
     <type>1</type>
     <speed>30</speed>
@@ -46,30 +22,6 @@
       <create>2025-02-21T07:57:26+01:00</create>
       <lastuse>2025-02-21T11:55:42+01:00</lastuse>
       <lastconfirm>2025-02-21T09:55:43+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15508369847</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Nagahama-Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.365835</latitude>
-        <longitude>10.913863</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-21T05:55:20+01:00</create>
-      <lastuse>2025-02-21T11:30:23+01:00</lastuse>
-      <lastconfirm>2025-02-21T10:00:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +52,7 @@
     <id>15508702825</id>
     <type>1</type>
     <speed>80</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -116,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-21T07:31:04+01:00</create>
-      <lastuse>2025-02-21T12:12:38+01:00</lastuse>
-      <lastconfirm>2025-02-21T10:12:39+01:00</lastconfirm>
+      <lastuse>2025-02-21T12:18:46+01:00</lastuse>
+      <lastconfirm>2025-02-21T10:18:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-18T07:05:43+01:00</create>
-      <lastuse>2025-02-21T14:12:31+01:00</lastuse>
-      <lastconfirm>2025-02-21T10:12:31+01:00</lastconfirm>
+      <lastuse>2025-02-21T14:18:09+01:00</lastuse>
+      <lastconfirm>2025-02-21T10:18:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
