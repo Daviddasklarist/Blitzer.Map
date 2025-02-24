@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15528854435</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Donauwörther Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.380165</latitude>
+        <longitude>10.881023</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-24T21:54:19+01:00</create>
+      <lastuse>2025-02-25T00:26:58+01:00</lastuse>
+      <lastconfirm>2025-02-24T22:26:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15528695960</id>
     <type>29</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-24T21:11:16+01:00</create>
-      <lastuse>2025-02-25T00:21:46+01:00</lastuse>
-      <lastconfirm>2025-02-24T22:21:46+01:00</lastconfirm>
+      <lastuse>2025-02-25T00:24:36+01:00</lastuse>
+      <lastconfirm>2025-02-24T22:24:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-02-24T11:41:35+01:00</create>
-      <lastuse>2025-02-25T06:10:39+01:00</lastuse>
-      <lastconfirm>2025-02-24T22:10:39+01:00</lastconfirm>
+      <lastuse>2025-02-25T04:10:39+01:00</lastuse>
+      <lastconfirm>2025-02-24T11:41:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
