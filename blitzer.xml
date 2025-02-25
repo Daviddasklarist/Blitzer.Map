@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15534016540</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Alter Heuweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355810</latitude>
+        <longitude>10.927294</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-25T18:57:08+01:00</create>
+      <lastuse>2025-02-25T23:26:57+01:00</lastuse>
+      <lastconfirm>2025-02-25T21:26:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15533005883</id>
     <type>1</type>
     <speed>70</speed>
@@ -28,7 +52,7 @@
     <id>15533626398</id>
     <type>1</type>
     <speed>100</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86551</zip>
       <city>Aichach</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-25T17:34:39+01:00</create>
-      <lastuse>2025-02-25T23:18:59+01:00</lastuse>
-      <lastconfirm>2025-02-25T21:19:00+01:00</lastconfirm>
+      <lastuse>2025-02-25T22:24:59+01:00</lastuse>
+      <lastconfirm>2025-02-25T21:25:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
