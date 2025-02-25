@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15532247398</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Römerallee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.264708</latitude>
-        <longitude>10.883087</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-25T12:44:36+01:00</create>
-      <lastuse>2025-02-25T15:44:31+01:00</lastuse>
-      <lastconfirm>2025-02-25T14:44:31+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15531998726</id>
     <type>1</type>
     <speed>50</speed>
@@ -49,27 +25,51 @@
     </date>
   </event>
   <event>
-    <id>15532521662</id>
+    <id>15532689548</id>
     <type>1</type>
     <speed>30</speed>
     <quality>2</quality>
     <address>
-      <zip>86167</zip>
+      <zip>86154</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Kurt-Schumacher-Straße</street>
+      <street>Ahornerstraße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.387814</latitude>
-        <longitude>10.921438</longitude>
+        <latitude>48.391599</latitude>
+        <longitude>10.885571</longitude>
       </point>
     </location>
     <date>
-      <create>2025-02-25T13:42:42+01:00</create>
-      <lastuse>2025-02-25T15:41:58+01:00</lastuse>
-      <lastconfirm>2025-02-25T14:42:00+01:00</lastconfirm>
+      <create>2025-02-25T14:19:44+01:00</create>
+      <lastuse>2025-02-25T17:40:37+01:00</lastuse>
+      <lastconfirm>2025-02-25T15:40:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15533007729</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.398196</latitude>
+        <longitude>10.920684</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-25T15:26:54+01:00</create>
+      <lastuse>2025-02-25T17:39:50+01:00</lastuse>
+      <lastconfirm>2025-02-25T15:39:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,15 +92,15 @@
     </location>
     <date>
       <create>2025-02-25T15:25:25+01:00</create>
-      <lastuse>2025-02-25T17:37:23+01:00</lastuse>
-      <lastconfirm>2025-02-25T15:37:25+01:00</lastconfirm>
+      <lastuse>2025-02-25T17:42:15+01:00</lastuse>
+      <lastconfirm>2025-02-25T15:42:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15532783170</id>
     <type>1</type>
     <speed>80</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86554</zip>
       <city>Pöttmes</city>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-25T14:39:54+01:00</create>
-      <lastuse>2025-02-25T17:36:52+01:00</lastuse>
-      <lastconfirm>2025-02-25T15:36:52+01:00</lastconfirm>
+      <lastuse>2025-02-25T17:42:46+01:00</lastuse>
+      <lastconfirm>2025-02-25T15:42:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,7 +164,7 @@
     </location>
     <date>
       <create>2025-02-25T11:00:07+01:00</create>
-      <lastuse>2025-02-25T16:18:12+01:00</lastuse>
+      <lastuse>2025-02-25T15:48:12+01:00</lastuse>
       <lastconfirm>2025-02-25T14:48:12+01:00</lastconfirm>
     </date>
   </event>
@@ -188,8 +188,32 @@
     </location>
     <date>
       <create>2025-02-25T13:48:34+01:00</create>
-      <lastuse>2025-02-25T16:07:04+01:00</lastuse>
-      <lastconfirm>2025-02-25T15:37:05+01:00</lastconfirm>
+      <lastuse>2025-02-25T16:12:55+01:00</lastuse>
+      <lastconfirm>2025-02-25T15:42:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15532963504</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372580</latitude>
+        <longitude>10.865111</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-25T15:17:44+01:00</create>
+      <lastuse>2025-02-25T16:39:53+01:00</lastuse>
+      <lastconfirm>2025-02-25T15:39:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -412,7 +436,7 @@
     <id>15532458916</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -428,7 +452,7 @@
     </location>
     <date>
       <create>2025-02-25T13:25:29+01:00</create>
-      <lastuse>2025-02-25T19:15:06+01:00</lastuse>
+      <lastuse>2025-02-25T21:37:12+01:00</lastuse>
       <lastconfirm>2025-02-25T13:25:29+01:00</lastconfirm>
     </date>
   </event>
@@ -500,8 +524,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-02-26T23:25:12+01:00</lastuse>
-      <lastconfirm>2024-12-21T15:13:27+01:00</lastconfirm>
+      <lastuse>2025-02-27T15:38:22+01:00</lastuse>
+      <lastconfirm>2025-02-25T15:38:23+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
