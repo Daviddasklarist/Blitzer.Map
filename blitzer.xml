@@ -1,58 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15531990116</id>
-    <type>1</type>
-    <speed>40</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bobinger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.314924</latitude>
-        <longitude>10.859370</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-25T11:49:16+01:00</create>
-      <lastuse>2025-02-25T14:23:29+01:00</lastuse>
-      <lastconfirm>2025-02-25T13:53:29+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15532098663</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Wellenburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337248</latitude>
-        <longitude>10.856608</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-25T12:12:06+01:00</create>
-      <lastuse>2025-02-25T14:40:55+01:00</lastuse>
-      <lastconfirm>2025-02-25T13:40:56+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15531998726</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86420</zip>
       <city>Diedorf</city>
@@ -68,32 +20,8 @@
     </location>
     <date>
       <create>2025-02-25T11:50:37+01:00</create>
-      <lastuse>2025-02-25T16:14:42+01:00</lastuse>
-      <lastconfirm>2025-02-25T14:14:42+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15531981855</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>Aichacher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.365968</latitude>
-        <longitude>10.992430</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-25T11:47:25+01:00</create>
-      <lastuse>2025-02-25T14:47:25+01:00</lastuse>
-      <lastconfirm>2025-02-25T13:19:49+01:00</lastconfirm>
+      <lastuse>2025-02-25T16:23:37+01:00</lastuse>
+      <lastconfirm>2025-02-25T14:23:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-25T10:10:25+01:00</create>
-      <lastuse>2025-02-25T15:52:04+01:00</lastuse>
-      <lastconfirm>2025-02-25T14:22:06+01:00</lastconfirm>
+      <lastuse>2025-02-25T15:57:09+01:00</lastuse>
+      <lastconfirm>2025-02-25T14:27:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -142,30 +70,6 @@
       <create>2025-02-25T09:10:28+01:00</create>
       <lastuse>2025-02-25T14:42:15+01:00</lastuse>
       <lastconfirm>2025-02-25T13:42:15+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15530807577</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86692</zip>
-      <city>Münster</city>
-      <state>DE-BY</state>
-      <street>St 2381</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.618141</latitude>
-        <longitude>10.906918</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-25T07:27:12+01:00</create>
-      <lastuse>2025-02-25T14:26:32+01:00</lastuse>
-      <lastconfirm>2025-02-25T13:56:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-25T13:48:34+01:00</create>
-      <lastuse>2025-02-25T14:49:48+01:00</lastuse>
-      <lastconfirm>2025-02-25T14:19:48+01:00</lastconfirm>
+      <lastuse>2025-02-25T14:57:25+01:00</lastuse>
+      <lastconfirm>2025-02-25T14:27:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +212,8 @@
     </location>
     <date>
       <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2025-02-27T06:43:51+01:00</lastuse>
-      <lastconfirm>2025-02-25T06:43:52+01:00</lastconfirm>
+      <lastuse>2025-02-27T14:24:33+01:00</lastuse>
+      <lastconfirm>2025-02-25T14:24:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +356,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-02-27T11:59:05+01:00</lastuse>
-      <lastconfirm>2025-02-25T11:59:05+01:00</lastconfirm>
+      <lastuse>2025-02-27T14:23:16+01:00</lastuse>
+      <lastconfirm>2025-02-25T14:23:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
