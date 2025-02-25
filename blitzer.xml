@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15530587744</id>
+    <id>15530669112</id>
     <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
+    <speed>110</speed>
+    <quality>3</quality>
     <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
-      <street>Rumplerstraße</street>
+      <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.337341</latitude>
-        <longitude>10.902510</longitude>
+        <latitude>48.416843</latitude>
+        <longitude>10.840850</longitude>
       </point>
     </location>
     <date>
-      <create>2025-02-25T06:28:17+01:00</create>
-      <lastuse>2025-02-25T08:28:17+01:00</lastuse>
-      <lastconfirm>2025-02-25T06:48:21+01:00</lastconfirm>
+      <create>2025-02-25T06:50:25+01:00</create>
+      <lastuse>2025-02-25T08:55:19+01:00</lastuse>
+      <lastconfirm>2025-02-25T06:55:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-25T06:06:59+01:00</create>
-      <lastuse>2025-02-25T07:51:23+01:00</lastuse>
-      <lastconfirm>2025-02-25T06:51:24+01:00</lastconfirm>
+      <lastuse>2025-02-25T07:54:45+01:00</lastuse>
+      <lastconfirm>2025-02-25T06:54:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,32 +236,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-02-27T06:24:20+01:00</lastuse>
-      <lastconfirm>2025-02-25T06:24:21+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15526203561</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Sebastianstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.380620</latitude>
-        <longitude>10.896404</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-24T11:41:35+01:00</create>
-      <lastuse>2025-02-25T09:51:56+01:00</lastuse>
-      <lastconfirm>2025-02-24T11:41:35+01:00</lastconfirm>
+      <lastuse>2025-02-27T06:54:35+01:00</lastuse>
+      <lastconfirm>2025-02-25T06:54:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
