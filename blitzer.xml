@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15533357272</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Berliner Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.381978</latitude>
+        <longitude>10.902052</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-25T16:39:40+01:00</create>
+      <lastuse>2025-02-25T18:57:11+01:00</lastuse>
+      <lastconfirm>2025-02-25T16:57:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15532689548</id>
     <type>1</type>
     <speed>30</speed>
@@ -25,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>15533007729</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.398196</latitude>
+        <longitude>10.920684</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-25T15:26:54+01:00</create>
+      <lastuse>2025-02-25T18:57:41+01:00</lastuse>
+      <lastconfirm>2025-02-25T16:57:42+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15533005883</id>
     <type>1</type>
     <speed>70</speed>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-25T15:25:25+01:00</create>
-      <lastuse>2025-02-25T18:52:33+01:00</lastuse>
-      <lastconfirm>2025-02-25T16:52:34+01:00</lastconfirm>
+      <lastuse>2025-02-25T18:57:48+01:00</lastuse>
+      <lastconfirm>2025-02-25T16:57:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +140,8 @@
     </location>
     <date>
       <create>2025-02-25T14:41:18+01:00</create>
-      <lastuse>2025-02-25T18:34:26+01:00</lastuse>
-      <lastconfirm>2025-02-25T16:34:26+01:00</lastconfirm>
+      <lastuse>2025-02-25T18:57:18+01:00</lastuse>
+      <lastconfirm>2025-02-25T16:57:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +212,8 @@
     </location>
     <date>
       <create>2025-02-25T15:52:43+01:00</create>
-      <lastuse>2025-02-25T17:51:56+01:00</lastuse>
-      <lastconfirm>2025-02-25T16:51:56+01:00</lastconfirm>
+      <lastuse>2025-02-25T17:54:32+01:00</lastuse>
+      <lastconfirm>2025-02-25T16:54:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,7 +236,7 @@
     </location>
     <date>
       <create>2025-02-25T16:13:32+01:00</create>
-      <lastuse>2025-02-25T17:49:55+01:00</lastuse>
+      <lastuse>2025-02-25T17:31:55+01:00</lastuse>
       <lastconfirm>2025-02-25T16:49:57+01:00</lastconfirm>
     </date>
   </event>
@@ -236,8 +284,8 @@
     </location>
     <date>
       <create>2025-02-25T16:35:07+01:00</create>
-      <lastuse>2025-02-25T17:27:56+01:00</lastuse>
-      <lastconfirm>2025-02-25T16:45:56+01:00</lastconfirm>
+      <lastuse>2025-02-25T17:56:00+01:00</lastuse>
+      <lastconfirm>2025-02-25T16:56:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +500,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-02-27T15:42:12+01:00</lastuse>
-      <lastconfirm>2025-02-25T15:42:12+01:00</lastconfirm>
+      <lastuse>2025-02-27T16:50:16+01:00</lastuse>
+      <lastconfirm>2025-02-25T16:50:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
