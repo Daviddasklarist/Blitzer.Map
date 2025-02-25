@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15531607168</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86836</zip>
-      <city>Untermeitingen</city>
-      <state>DE-BY</state>
-      <street>Lagerlechfelder Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.172780</latitude>
-        <longitude>10.835100</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-25T10:25:19+01:00</create>
-      <lastuse>2025-02-25T12:40:54+01:00</lastuse>
-      <lastconfirm>2025-02-25T11:40:56+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15531990116</id>
     <type>1</type>
     <speed>40</speed>
@@ -46,6 +22,54 @@
       <create>2025-02-25T11:49:16+01:00</create>
       <lastuse>2025-02-25T14:12:44+01:00</lastuse>
       <lastconfirm>2025-02-25T12:12:44+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15532098663</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wellenburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337248</latitude>
+        <longitude>10.856608</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-25T12:12:06+01:00</create>
+      <lastuse>2025-02-25T14:12:06+01:00</lastuse>
+      <lastconfirm>2025-02-25T12:28:24+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15531981855</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Aichacher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365968</latitude>
+        <longitude>10.992430</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-25T11:47:25+01:00</create>
+      <lastuse>2025-02-25T14:47:25+01:00</lastuse>
+      <lastconfirm>2025-02-25T12:32:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -73,30 +97,6 @@
     </date>
   </event>
   <event>
-    <id>15530889739</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Reinöhlstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374391</latitude>
-        <longitude>10.870019</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-25T07:46:58+01:00</create>
-      <lastuse>2025-02-25T13:02:01+01:00</lastuse>
-      <lastconfirm>2025-02-25T11:02:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15531538216</id>
     <type>6</type>
     <speed></speed>
@@ -117,14 +117,14 @@
     <date>
       <create>2025-02-25T10:10:25+01:00</create>
       <lastuse>2025-02-25T14:10:25+01:00</lastuse>
-      <lastconfirm>2025-02-25T12:26:38+01:00</lastconfirm>
+      <lastconfirm>2025-02-25T12:33:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15530669112</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-02-25T06:50:25+01:00</create>
-      <lastuse>2025-02-25T14:21:22+01:00</lastuse>
-      <lastconfirm>2025-02-25T12:21:22+01:00</lastconfirm>
+      <lastuse>2025-02-25T14:32:37+01:00</lastuse>
+      <lastconfirm>2025-02-25T12:32:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
