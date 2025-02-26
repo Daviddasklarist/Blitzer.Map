@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15537647294</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Krumbacher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.269328</latitude>
+        <longitude>10.823093</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-26T10:58:21+01:00</create>
+      <lastuse>2025-02-26T13:33:08+01:00</lastuse>
+      <lastconfirm>2025-02-26T11:33:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15536515488</id>
     <type>1</type>
     <speed>30</speed>
