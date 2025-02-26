@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15539042616</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.227692</latitude>
+        <longitude>10.866777</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-26T15:56:37+01:00</create>
+      <lastuse>2025-02-26T19:56:37+01:00</lastuse>
+      <lastconfirm>2025-02-26T16:06:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15538429727</id>
     <type>1</type>
     <speed>100</speed>
@@ -94,30 +118,6 @@
       <create>2025-02-25T11:51:49+01:00</create>
       <lastuse>2025-02-26T22:12:37+01:00</lastuse>
       <lastconfirm>2025-02-26T14:12:38+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15538855743</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396136</latitude>
-        <longitude>11.031888</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-26T15:18:33+01:00</create>
-      <lastuse>2025-02-26T16:31:43+01:00</lastuse>
-      <lastconfirm>2025-02-26T16:01:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -334,30 +334,6 @@
       <create>2025-01-29T19:58:24+01:00</create>
       <lastuse>2025-02-28T14:45:19+01:00</lastuse>
       <lastconfirm>2025-02-26T14:45:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15537540294</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Berliner Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.377842</latitude>
-        <longitude>10.908317</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-26T10:31:55+01:00</create>
-      <lastuse>2025-02-26T22:43:59+01:00</lastuse>
-      <lastconfirm>2025-02-26T14:44:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
