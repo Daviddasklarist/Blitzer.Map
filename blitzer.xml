@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15545786633</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Kobelweg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.385579</latitude>
-        <longitude>10.852021</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-27T18:31:46+01:00</create>
-      <lastuse>2025-02-27T22:05:37+01:00</lastuse>
-      <lastconfirm>2025-02-27T20:35:38+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15536621067</id>
     <type>7</type>
     <speed>50</speed>
@@ -100,7 +76,7 @@
     <id>15545630948</id>
     <type>7</type>
     <speed>100</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86672</zip>
       <city>Thierhaupten</city>
@@ -116,32 +92,8 @@
     </location>
     <date>
       <create>2025-02-27T17:59:10+01:00</create>
-      <lastuse>2025-02-28T04:20:36+01:00</lastuse>
-      <lastconfirm>2025-02-27T20:20:37+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15546239331</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.334045</latitude>
-        <longitude>10.887689</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-27T20:13:10+01:00</create>
-      <lastuse>2025-02-27T21:39:15+01:00</lastuse>
-      <lastconfirm>2025-02-27T20:39:16+01:00</lastconfirm>
+      <lastuse>2025-02-28T04:49:32+01:00</lastuse>
+      <lastconfirm>2025-02-27T20:49:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
