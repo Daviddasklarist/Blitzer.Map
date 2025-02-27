@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15542397615</id>
+    <id>15542552151</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Gabelsbergerstraße</street>
+      <street>Von-Cobres-Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.347402</latitude>
-        <longitude>10.871670</longitude>
+        <latitude>48.343160</latitude>
+        <longitude>10.869566</longitude>
       </point>
     </location>
     <date>
-      <create>2025-02-27T06:08:16+01:00</create>
-      <lastuse>2025-02-27T08:08:16+01:00</lastuse>
-      <lastconfirm>2025-02-27T06:41:17+01:00</lastconfirm>
+      <create>2025-02-27T06:51:06+01:00</create>
+      <lastuse>2025-02-27T08:59:34+01:00</lastuse>
+      <lastconfirm>2025-02-27T07:29:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-27T06:02:06+01:00</create>
-      <lastuse>2025-02-27T09:27:15+01:00</lastuse>
-      <lastconfirm>2025-02-27T07:27:16+01:00</lastconfirm>
+      <lastuse>2025-02-27T09:28:10+01:00</lastuse>
+      <lastconfirm>2025-02-27T07:28:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-02-27T06:43:49+01:00</create>
-      <lastuse>2025-02-27T08:21:00+01:00</lastuse>
-      <lastconfirm>2025-02-27T07:21:00+01:00</lastconfirm>
+      <lastuse>2025-02-27T08:29:47+01:00</lastuse>
+      <lastconfirm>2025-02-27T07:29:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-02-27T06:57:51+01:00</create>
-      <lastuse>2025-02-27T08:11:03+01:00</lastuse>
-      <lastconfirm>2025-02-27T07:11:04+01:00</lastconfirm>
+      <lastuse>2025-02-27T08:31:22+01:00</lastuse>
+      <lastconfirm>2025-02-27T07:31:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-02-27T07:00:51+01:00</create>
-      <lastuse>2025-02-27T08:26:47+01:00</lastuse>
-      <lastconfirm>2025-02-27T07:26:48+01:00</lastconfirm>
+      <lastuse>2025-02-27T08:31:42+01:00</lastuse>
+      <lastconfirm>2025-02-27T07:31:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,56 @@
     </location>
     <date>
       <create>2025-02-27T07:09:07+01:00</create>
-      <lastuse>2025-02-27T08:26:59+01:00</lastuse>
-      <lastconfirm>2025-02-27T07:26:59+01:00</lastconfirm>
+      <lastuse>2025-02-27T08:30:42+01:00</lastuse>
+      <lastconfirm>2025-02-27T07:30:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15542665875</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.438404</latitude>
+        <longitude>10.871286</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-27T07:21:39+01:00</create>
+      <lastuse>2025-02-27T08:29:42+01:00</lastuse>
+      <lastconfirm>2025-02-27T07:29:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15542672969</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.360854</latitude>
+        <longitude>10.851969</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-27T07:24:40+01:00</create>
+      <lastuse>2025-02-27T08:33:30+01:00</lastuse>
+      <lastconfirm>2025-02-27T07:33:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
