@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15551789064</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86163</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Zugspitzstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362898</latitude>
+        <longitude>10.938437</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-28T18:21:50+01:00</create>
+      <lastuse>2025-02-28T21:27:21+01:00</lastuse>
+      <lastconfirm>2025-02-28T19:27:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15550077537</id>
     <type>1</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-02-28T12:33:38+01:00</create>
-      <lastuse>2025-02-28T21:22:07+01:00</lastuse>
-      <lastconfirm>2025-02-28T19:22:09+01:00</lastconfirm>
+      <lastuse>2025-02-28T20:54:44+01:00</lastuse>
+      <lastconfirm>2025-02-28T19:24:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2024-12-29T15:15:11+01:00</create>
-      <lastuse>2025-03-02T18:33:18+01:00</lastuse>
-      <lastconfirm>2025-02-28T18:33:19+01:00</lastconfirm>
+      <lastuse>2025-03-02T19:24:41+01:00</lastuse>
+      <lastconfirm>2025-02-28T19:24:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
