@@ -28,7 +28,7 @@
     <id>15555380011</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -44,8 +44,32 @@
     </location>
     <date>
       <create>2025-03-01T09:46:26+01:00</create>
-      <lastuse>2025-03-01T15:46:23+01:00</lastuse>
+      <lastuse>2025-03-01T15:16:23+01:00</lastuse>
       <lastconfirm>2025-03-01T14:16:23+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15556495263</id>
+    <type>1</type>
+    <speed>10</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.358579</latitude>
+        <longitude>10.851003</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-01T14:12:26+01:00</create>
+      <lastuse>2025-03-01T18:12:26+01:00</lastuse>
+      <lastconfirm>2025-03-01T14:18:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-01T10:53:07+01:00</create>
-      <lastuse>2025-03-01T15:15:53+01:00</lastuse>
-      <lastconfirm>2025-03-01T14:15:53+01:00</lastconfirm>
+      <lastuse>2025-03-01T15:20:32+01:00</lastuse>
+      <lastconfirm>2025-03-01T14:20:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -169,51 +193,27 @@
     </date>
   </event>
   <event>
-    <id>15556344149</id>
-    <type>20</type>
+    <id>15556516556</id>
+    <type>23</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
+      <zip>86477</zip>
+      <city>Adelsried</city>
       <state>DE-BY</state>
-      <street>Mühlhauser Straße</street>
+      <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.409845</latitude>
-        <longitude>10.920107</longitude>
+        <latitude>48.417013</latitude>
+        <longitude>10.735258</longitude>
       </point>
     </location>
     <date>
-      <create>2025-03-01T13:37:24+01:00</create>
-      <lastuse>2025-03-01T14:39:38+01:00</lastuse>
-      <lastconfirm>2025-03-01T13:57:38+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15556360510</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.402847</latitude>
-        <longitude>10.871790</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-01T13:40:10+01:00</create>
-      <lastuse>2025-03-01T14:52:02+01:00</lastuse>
-      <lastconfirm>2025-03-01T14:10:03+01:00</lastconfirm>
+      <create>2025-03-01T14:17:44+01:00</create>
+      <lastuse>2025-03-01T14:52:44+01:00</lastuse>
+      <lastconfirm>2025-03-01T14:22:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -254,8 +254,8 @@
     </address>
     <location>
       <point>
-        <latitude>48.357551</latitude>
-        <longitude>10.851003</longitude>
+        <latitude>48.359272</latitude>
+        <longitude>10.851256</longitude>
       </point>
     </location>
     <date>
