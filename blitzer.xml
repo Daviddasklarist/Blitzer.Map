@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15554966973</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.360459</latitude>
-        <longitude>10.851904</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-01T07:56:56+01:00</create>
-      <lastuse>2025-03-01T10:17:02+01:00</lastuse>
-      <lastconfirm>2025-03-01T08:17:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15538155347</id>
     <type>7</type>
     <speed>30</speed>
@@ -92,7 +68,7 @@
     </location>
     <date>
       <create>2025-03-01T07:51:02+01:00</create>
-      <lastuse>2025-03-01T08:48:25+01:00</lastuse>
+      <lastuse>2025-03-01T08:33:25+01:00</lastuse>
       <lastconfirm>2025-03-01T08:18:25+01:00</lastconfirm>
     </date>
   </event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-03-02T20:22:32+01:00</lastuse>
-      <lastconfirm>2025-02-28T20:22:33+01:00</lastconfirm>
+      <lastuse>2025-03-03T08:17:24+01:00</lastuse>
+      <lastconfirm>2025-03-01T08:17:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +284,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-02T16:46:38+01:00</lastuse>
-      <lastconfirm>2025-02-28T16:46:38+01:00</lastconfirm>
+      <lastuse>2025-03-03T08:15:25+01:00</lastuse>
+      <lastconfirm>2025-03-01T08:15:25+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
