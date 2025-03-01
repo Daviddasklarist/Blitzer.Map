@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15555235067</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355534</latitude>
+        <longitude>10.917898</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-01T09:09:01+01:00</create>
+      <lastuse>2025-03-01T11:28:44+01:00</lastuse>
+      <lastconfirm>2025-03-01T09:28:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15555061282</id>
     <type>6</type>
     <speed></speed>
@@ -21,7 +45,7 @@
     <date>
       <create>2025-03-01T08:22:40+01:00</create>
       <lastuse>2025-03-01T12:22:40+01:00</lastuse>
-      <lastconfirm>2025-03-01T09:27:44+01:00</lastconfirm>
+      <lastconfirm>2025-03-01T09:31:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -73,27 +97,27 @@
     </date>
   </event>
   <event>
-    <id>15555303782</id>
+    <id>15555311017</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
+      <zip>86316</zip>
+      <city>Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.400894</latitude>
-        <longitude>10.994985</longitude>
+        <latitude>48.401741</latitude>
+        <longitude>10.968860</longitude>
       </point>
     </location>
     <date>
-      <create>2025-03-01T09:26:01+01:00</create>
-      <lastuse>2025-03-01T09:32:00+01:00</lastuse>
-      <lastconfirm>2025-03-01T09:26:01+01:00</lastconfirm>
+      <create>2025-03-01T09:29:01+01:00</create>
+      <lastuse>2025-03-01T09:38:00+01:00</lastuse>
+      <lastconfirm>2025-03-01T09:29:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
