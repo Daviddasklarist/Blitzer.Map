@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>15563572830</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.367893</latitude>
+        <longitude>11.109009</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-02T21:13:17+01:00</create>
+      <lastuse>2025-03-02T23:27:14+01:00</lastuse>
+      <lastconfirm>2025-03-02T21:27:15+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15363365193</id>
     <type>26</type>
     <speed></speed>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-04T18:22:53+01:00</lastuse>
-      <lastconfirm>2025-03-02T18:22:54+01:00</lastconfirm>
+      <lastuse>2025-03-04T21:22:52+01:00</lastuse>
+      <lastconfirm>2025-03-02T21:22:52+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
