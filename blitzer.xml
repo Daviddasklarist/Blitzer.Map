@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15566822171</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337354</latitude>
+        <longitude>10.902871</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-03T12:02:17+01:00</create>
+      <lastuse>2025-03-03T17:25:10+01:00</lastuse>
+      <lastconfirm>2025-03-03T15:25:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15565516961</id>
     <type>1</type>
     <speed>100</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-03-03T06:41:46+01:00</create>
-      <lastuse>2025-03-03T16:48:40+01:00</lastuse>
+      <lastuse>2025-03-03T16:18:40+01:00</lastuse>
       <lastconfirm>2025-03-03T15:18:41+01:00</lastconfirm>
     </date>
   </event>
@@ -28,7 +52,7 @@
     <id>15567351950</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86161</zip>
       <city>Augsburg</city>
@@ -45,31 +69,7 @@
     <date>
       <create>2025-03-03T14:01:14+01:00</create>
       <lastuse>2025-03-03T18:01:14+01:00</lastuse>
-      <lastconfirm>2025-03-03T14:58:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15566620947</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Meraner Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.385393</latitude>
-        <longitude>10.938311</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-03T11:16:49+01:00</create>
-      <lastuse>2025-03-03T15:33:20+01:00</lastuse>
-      <lastconfirm>2025-03-03T15:03:21+01:00</lastconfirm>
+      <lastconfirm>2025-03-03T15:23:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-02T12:36:06+01:00</create>
-      <lastuse>2025-03-05T06:43:58+01:00</lastuse>
-      <lastconfirm>2025-03-02T12:36:06+01:00</lastconfirm>
+      <lastuse>2025-03-05T15:24:05+01:00</lastuse>
+      <lastconfirm>2025-03-03T15:24:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
