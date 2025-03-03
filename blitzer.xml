@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15568138389</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>St 2379</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.321501</latitude>
+        <longitude>11.032613</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-03T17:07:08+01:00</create>
+      <lastuse>2025-03-03T20:43:52+01:00</lastuse>
+      <lastconfirm>2025-03-03T18:43:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15568493916</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-03-03T18:27:53+01:00</create>
-      <lastuse>2025-03-03T20:31:53+01:00</lastuse>
-      <lastconfirm>2025-03-03T18:31:53+01:00</lastconfirm>
+      <lastuse>2025-03-03T20:43:44+01:00</lastuse>
+      <lastconfirm>2025-03-03T18:43:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +124,7 @@
     <id>15568253925</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2025-03-03T17:33:06+01:00</create>
-      <lastuse>2025-03-03T19:16:36+01:00</lastuse>
+      <lastuse>2025-03-03T18:58:36+01:00</lastuse>
       <lastconfirm>2025-03-03T18:16:36+01:00</lastconfirm>
     </date>
   </event>
@@ -142,30 +166,6 @@
       <create>2025-03-03T17:48:22+01:00</create>
       <lastuse>2025-03-03T19:38:42+01:00</lastuse>
       <lastconfirm>2025-03-03T18:38:42+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15568544870</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.399954</latitude>
-        <longitude>11.008854</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-03T18:40:01+01:00</create>
-      <lastuse>2025-03-03T18:47:00+01:00</lastuse>
-      <lastconfirm>2025-03-03T18:40:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-02T12:36:06+01:00</create>
-      <lastuse>2025-03-05T18:35:43+01:00</lastuse>
-      <lastconfirm>2025-03-03T18:35:44+01:00</lastconfirm>
+      <lastuse>2025-03-05T18:41:19+01:00</lastuse>
+      <lastconfirm>2025-03-03T18:41:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
