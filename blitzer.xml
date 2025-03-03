@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15568493916</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.379411</latitude>
+        <longitude>11.093703</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-03T18:27:53+01:00</create>
+      <lastuse>2025-03-03T20:31:53+01:00</lastuse>
+      <lastconfirm>2025-03-03T18:31:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15538155347</id>
     <type>7</type>
     <speed>30</speed>
@@ -78,21 +102,21 @@
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.401092</latitude>
-        <longitude>10.991902</longitude>
+        <latitude>48.400685</latitude>
+        <longitude>10.998067</longitude>
       </point>
     </location>
     <date>
       <create>2025-03-03T16:48:02+01:00</create>
-      <lastuse>2025-03-03T18:33:00+01:00</lastuse>
+      <lastuse>2025-03-03T18:38:00+01:00</lastuse>
       <lastconfirm>2025-03-03T16:48:02+01:00</lastconfirm>
     </date>
   </event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-05T18:22:42+01:00</lastuse>
-      <lastconfirm>2025-03-03T18:22:43+01:00</lastconfirm>
+      <lastuse>2025-03-05T18:25:22+01:00</lastuse>
+      <lastconfirm>2025-03-03T18:25:23+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
