@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15574464345</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Lechstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.273116</latitude>
+        <longitude>10.901336</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-04T18:43:24+01:00</create>
+      <lastuse>2025-03-04T22:36:59+01:00</lastuse>
+      <lastconfirm>2025-03-04T20:37:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15574231222</id>
     <type>1</type>
     <speed>50</speed>
@@ -286,6 +310,30 @@
       <create>2025-01-29T19:58:24+01:00</create>
       <lastuse>2025-03-06T20:10:33+01:00</lastuse>
       <lastconfirm>2025-03-04T20:10:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15574312749</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Riedingerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383422</latitude>
+        <longitude>10.890623</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-04T18:08:19+01:00</create>
+      <lastuse>2025-03-06T20:33:08+01:00</lastuse>
+      <lastconfirm>2025-03-04T20:33:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
