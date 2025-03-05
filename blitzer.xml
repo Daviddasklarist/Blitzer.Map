@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-03-05T07:32:01+01:00</create>
-      <lastuse>2025-03-05T11:36:19+01:00</lastuse>
+      <lastuse>2025-03-05T11:06:19+01:00</lastuse>
       <lastconfirm>2025-03-05T09:36:20+01:00</lastconfirm>
     </date>
   </event>
@@ -140,15 +140,15 @@
     </location>
     <date>
       <create>2025-03-05T06:51:03+01:00</create>
-      <lastuse>2025-03-05T12:08:27+01:00</lastuse>
-      <lastconfirm>2025-03-05T10:08:27+01:00</lastconfirm>
+      <lastuse>2025-03-05T12:11:05+01:00</lastuse>
+      <lastconfirm>2025-03-05T10:11:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15577600172</id>
     <type>1</type>
     <speed>20</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-03-05T09:07:20+01:00</create>
-      <lastuse>2025-03-05T11:07:20+01:00</lastuse>
-      <lastconfirm>2025-03-05T09:33:47+01:00</lastconfirm>
+      <lastuse>2025-03-05T12:10:03+01:00</lastuse>
+      <lastconfirm>2025-03-05T10:10:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-02T12:36:06+01:00</create>
-      <lastuse>2025-03-07T09:50:34+01:00</lastuse>
-      <lastconfirm>2025-03-05T09:50:34+01:00</lastconfirm>
+      <lastuse>2025-03-07T10:06:10+01:00</lastuse>
+      <lastconfirm>2025-03-05T10:06:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -406,6 +406,30 @@
       <create>2025-01-29T19:58:24+01:00</create>
       <lastuse>2025-03-07T09:56:46+01:00</lastuse>
       <lastconfirm>2025-03-05T09:56:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15577785892</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Georg-Haindl-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.379644</latitude>
+        <longitude>10.898015</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-05T09:45:02+01:00</create>
+      <lastuse>2025-03-05T18:09:42+01:00</lastuse>
+      <lastconfirm>2025-03-05T10:09:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
