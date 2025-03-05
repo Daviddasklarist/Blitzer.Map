@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15577034891</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86504</zip>
+      <city>Merching</city>
+      <state>DE-BY</state>
+      <street>St 2380</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.266140</latitude>
+        <longitude>10.937878</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-05T06:52:42+01:00</create>
+      <lastuse>2025-03-05T09:27:17+01:00</lastuse>
+      <lastconfirm>2025-03-05T07:27:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15577015013</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-03-05T06:46:37+01:00</create>
-      <lastuse>2025-03-05T09:19:13+01:00</lastuse>
+      <lastuse>2025-03-05T08:49:13+01:00</lastuse>
       <lastconfirm>2025-03-05T07:19:14+01:00</lastconfirm>
     </date>
   </event>
@@ -44,8 +68,32 @@
     </location>
     <date>
       <create>2025-03-05T06:20:46+01:00</create>
-      <lastuse>2025-03-05T09:20:50+01:00</lastuse>
-      <lastconfirm>2025-03-05T07:20:51+01:00</lastconfirm>
+      <lastuse>2025-03-05T08:54:07+01:00</lastuse>
+      <lastconfirm>2025-03-05T07:24:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15577123092</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Curt-Frenzel-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396554</latitude>
+        <longitude>10.923115</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-05T07:15:54+01:00</create>
+      <lastuse>2025-03-05T09:26:53+01:00</lastuse>
+      <lastconfirm>2025-03-05T07:26:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,15 +116,15 @@
     </location>
     <date>
       <create>2025-03-05T06:49:40+01:00</create>
-      <lastuse>2025-03-05T09:22:27+01:00</lastuse>
-      <lastconfirm>2025-03-05T07:22:29+01:00</lastconfirm>
+      <lastuse>2025-03-05T09:13:05+01:00</lastuse>
+      <lastconfirm>2025-03-05T07:28:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15577032828</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -92,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-05T06:51:03+01:00</create>
-      <lastuse>2025-03-05T09:06:11+01:00</lastuse>
-      <lastconfirm>2025-03-05T07:21:11+01:00</lastconfirm>
+      <lastuse>2025-03-05T09:27:45+01:00</lastuse>
+      <lastconfirm>2025-03-05T07:27:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-02T12:36:06+01:00</create>
-      <lastuse>2025-03-07T07:18:39+01:00</lastuse>
-      <lastconfirm>2025-03-05T07:18:40+01:00</lastconfirm>
+      <lastuse>2025-03-07T07:22:45+01:00</lastuse>
+      <lastconfirm>2025-03-05T07:22:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
