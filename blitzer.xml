@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15582967990</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ulrich-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.327733</latitude>
+        <longitude>10.906416</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-06T06:28:04+01:00</create>
+      <lastuse>2025-03-06T08:42:17+01:00</lastuse>
+      <lastconfirm>2025-03-06T06:42:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15582895506</id>
     <type>1</type>
     <speed>50</speed>
@@ -21,7 +45,31 @@
     <date>
       <create>2025-03-06T06:07:48+01:00</create>
       <lastuse>2025-03-06T09:07:48+01:00</lastuse>
-      <lastconfirm>2025-03-06T06:31:35+01:00</lastconfirm>
+      <lastconfirm>2025-03-06T06:42:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15582961636</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Meraner Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.386443</latitude>
+        <longitude>10.938181</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-06T06:25:38+01:00</create>
+      <lastuse>2025-03-06T08:42:53+01:00</lastuse>
+      <lastconfirm>2025-03-06T06:42:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-04T18:08:19+01:00</create>
-      <lastuse>2025-03-07T22:39:52+01:00</lastuse>
-      <lastconfirm>2025-03-05T22:39:53+01:00</lastconfirm>
+      <lastuse>2025-03-08T06:36:55+01:00</lastuse>
+      <lastconfirm>2025-03-06T06:36:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
