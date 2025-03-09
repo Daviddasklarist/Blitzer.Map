@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15603636296</id>
+    <type>1</type>
+    <speed>40</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Berliner Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.380801</latitude>
+        <longitude>10.903284</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-09T17:37:48+01:00</create>
+      <lastuse>2025-03-09T21:17:25+01:00</lastuse>
+      <lastconfirm>2025-03-09T19:17:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15603552021</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,32 @@
     </location>
     <date>
       <create>2025-03-06T15:15:44+01:00</create>
-      <lastuse>2025-03-10T03:09:49+01:00</lastuse>
-      <lastconfirm>2025-03-09T19:09:49+01:00</lastconfirm>
+      <lastuse>2025-03-10T03:15:24+01:00</lastuse>
+      <lastconfirm>2025-03-09T19:15:26+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15604026215</id>
+    <type>7</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.435376</latitude>
+        <longitude>11.127897</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-09T19:07:39+01:00</create>
+      <lastuse>2025-03-10T02:14:17+01:00</lastuse>
+      <lastconfirm>2025-03-09T19:14:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +284,8 @@
     </location>
     <date>
       <create>2025-03-07T17:17:19+01:00</create>
-      <lastuse>2025-03-11T19:02:04+01:00</lastuse>
-      <lastconfirm>2025-03-09T19:02:06+01:00</lastconfirm>
+      <lastuse>2025-03-11T19:14:10+01:00</lastuse>
+      <lastconfirm>2025-03-09T19:14:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +404,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-03-11T15:57:07+01:00</lastuse>
-      <lastconfirm>2025-03-09T15:57:08+01:00</lastconfirm>
+      <lastuse>2025-03-11T19:13:53+01:00</lastuse>
+      <lastconfirm>2025-03-09T19:13:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
