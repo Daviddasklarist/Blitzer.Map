@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15602639116</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Berliner Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382324</latitude>
+        <longitude>10.902746</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-09T13:47:30+01:00</create>
+      <lastuse>2025-03-09T17:37:41+01:00</lastuse>
+      <lastconfirm>2025-03-09T15:37:42+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15601711604</id>
     <type>1</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-03-09T09:59:59+01:00</create>
-      <lastuse>2025-03-09T17:31:59+01:00</lastuse>
-      <lastconfirm>2025-03-09T15:31:59+01:00</lastconfirm>
+      <lastuse>2025-03-09T17:37:49+01:00</lastuse>
+      <lastconfirm>2025-03-09T15:37:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2025-03-09T10:07:25+01:00</create>
-      <lastuse>2025-03-09T17:30:28+01:00</lastuse>
+      <lastuse>2025-03-09T17:00:28+01:00</lastuse>
       <lastconfirm>2025-03-09T15:30:28+01:00</lastconfirm>
     </date>
   </event>
@@ -68,32 +92,8 @@
     </location>
     <date>
       <create>2025-03-06T15:15:44+01:00</create>
-      <lastuse>2025-03-09T23:27:12+01:00</lastuse>
-      <lastconfirm>2025-03-09T15:27:13+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15602767978</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.381976</latitude>
-        <longitude>11.084031</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-09T14:18:51+01:00</create>
-      <lastuse>2025-03-09T17:20:53+01:00</lastuse>
-      <lastconfirm>2025-03-09T15:20:53+01:00</lastconfirm>
+      <lastuse>2025-03-09T23:37:57+01:00</lastuse>
+      <lastconfirm>2025-03-09T15:37:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
