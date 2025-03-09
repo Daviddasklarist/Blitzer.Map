@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15603591691</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Donauwörther Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.402953</latitude>
-        <longitude>10.879403</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-09T17:26:28+01:00</create>
-      <lastuse>2025-03-09T21:26:28+01:00</lastuse>
-      <lastconfirm>2025-03-09T17:59:38+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15603552021</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,32 +44,8 @@
     </location>
     <date>
       <create>2025-03-06T15:15:44+01:00</create>
-      <lastuse>2025-03-10T02:07:38+01:00</lastuse>
-      <lastconfirm>2025-03-09T18:07:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15603655012</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86507</zip>
-      <city>Kleinaitingen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.224231</latitude>
-        <longitude>10.865836</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-09T17:41:08+01:00</create>
-      <lastuse>2025-03-09T20:21:41+01:00</lastuse>
-      <lastconfirm>2025-03-09T18:21:41+01:00</lastconfirm>
+      <lastuse>2025-03-10T02:23:23+01:00</lastuse>
+      <lastconfirm>2025-03-09T18:23:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +164,8 @@
     </location>
     <date>
       <create>2025-03-08T11:56:39+01:00</create>
-      <lastuse>2025-03-11T18:17:25+01:00</lastuse>
-      <lastconfirm>2025-03-09T18:17:25+01:00</lastconfirm>
+      <lastuse>2025-03-11T18:21:32+01:00</lastuse>
+      <lastconfirm>2025-03-09T18:21:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -412,7 +364,7 @@
     <id>15574312749</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -428,7 +380,7 @@
     </location>
     <date>
       <create>2025-03-04T18:08:19+01:00</create>
-      <lastuse>2025-03-11T09:37:16+01:00</lastuse>
+      <lastuse>2025-03-11T01:37:16+01:00</lastuse>
       <lastconfirm>2025-03-04T18:08:19+01:00</lastconfirm>
     </date>
   </event>
