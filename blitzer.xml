@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15608437151</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>Nikolausweg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.340920</latitude>
-        <longitude>11.018142</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-10T13:13:54+01:00</create>
-      <lastuse>2025-03-10T15:53:24+01:00</lastuse>
-      <lastconfirm>2025-03-10T13:53:24+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15608887845</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86150</zip>
       <city>Augsburg</city>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2025-03-10T14:45:10+01:00</create>
-      <lastuse>2025-03-10T17:39:45+01:00</lastuse>
+      <lastuse>2025-03-10T17:09:45+01:00</lastuse>
       <lastconfirm>2025-03-10T15:39:46+01:00</lastconfirm>
     </date>
   </event>
@@ -68,7 +44,7 @@
     </location>
     <date>
       <create>2025-03-10T11:56:44+01:00</create>
-      <lastuse>2025-03-10T17:38:11+01:00</lastuse>
+      <lastuse>2025-03-10T17:08:11+01:00</lastuse>
       <lastconfirm>2025-03-10T15:38:12+01:00</lastconfirm>
     </date>
   </event>
@@ -117,14 +93,14 @@
     <date>
       <create>2025-03-10T14:27:05+01:00</create>
       <lastuse>2025-03-10T18:27:05+01:00</lastuse>
-      <lastconfirm>2025-03-10T15:42:48+01:00</lastconfirm>
+      <lastconfirm>2025-03-10T15:46:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15608126747</id>
     <type>6</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -140,7 +116,7 @@
     </location>
     <date>
       <create>2025-03-10T12:09:30+01:00</create>
-      <lastuse>2025-03-10T17:12:12+01:00</lastuse>
+      <lastuse>2025-03-10T16:42:12+01:00</lastuse>
       <lastconfirm>2025-03-10T15:42:12+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-06T15:15:44+01:00</create>
-      <lastuse>2025-03-10T23:42:07+01:00</lastuse>
-      <lastconfirm>2025-03-10T15:42:07+01:00</lastconfirm>
+      <lastuse>2025-03-10T23:45:19+01:00</lastuse>
+      <lastconfirm>2025-03-10T15:45:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +284,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-12T15:37:43+01:00</lastuse>
-      <lastconfirm>2025-03-10T15:37:43+01:00</lastconfirm>
+      <lastuse>2025-03-12T15:43:00+01:00</lastuse>
+      <lastconfirm>2025-03-10T15:43:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +548,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-12T07:18:55+01:00</lastuse>
-      <lastconfirm>2025-03-10T07:18:56+01:00</lastconfirm>
+      <lastuse>2025-03-12T15:42:41+01:00</lastuse>
+      <lastconfirm>2025-03-10T15:42:42+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
