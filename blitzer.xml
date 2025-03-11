@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>15613314400</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Stettenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.360091</latitude>
+        <longitude>10.895205</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-11T08:46:53+01:00</create>
+      <lastuse>2025-03-18T09:47:36+01:00</lastuse>
+      <lastconfirm>2025-03-11T09:43:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15613176769</id>
     <type>1</type>
     <speed>30</speed>
@@ -165,7 +189,7 @@
     <date>
       <create>2025-03-11T09:18:58+01:00</create>
       <lastuse>2025-03-11T13:18:58+01:00</lastuse>
-      <lastconfirm>2025-03-11T09:42:39+01:00</lastconfirm>
+      <lastconfirm>2025-03-11T09:47:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-03-11T07:24:32+01:00</create>
-      <lastuse>2025-03-11T11:24:32+01:00</lastuse>
-      <lastconfirm>2025-03-11T09:35:37+01:00</lastconfirm>
+      <lastuse>2025-03-11T11:47:06+01:00</lastuse>
+      <lastconfirm>2025-03-11T09:47:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-03-06T15:15:44+01:00</create>
-      <lastuse>2025-03-11T17:37:13+01:00</lastuse>
-      <lastconfirm>2025-03-11T09:37:13+01:00</lastconfirm>
+      <lastuse>2025-03-11T17:46:58+01:00</lastuse>
+      <lastconfirm>2025-03-11T09:46:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,56 +260,8 @@
     </location>
     <date>
       <create>2025-03-11T08:43:40+01:00</create>
-      <lastuse>2025-03-11T10:25:25+01:00</lastuse>
+      <lastuse>2025-03-11T09:55:25+01:00</lastuse>
       <lastconfirm>2025-03-11T09:25:26+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15612896061</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.295415</latitude>
-        <longitude>10.877425</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-11T07:15:23+01:00</create>
-      <lastuse>2025-03-11T10:35:27+01:00</lastuse>
-      <lastconfirm>2025-03-11T09:35:27+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15613389608</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.387503</latitude>
-        <longitude>11.075811</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-11T09:01:02+01:00</create>
-      <lastuse>2025-03-11T09:47:00+01:00</lastuse>
-      <lastconfirm>2025-03-11T09:01:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +284,32 @@
     </location>
     <date>
       <create>2025-03-11T09:38:01+01:00</create>
-      <lastuse>2025-03-11T09:47:00+01:00</lastuse>
+      <lastuse>2025-03-11T09:52:00+01:00</lastuse>
       <lastconfirm>2025-03-11T09:38:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15613610319</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385770</latitude>
+        <longitude>11.078369</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-11T09:47:02+01:00</create>
+      <lastuse>2025-03-11T09:52:00+01:00</lastuse>
+      <lastconfirm>2025-03-11T09:47:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +500,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-13T09:34:15+01:00</lastuse>
-      <lastconfirm>2025-03-11T09:34:15+01:00</lastconfirm>
+      <lastuse>2025-03-13T09:44:25+01:00</lastuse>
+      <lastconfirm>2025-03-11T09:44:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-03-13T08:04:16+01:00</lastuse>
-      <lastconfirm>2025-03-11T08:04:17+01:00</lastconfirm>
+      <lastuse>2025-03-13T09:43:08+01:00</lastuse>
+      <lastconfirm>2025-03-11T09:43:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
