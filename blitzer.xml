@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15616077436</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417972</latitude>
-        <longitude>10.826927</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-11T18:08:49+01:00</create>
-      <lastuse>2025-03-12T08:05:39+01:00</lastuse>
-      <lastconfirm>2025-03-12T06:35:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15618861556</id>
     <type>1</type>
     <speed>30</speed>
@@ -49,10 +25,34 @@
     </date>
   </event>
   <event>
+    <id>15618925555</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378515</latitude>
+        <longitude>10.882935</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-12T06:20:57+01:00</create>
+      <lastuse>2025-03-12T08:42:23+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:42:23+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15618875418</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86167</zip>
       <city>Augsburg</city>
@@ -68,8 +68,32 @@
     </location>
     <date>
       <create>2025-03-12T06:07:29+01:00</create>
-      <lastuse>2025-03-12T08:38:56+01:00</lastuse>
-      <lastconfirm>2025-03-12T06:38:56+01:00</lastconfirm>
+      <lastuse>2025-03-12T08:41:00+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:41:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15616077436</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417972</latitude>
+        <longitude>10.826927</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-11T18:08:49+01:00</create>
+      <lastuse>2025-03-12T08:10:56+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:40:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-14T06:34:08+01:00</lastuse>
-      <lastconfirm>2025-03-12T06:34:09+01:00</lastconfirm>
+      <lastuse>2025-03-14T06:38:33+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:38:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
