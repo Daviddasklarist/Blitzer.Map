@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15616077436</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417972</latitude>
+        <longitude>10.826927</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-11T18:08:49+01:00</create>
+      <lastuse>2025-03-12T08:05:39+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:35:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15618861556</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Gabelsbergerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.346347</latitude>
+        <longitude>10.870700</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-12T06:04:04+01:00</create>
+      <lastuse>2025-03-12T08:37:59+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:37:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15618875418</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hans-Böckler-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383268</latitude>
+        <longitude>10.906493</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-12T06:07:29+01:00</create>
+      <lastuse>2025-03-12T08:38:56+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:38:56+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15597761916</id>
     <type>26</type>
     <speed></speed>
@@ -116,8 +188,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-14T06:15:13+01:00</lastuse>
-      <lastconfirm>2025-03-12T06:15:13+01:00</lastconfirm>
+      <lastuse>2025-03-14T06:34:08+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:34:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-14T06:26:54+01:00</lastuse>
-      <lastconfirm>2025-03-12T06:26:55+01:00</lastconfirm>
+      <lastuse>2025-03-14T06:33:43+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:33:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,7 +284,7 @@
     </location>
     <date>
       <create>2025-03-11T21:43:49+01:00</create>
-      <lastuse>2025-03-13T22:27:55+01:00</lastuse>
+      <lastuse>2025-03-13T22:32:47+01:00</lastuse>
       <lastconfirm>2025-03-11T21:43:49+01:00</lastconfirm>
     </date>
   </event>
@@ -332,8 +404,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-03-14T06:05:46+01:00</lastuse>
-      <lastconfirm>2025-03-12T06:05:46+01:00</lastconfirm>
+      <lastuse>2025-03-14T06:32:45+01:00</lastuse>
+      <lastconfirm>2025-03-12T06:32:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
