@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15629534449</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kurt-Schumacher-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377239</latitude>
+        <longitude>10.929287</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-13T22:01:34+01:00</create>
+      <lastuse>2025-03-14T00:05:11+01:00</lastuse>
+      <lastconfirm>2025-03-13T22:05:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15628008087</id>
     <type>1</type>
     <speed>50</speed>
@@ -52,7 +76,7 @@
     <id>15627414514</id>
     <type>7</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-14T01:32:16+01:00</lastuse>
-      <lastconfirm>2025-03-13T22:02:17+01:00</lastconfirm>
+      <lastuse>2025-03-14T02:06:47+01:00</lastuse>
+      <lastconfirm>2025-03-13T22:06:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-15T21:24:22+01:00</lastuse>
-      <lastconfirm>2025-03-13T21:24:22+01:00</lastconfirm>
+      <lastuse>2025-03-15T22:04:58+01:00</lastuse>
+      <lastconfirm>2025-03-13T22:04:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
