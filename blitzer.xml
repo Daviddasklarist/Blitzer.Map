@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15625422594</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Frieda-Forster-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.272560</latitude>
+        <longitude>10.785287</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-13T07:32:40+01:00</create>
+      <lastuse>2025-03-13T10:14:59+01:00</lastuse>
+      <lastconfirm>2025-03-13T08:14:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15625127372</id>
     <type>1</type>
     <speed>30</speed>
@@ -52,7 +76,7 @@
     <id>15625339673</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-13T07:12:35+01:00</create>
-      <lastuse>2025-03-13T09:14:39+01:00</lastuse>
-      <lastconfirm>2025-03-13T07:44:39+01:00</lastconfirm>
+      <lastuse>2025-03-13T10:16:59+01:00</lastuse>
+      <lastconfirm>2025-03-13T08:17:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +117,7 @@
     <date>
       <create>2025-03-13T06:33:42+01:00</create>
       <lastuse>2025-03-13T10:33:42+01:00</lastuse>
-      <lastconfirm>2025-03-13T07:58:37+01:00</lastconfirm>
+      <lastconfirm>2025-03-13T08:14:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-13T07:00:59+01:00</create>
-      <lastuse>2025-03-20T08:08:14+01:00</lastuse>
-      <lastconfirm>2025-03-13T07:42:30+01:00</lastconfirm>
+      <lastuse>2025-03-13T11:00:59+01:00</lastuse>
+      <lastconfirm>2025-03-13T08:15:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-03-13T06:45:16+01:00</create>
-      <lastuse>2025-03-13T08:43:05+01:00</lastuse>
-      <lastconfirm>2025-03-13T08:13:06+01:00</lastconfirm>
+      <lastuse>2025-03-13T08:48:59+01:00</lastuse>
+      <lastconfirm>2025-03-13T08:18:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-03-13T06:23:00+01:00</create>
-      <lastuse>2025-03-13T08:59:50+01:00</lastuse>
-      <lastconfirm>2025-03-13T07:59:51+01:00</lastconfirm>
+      <lastuse>2025-03-13T09:16:08+01:00</lastuse>
+      <lastconfirm>2025-03-13T08:16:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-03-13T06:32:16+01:00</create>
-      <lastuse>2025-03-13T09:12:01+01:00</lastuse>
-      <lastconfirm>2025-03-13T08:12:01+01:00</lastconfirm>
+      <lastuse>2025-03-13T09:18:20+01:00</lastuse>
+      <lastconfirm>2025-03-13T08:18:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,32 +260,8 @@
     </location>
     <date>
       <create>2025-03-13T06:38:01+01:00</create>
-      <lastuse>2025-03-13T09:10:10+01:00</lastuse>
-      <lastconfirm>2025-03-13T08:10:11+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15625365040</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.270769</latitude>
-        <longitude>10.868009</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-13T07:18:53+01:00</create>
-      <lastuse>2025-03-13T08:13:05+01:00</lastuse>
-      <lastconfirm>2025-03-13T08:07:05+01:00</lastconfirm>
+      <lastuse>2025-03-13T09:14:37+01:00</lastuse>
+      <lastconfirm>2025-03-13T08:14:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +380,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-15T08:04:06+01:00</lastuse>
-      <lastconfirm>2025-03-13T08:04:07+01:00</lastconfirm>
+      <lastuse>2025-03-15T08:13:31+01:00</lastuse>
+      <lastconfirm>2025-03-13T08:13:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
