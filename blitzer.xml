@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>15625184972</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Alfred-Nobel-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385580</latitude>
+        <longitude>10.843579</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-13T06:33:42+01:00</create>
+      <lastuse>2025-03-13T09:00:51+01:00</lastuse>
+      <lastconfirm>2025-03-13T07:00:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15625019754</id>
     <type>21</type>
     <speed></speed>
@@ -44,8 +68,32 @@
     </location>
     <date>
       <create>2025-03-13T05:47:33+01:00</create>
-      <lastuse>2025-03-13T07:57:50+01:00</lastuse>
+      <lastuse>2025-03-13T07:42:50+01:00</lastuse>
       <lastconfirm>2025-03-13T06:57:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15625235056</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411232</latitude>
+        <longitude>10.645909</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-13T06:45:16+01:00</create>
+      <lastuse>2025-03-13T07:14:18+01:00</lastuse>
+      <lastconfirm>2025-03-13T06:59:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +116,56 @@
     </location>
     <date>
       <create>2025-03-13T06:23:00+01:00</create>
-      <lastuse>2025-03-13T07:57:09+01:00</lastuse>
+      <lastuse>2025-03-13T07:39:09+01:00</lastuse>
       <lastconfirm>2025-03-13T06:57:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15625182648</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.291138</latitude>
+        <longitude>10.875525</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-13T06:32:16+01:00</create>
+      <lastuse>2025-03-13T08:03:27+01:00</lastuse>
+      <lastconfirm>2025-03-13T07:03:29+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15625201436</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.296589</latitude>
+        <longitude>10.877897</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-13T06:38:01+01:00</create>
+      <lastuse>2025-03-13T08:03:57+01:00</lastuse>
+      <lastconfirm>2025-03-13T07:03:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +572,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-15T06:24:32+01:00</lastuse>
-      <lastconfirm>2025-03-13T06:24:32+01:00</lastconfirm>
+      <lastuse>2025-03-15T06:58:21+01:00</lastuse>
+      <lastconfirm>2025-03-13T06:58:21+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
