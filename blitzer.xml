@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15633068984</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Henisiusstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373238</latitude>
-        <longitude>10.901464</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-14T12:48:35+01:00</create>
-      <lastuse>2025-03-14T16:43:12+01:00</lastuse>
-      <lastconfirm>2025-03-14T16:13:13+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15632948709</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,8 +44,32 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-14T20:32:25+01:00</lastuse>
-      <lastconfirm>2025-03-14T16:32:26+01:00</lastconfirm>
+      <lastuse>2025-03-14T20:37:31+01:00</lastuse>
+      <lastconfirm>2025-03-14T16:37:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15634057160</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.330792</latitude>
+        <longitude>10.886850</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-14T16:09:04+01:00</create>
+      <lastuse>2025-03-14T17:15:27+01:00</lastuse>
+      <lastconfirm>2025-03-14T16:33:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-08T16:31:53+01:00</create>
-      <lastuse>2025-03-16T16:24:08+01:00</lastuse>
-      <lastconfirm>2025-03-14T16:24:09+01:00</lastconfirm>
+      <lastuse>2025-03-16T16:34:43+01:00</lastuse>
+      <lastconfirm>2025-03-14T16:34:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-03-16T14:14:20+01:00</lastuse>
-      <lastconfirm>2025-03-14T14:14:21+01:00</lastconfirm>
+      <lastuse>2025-03-16T16:30:22+01:00</lastuse>
+      <lastconfirm>2025-03-14T16:30:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-16T16:07:09+01:00</lastuse>
-      <lastconfirm>2025-03-14T16:07:12+01:00</lastconfirm>
+      <lastuse>2025-03-16T16:34:56+01:00</lastuse>
+      <lastconfirm>2025-03-14T16:34:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
