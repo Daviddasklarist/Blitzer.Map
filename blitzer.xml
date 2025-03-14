@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15631363170</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370981</latitude>
+        <longitude>10.874699</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-14T06:21:32+01:00</create>
+      <lastuse>2025-03-14T08:30:46+01:00</lastuse>
+      <lastconfirm>2025-03-14T06:30:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15627414514</id>
     <type>7</type>
     <speed>0</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-14T10:24:00+01:00</lastuse>
-      <lastconfirm>2025-03-14T06:24:01+01:00</lastconfirm>
+      <lastuse>2025-03-14T10:32:58+01:00</lastuse>
+      <lastconfirm>2025-03-14T06:32:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -220,7 +244,7 @@
     <id>15627718826</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-13T15:29:34+01:00</create>
-      <lastuse>2025-03-16T06:18:38+01:00</lastuse>
-      <lastconfirm>2025-03-14T06:18:38+01:00</lastconfirm>
+      <lastuse>2025-03-16T06:29:28+01:00</lastuse>
+      <lastconfirm>2025-03-14T06:29:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-03-16T05:42:28+01:00</lastuse>
-      <lastconfirm>2025-03-14T05:42:28+01:00</lastconfirm>
+      <lastuse>2025-03-16T06:27:20+01:00</lastuse>
+      <lastconfirm>2025-03-14T06:27:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-16T06:15:14+01:00</lastuse>
-      <lastconfirm>2025-03-14T06:15:14+01:00</lastconfirm>
+      <lastuse>2025-03-15T22:15:14+01:00</lastuse>
+      <lastconfirm>2024-12-21T15:13:27+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
