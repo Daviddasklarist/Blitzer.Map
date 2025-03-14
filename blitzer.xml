@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15631515289</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86157</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.363464</latitude>
-        <longitude>10.872871</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-14T07:02:36+01:00</create>
-      <lastuse>2025-03-14T13:24:43+01:00</lastuse>
-      <lastconfirm>2025-03-14T11:54:44+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15632551709</id>
     <type>1</type>
     <speed>30</speed>
@@ -100,7 +76,7 @@
     <id>15631692009</id>
     <type>7</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -116,7 +92,7 @@
     </location>
     <date>
       <create>2025-03-14T07:45:34+01:00</create>
-      <lastuse>2025-03-14T20:43:24+01:00</lastuse>
+      <lastuse>2025-03-14T19:43:24+01:00</lastuse>
       <lastconfirm>2025-03-14T12:43:25+01:00</lastconfirm>
     </date>
   </event>
@@ -140,15 +116,15 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-14T16:50:48+01:00</lastuse>
-      <lastconfirm>2025-03-14T12:50:48+01:00</lastconfirm>
+      <lastuse>2025-03-14T16:58:31+01:00</lastuse>
+      <lastconfirm>2025-03-14T12:58:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15633065451</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-14T12:47:36+01:00</create>
-      <lastuse>2025-03-14T14:52:18+01:00</lastuse>
-      <lastconfirm>2025-03-14T12:52:19+01:00</lastconfirm>
+      <lastuse>2025-03-14T14:53:55+01:00</lastuse>
+      <lastconfirm>2025-03-14T12:53:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
