@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15644248439</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.416995</latitude>
-        <longitude>10.839036</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-16T11:34:34+01:00</create>
-      <lastuse>2025-03-16T19:57:13+01:00</lastuse>
-      <lastconfirm>2025-03-16T17:57:14+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15627414514</id>
     <type>7</type>
     <speed>0</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-16T21:55:45+01:00</lastuse>
-      <lastconfirm>2025-03-16T17:55:46+01:00</lastconfirm>
+      <lastuse>2025-03-16T22:02:27+01:00</lastuse>
+      <lastconfirm>2025-03-16T18:02:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-18T17:45:00+01:00</lastuse>
-      <lastconfirm>2025-03-16T17:45:01+01:00</lastconfirm>
+      <lastuse>2025-03-18T17:56:54+01:00</lastuse>
+      <lastconfirm>2025-03-16T17:56:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,15 +212,15 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-18T17:53:16+01:00</lastuse>
-      <lastconfirm>2025-03-16T17:53:17+01:00</lastconfirm>
+      <lastuse>2025-03-18T17:55:43+01:00</lastuse>
+      <lastconfirm>2025-03-16T17:55:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15634133617</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2025-03-14T16:21:46+01:00</create>
-      <lastuse>2025-03-18T17:52:51+01:00</lastuse>
-      <lastconfirm>2025-03-16T17:52:52+01:00</lastconfirm>
+      <lastuse>2025-03-18T17:58:05+01:00</lastuse>
+      <lastconfirm>2025-03-16T17:58:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-18T13:18:34+01:00</lastuse>
-      <lastconfirm>2025-03-16T13:18:36+01:00</lastconfirm>
+      <lastuse>2025-03-18T17:57:20+01:00</lastuse>
+      <lastconfirm>2025-03-16T17:57:20+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
