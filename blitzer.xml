@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15651519096</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.356151</latitude>
+        <longitude>10.967132</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-17T16:58:29+01:00</create>
+      <lastuse>2025-03-17T19:21:08+01:00</lastuse>
+      <lastconfirm>2025-03-17T17:21:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15650357175</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-03-17T13:49:10+01:00</create>
-      <lastuse>2025-03-17T19:18:48+01:00</lastuse>
-      <lastconfirm>2025-03-17T17:18:48+01:00</lastconfirm>
+      <lastuse>2025-03-17T19:22:40+01:00</lastuse>
+      <lastconfirm>2025-03-17T17:22:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,32 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-17T21:17:51+01:00</lastuse>
-      <lastconfirm>2025-03-17T17:17:52+01:00</lastconfirm>
+      <lastuse>2025-03-17T21:21:21+01:00</lastuse>
+      <lastconfirm>2025-03-17T17:21:21+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15651611524</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410399</latitude>
+        <longitude>10.619451</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-17T17:16:08+01:00</create>
+      <lastuse>2025-03-17T19:22:24+01:00</lastuse>
+      <lastconfirm>2025-03-17T17:22:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-19T17:09:10+01:00</lastuse>
-      <lastconfirm>2025-03-17T17:09:10+01:00</lastconfirm>
+      <lastuse>2025-03-19T17:19:05+01:00</lastuse>
+      <lastconfirm>2025-03-17T17:19:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-19T17:13:05+01:00</lastuse>
-      <lastconfirm>2025-03-17T17:13:05+01:00</lastconfirm>
+      <lastuse>2025-03-19T17:15:53+01:00</lastuse>
+      <lastconfirm>2025-03-17T17:15:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +380,8 @@
     </location>
     <date>
       <create>2025-03-17T16:33:59+01:00</create>
-      <lastuse>2025-03-18T00:59:43+01:00</lastuse>
-      <lastconfirm>2025-03-17T16:59:43+01:00</lastconfirm>
+      <lastuse>2025-03-17T22:59:43+01:00</lastuse>
+      <lastconfirm>2025-03-17T16:33:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -502,30 +550,6 @@
       <create>2025-03-17T10:09:01+01:00</create>
       <lastuse>2025-03-17T22:48:58+01:00</lastuse>
       <lastconfirm>2025-03-17T10:09:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15651184761</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.503212</latitude>
-        <longitude>10.856621</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-17T15:45:55+01:00</create>
-      <lastuse>2025-03-17T22:55:22+01:00</lastuse>
-      <lastconfirm>2025-03-17T15:45:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
