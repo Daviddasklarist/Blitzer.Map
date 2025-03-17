@@ -4,7 +4,7 @@
     <id>15648831728</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86507</zip>
       <city>Kleinaitingen</city>
@@ -21,7 +21,7 @@
     <date>
       <create>2025-03-17T07:18:20+01:00</create>
       <lastuse>2025-03-17T11:18:20+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:58:51+01:00</lastconfirm>
+      <lastconfirm>2025-03-17T09:02:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-03-17T06:56:29+01:00</create>
-      <lastuse>2025-03-17T10:58:18+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:58:19+01:00</lastconfirm>
+      <lastuse>2025-03-17T11:02:59+01:00</lastuse>
+      <lastconfirm>2025-03-17T09:02:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -69,7 +69,7 @@
     <date>
       <create>2025-03-17T08:44:21+01:00</create>
       <lastuse>2025-03-17T12:44:21+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:58:40+01:00</lastconfirm>
+      <lastconfirm>2025-03-17T09:03:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-17T07:06:45+01:00</create>
-      <lastuse>2025-03-17T10:00:56+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:00:57+01:00</lastconfirm>
+      <lastuse>2025-03-17T11:02:01+01:00</lastuse>
+      <lastconfirm>2025-03-17T09:02:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,10 +145,34 @@
     </date>
   </event>
   <event>
+    <id>15649181666</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schillstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.392173</latitude>
+        <longitude>10.901333</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-17T08:37:40+01:00</create>
+      <lastuse>2025-03-17T11:37:40+01:00</lastuse>
+      <lastconfirm>2025-03-17T09:01:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15627414514</id>
     <type>7</type>
     <speed>0</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -164,32 +188,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-17T11:28:42+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:58:42+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15648986726</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.356378</latitude>
-        <longitude>10.851255</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-17T07:54:57+01:00</create>
-      <lastuse>2025-03-17T09:14:30+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:50:30+01:00</lastconfirm>
+      <lastuse>2025-03-17T13:03:26+01:00</lastuse>
+      <lastconfirm>2025-03-17T09:03:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +332,8 @@
     </location>
     <date>
       <create>2025-03-16T23:39:14+01:00</create>
-      <lastuse>2025-03-19T08:24:12+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:24:12+01:00</lastconfirm>
+      <lastuse>2025-03-19T08:59:34+01:00</lastuse>
+      <lastconfirm>2025-03-17T08:59:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-19T08:46:14+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:46:14+01:00</lastconfirm>
+      <lastuse>2025-03-19T08:59:43+01:00</lastuse>
+      <lastconfirm>2025-03-17T08:59:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +404,8 @@
     </location>
     <date>
       <create>2025-03-15T16:22:05+01:00</create>
-      <lastuse>2025-03-19T08:46:59+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:47:00+01:00</lastconfirm>
+      <lastuse>2025-03-19T08:59:36+01:00</lastuse>
+      <lastconfirm>2025-03-17T08:59:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +428,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-19T08:53:17+01:00</lastuse>
-      <lastconfirm>2025-03-17T08:53:18+01:00</lastconfirm>
+      <lastuse>2025-03-19T08:59:22+01:00</lastuse>
+      <lastconfirm>2025-03-17T08:59:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -598,30 +598,6 @@
       <create>2025-03-12T14:55:24+01:00</create>
       <lastuse>2025-03-18T17:16:54+01:00</lastuse>
       <lastconfirm>2025-03-16T17:16:55+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15613689525</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86450</zip>
-      <city>Altenmünster</city>
-      <state>DE-HH</state>
-      <street>St 2027</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.474238</latitude>
-        <longitude>10.587337</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-11T10:03:04+01:00</create>
-      <lastuse>2025-03-17T22:28:37+01:00</lastuse>
-      <lastconfirm>2025-03-11T10:03:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
