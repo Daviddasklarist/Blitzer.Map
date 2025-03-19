@@ -68,15 +68,15 @@
     </location>
     <date>
       <create>2025-03-19T11:40:44+01:00</create>
-      <lastuse>2025-03-19T19:51:32+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:51:33+01:00</lastconfirm>
+      <lastuse>2025-03-19T19:43:51+01:00</lastuse>
+      <lastconfirm>2025-03-19T17:58:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15664305200</id>
     <type>1</type>
     <speed>90</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86551</zip>
       <city>Aichach</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-19T17:41:51+01:00</create>
-      <lastuse>2025-03-19T19:52:41+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:52:42+01:00</lastconfirm>
+      <lastuse>2025-03-19T19:58:50+01:00</lastuse>
+      <lastconfirm>2025-03-19T17:58:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,15 +164,15 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-19T21:53:57+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:53:57+01:00</lastconfirm>
+      <lastuse>2025-03-19T21:28:26+01:00</lastuse>
+      <lastconfirm>2025-03-19T17:58:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15664175564</id>
     <type>21</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -188,7 +188,7 @@
     </location>
     <date>
       <create>2025-03-19T17:17:25+01:00</create>
-      <lastuse>2025-03-19T18:50:52+01:00</lastuse>
+      <lastuse>2025-03-19T18:20:52+01:00</lastuse>
       <lastconfirm>2025-03-19T17:50:53+01:00</lastconfirm>
     </date>
   </event>
@@ -212,56 +212,8 @@
     </location>
     <date>
       <create>2025-03-19T16:22:10+01:00</create>
-      <lastuse>2025-03-19T18:48:02+01:00</lastuse>
+      <lastuse>2025-03-19T18:30:02+01:00</lastuse>
       <lastconfirm>2025-03-19T17:48:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15664022348</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.354251</latitude>
-        <longitude>10.853402</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-19T16:49:49+01:00</create>
-      <lastuse>2025-03-19T18:50:25+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:50:25+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15664152054</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.391150</latitude>
-        <longitude>10.861824</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-19T17:12:41+01:00</create>
-      <lastuse>2025-03-19T18:11:07+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:47:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,7 +236,7 @@
     </location>
     <date>
       <create>2025-03-19T16:49:04+01:00</create>
-      <lastuse>2025-03-19T18:50:24+01:00</lastuse>
+      <lastuse>2025-03-19T18:32:24+01:00</lastuse>
       <lastconfirm>2025-03-19T17:50:25+01:00</lastconfirm>
     </date>
   </event>
@@ -308,8 +260,32 @@
     </location>
     <date>
       <create>2025-03-19T16:49:34+01:00</create>
-      <lastuse>2025-03-19T18:31:52+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:49:52+01:00</lastconfirm>
+      <lastuse>2025-03-19T18:58:43+01:00</lastuse>
+      <lastconfirm>2025-03-19T17:58:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15664022348</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.354251</latitude>
+        <longitude>10.853402</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-19T16:49:49+01:00</create>
+      <lastuse>2025-03-19T18:14:25+01:00</lastuse>
+      <lastconfirm>2025-03-19T17:50:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +404,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-21T17:48:57+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:48:58+01:00</lastconfirm>
+      <lastuse>2025-03-21T17:52:58+01:00</lastuse>
+      <lastconfirm>2025-03-19T17:52:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2025-03-19T17:14:42+01:00</create>
-      <lastuse>2025-03-21T17:42:21+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:42:21+01:00</lastconfirm>
+      <lastuse>2025-03-21T17:53:39+01:00</lastuse>
+      <lastconfirm>2025-03-19T17:53:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-21T17:49:46+01:00</lastuse>
-      <lastconfirm>2025-03-19T17:49:47+01:00</lastconfirm>
+      <lastuse>2025-03-21T17:52:53+01:00</lastuse>
+      <lastconfirm>2025-03-19T17:52:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
