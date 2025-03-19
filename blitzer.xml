@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15659255123</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Donauwörther Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396125</latitude>
-        <longitude>10.881689</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-18T22:30:25+01:00</create>
-      <lastuse>2025-03-19T02:38:28+01:00</lastuse>
-      <lastconfirm>2025-03-19T00:38:29+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15655808917</id>
     <type>7</type>
     <speed>50</speed>
@@ -52,7 +28,7 @@
     <id>15627414514</id>
     <type>7</type>
     <speed>0</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-19T06:24:15+01:00</lastuse>
-      <lastconfirm>2025-03-19T02:24:16+01:00</lastconfirm>
+      <lastuse>2025-03-19T06:34:50+01:00</lastuse>
+      <lastconfirm>2025-03-19T02:34:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -86,13 +62,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.410089</latitude>
-        <longitude>10.614713</longitude>
+        <latitude>48.409936</latitude>
+        <longitude>10.613061</longitude>
       </point>
     </location>
     <date>
       <create>2025-03-19T02:16:02+01:00</create>
-      <lastuse>2025-03-19T02:38:00+01:00</lastuse>
+      <lastuse>2025-03-19T02:43:00+01:00</lastuse>
       <lastconfirm>2025-03-19T02:16:02+01:00</lastconfirm>
     </date>
   </event>
