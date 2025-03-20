@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15669804458</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.230401</latitude>
+        <longitude>10.866802</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-20T15:09:39+01:00</create>
+      <lastuse>2025-03-20T17:28:00+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:28:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15669528976</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-03-20T14:26:35+01:00</create>
-      <lastuse>2025-03-20T17:20:32+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:20:32+01:00</lastconfirm>
+      <lastuse>2025-03-20T17:27:09+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:27:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-20T14:03:59+01:00</create>
-      <lastuse>2025-03-20T17:22:42+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:22:42+01:00</lastconfirm>
+      <lastuse>2025-03-20T17:27:51+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:27:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-20T19:22:52+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:22:53+01:00</lastconfirm>
+      <lastuse>2025-03-20T19:26:53+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:26:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-20T14:46:22+01:00</create>
-      <lastuse>2025-03-20T17:17:35+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:17:37+01:00</lastconfirm>
+      <lastuse>2025-03-20T17:25:48+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:25:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,32 +284,8 @@
     </location>
     <date>
       <create>2025-03-20T14:54:09+01:00</create>
-      <lastuse>2025-03-20T17:21:50+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:21:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15669726767</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.419042</latitude>
-        <longitude>10.774526</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-20T14:54:24+01:00</create>
-      <lastuse>2025-03-20T17:21:42+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:21:42+01:00</lastconfirm>
+      <lastuse>2025-03-20T17:26:22+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:26:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-20T08:57:57+01:00</create>
-      <lastuse>2025-03-20T22:59:04+01:00</lastuse>
-      <lastconfirm>2025-03-20T14:59:05+01:00</lastconfirm>
+      <lastuse>2025-03-20T23:23:14+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:23:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-22T15:15:43+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:15:44+01:00</lastconfirm>
+      <lastuse>2025-03-22T15:23:30+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:23:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +596,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-22T15:16:08+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:16:08+01:00</lastconfirm>
+      <lastuse>2025-03-22T15:21:18+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:21:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +740,8 @@
     </location>
     <date>
       <create>2025-03-20T13:22:19+01:00</create>
-      <lastuse>2025-03-20T23:04:06+01:00</lastuse>
-      <lastconfirm>2025-03-20T15:04:06+01:00</lastconfirm>
+      <lastuse>2025-03-20T23:21:36+01:00</lastuse>
+      <lastconfirm>2025-03-20T15:21:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
