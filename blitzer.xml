@@ -76,7 +76,7 @@
     <id>15675211456</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2025-03-21T12:09:12+01:00</create>
-      <lastuse>2025-03-21T21:26:33+01:00</lastuse>
+      <lastuse>2025-03-21T20:26:33+01:00</lastuse>
       <lastconfirm>2025-03-21T13:26:33+01:00</lastconfirm>
     </date>
   </event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-21T18:26:15+01:00</lastuse>
-      <lastconfirm>2025-03-21T14:26:15+01:00</lastconfirm>
+      <lastuse>2025-03-21T18:33:50+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:33:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-03-21T13:56:25+01:00</create>
-      <lastuse>2025-03-21T16:22:41+01:00</lastuse>
-      <lastconfirm>2025-03-21T14:22:42+01:00</lastconfirm>
+      <lastuse>2025-03-21T16:32:11+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:32:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-03-21T14:02:58+01:00</create>
-      <lastuse>2025-03-21T14:55:23+01:00</lastuse>
-      <lastconfirm>2025-03-21T14:25:24+01:00</lastconfirm>
+      <lastuse>2025-03-21T14:45:58+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:30:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,32 @@
     </location>
     <date>
       <create>2025-03-21T13:32:18+01:00</create>
-      <lastuse>2025-03-21T15:25:32+01:00</lastuse>
-      <lastconfirm>2025-03-21T14:25:32+01:00</lastconfirm>
+      <lastuse>2025-03-21T15:28:02+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:28:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15675820193</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Max-Kunz-Weg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.423776</latitude>
+        <longitude>10.867670</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-21T14:08:59+01:00</create>
+      <lastuse>2025-03-21T15:31:14+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:31:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-21T14:22:34+01:00</create>
-      <lastuse>2025-03-21T15:27:56+01:00</lastuse>
-      <lastconfirm>2025-03-21T14:27:56+01:00</lastconfirm>
+      <lastuse>2025-03-21T15:32:36+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:32:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-23T14:06:13+01:00</lastuse>
-      <lastconfirm>2025-03-21T14:06:14+01:00</lastconfirm>
+      <lastuse>2025-03-23T14:28:20+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:28:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-23T14:23:38+01:00</lastuse>
-      <lastconfirm>2025-03-21T14:23:38+01:00</lastconfirm>
+      <lastuse>2025-03-23T14:28:39+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:28:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -598,6 +622,30 @@
       <create>2025-01-29T19:58:24+01:00</create>
       <lastuse>2025-03-23T14:17:47+01:00</lastuse>
       <lastconfirm>2025-03-21T14:17:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15673936818</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-HH</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.375720</latitude>
+        <longitude>10.838710</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-21T07:34:34+01:00</create>
+      <lastuse>2025-03-21T22:26:38+01:00</lastuse>
+      <lastconfirm>2025-03-21T14:26:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
