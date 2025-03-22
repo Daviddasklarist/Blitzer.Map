@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15683318244</id>
+    <type>2</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.374557</latitude>
+        <longitude>10.848317</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-22T18:34:43+01:00</create>
+      <lastuse>2025-03-22T20:46:57+01:00</lastuse>
+      <lastconfirm>2025-03-22T18:46:57+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15682845482</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-22T22:40:55+01:00</lastuse>
-      <lastconfirm>2025-03-22T18:40:55+01:00</lastconfirm>
+      <lastuse>2025-03-22T22:45:37+01:00</lastuse>
+      <lastconfirm>2025-03-22T18:45:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-24T18:38:29+01:00</lastuse>
-      <lastconfirm>2025-03-22T18:38:29+01:00</lastconfirm>
+      <lastuse>2025-03-24T18:43:16+01:00</lastuse>
+      <lastconfirm>2025-03-22T18:43:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-01-29T17:57:19+01:00</create>
-      <lastuse>2025-03-24T18:34:46+01:00</lastuse>
-      <lastconfirm>2025-03-22T18:34:47+01:00</lastconfirm>
+      <lastuse>2025-03-24T18:40:07+01:00</lastuse>
+      <lastconfirm>2025-03-22T18:40:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
