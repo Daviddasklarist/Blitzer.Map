@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15680929063</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Gabelsbergerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.347998</latitude>
+        <longitude>10.871846</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-22T09:53:10+01:00</create>
+      <lastuse>2025-03-22T12:00:39+01:00</lastuse>
+      <lastconfirm>2025-03-22T10:00:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15655808917</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,12 +68,12 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-22T13:57:21+01:00</lastuse>
-      <lastconfirm>2025-03-22T09:57:21+01:00</lastconfirm>
+      <lastuse>2025-03-22T14:02:20+01:00</lastuse>
+      <lastconfirm>2025-03-22T10:02:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>15680926405</id>
+    <id>15680967904</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -62,14 +86,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.390227</latitude>
-        <longitude>11.072107</longitude>
+        <latitude>48.392685</latitude>
+        <longitude>11.068030</longitude>
       </point>
     </location>
     <date>
-      <create>2025-03-22T09:52:02+01:00</create>
-      <lastuse>2025-03-22T10:03:00+01:00</lastuse>
-      <lastconfirm>2025-03-22T09:52:02+01:00</lastconfirm>
+      <create>2025-03-22T10:03:01+01:00</create>
+      <lastuse>2025-03-22T10:08:00+01:00</lastuse>
+      <lastconfirm>2025-03-22T10:03:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
