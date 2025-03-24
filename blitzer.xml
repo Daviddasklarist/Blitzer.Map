@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15692987411</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hermanstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362460</latitude>
+        <longitude>10.892082</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-24T10:08:58+01:00</create>
+      <lastuse>2025-03-24T12:20:03+01:00</lastuse>
+      <lastconfirm>2025-03-24T10:20:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15692259825</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-24T09:26:01+01:00</create>
-      <lastuse>2025-03-24T12:09:13+01:00</lastuse>
-      <lastconfirm>2025-03-24T10:09:14+01:00</lastconfirm>
+      <lastuse>2025-03-24T12:21:45+01:00</lastuse>
+      <lastconfirm>2025-03-24T10:21:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +124,7 @@
     <id>15627414514</id>
     <type>7</type>
     <speed>0</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-24T14:13:50+01:00</lastuse>
-      <lastconfirm>2025-03-24T10:13:50+01:00</lastconfirm>
+      <lastuse>2025-03-24T13:51:11+01:00</lastuse>
+      <lastconfirm>2025-03-24T10:21:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-03-26T06:11:51+01:00</lastuse>
-      <lastconfirm>2025-03-24T06:11:51+01:00</lastconfirm>
+      <lastuse>2025-03-26T10:15:41+01:00</lastuse>
+      <lastconfirm>2025-03-24T10:15:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-26T09:52:06+01:00</lastuse>
-      <lastconfirm>2025-03-24T09:52:06+01:00</lastconfirm>
+      <lastuse>2025-03-26T10:19:04+01:00</lastuse>
+      <lastconfirm>2025-03-24T10:19:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2025-03-16T09:35:49+01:00</create>
-      <lastuse>2025-03-25T12:12:29+01:00</lastuse>
-      <lastconfirm>2025-03-23T12:12:30+01:00</lastconfirm>
+      <lastuse>2025-03-26T10:16:10+01:00</lastuse>
+      <lastconfirm>2025-03-24T10:16:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,32 @@
     </location>
     <date>
       <create>2025-03-24T09:49:12+01:00</create>
-      <lastuse>2025-03-24T16:02:53+01:00</lastuse>
-      <lastconfirm>2025-03-24T09:49:12+01:00</lastconfirm>
+      <lastuse>2025-03-24T18:15:23+01:00</lastuse>
+      <lastconfirm>2025-03-24T10:15:24+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15692993969</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.510378</latitude>
+        <longitude>10.842445</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-24T10:08:02+01:00</create>
+      <lastuse>2025-03-24T18:19:32+01:00</lastuse>
+      <lastconfirm>2025-03-24T10:19:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
