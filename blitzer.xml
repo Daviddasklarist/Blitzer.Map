@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15693990392</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Unterer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372358</latitude>
+        <longitude>10.901104</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-24T13:31:05+01:00</create>
+      <lastuse>2025-03-24T16:18:52+01:00</lastuse>
+      <lastconfirm>2025-03-24T14:18:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15692259825</id>
     <type>1</type>
     <speed>30</speed>
@@ -28,7 +52,7 @@
     <id>15693723739</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-03-24T12:37:36+01:00</create>
-      <lastuse>2025-03-24T16:09:41+01:00</lastuse>
-      <lastconfirm>2025-03-24T14:09:43+01:00</lastconfirm>
+      <lastuse>2025-03-24T16:17:54+01:00</lastuse>
+      <lastconfirm>2025-03-24T14:17:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-13T14:13:30+01:00</create>
-      <lastuse>2025-03-24T18:10:41+01:00</lastuse>
-      <lastconfirm>2025-03-24T14:10:43+01:00</lastconfirm>
+      <lastuse>2025-03-24T18:18:16+01:00</lastuse>
+      <lastconfirm>2025-03-24T14:18:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-03-24T13:27:30+01:00</create>
-      <lastuse>2025-03-24T15:11:12+01:00</lastuse>
-      <lastconfirm>2025-03-24T14:11:12+01:00</lastconfirm>
+      <lastuse>2025-03-24T15:16:53+01:00</lastuse>
+      <lastconfirm>2025-03-24T14:16:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-26T13:57:13+01:00</lastuse>
-      <lastconfirm>2025-03-24T13:57:13+01:00</lastconfirm>
+      <lastuse>2025-03-26T14:14:41+01:00</lastuse>
+      <lastconfirm>2025-03-24T14:14:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-26T13:52:08+01:00</lastuse>
-      <lastconfirm>2025-03-24T13:52:08+01:00</lastconfirm>
+      <lastuse>2025-03-26T14:12:53+01:00</lastuse>
+      <lastconfirm>2025-03-24T14:12:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
