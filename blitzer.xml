@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15700369460</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-BY</state>
+      <street>Lechfelder Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.187302</latitude>
+        <longitude>10.828889</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-25T13:22:35+01:00</create>
+      <lastuse>2025-03-25T16:25:58+01:00</lastuse>
+      <lastconfirm>2025-03-25T14:25:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15700043711</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2025-03-25T12:39:01+01:00</create>
-      <lastuse>2025-03-25T16:22:48+01:00</lastuse>
+      <lastuse>2025-03-25T15:52:48+01:00</lastuse>
       <lastconfirm>2025-03-25T14:22:50+01:00</lastconfirm>
     </date>
   </event>
@@ -118,6 +142,30 @@
       <create>2025-03-25T09:39:41+01:00</create>
       <lastuse>2025-03-25T21:27:44+01:00</lastuse>
       <lastconfirm>2025-03-25T13:27:44+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15700624093</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.390475</latitude>
+        <longitude>10.861779</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-25T14:12:39+01:00</create>
+      <lastuse>2025-03-25T15:26:59+01:00</lastuse>
+      <lastconfirm>2025-03-25T14:27:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
