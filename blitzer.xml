@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15704595120</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Berliner Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.371050</latitude>
-        <longitude>10.923024</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-26T05:27:30+01:00</create>
-      <lastuse>2025-03-26T08:48:20+01:00</lastuse>
-      <lastconfirm>2025-03-26T07:18:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15700055818</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +20,56 @@
     </location>
     <date>
       <create>2025-03-25T09:39:41+01:00</create>
-      <lastuse>2025-03-26T14:41:52+01:00</lastuse>
-      <lastconfirm>2025-03-26T06:41:53+01:00</lastconfirm>
+      <lastuse>2025-03-26T15:25:54+01:00</lastuse>
+      <lastconfirm>2025-03-26T07:25:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15705040162</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416816</latitude>
+        <longitude>10.841351</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-26T07:21:18+01:00</create>
+      <lastuse>2025-03-26T08:27:51+01:00</lastuse>
+      <lastconfirm>2025-03-26T07:27:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15704984730</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.434480</latitude>
+        <longitude>10.868891</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-26T07:09:49+01:00</create>
+      <lastuse>2025-03-26T08:24:10+01:00</lastuse>
+      <lastconfirm>2025-03-26T07:24:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-28T07:16:42+01:00</lastuse>
-      <lastconfirm>2025-03-26T07:16:42+01:00</lastconfirm>
+      <lastuse>2025-03-28T07:23:25+01:00</lastuse>
+      <lastconfirm>2025-03-26T07:23:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-03-28T06:46:51+01:00</lastuse>
-      <lastconfirm>2025-03-26T06:46:52+01:00</lastconfirm>
+      <lastuse>2025-03-28T07:24:16+01:00</lastuse>
+      <lastconfirm>2025-03-26T07:24:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-28T02:14:13+01:00</lastuse>
-      <lastconfirm>2025-03-26T02:14:14+01:00</lastconfirm>
+      <lastuse>2025-03-28T07:20:24+01:00</lastuse>
+      <lastconfirm>2025-03-26T07:20:26+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
