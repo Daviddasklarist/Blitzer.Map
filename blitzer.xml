@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15713581355</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.248001</latitude>
-        <longitude>10.869246</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-27T13:31:34+01:00</create>
-      <lastuse>2025-03-27T17:31:34+01:00</lastuse>
-      <lastconfirm>2025-03-27T15:21:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15714033896</id>
     <type>1</type>
     <speed>30</speed>
@@ -46,30 +22,6 @@
       <create>2025-03-27T14:55:42+01:00</create>
       <lastuse>2025-03-27T17:13:55+01:00</lastuse>
       <lastconfirm>2025-03-27T15:13:55+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15713300107</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Sommestraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374541</latitude>
-        <longitude>10.868508</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-27T12:38:55+01:00</create>
-      <lastuse>2025-03-27T15:46:59+01:00</lastuse>
-      <lastconfirm>2025-03-27T14:17:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -141,7 +93,7 @@
     <date>
       <create>2025-03-27T14:27:56+01:00</create>
       <lastuse>2025-03-27T18:27:56+01:00</lastuse>
-      <lastconfirm>2025-03-27T15:22:37+01:00</lastconfirm>
+      <lastconfirm>2025-03-27T15:28:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +140,32 @@
     </location>
     <date>
       <create>2025-03-26T08:44:50+01:00</create>
-      <lastuse>2025-03-27T18:13:28+01:00</lastuse>
-      <lastconfirm>2025-03-27T10:13:28+01:00</lastconfirm>
+      <lastuse>2025-03-27T23:25:51+01:00</lastuse>
+      <lastconfirm>2025-03-27T15:25:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15714145955</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.530105</latitude>
+        <longitude>10.831144</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-27T15:16:14+01:00</create>
+      <lastuse>2025-03-27T17:26:15+01:00</lastuse>
+      <lastconfirm>2025-03-27T15:26:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +380,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-29T15:19:08+01:00</lastuse>
-      <lastconfirm>2025-03-27T15:19:09+01:00</lastconfirm>
+      <lastuse>2025-03-29T15:22:57+01:00</lastuse>
+      <lastconfirm>2025-03-27T15:22:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
