@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15712627060</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Wertachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.378385</latitude>
-        <longitude>10.884276</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-27T10:29:48+01:00</create>
-      <lastuse>2025-03-27T14:06:57+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:36:57+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15713215909</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,15 +44,15 @@
     </location>
     <date>
       <create>2025-03-27T11:40:58+01:00</create>
-      <lastuse>2025-03-27T14:57:27+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:57:27+01:00</lastconfirm>
+      <lastuse>2025-03-27T15:02:14+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:02:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15712186995</id>
     <type>6</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -92,15 +68,15 @@
     </location>
     <date>
       <create>2025-03-27T09:00:04+01:00</create>
-      <lastuse>2025-03-27T14:27:47+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:57:47+01:00</lastconfirm>
+      <lastuse>2025-03-27T14:01:42+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:01:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15711550080</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -116,8 +92,32 @@
     </location>
     <date>
       <create>2025-03-27T06:46:16+01:00</create>
-      <lastuse>2025-03-27T12:52:25+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:55:14+01:00</lastconfirm>
+      <lastuse>2025-03-27T15:02:07+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:02:08+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15713037241</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>Maria-Eich-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.472787</latitude>
+        <longitude>11.120540</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-27T11:48:13+01:00</create>
+      <lastuse>2025-03-27T14:58:09+01:00</lastuse>
+      <lastconfirm>2025-03-27T12:58:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-27T07:03:54+01:00</create>
-      <lastuse>2025-03-27T14:56:49+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:56:50+01:00</lastconfirm>
+      <lastuse>2025-03-27T14:32:50+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:02:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-03-27T12:21:57+01:00</create>
-      <lastuse>2025-03-27T14:54:06+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:54:07+01:00</lastconfirm>
+      <lastuse>2025-03-27T15:01:53+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:01:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2025-03-27T11:08:20+01:00</create>
-      <lastuse>2025-03-27T20:53:42+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:53:42+01:00</lastconfirm>
+      <lastuse>2025-03-27T20:56:56+01:00</lastuse>
+      <lastconfirm>2025-03-27T12:56:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
