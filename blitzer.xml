@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15712627060</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378385</latitude>
+        <longitude>10.884276</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-27T10:29:48+01:00</create>
+      <lastuse>2025-03-27T15:09:07+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:09:08+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15713215909</id>
     <type>1</type>
     <speed>30</speed>
@@ -73,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>15711618888</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.614386</latitude>
+        <longitude>10.838168</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-27T07:03:54+01:00</create>
+      <lastuse>2025-03-27T14:42:38+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:12:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15700055818</id>
     <type>7</type>
     <speed>50</speed>
@@ -140,8 +188,32 @@
     </location>
     <date>
       <create>2025-03-27T12:21:57+01:00</create>
-      <lastuse>2025-03-27T15:05:39+01:00</lastuse>
-      <lastconfirm>2025-03-27T13:05:40+01:00</lastconfirm>
+      <lastuse>2025-03-27T15:08:39+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:08:40+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15713408420</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413167</latitude>
+        <longitude>10.872288</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-27T12:59:22+01:00</create>
+      <lastuse>2025-03-27T15:12:55+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:12:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +428,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-29T12:48:43+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:48:43+01:00</lastconfirm>
+      <lastuse>2025-03-29T13:05:50+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:05:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +452,8 @@
     </location>
     <date>
       <create>2025-03-27T11:08:20+01:00</create>
-      <lastuse>2025-03-27T20:56:56+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:56:57+01:00</lastconfirm>
+      <lastuse>2025-03-27T21:09:19+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:09:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +572,8 @@
     </location>
     <date>
       <create>2025-01-29T19:58:24+01:00</create>
-      <lastuse>2025-03-29T12:08:36+01:00</lastuse>
-      <lastconfirm>2025-03-27T12:08:37+01:00</lastconfirm>
+      <lastuse>2025-03-29T13:08:45+01:00</lastuse>
+      <lastconfirm>2025-03-27T13:08:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
