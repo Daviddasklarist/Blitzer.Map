@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15722330223</id>
+    <type>2</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355814</latitude>
+        <longitude>10.965144</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-28T20:22:41+01:00</create>
+      <lastuse>2025-03-28T23:13:52+01:00</lastuse>
+      <lastconfirm>2025-03-28T21:13:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15720894108</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-03-28T15:41:52+01:00</create>
-      <lastuse>2025-03-28T23:09:39+01:00</lastuse>
-      <lastconfirm>2025-03-28T21:09:40+01:00</lastconfirm>
+      <lastuse>2025-03-28T23:14:11+01:00</lastuse>
+      <lastconfirm>2025-03-28T21:14:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +124,7 @@
     <id>15722467588</id>
     <type>23</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-28T20:52:52+01:00</create>
-      <lastuse>2025-03-28T21:39:53+01:00</lastuse>
-      <lastconfirm>2025-03-28T21:09:54+01:00</lastconfirm>
+      <lastuse>2025-03-28T21:48:31+01:00</lastuse>
+      <lastconfirm>2025-03-28T21:18:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-30T20:57:33+02:00</lastuse>
-      <lastconfirm>2025-03-28T20:57:34+01:00</lastconfirm>
+      <lastuse>2025-03-30T21:10:33+02:00</lastuse>
+      <lastconfirm>2025-03-28T21:10:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
