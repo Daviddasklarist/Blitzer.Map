@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15720419557</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Unterer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.373091</latitude>
+        <longitude>10.901473</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-28T14:14:59+01:00</create>
+      <lastuse>2025-03-28T16:19:30+01:00</lastuse>
+      <lastconfirm>2025-03-28T14:19:31+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15720038714</id>
     <type>1</type>
     <speed>70</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-03-28T13:57:14+01:00</create>
-      <lastuse>2025-03-28T15:14:46+01:00</lastuse>
-      <lastconfirm>2025-03-28T14:14:47+01:00</lastconfirm>
+      <lastuse>2025-03-28T15:23:01+01:00</lastuse>
+      <lastconfirm>2025-03-28T14:23:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-30T14:14:28+02:00</lastuse>
-      <lastconfirm>2025-03-28T14:14:29+01:00</lastconfirm>
+      <lastuse>2025-03-30T14:18:40+02:00</lastuse>
+      <lastconfirm>2025-03-28T14:18:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
