@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15720894108</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.367927</latitude>
+        <longitude>10.902702</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-28T15:41:52+01:00</create>
+      <lastuse>2025-03-28T18:16:55+01:00</lastuse>
+      <lastconfirm>2025-03-28T16:16:56+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15720419557</id>
     <type>1</type>
     <speed>30</speed>
@@ -52,7 +76,7 @@
     <id>15720926822</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-28T15:47:56+01:00</create>
-      <lastuse>2025-03-28T17:47:56+01:00</lastuse>
-      <lastconfirm>2025-03-28T16:05:19+01:00</lastconfirm>
+      <lastuse>2025-03-28T18:17:17+01:00</lastuse>
+      <lastconfirm>2025-03-28T16:17:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-03-28T13:00:19+01:00</create>
-      <lastuse>2025-03-28T18:09:20+01:00</lastuse>
-      <lastconfirm>2025-03-28T16:09:20+01:00</lastconfirm>
+      <lastuse>2025-03-28T18:15:38+01:00</lastuse>
+      <lastconfirm>2025-03-28T16:15:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,7 +188,7 @@
     </location>
     <date>
       <create>2025-03-28T15:19:42+01:00</create>
-      <lastuse>2025-03-28T16:56:07+01:00</lastuse>
+      <lastuse>2025-03-28T16:41:07+01:00</lastuse>
       <lastconfirm>2025-03-28T15:56:10+01:00</lastconfirm>
     </date>
   </event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-03-28T13:57:14+01:00</create>
-      <lastuse>2025-03-28T17:12:28+01:00</lastuse>
-      <lastconfirm>2025-03-28T16:12:28+01:00</lastconfirm>
+      <lastuse>2025-03-28T17:14:15+01:00</lastuse>
+      <lastconfirm>2025-03-28T16:14:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-03-28T16:03:23+01:00</create>
-      <lastuse>2025-03-28T16:43:52+01:00</lastuse>
-      <lastconfirm>2025-03-28T16:13:52+01:00</lastconfirm>
+      <lastuse>2025-03-28T16:45:32+01:00</lastuse>
+      <lastconfirm>2025-03-28T16:15:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -289,54 +313,6 @@
     </date>
   </event>
   <event>
-    <id>15721033571</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Landkreis Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.416803</latitude>
-        <longitude>10.728577</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-28T16:07:02+01:00</create>
-      <lastuse>2025-03-28T16:18:00+01:00</lastuse>
-      <lastconfirm>2025-03-28T16:07:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15721056085</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417360</latitude>
-        <longitude>10.745262</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-28T16:10:03+01:00</create>
-      <lastuse>2025-03-28T16:18:00+01:00</lastuse>
-      <lastconfirm>2025-03-28T16:10:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15721058816</id>
     <type>20</type>
     <speed></speed>
@@ -356,8 +332,32 @@
     </location>
     <date>
       <create>2025-03-28T16:11:02+01:00</create>
-      <lastuse>2025-03-28T16:18:00+01:00</lastuse>
+      <lastuse>2025-03-28T16:22:00+01:00</lastuse>
       <lastconfirm>2025-03-28T16:11:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15721089747</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417424</latitude>
+        <longitude>10.746930</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-28T16:17:02+01:00</create>
+      <lastuse>2025-03-28T16:22:00+01:00</lastuse>
+      <lastconfirm>2025-03-28T16:17:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
