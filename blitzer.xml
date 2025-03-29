@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15727235538</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Langenmantelstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.374461</latitude>
+        <longitude>10.883833</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-29T15:40:01+01:00</create>
+      <lastuse>2025-03-29T20:16:33+01:00</lastuse>
+      <lastconfirm>2025-03-29T18:16:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15726868310</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-03-29T14:20:39+01:00</create>
-      <lastuse>2025-03-29T19:37:24+01:00</lastuse>
-      <lastconfirm>2025-03-29T18:07:25+01:00</lastconfirm>
+      <lastuse>2025-03-29T19:43:10+01:00</lastuse>
+      <lastconfirm>2025-03-29T18:13:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-31T18:07:55+02:00</lastuse>
-      <lastconfirm>2025-03-29T18:07:55+01:00</lastconfirm>
+      <lastuse>2025-03-31T18:11:43+02:00</lastuse>
+      <lastconfirm>2025-03-29T18:11:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
