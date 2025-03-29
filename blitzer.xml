@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15727182519</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Sportplatzstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.313758</latitude>
-        <longitude>10.892332</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-29T15:27:45+01:00</create>
-      <lastuse>2025-03-29T20:06:52+01:00</lastuse>
-      <lastconfirm>2025-03-29T18:36:53+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15727235538</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Langenmantelstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374461</latitude>
-        <longitude>10.883833</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-29T15:40:01+01:00</create>
-      <lastuse>2025-03-29T21:58:53+01:00</lastuse>
-      <lastconfirm>2025-03-29T19:58:53+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15700055818</id>
     <type>7</type>
     <speed>50</speed>
