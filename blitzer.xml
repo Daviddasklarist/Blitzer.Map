@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15727246981</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Klinkerberg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372821</latitude>
+        <longitude>10.885230</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-29T15:40:37+01:00</create>
+      <lastuse>2025-03-29T17:46:07+01:00</lastuse>
+      <lastconfirm>2025-03-29T15:46:08+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15726903939</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,15 +44,15 @@
     </location>
     <date>
       <create>2025-03-29T14:29:14+01:00</create>
-      <lastuse>2025-03-29T17:29:14+01:00</lastuse>
-      <lastconfirm>2025-03-29T15:41:16+01:00</lastconfirm>
+      <lastuse>2025-03-29T17:48:26+01:00</lastuse>
+      <lastconfirm>2025-03-29T15:48:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15726868310</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86165</zip>
       <city>Augsburg</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-03-29T14:20:39+01:00</create>
-      <lastuse>2025-03-29T17:10:22+01:00</lastuse>
-      <lastconfirm>2025-03-29T15:40:23+01:00</lastconfirm>
+      <lastuse>2025-03-29T17:46:21+01:00</lastuse>
+      <lastconfirm>2025-03-29T15:46:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-03-29T09:59:50+01:00</create>
-      <lastuse>2025-03-29T17:36:14+01:00</lastuse>
-      <lastconfirm>2025-03-29T15:36:14+01:00</lastconfirm>
+      <lastuse>2025-03-29T17:47:03+01:00</lastuse>
+      <lastconfirm>2025-03-29T15:47:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-29T10:03:45+01:00</create>
-      <lastuse>2025-03-29T17:42:57+01:00</lastuse>
-      <lastconfirm>2025-03-29T15:42:57+01:00</lastconfirm>
+      <lastuse>2025-03-29T17:47:17+01:00</lastuse>
+      <lastconfirm>2025-03-29T15:47:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-03-31T15:21:08+02:00</lastuse>
-      <lastconfirm>2025-03-29T15:21:09+01:00</lastconfirm>
+      <lastuse>2025-03-31T15:43:45+02:00</lastuse>
+      <lastconfirm>2025-03-29T15:43:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-03-31T15:29:15+02:00</lastuse>
-      <lastconfirm>2025-03-29T15:29:16+01:00</lastconfirm>
+      <lastuse>2025-03-31T15:44:13+02:00</lastuse>
+      <lastconfirm>2025-03-29T15:44:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-03-31T14:40:12+02:00</lastuse>
-      <lastconfirm>2025-03-29T14:40:13+01:00</lastconfirm>
+      <lastuse>2025-03-31T15:44:41+02:00</lastuse>
+      <lastconfirm>2025-03-29T15:44:41+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
