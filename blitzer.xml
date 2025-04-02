@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15754476000</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Chippenham-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355671</latitude>
+        <longitude>10.965705</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-02T19:30:03+02:00</create>
+      <lastuse>2025-04-02T21:24:21+02:00</lastuse>
+      <lastconfirm>2025-04-02T19:54:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15729065817</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,7 +92,7 @@
     </location>
     <date>
       <create>2025-04-02T16:42:40+02:00</create>
-      <lastuse>2025-04-02T20:44:56+02:00</lastuse>
+      <lastuse>2025-04-02T20:26:56+02:00</lastuse>
       <lastconfirm>2025-04-02T19:44:56+02:00</lastconfirm>
     </date>
   </event>
