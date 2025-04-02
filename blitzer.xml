@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15750606008</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Localbahnstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.360933</latitude>
-        <longitude>10.890804</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-02T07:48:12+02:00</create>
-      <lastuse>2025-04-02T12:41:45+02:00</lastuse>
-      <lastconfirm>2025-04-02T11:41:45+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15750365994</id>
     <type>1</type>
     <speed>30</speed>
@@ -140,8 +116,32 @@
     </location>
     <date>
       <create>2025-04-02T08:48:36+02:00</create>
-      <lastuse>2025-04-02T14:25:49+02:00</lastuse>
-      <lastconfirm>2025-04-02T12:25:49+02:00</lastconfirm>
+      <lastuse>2025-04-02T14:30:39+02:00</lastuse>
+      <lastconfirm>2025-04-02T12:30:41+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15751762808</id>
+    <type>2</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86444</zip>
+      <city>Affing</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.439947</latitude>
+        <longitude>10.940019</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-02T11:28:06+02:00</create>
+      <lastuse>2025-04-02T14:30:36+02:00</lastuse>
+      <lastconfirm>2025-04-02T12:30:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-04-02T08:09:29+02:00</create>
-      <lastuse>2025-04-02T12:56:01+02:00</lastuse>
-      <lastconfirm>2025-04-02T12:26:02+02:00</lastconfirm>
+      <lastuse>2025-04-02T13:01:55+02:00</lastuse>
+      <lastconfirm>2025-04-02T12:31:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
