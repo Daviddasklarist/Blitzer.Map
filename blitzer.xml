@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15762415873</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86420</zip>
+      <city>Diedorf</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.358113</latitude>
+        <longitude>10.781929</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-03T22:19:00+02:00</create>
+      <lastuse>2025-04-04T00:48:57+02:00</lastuse>
+      <lastconfirm>2025-04-03T22:48:58+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15744484699</id>
     <type>7</type>
     <speed>50</speed>
