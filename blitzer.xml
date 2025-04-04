@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15766547511</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.269695</latitude>
+        <longitude>10.867393</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-04T13:23:04+02:00</create>
+      <lastuse>2025-04-04T15:32:20+02:00</lastuse>
+      <lastconfirm>2025-04-04T13:32:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15766074815</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2025-04-04T07:09:48+02:00</create>
-      <lastuse>2025-04-04T14:21:13+02:00</lastuse>
+      <lastuse>2025-04-04T13:51:13+02:00</lastuse>
       <lastconfirm>2025-04-04T13:21:14+02:00</lastconfirm>
     </date>
   </event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-04-04T12:08:59+02:00</create>
-      <lastuse>2025-04-04T20:46:14+02:00</lastuse>
-      <lastconfirm>2025-04-04T12:46:14+02:00</lastconfirm>
+      <lastuse>2025-04-04T21:31:13+02:00</lastuse>
+      <lastconfirm>2025-04-04T13:31:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,32 @@
     </location>
     <date>
       <create>2025-04-04T12:41:59+02:00</create>
-      <lastuse>2025-04-04T13:56:31+02:00</lastuse>
-      <lastconfirm>2025-04-04T13:26:32+02:00</lastconfirm>
+      <lastuse>2025-04-04T14:02:27+02:00</lastuse>
+      <lastconfirm>2025-04-04T13:32:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15766512842</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370356</latitude>
+        <longitude>10.855025</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-04T13:16:07+02:00</create>
+      <lastuse>2025-04-04T14:28:54+02:00</lastuse>
+      <lastconfirm>2025-04-04T13:28:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-06T13:21:32+02:00</lastuse>
-      <lastconfirm>2025-04-04T13:21:33+02:00</lastconfirm>
+      <lastuse>2025-04-06T13:27:26+02:00</lastuse>
+      <lastconfirm>2025-04-04T13:27:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +404,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-06T05:12:46+02:00</lastuse>
-      <lastconfirm>2025-03-10T15:42:27+01:00</lastconfirm>
+      <lastuse>2025-04-06T13:28:08+02:00</lastuse>
+      <lastconfirm>2025-04-04T13:28:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
