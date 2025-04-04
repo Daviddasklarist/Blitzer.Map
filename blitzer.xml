@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15766777786</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Raiffeisenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.272899</latitude>
+        <longitude>10.889712</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-04T14:04:33+02:00</create>
+      <lastuse>2025-04-04T16:33:24+02:00</lastuse>
+      <lastconfirm>2025-04-04T14:33:25+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15766074815</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2025-04-04T12:41:59+02:00</create>
-      <lastuse>2025-04-04T15:02:51+02:00</lastuse>
+      <lastuse>2025-04-04T14:47:51+02:00</lastuse>
       <lastconfirm>2025-04-04T14:32:51+02:00</lastconfirm>
     </date>
   </event>
@@ -140,32 +164,8 @@
     </location>
     <date>
       <create>2025-04-04T13:16:07+02:00</create>
-      <lastuse>2025-04-04T15:25:17+02:00</lastuse>
-      <lastconfirm>2025-04-04T14:25:18+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15766570953</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.360786</latitude>
-        <longitude>10.852045</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-04T13:27:10+02:00</create>
-      <lastuse>2025-04-04T15:05:30+02:00</lastuse>
-      <lastconfirm>2025-04-04T14:23:31+02:00</lastconfirm>
+      <lastuse>2025-04-04T15:36:09+02:00</lastuse>
+      <lastconfirm>2025-04-04T14:36:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -190,6 +190,30 @@
       <create>2025-04-04T13:55:49+02:00</create>
       <lastuse>2025-04-04T15:32:55+02:00</lastuse>
       <lastconfirm>2025-04-04T14:32:56+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15766970760</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411470</latitude>
+        <longitude>10.909878</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-04T14:37:02+02:00</create>
+      <lastuse>2025-04-04T14:42:00+02:00</lastuse>
+      <lastconfirm>2025-04-04T14:37:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-04-06T13:37:24+02:00</lastuse>
-      <lastconfirm>2025-04-04T13:37:24+02:00</lastconfirm>
+      <lastuse>2025-04-06T05:37:24+02:00</lastuse>
+      <lastconfirm>2024-12-21T15:13:27+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
