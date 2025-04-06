@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15779065697</id>
+    <id>15778801200</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410487</latitude>
+        <longitude>10.617653</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-06T08:59:49+02:00</create>
+      <lastuse>2025-04-06T12:59:49+02:00</lastuse>
+      <lastconfirm>2025-04-06T10:26:15+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15779079094</id>
     <type>1</type>
     <speed>120</speed>
     <quality>3</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.496852</latitude>
+        <longitude>10.860259</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-06T10:06:57+02:00</create>
+      <lastuse>2025-04-06T13:06:57+02:00</lastuse>
+      <lastconfirm>2025-04-06T10:25:19+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15779065697</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -308,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-08T09:55:52+02:00</lastuse>
-      <lastconfirm>2025-04-06T09:55:52+02:00</lastconfirm>
+      <lastuse>2025-04-08T10:21:47+02:00</lastuse>
+      <lastconfirm>2025-04-06T10:21:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
