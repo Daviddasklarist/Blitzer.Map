@@ -141,7 +141,7 @@
     <date>
       <create>2025-04-07T07:25:11+02:00</create>
       <lastuse>2025-04-07T11:25:11+02:00</lastuse>
-      <lastconfirm>2025-04-07T09:18:53+02:00</lastconfirm>
+      <lastconfirm>2025-04-07T09:23:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,10 +193,34 @@
     </date>
   </event>
   <event>
+    <id>15785316318</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400387</latitude>
+        <longitude>11.004474</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-07T09:13:43+02:00</create>
+      <lastuse>2025-04-07T11:21:01+02:00</lastuse>
+      <lastconfirm>2025-04-07T09:21:03+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15785046890</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -212,7 +236,7 @@
     </location>
     <date>
       <create>2025-04-07T08:24:21+02:00</create>
-      <lastuse>2025-04-07T09:54:16+02:00</lastuse>
+      <lastuse>2025-04-07T09:36:16+02:00</lastuse>
       <lastconfirm>2025-04-07T09:12:16+02:00</lastconfirm>
     </date>
   </event>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-09T09:12:47+02:00</lastuse>
-      <lastconfirm>2025-04-07T09:12:48+02:00</lastconfirm>
+      <lastuse>2025-04-09T09:19:04+02:00</lastuse>
+      <lastconfirm>2025-04-07T09:19:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-04-06T22:09:23+02:00</create>
-      <lastuse>2025-04-09T09:10:33+02:00</lastuse>
-      <lastconfirm>2025-04-07T09:10:33+02:00</lastconfirm>
+      <lastuse>2025-04-09T09:15:11+02:00</lastuse>
+      <lastconfirm>2025-04-07T09:15:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -598,30 +622,6 @@
       <create>2025-04-02T12:09:35+02:00</create>
       <lastuse>2025-04-09T07:41:16+02:00</lastuse>
       <lastconfirm>2025-04-07T07:41:16+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15739366074</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Eichleitnerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.349768</latitude>
-        <longitude>10.885961</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-31T15:04:51+02:00</create>
-      <lastuse>2025-04-08T06:40:20+02:00</lastuse>
-      <lastconfirm>2025-03-31T15:04:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
