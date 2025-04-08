@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15791256942</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hans-Böckler-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383784</latitude>
+        <longitude>10.906931</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-08T05:31:18+02:00</create>
+      <lastuse>2025-04-08T08:07:04+02:00</lastuse>
+      <lastconfirm>2025-04-08T06:07:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15744484699</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86450</zip>
       <city>Altenmünster</city>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-04-01T10:09:38+02:00</create>
-      <lastuse>2025-04-08T01:41:16+02:00</lastuse>
+      <lastuse>2025-04-08T00:41:16+02:00</lastuse>
       <lastconfirm>2025-04-07T19:41:17+02:00</lastconfirm>
     </date>
   </event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-10T05:58:08+02:00</lastuse>
-      <lastconfirm>2025-04-08T05:58:09+02:00</lastconfirm>
+      <lastuse>2025-04-10T06:03:27+02:00</lastuse>
+      <lastconfirm>2025-04-08T06:03:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
