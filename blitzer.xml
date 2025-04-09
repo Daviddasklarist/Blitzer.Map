@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15804424181</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kurt-Schumacher-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378140</latitude>
+        <longitude>10.929104</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-09T23:42:00+02:00</create>
+      <lastuse>2025-04-10T02:23:56+02:00</lastuse>
+      <lastconfirm>2025-04-10T00:23:57+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15804072412</id>
     <type>1</type>
     <speed>50</speed>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-11T23:45:53+02:00</lastuse>
-      <lastconfirm>2025-04-09T23:45:53+02:00</lastconfirm>
+      <lastuse>2025-04-12T00:16:39+02:00</lastuse>
+      <lastconfirm>2025-04-10T00:16:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
