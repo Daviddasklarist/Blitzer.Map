@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2025-04-09T14:43:34+02:00</create>
-      <lastuse>2025-04-09T17:35:28+02:00</lastuse>
+      <lastuse>2025-04-09T17:05:28+02:00</lastuse>
       <lastconfirm>2025-04-09T15:35:28+02:00</lastconfirm>
     </date>
   </event>
@@ -45,7 +45,7 @@
     <date>
       <create>2025-04-09T15:01:51+02:00</create>
       <lastuse>2025-04-09T19:01:51+02:00</lastuse>
-      <lastconfirm>2025-04-09T15:38:31+02:00</lastconfirm>
+      <lastconfirm>2025-04-09T15:45:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +93,31 @@
     <date>
       <create>2025-04-09T14:04:17+02:00</create>
       <lastuse>2025-04-09T18:04:17+02:00</lastuse>
-      <lastconfirm>2025-04-09T15:42:58+02:00</lastconfirm>
+      <lastconfirm>2025-04-09T15:46:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15801586441</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>AIC 10</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.386018</latitude>
+        <longitude>11.057142</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-09T15:18:46+02:00</create>
+      <lastuse>2025-04-16T15:48:07+02:00</lastuse>
+      <lastconfirm>2025-04-09T15:44:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-04-09T08:35:47+02:00</create>
-      <lastuse>2025-04-09T17:41:40+02:00</lastuse>
-      <lastconfirm>2025-04-09T15:41:41+02:00</lastconfirm>
+      <lastuse>2025-04-09T17:17:26+02:00</lastuse>
+      <lastconfirm>2025-04-09T15:47:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -166,6 +190,30 @@
       <create>2025-04-09T11:23:06+02:00</create>
       <lastuse>2025-04-09T17:41:43+02:00</lastuse>
       <lastconfirm>2025-04-09T15:41:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15800927767</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Thyssenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.430011</latitude>
+        <longitude>10.869424</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-09T13:32:52+02:00</create>
+      <lastuse>2025-04-09T17:46:07+02:00</lastuse>
+      <lastconfirm>2025-04-09T15:46:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -196,7 +244,7 @@
     <id>15801015745</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -220,7 +268,7 @@
     <id>15800872244</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86554</zip>
       <city>Pöttmes</city>
@@ -236,8 +284,8 @@
     </location>
     <date>
       <create>2025-04-09T13:23:09+02:00</create>
-      <lastuse>2025-04-09T17:26:57+02:00</lastuse>
-      <lastconfirm>2025-04-09T15:26:58+02:00</lastconfirm>
+      <lastuse>2025-04-09T17:48:01+02:00</lastuse>
+      <lastconfirm>2025-04-09T15:48:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +548,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-11T15:38:56+02:00</lastuse>
-      <lastconfirm>2025-04-09T15:38:57+02:00</lastconfirm>
+      <lastuse>2025-04-11T15:43:19+02:00</lastuse>
+      <lastconfirm>2025-04-09T15:43:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -718,30 +766,6 @@
       <create>2024-12-29T15:15:11+01:00</create>
       <lastuse>2025-04-11T15:16:00+02:00</lastuse>
       <lastconfirm>2025-04-09T15:16:01+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15800970960</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Berliner Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.376810</latitude>
-        <longitude>10.910543</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-09T13:37:48+02:00</create>
-      <lastuse>2025-04-09T21:31:02+02:00</lastuse>
-      <lastconfirm>2025-04-09T13:37:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +1004,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-04-11T14:31:18+02:00</lastuse>
-      <lastconfirm>2025-04-09T14:31:19+02:00</lastconfirm>
+      <lastuse>2025-04-11T06:31:18+02:00</lastuse>
+      <lastconfirm>2024-12-21T15:13:27+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
