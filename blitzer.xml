@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15810444525</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86459</zip>
+      <city>Gessertshausen</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.328173</latitude>
+        <longitude>10.726351</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-10T19:02:40+02:00</create>
+      <lastuse>2025-04-10T21:32:25+02:00</lastuse>
+      <lastconfirm>2025-04-10T19:32:26+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15808619554</id>
     <type>1</type>
     <speed>100</speed>
@@ -20,32 +44,8 @@
     </location>
     <date>
       <create>2025-04-10T14:00:59+02:00</create>
-      <lastuse>2025-04-10T21:25:57+02:00</lastuse>
+      <lastuse>2025-04-10T20:25:57+02:00</lastuse>
       <lastconfirm>2025-04-10T19:25:57+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15810434429</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.505102</latitude>
-        <longitude>10.852400</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-10T19:00:37+02:00</create>
-      <lastuse>2025-04-10T19:30:20+02:00</lastuse>
-      <lastconfirm>2025-04-10T19:15:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-12T19:19:47+02:00</lastuse>
-      <lastconfirm>2025-04-10T19:19:48+02:00</lastconfirm>
+      <lastuse>2025-04-12T19:29:23+02:00</lastuse>
+      <lastconfirm>2025-04-10T19:29:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +332,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-04-12T17:15:20+02:00</lastuse>
-      <lastconfirm>2025-04-10T17:15:20+02:00</lastconfirm>
+      <lastuse>2025-04-12T19:27:57+02:00</lastuse>
+      <lastconfirm>2025-04-10T19:27:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +500,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-04-12T18:48:40+02:00</lastuse>
-      <lastconfirm>2025-04-10T18:48:40+02:00</lastconfirm>
+      <lastuse>2025-04-12T19:27:26+02:00</lastuse>
+      <lastconfirm>2025-04-10T19:27:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
