@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15824387960</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337322</latitude>
+        <longitude>10.904813</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-12T18:36:27+02:00</create>
+      <lastuse>2025-04-13T00:01:57+02:00</lastuse>
+      <lastconfirm>2025-04-12T22:01:57+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15824448473</id>
     <type>1</type>
     <speed>50</speed>
@@ -46,30 +70,6 @@
       <create>2025-04-12T20:55:17+02:00</create>
       <lastuse>2025-04-12T22:54:22+02:00</lastuse>
       <lastconfirm>2025-04-12T21:54:23+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15825286065</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410182</latitude>
-        <longitude>10.613836</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-12T21:37:43+02:00</create>
-      <lastuse>2025-04-12T23:57:36+02:00</lastuse>
-      <lastconfirm>2025-04-12T21:57:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
