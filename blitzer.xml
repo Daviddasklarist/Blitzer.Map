@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15836052190</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86507</zip>
-      <city>Kleinaitingen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.218384</latitude>
-        <longitude>10.862820</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-14T12:54:49+02:00</create>
-      <lastuse>2025-04-14T15:54:49+02:00</lastuse>
-      <lastconfirm>2025-04-14T13:15:28+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15834459469</id>
     <type>1</type>
     <speed>120</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-04-14T07:52:43+02:00</create>
-      <lastuse>2025-04-14T15:15:37+02:00</lastuse>
-      <lastconfirm>2025-04-14T13:15:37+02:00</lastconfirm>
+      <lastuse>2025-04-14T15:22:11+02:00</lastuse>
+      <lastconfirm>2025-04-14T13:22:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-16T13:10:27+02:00</lastuse>
-      <lastconfirm>2025-04-14T13:10:28+02:00</lastconfirm>
+      <lastuse>2025-04-16T13:17:26+02:00</lastuse>
+      <lastconfirm>2025-04-14T13:17:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +500,8 @@
     </location>
     <date>
       <create>2025-04-08T07:23:56+02:00</create>
-      <lastuse>2025-04-16T07:59:41+02:00</lastuse>
-      <lastconfirm>2025-04-14T07:59:41+02:00</lastconfirm>
+      <lastuse>2025-04-16T13:17:53+02:00</lastuse>
+      <lastconfirm>2025-04-14T13:17:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -838,6 +814,30 @@
       <create>2025-04-12T19:10:49+02:00</create>
       <lastuse>2025-04-16T08:43:15+02:00</lastuse>
       <lastconfirm>2025-04-14T08:43:16+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15835862528</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.395435</latitude>
+        <longitude>10.915502</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-14T12:16:05+02:00</create>
+      <lastuse>2025-04-16T13:18:34+02:00</lastuse>
+      <lastconfirm>2025-04-14T13:18:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
