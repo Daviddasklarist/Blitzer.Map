@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15846679150</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.420049</latitude>
+        <longitude>10.680293</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-15T23:54:02+02:00</create>
+      <lastuse>2025-04-16T00:03:00+02:00</lastuse>
+      <lastconfirm>2025-04-15T23:54:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15773140022</id>
     <type>26</type>
     <speed></speed>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-03-26T07:31:33+01:00</create>
-      <lastuse>2025-04-17T19:08:33+02:00</lastuse>
-      <lastconfirm>2025-04-15T19:08:35+02:00</lastconfirm>
+      <lastuse>2025-04-17T11:08:33+02:00</lastuse>
+      <lastconfirm>2025-03-26T07:31:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
