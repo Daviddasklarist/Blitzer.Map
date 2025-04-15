@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15840582912</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Adelsried</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417590</latitude>
+        <longitude>10.714229</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-15T04:32:16+02:00</create>
+      <lastuse>2025-04-15T05:20:20+02:00</lastuse>
+      <lastconfirm>2025-04-15T04:50:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15773140022</id>
     <type>26</type>
     <speed></speed>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-17T04:40:18+02:00</lastuse>
-      <lastconfirm>2025-04-15T04:40:19+02:00</lastconfirm>
+      <lastuse>2025-04-17T04:48:51+02:00</lastuse>
+      <lastconfirm>2025-04-15T04:48:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-04-17T03:41:48+02:00</lastuse>
-      <lastconfirm>2025-04-15T03:41:49+02:00</lastconfirm>
+      <lastuse>2025-04-17T04:46:06+02:00</lastuse>
+      <lastconfirm>2025-04-15T04:46:06+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
