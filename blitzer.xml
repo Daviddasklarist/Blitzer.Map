@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15850616478</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Wiedemannstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.284882</latitude>
+        <longitude>10.894625</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-16T13:25:02+02:00</create>
+      <lastuse>2025-04-16T20:18:43+02:00</lastuse>
+      <lastconfirm>2025-04-16T18:48:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15773140022</id>
     <type>26</type>
     <speed></speed>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-18T18:35:57+02:00</lastuse>
-      <lastconfirm>2025-04-16T18:35:57+02:00</lastconfirm>
+      <lastuse>2025-04-18T18:49:22+02:00</lastuse>
+      <lastconfirm>2025-04-16T18:49:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +644,8 @@
     </location>
     <date>
       <create>2024-12-29T15:15:11+01:00</create>
-      <lastuse>2025-04-18T15:21:13+02:00</lastuse>
-      <lastconfirm>2025-04-16T15:21:13+02:00</lastconfirm>
+      <lastuse>2025-04-18T18:46:15+02:00</lastuse>
+      <lastconfirm>2025-04-16T18:46:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
