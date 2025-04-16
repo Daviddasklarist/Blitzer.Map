@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15849271578</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Königsallee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.272826</latitude>
+        <longitude>10.881691</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-16T09:35:58+02:00</create>
+      <lastuse>2025-04-16T11:53:01+02:00</lastuse>
+      <lastconfirm>2025-04-16T09:53:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15848789240</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-04-16T05:58:13+02:00</create>
-      <lastuse>2025-04-23T09:48:07+02:00</lastuse>
-      <lastconfirm>2025-04-16T09:39:14+02:00</lastconfirm>
+      <lastuse>2025-04-16T11:56:25+02:00</lastuse>
+      <lastconfirm>2025-04-16T09:56:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-04-16T08:22:29+02:00</create>
-      <lastuse>2025-04-16T10:46:12+02:00</lastuse>
-      <lastconfirm>2025-04-16T09:46:13+02:00</lastconfirm>
+      <lastuse>2025-04-16T10:55:01+02:00</lastuse>
+      <lastconfirm>2025-04-16T09:55:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -142,30 +166,6 @@
       <create>2025-04-16T09:05:10+02:00</create>
       <lastuse>2025-04-16T10:21:47+02:00</lastuse>
       <lastconfirm>2025-04-16T09:51:49+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15849202401</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86167</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.408271</latitude>
-        <longitude>10.929609</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-16T09:24:45+02:00</create>
-      <lastuse>2025-04-16T10:00:33+02:00</lastuse>
-      <lastconfirm>2025-04-16T09:45:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +740,8 @@
     </location>
     <date>
       <create>2025-04-12T11:15:01+02:00</create>
-      <lastuse>2025-04-18T07:26:56+02:00</lastuse>
-      <lastconfirm>2025-04-16T07:26:57+02:00</lastconfirm>
+      <lastuse>2025-04-18T09:53:57+02:00</lastuse>
+      <lastconfirm>2025-04-16T09:53:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
