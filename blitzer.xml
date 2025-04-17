@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15859936104</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Friedberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.355120</latitude>
-        <longitude>10.925272</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-17T19:04:51+02:00</create>
-      <lastuse>2025-04-17T22:40:08+02:00</lastuse>
-      <lastconfirm>2025-04-17T22:10:09+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15860794287</id>
     <type>29</type>
     <speed></speed>
@@ -332,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-19T22:29:21+02:00</lastuse>
-      <lastconfirm>2025-04-17T22:29:21+02:00</lastconfirm>
+      <lastuse>2025-04-19T22:36:58+02:00</lastuse>
+      <lastconfirm>2025-04-17T22:36:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -553,6 +529,30 @@
     </date>
   </event>
   <event>
+    <id>15860278960</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Konrad-Adenauer-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.363190</latitude>
+        <longitude>10.896027</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T20:02:43+02:00</create>
+      <lastuse>2025-04-18T06:35:01+02:00</lastuse>
+      <lastconfirm>2025-04-17T22:35:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15595992108</id>
     <type>26</type>
     <speed></speed>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2025-04-14T10:39:30+02:00</create>
-      <lastuse>2025-04-19T22:06:10+02:00</lastuse>
-      <lastconfirm>2025-04-17T22:06:11+02:00</lastconfirm>
+      <lastuse>2025-04-19T22:35:55+02:00</lastuse>
+      <lastconfirm>2025-04-17T22:35:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
