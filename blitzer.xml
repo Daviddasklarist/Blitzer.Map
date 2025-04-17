@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>15858597579</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352744</latitude>
+        <longitude>10.855994</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T15:23:39+02:00</create>
+      <lastuse>2025-04-17T17:23:39+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:28:30+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856164291</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +140,32 @@
     </location>
     <date>
       <create>2025-04-17T10:19:55+02:00</create>
-      <lastuse>2025-04-17T16:55:02+02:00</lastuse>
-      <lastconfirm>2025-04-17T15:25:03+02:00</lastconfirm>
+      <lastuse>2025-04-17T16:58:01+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:28:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15858585124</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.388624</latitude>
+        <longitude>10.861067</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T15:20:20+02:00</create>
+      <lastuse>2025-04-17T16:32:37+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:32:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -158,38 +206,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.417637</latitude>
-        <longitude>10.713578</longitude>
+        <latitude>48.417512</latitude>
+        <longitude>10.715243</longitude>
       </point>
     </location>
     <date>
       <create>2025-04-17T14:37:02+02:00</create>
-      <lastuse>2025-04-17T15:32:00+02:00</lastuse>
+      <lastuse>2025-04-17T15:37:00+02:00</lastuse>
       <lastconfirm>2025-04-17T14:37:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>15858538655</id>
+    <id>15858594132</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
-      <zip>86477</zip>
-      <city>Adelsried</city>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
       <state>DE-BY</state>
-      <street>A8</street>
+      <street>B17</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.417134</latitude>
-        <longitude>10.739472</longitude>
+        <latitude>48.367472</latitude>
+        <longitude>10.854563</longitude>
       </point>
     </location>
     <date>
-      <create>2025-04-17T15:13:24+02:00</create>
-      <lastuse>2025-04-17T15:40:37+02:00</lastuse>
-      <lastconfirm>2025-04-17T15:25:38+02:00</lastconfirm>
+      <create>2025-04-17T15:22:58+02:00</create>
+      <lastuse>2025-04-17T16:32:34+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:32:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -206,21 +254,45 @@
     </address>
     <location>
       <point>
-        <latitude>48.410712</latitude>
-        <longitude>10.915402</longitude>
+        <latitude>48.410171</latitude>
+        <longitude>10.918667</longitude>
       </point>
     </location>
     <date>
       <create>2025-04-17T15:26:02+02:00</create>
-      <lastuse>2025-04-17T15:32:00+02:00</lastuse>
+      <lastuse>2025-04-17T15:37:00+02:00</lastuse>
       <lastconfirm>2025-04-17T15:26:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15858630729</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416960</latitude>
+        <longitude>10.735253</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T15:29:02+02:00</create>
+      <lastuse>2025-04-17T15:37:00+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:29:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15773140022</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86517</zip>
       <city>Wehringen</city>
@@ -236,8 +308,8 @@
     </location>
     <date>
       <create>2025-04-05T12:08:24+02:00</create>
-      <lastuse>2025-04-19T15:23:54+02:00</lastuse>
-      <lastconfirm>2025-04-17T15:23:54+02:00</lastconfirm>
+      <lastuse>2025-04-19T07:23:54+02:00</lastuse>
+      <lastconfirm>2025-04-05T12:08:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +572,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-19T15:24:42+02:00</lastuse>
-      <lastconfirm>2025-04-17T15:24:44+02:00</lastconfirm>
+      <lastuse>2025-04-19T15:29:31+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:29:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +620,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-19T15:18:30+02:00</lastuse>
-      <lastconfirm>2025-04-17T15:18:30+02:00</lastconfirm>
+      <lastuse>2025-04-19T15:29:25+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:29:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +932,8 @@
     </location>
     <date>
       <create>2025-04-14T10:39:30+02:00</create>
-      <lastuse>2025-04-19T14:54:10+02:00</lastuse>
-      <lastconfirm>2025-04-17T14:54:10+02:00</lastconfirm>
+      <lastuse>2025-04-19T15:25:34+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:25:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
