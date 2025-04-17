@@ -117,7 +117,31 @@
     <date>
       <create>2025-04-17T06:41:09+02:00</create>
       <lastuse>2025-04-17T10:41:09+02:00</lastuse>
-      <lastconfirm>2025-04-17T08:19:39+02:00</lastconfirm>
+      <lastconfirm>2025-04-17T08:39:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15856164291</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Blücherstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372059</latitude>
+        <longitude>10.935149</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T07:58:34+02:00</create>
+      <lastuse>2025-04-17T10:42:51+02:00</lastuse>
+      <lastconfirm>2025-04-17T08:42:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-04-01T16:25:39+02:00</create>
-      <lastuse>2025-04-19T06:50:05+02:00</lastuse>
-      <lastconfirm>2025-04-17T06:50:06+02:00</lastconfirm>
+      <lastuse>2025-04-19T08:36:07+02:00</lastuse>
+      <lastconfirm>2025-04-17T08:36:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-04-14T07:44:49+02:00</create>
-      <lastuse>2025-04-18T21:30:55+02:00</lastuse>
-      <lastconfirm>2025-04-16T21:30:55+02:00</lastconfirm>
+      <lastuse>2025-04-19T08:35:10+02:00</lastuse>
+      <lastconfirm>2025-04-17T08:35:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-19T08:33:38+02:00</lastuse>
-      <lastconfirm>2025-04-17T08:33:39+02:00</lastconfirm>
+      <lastuse>2025-04-19T00:37:44+02:00</lastuse>
+      <lastconfirm>2025-03-07T08:01:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-19T08:32:12+02:00</lastuse>
-      <lastconfirm>2025-04-17T08:32:12+02:00</lastconfirm>
+      <lastuse>2025-04-19T08:38:45+02:00</lastuse>
+      <lastconfirm>2025-04-17T08:38:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -721,30 +745,6 @@
     </date>
   </event>
   <event>
-    <id>15851838607</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Blücherstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.370495</latitude>
-        <longitude>10.938910</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-16T16:47:39+02:00</create>
-      <lastuse>2025-04-19T06:08:21+02:00</lastuse>
-      <lastconfirm>2025-04-17T06:08:21+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15805870951</id>
     <type>26</type>
     <speed></speed>
@@ -916,7 +916,7 @@
     <id>15705094812</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86167</zip>
       <city>Augsburg</city>
@@ -932,8 +932,8 @@
     </location>
     <date>
       <create>2025-03-26T07:31:33+01:00</create>
-      <lastuse>2025-04-18T15:23:28+02:00</lastuse>
-      <lastconfirm>2025-03-26T07:31:33+01:00</lastconfirm>
+      <lastuse>2025-04-19T08:39:10+02:00</lastuse>
+      <lastconfirm>2025-04-17T08:39:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -982,6 +982,30 @@
       <create>2025-04-12T19:10:49+02:00</create>
       <lastuse>2025-04-18T16:45:39+02:00</lastuse>
       <lastconfirm>2025-04-16T16:45:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15856242850</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403370</latitude>
+        <longitude>10.872491</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T08:13:59+02:00</create>
+      <lastuse>2025-04-17T16:35:59+02:00</lastuse>
+      <lastconfirm>2025-04-17T08:35:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
