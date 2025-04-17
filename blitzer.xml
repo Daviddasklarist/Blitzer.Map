@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>15857910841</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Berliner Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372923</latitude>
+        <longitude>10.919132</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T13:27:01+02:00</create>
+      <lastuse>2025-04-17T17:27:01+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:22:33+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15857321097</id>
     <type>1</type>
     <speed>30</speed>
@@ -76,7 +100,7 @@
     <id>15856870711</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -92,7 +116,7 @@
     </location>
     <date>
       <create>2025-04-17T10:19:55+02:00</create>
-      <lastuse>2025-04-17T16:38:23+02:00</lastuse>
+      <lastuse>2025-04-17T16:08:23+02:00</lastuse>
       <lastconfirm>2025-04-17T15:08:23+02:00</lastconfirm>
     </date>
   </event>
@@ -134,14 +158,62 @@
     </address>
     <location>
       <point>
-        <latitude>48.417763</latitude>
-        <longitude>10.711914</longitude>
+        <latitude>48.417637</latitude>
+        <longitude>10.713578</longitude>
       </point>
     </location>
     <date>
       <create>2025-04-17T14:37:02+02:00</create>
-      <lastuse>2025-04-17T15:22:00+02:00</lastuse>
+      <lastuse>2025-04-17T15:27:00+02:00</lastuse>
       <lastconfirm>2025-04-17T14:37:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15858538655</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Adelsried</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417134</latitude>
+        <longitude>10.739472</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T15:13:24+02:00</create>
+      <lastuse>2025-04-17T15:37:54+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:22:54+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15858586930</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416960</latitude>
+        <longitude>10.735253</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-17T15:21:02+02:00</create>
+      <lastuse>2025-04-17T15:27:00+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:21:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +500,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-19T15:07:58+02:00</lastuse>
-      <lastconfirm>2025-04-17T15:07:58+02:00</lastconfirm>
+      <lastuse>2025-04-19T15:16:07+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:16:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +548,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-19T15:14:17+02:00</lastuse>
-      <lastconfirm>2025-04-17T15:14:17+02:00</lastconfirm>
+      <lastuse>2025-04-19T15:18:30+02:00</lastuse>
+      <lastconfirm>2025-04-17T15:18:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +908,8 @@
     </location>
     <date>
       <create>2025-04-05T16:11:39+02:00</create>
-      <lastuse>2025-04-19T13:55:36+02:00</lastuse>
-      <lastconfirm>2025-04-17T13:55:37+02:00</lastconfirm>
+      <lastuse>2025-04-19T05:55:36+02:00</lastuse>
+      <lastconfirm>2025-04-05T16:11:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
