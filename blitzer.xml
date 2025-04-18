@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15866997922</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86438</zip>
+      <city>Kissing</city>
+      <state>DE-BY</state>
+      <street>Meringer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.323934</latitude>
+        <longitude>10.958925</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-18T18:55:28+02:00</create>
+      <lastuse>2025-04-18T21:09:50+02:00</lastuse>
+      <lastconfirm>2025-04-18T19:09:51+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15866186861</id>
     <type>2</type>
     <speed></speed>
@@ -52,7 +76,7 @@
     <id>15863774956</id>
     <type>6</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-04-18T08:49:05+02:00</create>
-      <lastuse>2025-04-18T20:37:53+02:00</lastuse>
-      <lastconfirm>2025-04-18T19:07:53+02:00</lastconfirm>
+      <lastuse>2025-04-18T20:26:54+02:00</lastuse>
+      <lastconfirm>2025-04-18T19:11:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-20T19:03:31+02:00</lastuse>
-      <lastconfirm>2025-04-18T19:03:32+02:00</lastconfirm>
+      <lastuse>2025-04-20T19:08:45+02:00</lastuse>
+      <lastconfirm>2025-04-18T19:08:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-20T19:02:15+02:00</lastuse>
-      <lastconfirm>2025-04-18T19:02:16+02:00</lastconfirm>
+      <lastuse>2025-04-20T19:07:56+02:00</lastuse>
+      <lastconfirm>2025-04-18T19:07:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2025-04-15T17:58:51+02:00</create>
-      <lastuse>2025-04-20T14:15:39+02:00</lastuse>
-      <lastconfirm>2025-04-18T14:15:39+02:00</lastconfirm>
+      <lastuse>2025-04-20T19:07:05+02:00</lastuse>
+      <lastconfirm>2025-04-18T19:07:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-04-15T16:33:59+02:00</create>
-      <lastuse>2025-04-20T17:39:46+02:00</lastuse>
-      <lastconfirm>2025-04-18T17:39:47+02:00</lastconfirm>
+      <lastuse>2025-04-20T19:09:13+02:00</lastuse>
+      <lastconfirm>2025-04-18T19:09:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -745,6 +769,30 @@
     </date>
   </event>
   <event>
+    <id>15844142759</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Donauwörther Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.386254</latitude>
+        <longitude>10.880752</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-15T15:59:56+02:00</create>
+      <lastuse>2025-04-20T19:07:14+02:00</lastuse>
+      <lastconfirm>2025-04-18T19:07:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15705094812</id>
     <type>26</type>
     <speed></speed>
@@ -814,30 +862,6 @@
       <create>2025-04-12T19:10:49+02:00</create>
       <lastuse>2025-04-20T15:35:59+02:00</lastuse>
       <lastconfirm>2025-04-18T15:36:00+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15784471884</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86551</zip>
-      <city>Aichach</city>
-      <state>DE-HH</state>
-      <street>Franz-Beck-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.455908</latitude>
-        <longitude>11.124024</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-07T06:20:50+02:00</create>
-      <lastuse>2025-04-19T03:06:20+02:00</lastuse>
-      <lastconfirm>2025-04-07T06:20:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
