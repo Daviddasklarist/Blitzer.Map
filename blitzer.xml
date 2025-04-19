@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15870741845</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355119</latitude>
+        <longitude>10.928370</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-19T08:36:49+02:00</create>
+      <lastuse>2025-04-19T11:18:56+02:00</lastuse>
+      <lastconfirm>2025-04-19T09:18:56+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15870869985</id>
+    <type>24</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kobelweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384840</latitude>
+        <longitude>10.859333</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-19T09:05:44+02:00</create>
+      <lastuse>2025-04-19T10:44:37+02:00</lastuse>
+      <lastconfirm>2025-04-19T09:14:37+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15855866543</id>
     <type>26</type>
     <speed></speed>
@@ -308,8 +356,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-04-21T09:08:21+02:00</lastuse>
-      <lastconfirm>2025-04-19T09:08:22+02:00</lastconfirm>
+      <lastuse>2025-04-21T09:14:38+02:00</lastuse>
+      <lastconfirm>2025-04-19T09:14:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
