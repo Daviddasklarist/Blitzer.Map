@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15892234406</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.329082</latitude>
+        <longitude>10.886603</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-22T14:32:17+02:00</create>
+      <lastuse>2025-04-22T18:32:17+02:00</lastuse>
+      <lastconfirm>2025-04-22T14:43:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15891369008</id>
     <type>1</type>
     <speed>30</speed>
@@ -97,30 +121,6 @@
     </date>
   </event>
   <event>
-    <id>15891868838</id>
-    <type>2</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Donauwörther Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.386350</latitude>
-        <longitude>10.880459</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-22T13:27:45+02:00</create>
-      <lastuse>2025-04-22T16:28:56+02:00</lastuse>
-      <lastconfirm>2025-04-22T14:28:56+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15890635407</id>
     <type>7</type>
     <speed>50</speed>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-04-20T10:24:17+02:00</create>
-      <lastuse>2025-04-22T22:37:43+02:00</lastuse>
-      <lastconfirm>2025-04-22T14:37:44+02:00</lastconfirm>
+      <lastuse>2025-04-22T22:40:15+02:00</lastuse>
+      <lastconfirm>2025-04-22T14:40:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-04-22T12:04:12+02:00</create>
-      <lastuse>2025-04-22T15:37:26+02:00</lastuse>
-      <lastconfirm>2025-04-22T14:37:28+02:00</lastconfirm>
+      <lastuse>2025-04-22T15:39:12+02:00</lastuse>
+      <lastconfirm>2025-04-22T14:39:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,7 +236,7 @@
     </location>
     <date>
       <create>2025-04-22T14:21:02+02:00</create>
-      <lastuse>2025-04-22T14:42:00+02:00</lastuse>
+      <lastuse>2025-04-22T14:48:00+02:00</lastuse>
       <lastconfirm>2025-04-22T14:21:02+02:00</lastconfirm>
     </date>
   </event>
@@ -332,8 +332,8 @@
     </location>
     <date>
       <create>2025-04-04T21:44:33+02:00</create>
-      <lastuse>2025-04-24T13:11:59+02:00</lastuse>
-      <lastconfirm>2025-04-22T13:11:59+02:00</lastconfirm>
+      <lastuse>2025-04-24T14:36:12+02:00</lastuse>
+      <lastconfirm>2025-04-22T14:36:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
