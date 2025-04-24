@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15907728889</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377430</latitude>
+        <longitude>10.913978</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-24T18:16:32+02:00</create>
+      <lastuse>2025-04-24T20:35:46+02:00</lastuse>
+      <lastconfirm>2025-04-24T18:35:46+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15907259600</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-04-24T16:01:36+02:00</create>
-      <lastuse>2025-04-24T20:31:34+02:00</lastuse>
-      <lastconfirm>2025-04-24T18:31:35+02:00</lastconfirm>
+      <lastuse>2025-04-24T20:36:19+02:00</lastuse>
+      <lastconfirm>2025-04-24T18:36:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,32 @@
     </location>
     <date>
       <create>2025-04-20T10:24:17+02:00</create>
-      <lastuse>2025-04-25T02:27:27+02:00</lastuse>
-      <lastconfirm>2025-04-24T18:27:28+02:00</lastconfirm>
+      <lastuse>2025-04-25T02:37:29+02:00</lastuse>
+      <lastconfirm>2025-04-24T18:37:30+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15907650390</id>
+    <type>7</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411333</latitude>
+        <longitude>10.919308</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-24T18:03:04+02:00</create>
+      <lastuse>2025-04-25T02:33:59+02:00</lastuse>
+      <lastconfirm>2025-04-24T18:33:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +452,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-04-26T18:27:42+02:00</lastuse>
-      <lastconfirm>2025-04-24T18:27:43+02:00</lastconfirm>
+      <lastuse>2025-04-26T18:34:53+02:00</lastuse>
+      <lastconfirm>2025-04-24T18:34:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -550,6 +598,30 @@
       <create>2025-04-15T15:28:52+02:00</create>
       <lastuse>2025-04-26T11:17:14+02:00</lastuse>
       <lastconfirm>2025-04-24T11:17:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15906584849</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86559</zip>
+      <city>Adelzhausen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352806</latitude>
+        <longitude>11.133470</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-24T14:57:23+02:00</create>
+      <lastuse>2025-04-25T02:30:33+02:00</lastuse>
+      <lastconfirm>2025-04-24T18:30:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
