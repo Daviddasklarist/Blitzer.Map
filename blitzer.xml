@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15915883577</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Inverness-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355452</latitude>
+        <longitude>10.909023</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-25T22:16:41+02:00</create>
+      <lastuse>2025-04-26T00:42:44+02:00</lastuse>
+      <lastconfirm>2025-04-25T22:42:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15911993354</id>
     <type>2</type>
     <speed></speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-04-25T21:02:34+02:00</create>
-      <lastuse>2025-04-25T23:15:08+02:00</lastuse>
-      <lastconfirm>2025-04-25T22:30:09+02:00</lastconfirm>
+      <lastuse>2025-04-25T23:40:21+02:00</lastuse>
+      <lastconfirm>2025-04-25T22:40:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-04-24T14:46:21+02:00</create>
-      <lastuse>2025-04-27T22:22:20+02:00</lastuse>
-      <lastconfirm>2025-04-25T22:22:21+02:00</lastconfirm>
+      <lastuse>2025-04-27T22:39:10+02:00</lastuse>
+      <lastconfirm>2025-04-25T22:39:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
