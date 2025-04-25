@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15912874072</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.229976</latitude>
+        <longitude>10.866707</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-25T12:49:50+02:00</create>
+      <lastuse>2025-04-25T14:56:21+02:00</lastuse>
+      <lastconfirm>2025-04-25T12:56:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15912225431</id>
     <type>1</type>
     <speed>30</speed>
@@ -124,7 +148,7 @@
     <id>15912233827</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86356</zip>
       <city>Neusäß</city>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-04-25T10:44:08+02:00</create>
-      <lastuse>2025-04-25T14:45:37+02:00</lastuse>
-      <lastconfirm>2025-04-25T12:45:37+02:00</lastconfirm>
+      <lastuse>2025-04-25T14:55:52+02:00</lastuse>
+      <lastconfirm>2025-04-25T12:55:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-04-22T09:41:51+02:00</create>
-      <lastuse>2025-04-25T20:42:14+02:00</lastuse>
-      <lastconfirm>2025-04-25T12:42:14+02:00</lastconfirm>
+      <lastuse>2025-04-25T20:56:41+02:00</lastuse>
+      <lastconfirm>2025-04-25T12:56:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -214,6 +238,30 @@
       <create>2025-04-20T10:24:17+02:00</create>
       <lastuse>2025-04-25T20:51:39+02:00</lastuse>
       <lastconfirm>2025-04-25T12:51:40+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15912339353</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411676</latitude>
+        <longitude>11.088358</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-25T11:10:00+02:00</create>
+      <lastuse>2025-04-25T13:56:20+02:00</lastuse>
+      <lastconfirm>2025-04-25T12:56:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,32 +308,8 @@
     </location>
     <date>
       <create>2025-04-25T12:03:03+02:00</create>
-      <lastuse>2025-04-25T13:52:33+02:00</lastuse>
-      <lastconfirm>2025-04-25T12:52:33+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15912858431</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.403615</latitude>
-        <longitude>10.958451</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-25T12:45:04+02:00</create>
-      <lastuse>2025-04-25T13:06:35+02:00</lastuse>
-      <lastconfirm>2025-04-25T12:51:35+02:00</lastconfirm>
+      <lastuse>2025-04-25T13:58:00+02:00</lastuse>
+      <lastconfirm>2025-04-25T12:58:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
