@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15924969858</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411693</latitude>
+        <longitude>10.908636</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-27T08:28:20+02:00</create>
+      <lastuse>2025-04-27T10:57:01+02:00</lastuse>
+      <lastconfirm>2025-04-27T09:27:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15924987728</id>
     <type>1</type>
     <speed>130</speed>
@@ -20,15 +44,15 @@
     </location>
     <date>
       <create>2025-04-27T08:32:29+02:00</create>
-      <lastuse>2025-04-27T11:06:26+02:00</lastuse>
-      <lastconfirm>2025-04-27T09:21:26+02:00</lastconfirm>
+      <lastuse>2025-04-27T11:27:37+02:00</lastuse>
+      <lastconfirm>2025-04-27T09:27:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15925166066</id>
     <type>6</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-04-27T09:16:01+02:00</create>
-      <lastuse>2025-04-27T10:36:38+02:00</lastuse>
-      <lastconfirm>2025-04-27T09:21:39+02:00</lastconfirm>
+      <lastuse>2025-04-27T10:40:55+02:00</lastuse>
+      <lastconfirm>2025-04-27T09:25:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,32 @@
     </location>
     <date>
       <create>2025-04-22T09:41:51+02:00</create>
-      <lastuse>2025-04-27T17:18:54+02:00</lastuse>
-      <lastconfirm>2025-04-27T09:18:55+02:00</lastconfirm>
+      <lastuse>2025-04-27T17:23:06+02:00</lastuse>
+      <lastconfirm>2025-04-27T09:23:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15925145434</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.366709</latitude>
+        <longitude>11.114816</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-27T09:10:36+02:00</create>
+      <lastuse>2025-04-27T10:27:56+02:00</lastuse>
+      <lastconfirm>2025-04-27T09:27:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +1004,8 @@
     </location>
     <date>
       <create>2025-04-23T13:08:55+02:00</create>
-      <lastuse>2025-04-29T08:40:29+02:00</lastuse>
-      <lastconfirm>2025-04-27T08:40:29+02:00</lastconfirm>
+      <lastuse>2025-04-29T00:40:29+02:00</lastuse>
+      <lastconfirm>2025-04-23T13:08:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
