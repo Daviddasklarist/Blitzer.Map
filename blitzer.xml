@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15935492327</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Donauwörther Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.394192</latitude>
+        <longitude>10.881743</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-28T20:34:49+02:00</create>
+      <lastuse>2025-04-28T22:49:42+02:00</lastuse>
+      <lastconfirm>2025-04-28T20:49:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15934652309</id>
     <type>1</type>
     <speed>90</speed>
@@ -92,8 +116,32 @@
     </location>
     <date>
       <create>2025-04-28T20:18:23+02:00</create>
-      <lastuse>2025-04-28T21:17:46+02:00</lastuse>
-      <lastconfirm>2025-04-28T20:47:46+02:00</lastconfirm>
+      <lastuse>2025-04-28T21:21:31+02:00</lastuse>
+      <lastconfirm>2025-04-28T20:51:31+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15935486175</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411191</latitude>
+        <longitude>10.645629</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-28T20:32:11+02:00</create>
+      <lastuse>2025-04-28T21:50:49+02:00</lastuse>
+      <lastconfirm>2025-04-28T20:50:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
