@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15937979571</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337337</latitude>
+        <longitude>10.903833</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-29T06:21:54+02:00</create>
+      <lastuse>2025-04-29T08:21:54+02:00</lastuse>
+      <lastconfirm>2025-04-29T06:36:51+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15937982087</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Gabelsbergerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.346504</latitude>
+        <longitude>10.870849</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-29T06:22:18+02:00</create>
+      <lastuse>2025-04-29T08:36:38+02:00</lastuse>
+      <lastconfirm>2025-04-29T06:36:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15937424578</id>
     <type>29</type>
     <speed></speed>
@@ -20,8 +68,8 @@
     </location>
     <date>
       <create>2025-04-29T04:03:29+02:00</create>
-      <lastuse>2025-04-29T07:33:46+02:00</lastuse>
-      <lastconfirm>2025-04-29T06:33:47+02:00</lastconfirm>
+      <lastuse>2025-04-29T07:35:56+02:00</lastuse>
+      <lastconfirm>2025-04-29T06:35:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2025-04-29T05:04:18+02:00</create>
-      <lastuse>2025-04-29T07:16:08+02:00</lastuse>
-      <lastconfirm>2025-04-29T06:31:08+02:00</lastconfirm>
+      <lastuse>2025-04-29T07:19:19+02:00</lastuse>
+      <lastconfirm>2025-04-29T06:34:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +404,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-05-01T06:22:07+02:00</lastuse>
-      <lastconfirm>2025-04-29T06:22:07+02:00</lastconfirm>
+      <lastuse>2025-05-01T06:31:27+02:00</lastuse>
+      <lastconfirm>2025-04-29T06:31:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +452,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-05-01T06:22:45+02:00</lastuse>
-      <lastconfirm>2025-04-29T06:22:47+02:00</lastconfirm>
+      <lastuse>2025-05-01T06:34:37+02:00</lastuse>
+      <lastconfirm>2025-04-29T06:34:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +788,8 @@
     </location>
     <date>
       <create>2025-03-26T07:31:33+01:00</create>
-      <lastuse>2025-04-30T04:57:13+02:00</lastuse>
-      <lastconfirm>2025-03-26T07:31:33+01:00</lastconfirm>
+      <lastuse>2025-05-01T06:33:45+02:00</lastuse>
+      <lastconfirm>2025-04-29T06:33:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
