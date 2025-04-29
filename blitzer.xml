@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15939814025</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410466</latitude>
+        <longitude>10.617417</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-29T12:10:52+02:00</create>
+      <lastuse>2025-04-29T18:11:57+02:00</lastuse>
+      <lastconfirm>2025-04-29T16:56:57+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15940740922</id>
     <type>1</type>
     <speed>50</speed>
@@ -124,7 +148,7 @@
     <id>15941135135</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -140,7 +164,7 @@
     </location>
     <date>
       <create>2025-04-29T16:13:51+02:00</create>
-      <lastuse>2025-04-29T17:32:50+02:00</lastuse>
+      <lastuse>2025-04-29T17:02:50+02:00</lastuse>
       <lastconfirm>2025-04-29T16:47:51+02:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-04-29T15:19:26+02:00</create>
-      <lastuse>2025-04-29T17:51:23+02:00</lastuse>
-      <lastconfirm>2025-04-29T16:51:23+02:00</lastconfirm>
+      <lastuse>2025-04-29T17:56:40+02:00</lastuse>
+      <lastconfirm>2025-04-29T16:56:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,7 +260,7 @@
     </location>
     <date>
       <create>2025-04-29T16:17:00+02:00</create>
-      <lastuse>2025-04-29T17:50:15+02:00</lastuse>
+      <lastuse>2025-04-29T17:32:15+02:00</lastuse>
       <lastconfirm>2025-04-29T16:50:16+02:00</lastconfirm>
     </date>
   </event>
@@ -836,8 +860,8 @@
     </location>
     <date>
       <create>2024-12-29T15:15:11+01:00</create>
-      <lastuse>2025-05-01T13:08:56+02:00</lastuse>
-      <lastconfirm>2025-04-29T13:08:57+02:00</lastconfirm>
+      <lastuse>2025-05-01T16:51:46+02:00</lastuse>
+      <lastconfirm>2025-04-29T16:51:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
