@@ -52,7 +52,7 @@
     <id>15949603082</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -68,32 +68,8 @@
     </location>
     <date>
       <create>2025-04-30T20:20:39+02:00</create>
-      <lastuse>2025-04-30T23:25:13+02:00</lastuse>
+      <lastuse>2025-04-30T23:20:39+02:00</lastuse>
       <lastconfirm>2025-04-30T21:25:13+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15949271113</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Berliner Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373294</latitude>
-        <longitude>10.918333</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-30T19:22:15+02:00</create>
-      <lastuse>2025-04-30T22:24:37+02:00</lastuse>
-      <lastconfirm>2025-04-30T21:24:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +92,7 @@
     </location>
     <date>
       <create>2025-04-30T17:41:18+02:00</create>
-      <lastuse>2025-04-30T23:32:28+02:00</lastuse>
+      <lastuse>2025-04-30T23:02:28+02:00</lastuse>
       <lastconfirm>2025-04-30T21:32:29+02:00</lastconfirm>
     </date>
   </event>
@@ -145,27 +121,27 @@
     </date>
   </event>
   <event>
-    <id>15949606731</id>
-    <type>21</type>
+    <id>15949558849</id>
+    <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
+      <zip>86551</zip>
+      <city>Aichach</city>
       <state>DE-BY</state>
-      <street>Amagasaki-Allee</street>
+      <street>B300</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.371414</latitude>
-        <longitude>10.924164</longitude>
+        <latitude>48.435328</latitude>
+        <longitude>11.127266</longitude>
       </point>
     </location>
     <date>
-      <create>2025-04-30T20:21:15+02:00</create>
-      <lastuse>2025-04-30T22:26:06+02:00</lastuse>
-      <lastconfirm>2025-04-30T21:26:06+02:00</lastconfirm>
+      <create>2025-04-30T20:13:42+02:00</create>
+      <lastuse>2025-04-30T22:32:30+02:00</lastuse>
+      <lastconfirm>2025-04-30T21:32:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,6 +169,30 @@
     </date>
   </event>
   <event>
+    <id>15949606731</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Amagasaki-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.371414</latitude>
+        <longitude>10.924164</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-30T20:21:15+02:00</create>
+      <lastuse>2025-04-30T22:26:06+02:00</lastuse>
+      <lastconfirm>2025-04-30T21:26:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15949745492</id>
     <type>29</type>
     <speed></speed>
@@ -214,30 +214,6 @@
       <create>2025-04-30T20:47:38+02:00</create>
       <lastuse>2025-04-30T22:08:34+02:00</lastuse>
       <lastconfirm>2025-04-30T21:23:36+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15949558849</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86551</zip>
-      <city>Aichach</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.435328</latitude>
-        <longitude>11.127266</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-04-30T20:13:42+02:00</create>
-      <lastuse>2025-04-30T22:32:30+02:00</lastuse>
-      <lastconfirm>2025-04-30T21:32:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
