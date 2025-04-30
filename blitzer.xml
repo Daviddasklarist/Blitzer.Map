@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15947500798</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Landsberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.255820</latitude>
+        <longitude>10.881959</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-04-30T14:36:15+02:00</create>
+      <lastuse>2025-04-30T17:06:34+02:00</lastuse>
+      <lastconfirm>2025-04-30T15:06:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15946786104</id>
     <type>1</type>
     <speed>30</speed>
@@ -76,7 +100,7 @@
     <id>15947450159</id>
     <type>21</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-04-30T14:28:44+02:00</create>
-      <lastuse>2025-04-30T15:37:44+02:00</lastuse>
-      <lastconfirm>2025-04-30T14:52:45+02:00</lastconfirm>
+      <lastuse>2025-04-30T15:49:47+02:00</lastuse>
+      <lastconfirm>2025-04-30T15:04:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,12 +140,12 @@
     </location>
     <date>
       <create>2025-04-30T14:32:13+02:00</create>
-      <lastuse>2025-04-30T16:01:31+02:00</lastuse>
-      <lastconfirm>2025-04-30T15:01:31+02:00</lastconfirm>
+      <lastuse>2025-04-30T16:03:38+02:00</lastuse>
+      <lastconfirm>2025-04-30T15:03:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>15947650632</id>
+    <id>15947679773</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -134,14 +158,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.407793</latitude>
-        <longitude>10.933098</longitude>
+        <latitude>48.405448</latitude>
+        <longitude>10.947194</longitude>
       </point>
     </location>
     <date>
-      <create>2025-04-30T15:02:02+02:00</create>
-      <lastuse>2025-04-30T15:07:00+02:00</lastuse>
-      <lastconfirm>2025-04-30T15:02:02+02:00</lastconfirm>
+      <create>2025-04-30T15:07:02+02:00</create>
+      <lastuse>2025-04-30T15:12:00+02:00</lastuse>
+      <lastconfirm>2025-04-30T15:07:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +524,8 @@
     </location>
     <date>
       <create>2025-04-30T12:27:07+02:00</create>
-      <lastuse>2025-04-30T22:56:30+02:00</lastuse>
-      <lastconfirm>2025-04-30T14:56:30+02:00</lastconfirm>
+      <lastuse>2025-04-30T23:00:20+02:00</lastuse>
+      <lastconfirm>2025-04-30T15:00:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-05-02T14:52:10+02:00</lastuse>
-      <lastconfirm>2025-04-30T14:52:11+02:00</lastconfirm>
+      <lastuse>2025-05-02T15:02:44+02:00</lastuse>
+      <lastconfirm>2025-04-30T15:02:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-05-02T14:27:14+02:00</lastuse>
-      <lastconfirm>2025-04-30T14:27:15+02:00</lastconfirm>
+      <lastuse>2025-05-02T06:27:14+02:00</lastuse>
+      <lastconfirm>2024-12-21T15:13:27+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
