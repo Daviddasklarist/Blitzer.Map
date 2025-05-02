@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15958805865</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Neue Bergstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.404353</latitude>
+        <longitude>10.967087</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-02T06:30:16+02:00</create>
+      <lastuse>2025-05-02T09:40:12+02:00</lastuse>
+      <lastconfirm>2025-05-02T07:40:13+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15940771949</id>
     <type>7</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-05-01T11:09:23+02:00</create>
-      <lastuse>2025-05-02T11:37:38+02:00</lastuse>
-      <lastconfirm>2025-05-02T07:37:40+02:00</lastconfirm>
+      <lastuse>2025-05-02T11:42:58+02:00</lastuse>
+      <lastconfirm>2025-05-02T07:42:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-03-07T08:01:39+01:00</create>
-      <lastuse>2025-05-04T07:10:55+02:00</lastuse>
-      <lastconfirm>2025-05-02T07:10:55+02:00</lastconfirm>
+      <lastuse>2025-05-04T07:39:44+02:00</lastuse>
+      <lastconfirm>2025-05-02T07:39:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
