@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15966936622</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352764</latitude>
+        <longitude>10.856116</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-03T11:40:08+02:00</create>
+      <lastuse>2025-05-03T15:40:08+02:00</lastuse>
+      <lastconfirm>2025-05-03T12:46:07+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15966515179</id>
     <type>1</type>
     <speed>60</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-05-01T11:09:23+02:00</create>
-      <lastuse>2025-05-03T16:43:19+02:00</lastuse>
-      <lastconfirm>2025-05-03T12:43:20+02:00</lastconfirm>
+      <lastuse>2025-05-03T16:47:59+02:00</lastuse>
+      <lastconfirm>2025-05-03T12:48:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,32 @@
     </location>
     <date>
       <create>2025-05-02T17:40:00+02:00</create>
-      <lastuse>2025-05-03T13:20:03+02:00</lastuse>
-      <lastconfirm>2025-05-03T12:35:03+02:00</lastconfirm>
+      <lastuse>2025-05-03T13:48:05+02:00</lastuse>
+      <lastconfirm>2025-05-03T12:48:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15967215026</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400987</latitude>
+        <longitude>10.992735</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-03T12:39:48+02:00</create>
+      <lastuse>2025-05-03T13:48:11+02:00</lastuse>
+      <lastconfirm>2025-05-03T12:48:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +476,8 @@
     </location>
     <date>
       <create>2025-04-01T09:21:39+02:00</create>
-      <lastuse>2025-05-05T12:18:10+02:00</lastuse>
-      <lastconfirm>2025-05-03T12:18:10+02:00</lastconfirm>
+      <lastuse>2025-05-05T12:40:18+02:00</lastuse>
+      <lastconfirm>2025-05-03T12:40:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
