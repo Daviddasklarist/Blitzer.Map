@@ -4,7 +4,7 @@
     <id>15973451579</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86420</zip>
       <city>Diedorf</city>
@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2025-05-04T11:48:12+02:00</create>
-      <lastuse>2025-05-04T14:27:16+02:00</lastuse>
+      <lastuse>2025-05-04T13:57:16+02:00</lastuse>
       <lastconfirm>2025-05-04T12:27:16+02:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-05-01T11:09:23+02:00</create>
-      <lastuse>2025-05-04T16:27:47+02:00</lastuse>
-      <lastconfirm>2025-05-04T12:27:47+02:00</lastconfirm>
+      <lastuse>2025-05-04T16:32:34+02:00</lastuse>
+      <lastconfirm>2025-05-04T12:32:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,7 +145,7 @@
     </date>
   </event>
   <event>
-    <id>15973163147</id>
+    <id>15973653391</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -158,14 +158,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.403250</latitude>
-        <longitude>10.559083</longitude>
+        <latitude>48.403907</latitude>
+        <longitude>10.560605</longitude>
       </point>
     </location>
     <date>
-      <create>2025-05-04T10:46:02+02:00</create>
-      <lastuse>2025-05-04T12:32:00+02:00</lastuse>
-      <lastconfirm>2025-05-04T10:46:02+02:00</lastconfirm>
+      <create>2025-05-04T12:28:02+02:00</create>
+      <lastuse>2025-05-04T12:37:00+02:00</lastuse>
+      <lastconfirm>2025-05-04T12:28:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15973672126</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.406460</latitude>
+        <longitude>10.571900</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-04T12:31:02+02:00</create>
+      <lastuse>2025-05-04T12:37:00+02:00</lastuse>
+      <lastconfirm>2025-05-04T12:31:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
