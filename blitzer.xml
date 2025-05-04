@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>15973301829</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369991</latitude>
+        <longitude>10.799873</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-04T11:15:37+02:00</create>
+      <lastuse>2025-05-04T15:10:23+02:00</lastuse>
+      <lastconfirm>2025-05-04T13:10:24+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15973600597</id>
     <type>1</type>
     <speed>70</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-05-04T12:18:36+02:00</create>
-      <lastuse>2025-05-04T15:05:55+02:00</lastuse>
-      <lastconfirm>2025-05-04T13:05:56+02:00</lastconfirm>
+      <lastuse>2025-05-04T15:11:09+02:00</lastuse>
+      <lastconfirm>2025-05-04T13:11:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,32 @@
     </location>
     <date>
       <create>2025-05-01T11:09:23+02:00</create>
-      <lastuse>2025-05-04T16:36:37+02:00</lastuse>
-      <lastconfirm>2025-05-04T13:06:38+02:00</lastconfirm>
+      <lastuse>2025-05-04T17:12:43+02:00</lastuse>
+      <lastconfirm>2025-05-04T13:12:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15973848192</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400521</latitude>
+        <longitude>11.002398</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-04T13:06:04+02:00</create>
+      <lastuse>2025-05-04T14:12:36+02:00</lastuse>
+      <lastconfirm>2025-05-04T13:12:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
