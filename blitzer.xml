@@ -93,7 +93,7 @@
     <date>
       <create>2025-05-05T12:00:41+02:00</create>
       <lastuse>2025-05-05T16:00:41+02:00</lastuse>
-      <lastconfirm>2025-05-05T12:56:51+02:00</lastconfirm>
+      <lastconfirm>2025-05-05T13:02:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-05-01T11:09:23+02:00</create>
-      <lastuse>2025-05-05T16:58:32+02:00</lastuse>
-      <lastconfirm>2025-05-05T12:58:33+02:00</lastconfirm>
+      <lastuse>2025-05-05T17:02:49+02:00</lastuse>
+      <lastconfirm>2025-05-05T13:02:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-05-05T09:30:26+02:00</create>
-      <lastuse>2025-05-05T13:28:46+02:00</lastuse>
-      <lastconfirm>2025-05-05T12:58:47+02:00</lastconfirm>
+      <lastuse>2025-05-05T13:30:03+02:00</lastuse>
+      <lastconfirm>2025-05-05T13:00:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-05-05T12:43:07+02:00</create>
-      <lastuse>2025-05-05T13:37:58+02:00</lastuse>
-      <lastconfirm>2025-05-05T12:52:59+02:00</lastconfirm>
+      <lastuse>2025-05-05T14:02:13+02:00</lastuse>
+      <lastconfirm>2025-05-05T13:02:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -206,13 +206,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.401609</latitude>
-        <longitude>10.982195</longitude>
+        <latitude>48.401579</latitude>
+        <longitude>10.980527</longitude>
       </point>
     </location>
     <date>
       <create>2025-05-05T12:28:02+02:00</create>
-      <lastuse>2025-05-05T13:03:00+02:00</lastuse>
+      <lastuse>2025-05-05T13:07:00+02:00</lastuse>
       <lastconfirm>2025-05-05T12:28:02+02:00</lastconfirm>
     </date>
   </event>
@@ -745,6 +745,30 @@
     </date>
   </event>
   <event>
+    <id>15980663767</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.434835</latitude>
+        <longitude>10.869292</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-05T12:41:54+02:00</create>
+      <lastuse>2025-05-07T12:56:29+02:00</lastuse>
+      <lastconfirm>2025-05-05T12:56:30+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15931979928</id>
     <type>26</type>
     <speed></speed>
@@ -812,8 +836,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-05-07T09:25:57+02:00</lastuse>
-      <lastconfirm>2025-05-05T09:25:59+02:00</lastconfirm>
+      <lastuse>2025-05-07T01:25:57+02:00</lastuse>
+      <lastconfirm>2024-12-21T15:13:27+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
