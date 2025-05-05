@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15980428908</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410416</latitude>
-        <longitude>10.617400</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-05T12:00:41+02:00</create>
-      <lastuse>2025-05-05T17:20:18+02:00</lastuse>
-      <lastconfirm>2025-05-05T16:35:20+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15981688790</id>
     <type>1</type>
     <speed>50</speed>
@@ -92,15 +68,15 @@
     </location>
     <date>
       <create>2025-05-01T11:09:23+02:00</create>
-      <lastuse>2025-05-05T20:37:32+02:00</lastuse>
-      <lastconfirm>2025-05-05T16:37:32+02:00</lastconfirm>
+      <lastuse>2025-05-05T20:42:22+02:00</lastuse>
+      <lastconfirm>2025-05-05T16:42:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>15981734504</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-05-05T16:00:13+02:00</create>
-      <lastuse>2025-05-05T17:18:15+02:00</lastuse>
-      <lastconfirm>2025-05-05T16:18:16+02:00</lastconfirm>
+      <lastuse>2025-05-05T17:41:28+02:00</lastuse>
+      <lastconfirm>2025-05-05T16:41:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2025-04-04T21:44:33+02:00</create>
-      <lastuse>2025-05-07T16:05:21+02:00</lastuse>
-      <lastconfirm>2025-05-05T16:05:21+02:00</lastconfirm>
+      <lastuse>2025-05-07T08:05:21+02:00</lastuse>
+      <lastconfirm>2025-04-04T21:44:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2025-04-07T11:40:54+02:00</create>
-      <lastuse>2025-05-07T16:02:22+02:00</lastuse>
-      <lastconfirm>2025-05-05T16:02:23+02:00</lastconfirm>
+      <lastuse>2025-05-07T08:02:22+02:00</lastuse>
+      <lastconfirm>2025-04-07T11:40:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +332,8 @@
     </location>
     <date>
       <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-05-05T20:23:41+02:00</lastuse>
-      <lastconfirm>2025-05-05T11:45:02+02:00</lastconfirm>
+      <lastuse>2025-05-07T16:36:55+02:00</lastuse>
+      <lastconfirm>2025-05-05T16:36:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +428,8 @@
     </location>
     <date>
       <create>2025-03-10T15:42:27+01:00</create>
-      <lastuse>2025-05-07T16:30:58+02:00</lastuse>
-      <lastconfirm>2025-05-05T16:30:58+02:00</lastconfirm>
+      <lastuse>2025-05-07T16:37:56+02:00</lastuse>
+      <lastconfirm>2025-05-05T16:37:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +620,8 @@
     </location>
     <date>
       <create>2025-04-12T19:10:49+02:00</create>
-      <lastuse>2025-05-07T16:28:39+02:00</lastuse>
-      <lastconfirm>2025-05-05T16:28:40+02:00</lastconfirm>
+      <lastuse>2025-05-07T16:36:09+02:00</lastuse>
+      <lastconfirm>2025-05-05T16:36:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +644,8 @@
     </location>
     <date>
       <create>2025-05-05T12:41:54+02:00</create>
-      <lastuse>2025-05-07T16:33:30+02:00</lastuse>
-      <lastconfirm>2025-05-05T16:33:30+02:00</lastconfirm>
+      <lastuse>2025-05-07T16:38:27+02:00</lastuse>
+      <lastconfirm>2025-05-05T16:38:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +716,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-05-07T15:06:51+02:00</lastuse>
-      <lastconfirm>2025-05-05T15:06:51+02:00</lastconfirm>
+      <lastuse>2025-05-07T16:36:29+02:00</lastuse>
+      <lastconfirm>2025-05-05T16:36:29+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
