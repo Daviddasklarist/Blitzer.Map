@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16128825366</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.458317</latitude>
+        <longitude>10.878798</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-11T10:15:17+02:00</create>
+      <lastuse>2025-05-11T12:22:59+02:00</lastuse>
+      <lastconfirm>2025-05-11T10:23:00+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16102702005</id>
     <type>7</type>
     <speed>50</speed>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-05-12T22:35:08+02:00</lastuse>
-      <lastconfirm>2025-05-10T22:35:10+02:00</lastconfirm>
+      <lastuse>2025-05-13T10:16:55+02:00</lastuse>
+      <lastconfirm>2025-05-11T10:16:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
