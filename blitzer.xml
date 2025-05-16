@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16164890678</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.241958</latitude>
-        <longitude>10.869858</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-16T13:06:05+02:00</create>
-      <lastuse>2025-05-16T17:06:05+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:22:09+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16163749053</id>
     <type>6</type>
     <speed></speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-05-16T09:31:26+02:00</create>
-      <lastuse>2025-05-16T15:16:01+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:16:01+02:00</lastconfirm>
+      <lastuse>2025-05-16T14:53:14+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:23:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-05-16T11:25:33+02:00</create>
-      <lastuse>2025-05-16T15:25:33+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:13:33+02:00</lastconfirm>
+      <lastuse>2025-05-16T15:26:58+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:26:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -117,7 +93,31 @@
     <date>
       <create>2025-05-16T12:02:36+02:00</create>
       <lastuse>2025-05-16T16:02:36+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:23:01+02:00</lastconfirm>
+      <lastconfirm>2025-05-16T13:23:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16164916635</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Nagahama-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.366126</latitude>
+        <longitude>10.914434</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-16T13:11:10+02:00</create>
+      <lastuse>2025-05-16T16:11:10+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:27:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-05-16T09:39:42+02:00</create>
-      <lastuse>2025-05-16T15:21:16+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:21:17+02:00</lastconfirm>
+      <lastuse>2025-05-16T15:27:43+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:27:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-05-16T11:51:04+02:00</create>
-      <lastuse>2025-05-16T15:21:40+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:21:41+02:00</lastconfirm>
+      <lastuse>2025-05-16T15:23:33+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:23:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-05-16T07:11:04+02:00</create>
-      <lastuse>2025-05-16T14:52:35+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:22:35+02:00</lastconfirm>
+      <lastuse>2025-05-16T14:42:25+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:27:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,32 +236,8 @@
     </location>
     <date>
       <create>2025-05-16T10:44:12+02:00</create>
-      <lastuse>2025-05-16T15:22:01+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:22:01+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16164350005</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86647</zip>
-      <city>Buttenwiesen</city>
-      <state>DE-BY</state>
-      <street>DLG 21</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.601561</latitude>
-        <longitude>10.710955</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-16T11:28:30+02:00</create>
-      <lastuse>2025-05-16T13:24:52+02:00</lastuse>
-      <lastconfirm>2025-05-16T12:24:53+02:00</lastconfirm>
+      <lastuse>2025-05-16T15:26:47+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:26:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +260,8 @@
     </location>
     <date>
       <create>2025-05-16T09:06:01+02:00</create>
-      <lastuse>2025-05-16T19:54:25+02:00</lastuse>
-      <lastconfirm>2025-05-16T12:54:26+02:00</lastconfirm>
+      <lastuse>2025-05-16T21:27:19+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:27:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +284,8 @@
     </location>
     <date>
       <create>2025-05-12T15:02:12+02:00</create>
-      <lastuse>2025-05-16T21:22:27+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:22:28+02:00</lastconfirm>
+      <lastuse>2025-05-16T21:23:33+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:23:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +620,8 @@
     </location>
     <date>
       <create>2025-05-07T10:41:01+02:00</create>
-      <lastuse>2025-05-18T13:19:38+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:19:39+02:00</lastconfirm>
+      <lastuse>2025-05-18T13:22:58+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:22:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +836,8 @@
     </location>
     <date>
       <create>2025-05-13T12:26:43+02:00</create>
-      <lastuse>2025-05-18T03:32:57+02:00</lastuse>
-      <lastconfirm>2025-05-13T12:26:43+02:00</lastconfirm>
+      <lastuse>2025-05-18T13:24:34+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:24:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1052,8 @@
     </location>
     <date>
       <create>2025-05-05T12:41:54+02:00</create>
-      <lastuse>2025-05-18T13:16:50+02:00</lastuse>
-      <lastconfirm>2025-05-16T13:16:50+02:00</lastconfirm>
+      <lastuse>2025-05-18T13:21:09+02:00</lastuse>
+      <lastconfirm>2025-05-16T13:21:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
