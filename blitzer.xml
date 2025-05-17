@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16163084998</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.401606</latitude>
-        <longitude>10.983926</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-16T07:11:04+02:00</create>
-      <lastuse>2025-05-18T03:11:22+02:00</lastuse>
-      <lastconfirm>2025-05-18T01:41:23+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16164623778</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-05-16T09:06:01+02:00</create>
-      <lastuse>2025-05-18T06:04:25+02:00</lastuse>
-      <lastconfirm>2025-05-18T00:04:26+02:00</lastconfirm>
+      <lastuse>2025-05-18T09:47:49+02:00</lastuse>
+      <lastconfirm>2025-05-18T01:47:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +356,8 @@
     </location>
     <date>
       <create>2025-05-07T10:41:01+02:00</create>
-      <lastuse>2025-05-20T01:24:14+02:00</lastuse>
-      <lastconfirm>2025-05-18T01:24:15+02:00</lastconfirm>
+      <lastuse>2025-05-19T17:24:14+02:00</lastuse>
+      <lastconfirm>2025-05-07T10:41:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
