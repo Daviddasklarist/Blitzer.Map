@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16170644020</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.357594</latitude>
-        <longitude>10.850967</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-17T09:52:24+02:00</create>
-      <lastuse>2025-05-17T18:27:34+02:00</lastuse>
-      <lastconfirm>2025-05-17T16:27:36+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16172049583</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-05-17T14:45:53+02:00</create>
-      <lastuse>2025-05-17T18:03:52+02:00</lastuse>
-      <lastconfirm>2025-05-17T16:03:54+02:00</lastconfirm>
+      <lastuse>2025-05-17T18:32:09+02:00</lastuse>
+      <lastconfirm>2025-05-17T16:32:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,15 +44,15 @@
     </location>
     <date>
       <create>2025-05-16T07:11:04+02:00</create>
-      <lastuse>2025-05-17T17:57:53+02:00</lastuse>
-      <lastconfirm>2025-05-17T16:27:54+02:00</lastconfirm>
+      <lastuse>2025-05-17T17:46:59+02:00</lastuse>
+      <lastconfirm>2025-05-17T16:32:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16172080406</id>
     <type>6</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-05-17T14:52:13+02:00</create>
-      <lastuse>2025-05-17T17:57:38+02:00</lastuse>
-      <lastconfirm>2025-05-17T16:27:39+02:00</lastconfirm>
+      <lastuse>2025-05-17T18:02:38+02:00</lastuse>
+      <lastconfirm>2025-05-17T16:32:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-05-16T09:06:01+02:00</create>
-      <lastuse>2025-05-18T00:24:33+02:00</lastuse>
-      <lastconfirm>2025-05-17T16:24:35+02:00</lastconfirm>
+      <lastuse>2025-05-18T00:28:32+02:00</lastuse>
+      <lastconfirm>2025-05-17T16:28:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-05-12T15:02:12+02:00</create>
-      <lastuse>2025-05-18T00:27:49+02:00</lastuse>
-      <lastconfirm>2025-05-17T16:27:49+02:00</lastconfirm>
+      <lastuse>2025-05-18T00:32:35+02:00</lastuse>
+      <lastconfirm>2025-05-17T16:32:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -190,6 +166,30 @@
       <create>2025-05-17T15:53:50+02:00</create>
       <lastuse>2025-05-17T16:55:44+02:00</lastuse>
       <lastconfirm>2025-05-17T16:25:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16172516306</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414864</latitude>
+        <longitude>10.871908</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-17T16:21:27+02:00</create>
+      <lastuse>2025-05-17T17:03:35+02:00</lastuse>
+      <lastconfirm>2025-05-17T16:33:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +500,8 @@
     </location>
     <date>
       <create>2025-05-07T10:41:01+02:00</create>
-      <lastuse>2025-05-19T16:19:54+02:00</lastuse>
-      <lastconfirm>2025-05-17T16:19:55+02:00</lastconfirm>
+      <lastuse>2025-05-19T08:19:54+02:00</lastuse>
+      <lastconfirm>2025-05-07T10:41:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +572,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-05-19T15:32:18+02:00</lastuse>
-      <lastconfirm>2025-05-17T15:32:20+02:00</lastconfirm>
+      <lastuse>2025-05-19T16:28:20+02:00</lastuse>
+      <lastconfirm>2025-05-17T16:28:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,32 +884,8 @@
     </location>
     <date>
       <create>2025-05-17T04:11:03+02:00</create>
-      <lastuse>2025-05-18T00:21:49+02:00</lastuse>
-      <lastconfirm>2025-05-17T16:21:49+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16167562686</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.443366</latitude>
-        <longitude>10.872580</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-16T21:26:12+02:00</create>
-      <lastuse>2025-05-19T00:13:14+02:00</lastuse>
-      <lastconfirm>2025-05-16T21:26:12+02:00</lastconfirm>
+      <lastuse>2025-05-18T00:28:12+02:00</lastuse>
+      <lastconfirm>2025-05-17T16:28:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
