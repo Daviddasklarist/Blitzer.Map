@@ -25,34 +25,10 @@
     </date>
   </event>
   <event>
-    <id>16182504306</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Von-Cobres-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.343274</latitude>
-        <longitude>10.869650</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-19T06:33:52+02:00</create>
-      <lastuse>2025-05-19T11:40:40+02:00</lastuse>
-      <lastconfirm>2025-05-19T10:10:40+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16183744189</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86356</zip>
       <city>Neusäß</city>
@@ -70,30 +46,6 @@
       <create>2025-05-19T10:40:13+02:00</create>
       <lastuse>2025-05-19T13:40:13+02:00</lastuse>
       <lastconfirm>2025-05-19T10:59:29+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16182354165</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Lechhauser Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374519</latitude>
-        <longitude>10.912266</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-19T05:56:43+02:00</create>
-      <lastuse>2025-05-19T12:21:52+02:00</lastuse>
-      <lastconfirm>2025-05-19T10:51:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -118,30 +70,6 @@
       <create>2025-05-19T08:29:52+02:00</create>
       <lastuse>2025-05-19T12:54:21+02:00</lastuse>
       <lastconfirm>2025-05-19T10:54:23+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16182921028</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.418237</latitude>
-        <longitude>10.824938</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-19T08:01:58+02:00</create>
-      <lastuse>2025-05-19T12:36:39+02:00</lastuse>
-      <lastconfirm>2025-05-19T11:06:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +116,8 @@
     </location>
     <date>
       <create>2025-05-12T15:02:12+02:00</create>
-      <lastuse>2025-05-19T19:07:54+02:00</lastuse>
-      <lastconfirm>2025-05-19T11:07:56+02:00</lastconfirm>
+      <lastuse>2025-05-19T19:08:54+02:00</lastuse>
+      <lastconfirm>2025-05-19T11:08:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +164,8 @@
     </location>
     <date>
       <create>2025-05-19T10:25:18+02:00</create>
-      <lastuse>2025-05-19T11:36:14+02:00</lastuse>
-      <lastconfirm>2025-05-19T11:06:15+02:00</lastconfirm>
+      <lastuse>2025-05-19T11:42:28+02:00</lastuse>
+      <lastconfirm>2025-05-19T11:12:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +188,32 @@
     </location>
     <date>
       <create>2025-05-19T10:32:57+02:00</create>
-      <lastuse>2025-05-19T12:02:21+02:00</lastuse>
+      <lastuse>2025-05-19T11:42:21+02:00</lastuse>
       <lastconfirm>2025-05-19T11:02:22+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16183825861</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352755</latitude>
+        <longitude>10.856470</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-19T10:57:59+02:00</create>
+      <lastuse>2025-05-19T12:11:28+02:00</lastuse>
+      <lastconfirm>2025-05-19T11:11:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -574,6 +526,30 @@
       <create>2025-02-05T14:47:28+01:00</create>
       <lastuse>2025-05-21T10:28:37+02:00</lastuse>
       <lastconfirm>2025-05-19T10:28:37+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16100003634</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.340333</latitude>
+        <longitude>10.889641</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-07T10:41:01+02:00</create>
+      <lastuse>2025-05-21T11:07:15+02:00</lastuse>
+      <lastconfirm>2025-05-19T11:07:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
