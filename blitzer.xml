@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-05-12T15:02:12+02:00</create>
-      <lastuse>2025-05-19T14:02:38+02:00</lastuse>
-      <lastconfirm>2025-05-19T06:02:38+02:00</lastconfirm>
+      <lastuse>2025-05-19T14:12:47+02:00</lastuse>
+      <lastconfirm>2025-05-19T06:12:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-05-07T06:39:25+02:00</create>
-      <lastuse>2025-05-20T18:21:54+02:00</lastuse>
-      <lastconfirm>2025-05-18T18:21:54+02:00</lastconfirm>
+      <lastuse>2025-05-21T06:07:22+02:00</lastuse>
+      <lastconfirm>2025-05-19T06:07:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -364,7 +364,7 @@
     <id>16100003634</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -380,8 +380,8 @@
     </location>
     <date>
       <create>2025-05-07T10:41:01+02:00</create>
-      <lastuse>2025-05-21T06:04:06+02:00</lastuse>
-      <lastconfirm>2025-05-19T06:04:07+02:00</lastconfirm>
+      <lastuse>2025-05-20T22:04:06+02:00</lastuse>
+      <lastconfirm>2025-05-07T10:41:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -769,30 +769,6 @@
     </date>
   </event>
   <event>
-    <id>16182043684</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.401615</latitude>
-        <longitude>10.984820</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-19T04:35:52+02:00</create>
-      <lastuse>2025-05-19T07:55:50+02:00</lastuse>
-      <lastconfirm>2025-05-19T04:35:52+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16169282191</id>
     <type>26</type>
     <speed></speed>
@@ -812,8 +788,32 @@
     </location>
     <date>
       <create>2025-05-17T04:11:03+02:00</create>
-      <lastuse>2025-05-21T06:03:13+02:00</lastuse>
-      <lastconfirm>2025-05-19T06:03:13+02:00</lastconfirm>
+      <lastuse>2025-05-21T06:09:52+02:00</lastuse>
+      <lastconfirm>2025-05-19T06:09:53+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16167562686</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.443366</latitude>
+        <longitude>10.872580</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-16T21:26:12+02:00</create>
+      <lastuse>2025-05-21T06:09:27+02:00</lastuse>
+      <lastconfirm>2025-05-19T06:09:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
