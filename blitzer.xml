@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16189241689</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Rumplerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337341</latitude>
-        <longitude>10.902915</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-20T06:12:00+02:00</create>
-      <lastuse>2025-05-20T11:15:00+02:00</lastuse>
-      <lastconfirm>2025-05-20T09:45:00+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16189291146</id>
     <type>1</type>
     <speed>30</speed>
@@ -124,7 +100,7 @@
     <id>16189619459</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86551</zip>
       <city>Aichach</city>
@@ -140,15 +116,15 @@
     </location>
     <date>
       <create>2025-05-20T07:36:54+02:00</create>
-      <lastuse>2025-05-20T10:34:23+02:00</lastuse>
-      <lastconfirm>2025-05-20T09:34:24+02:00</lastconfirm>
+      <lastuse>2025-05-20T12:15:02+02:00</lastuse>
+      <lastconfirm>2025-05-20T10:15:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16164623778</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-05-16T09:06:01+02:00</create>
-      <lastuse>2025-05-20T16:53:31+02:00</lastuse>
-      <lastconfirm>2025-05-20T09:53:32+02:00</lastconfirm>
+      <lastuse>2025-05-20T18:18:40+02:00</lastuse>
+      <lastconfirm>2025-05-20T10:18:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +284,8 @@
     </location>
     <date>
       <create>2025-04-02T15:43:42+02:00</create>
-      <lastuse>2025-05-22T09:33:53+02:00</lastuse>
-      <lastconfirm>2025-05-20T09:33:53+02:00</lastconfirm>
+      <lastuse>2025-05-22T10:10:29+02:00</lastuse>
+      <lastconfirm>2025-05-20T10:10:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-05-21T23:35:50+02:00</lastuse>
-      <lastconfirm>2025-05-19T23:35:50+02:00</lastconfirm>
+      <lastuse>2025-05-22T10:12:16+02:00</lastuse>
+      <lastconfirm>2025-05-20T10:12:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +836,8 @@
     </location>
     <date>
       <create>2025-05-20T06:48:42+02:00</create>
-      <lastuse>2025-05-22T09:59:01+02:00</lastuse>
-      <lastconfirm>2025-05-20T09:59:02+02:00</lastconfirm>
+      <lastuse>2025-05-22T10:13:47+02:00</lastuse>
+      <lastconfirm>2025-05-20T10:13:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +860,8 @@
     </location>
     <date>
       <create>2025-05-16T21:26:12+02:00</create>
-      <lastuse>2025-05-22T10:02:44+02:00</lastuse>
-      <lastconfirm>2025-05-20T10:02:44+02:00</lastconfirm>
+      <lastuse>2025-05-22T02:12:26+02:00</lastuse>
+      <lastconfirm>2025-05-16T21:26:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -958,6 +934,30 @@
       <create>2025-04-28T09:22:28+02:00</create>
       <lastuse>2025-05-22T08:28:47+02:00</lastuse>
       <lastconfirm>2025-05-20T08:28:47+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16189782381</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86568</zip>
+      <city>Hollenbach</city>
+      <state>DE-HH</state>
+      <street>Maria-Eich-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.489994</latitude>
+        <longitude>11.092260</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-20T08:09:22+02:00</create>
+      <lastuse>2025-05-20T18:12:50+02:00</lastuse>
+      <lastconfirm>2025-05-20T10:12:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
