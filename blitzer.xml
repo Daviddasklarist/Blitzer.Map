@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16196727968</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Holzbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.371000</latitude>
-        <longitude>10.879095</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-21T08:23:38+02:00</create>
-      <lastuse>2025-05-21T12:25:57+02:00</lastuse>
-      <lastconfirm>2025-05-21T11:55:58+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16196564575</id>
     <type>1</type>
     <speed>30</speed>
@@ -76,7 +52,7 @@
     <id>16197857274</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86167</zip>
       <city>Augsburg</city>
@@ -93,7 +69,31 @@
     <date>
       <create>2025-05-21T11:54:53+02:00</create>
       <lastuse>2025-05-21T14:54:53+02:00</lastuse>
-      <lastconfirm>2025-05-21T12:04:02+02:00</lastconfirm>
+      <lastconfirm>2025-05-21T12:15:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16197793891</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86444</zip>
+      <city>Affing</city>
+      <state>DE-BY</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.462653</latitude>
+        <longitude>10.983402</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-21T11:44:07+02:00</create>
+      <lastuse>2025-05-21T14:15:08+02:00</lastuse>
+      <lastconfirm>2025-05-21T12:15:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-05-12T15:02:12+02:00</create>
-      <lastuse>2025-05-21T20:10:56+02:00</lastuse>
-      <lastconfirm>2025-05-21T12:10:57+02:00</lastconfirm>
+      <lastuse>2025-05-21T20:13:45+02:00</lastuse>
+      <lastconfirm>2025-05-21T12:13:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +836,8 @@
     </location>
     <date>
       <create>2025-05-20T06:48:42+02:00</create>
-      <lastuse>2025-05-23T12:06:06+02:00</lastuse>
-      <lastconfirm>2025-05-21T12:06:07+02:00</lastconfirm>
+      <lastuse>2025-05-23T12:12:50+02:00</lastuse>
+      <lastconfirm>2025-05-21T12:12:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +860,8 @@
     </location>
     <date>
       <create>2025-05-16T21:26:12+02:00</create>
-      <lastuse>2025-05-23T12:05:44+02:00</lastuse>
-      <lastconfirm>2025-05-21T12:05:46+02:00</lastconfirm>
+      <lastuse>2025-05-23T04:05:44+02:00</lastuse>
+      <lastconfirm>2025-05-16T21:26:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +908,8 @@
     </location>
     <date>
       <create>2025-05-21T08:21:31+02:00</create>
-      <lastuse>2025-05-23T12:04:20+02:00</lastuse>
-      <lastconfirm>2025-05-21T12:04:21+02:00</lastconfirm>
+      <lastuse>2025-05-23T12:14:35+02:00</lastuse>
+      <lastconfirm>2025-05-21T12:14:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +932,8 @@
     </location>
     <date>
       <create>2025-05-21T09:50:54+02:00</create>
-      <lastuse>2025-05-21T20:05:00+02:00</lastuse>
-      <lastconfirm>2025-05-21T12:05:00+02:00</lastconfirm>
+      <lastuse>2025-05-21T20:10:45+02:00</lastuse>
+      <lastconfirm>2025-05-21T12:10:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
