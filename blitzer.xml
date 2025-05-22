@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16203291598</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Sportplatzstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.313779</latitude>
+        <longitude>10.892733</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-22T06:54:06+02:00</create>
+      <lastuse>2025-05-22T09:20:05+02:00</lastuse>
+      <lastconfirm>2025-05-22T07:20:05+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16203119001</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-05-22T06:19:57+02:00</create>
-      <lastuse>2025-05-22T09:18:31+02:00</lastuse>
-      <lastconfirm>2025-05-22T07:18:31+02:00</lastconfirm>
+      <lastuse>2025-05-22T09:19:38+02:00</lastuse>
+      <lastconfirm>2025-05-22T07:19:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +100,7 @@
     <id>16203034783</id>
     <type>23</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -92,15 +116,15 @@
     </location>
     <date>
       <create>2025-05-22T05:53:51+02:00</create>
-      <lastuse>2025-05-22T07:33:16+02:00</lastuse>
-      <lastconfirm>2025-05-22T07:13:16+02:00</lastconfirm>
+      <lastuse>2025-05-22T07:52:43+02:00</lastuse>
+      <lastconfirm>2025-05-22T07:22:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16203346778</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-05-22T07:05:14+02:00</create>
-      <lastuse>2025-05-22T08:18:20+02:00</lastuse>
-      <lastconfirm>2025-05-22T07:18:21+02:00</lastconfirm>
+      <lastuse>2025-05-22T08:21:53+02:00</lastuse>
+      <lastconfirm>2025-05-22T07:21:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-05-20T06:48:42+02:00</create>
-      <lastuse>2025-05-24T07:14:50+02:00</lastuse>
-      <lastconfirm>2025-05-22T07:14:51+02:00</lastconfirm>
+      <lastuse>2025-05-24T07:19:40+02:00</lastuse>
+      <lastconfirm>2025-05-22T07:19:42+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-05-16T21:26:12+02:00</create>
-      <lastuse>2025-05-24T07:14:26+02:00</lastuse>
-      <lastconfirm>2025-05-22T07:14:27+02:00</lastconfirm>
+      <lastuse>2025-05-23T23:14:26+02:00</lastuse>
+      <lastconfirm>2025-05-16T21:26:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -790,30 +814,6 @@
       <create>2025-05-19T10:28:52+02:00</create>
       <lastuse>2025-05-23T22:55:11+02:00</lastuse>
       <lastconfirm>2025-05-19T10:28:52+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16199396673</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86568</zip>
-      <city>Hollenbach</city>
-      <state>DE-HH</state>
-      <street>Maria-Eich-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.489911</latitude>
-        <longitude>11.092356</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-21T16:32:11+02:00</create>
-      <lastuse>2025-05-22T07:15:07+02:00</lastuse>
-      <lastconfirm>2025-05-21T23:15:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
