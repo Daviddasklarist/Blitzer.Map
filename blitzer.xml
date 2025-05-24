@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16221356556</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Landsberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.242564</latitude>
-        <longitude>10.875377</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-24T19:40:02+02:00</create>
-      <lastuse>2025-05-24T22:46:00+02:00</lastuse>
-      <lastconfirm>2025-05-24T21:16:01+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16220798054</id>
     <type>1</type>
     <speed>30</speed>
@@ -100,7 +76,7 @@
     <id>16218727687</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-05-24T11:02:56+02:00</create>
-      <lastuse>2025-05-25T00:26:02+02:00</lastuse>
-      <lastconfirm>2025-05-24T22:41:03+02:00</lastconfirm>
+      <lastuse>2025-05-25T00:16:16+02:00</lastuse>
+      <lastconfirm>2025-05-24T22:46:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
