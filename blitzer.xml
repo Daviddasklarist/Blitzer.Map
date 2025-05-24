@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16219904684</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86163</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Zugspitzstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.361860</latitude>
+        <longitude>10.939248</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-24T14:53:29+02:00</create>
+      <lastuse>2025-05-24T21:24:05+02:00</lastuse>
+      <lastconfirm>2025-05-24T19:54:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16220798054</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-05-24T11:02:56+02:00</create>
-      <lastuse>2025-05-24T21:37:12+02:00</lastuse>
-      <lastconfirm>2025-05-24T19:52:13+02:00</lastconfirm>
+      <lastuse>2025-05-24T21:57:15+02:00</lastuse>
+      <lastconfirm>2025-05-24T19:57:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
