@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16255104100</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.341197</latitude>
+        <longitude>10.906657</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-29T16:37:36+02:00</create>
+      <lastuse>2025-05-29T18:46:26+02:00</lastuse>
+      <lastconfirm>2025-05-29T16:46:28+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16245944235</id>
     <type>7</type>
     <speed>30</speed>
@@ -68,8 +92,32 @@
     </location>
     <date>
       <create>2025-05-24T11:02:56+02:00</create>
-      <lastuse>2025-05-29T20:41:55+02:00</lastuse>
-      <lastconfirm>2025-05-29T16:41:55+02:00</lastconfirm>
+      <lastuse>2025-05-29T20:45:29+02:00</lastuse>
+      <lastconfirm>2025-05-29T16:45:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16255121962</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413381</latitude>
+        <longitude>10.899328</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-29T16:40:02+02:00</create>
+      <lastuse>2025-05-29T17:04:51+02:00</lastuse>
+      <lastconfirm>2025-05-29T16:44:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +212,8 @@
     </location>
     <date>
       <create>2025-05-12T08:43:34+02:00</create>
-      <lastuse>2025-05-31T15:53:44+02:00</lastuse>
-      <lastconfirm>2025-05-29T15:53:45+02:00</lastconfirm>
+      <lastuse>2025-05-31T07:53:44+02:00</lastuse>
+      <lastconfirm>2025-05-12T08:43:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +356,8 @@
     </location>
     <date>
       <create>2025-05-26T14:08:27+02:00</create>
-      <lastuse>2025-05-31T16:03:58+02:00</lastuse>
-      <lastconfirm>2025-05-29T16:03:58+02:00</lastconfirm>
+      <lastuse>2025-05-31T16:43:45+02:00</lastuse>
+      <lastconfirm>2025-05-29T16:43:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +668,8 @@
     </location>
     <date>
       <create>2025-05-29T12:48:13+02:00</create>
-      <lastuse>2025-05-29T22:13:40+02:00</lastuse>
-      <lastconfirm>2025-05-29T12:48:13+02:00</lastconfirm>
+      <lastuse>2025-05-30T00:42:33+02:00</lastuse>
+      <lastconfirm>2025-05-29T16:42:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,7 +692,7 @@
     </location>
     <date>
       <create>2025-05-24T15:07:51+02:00</create>
-      <lastuse>2025-05-31T08:32:43+02:00</lastuse>
+      <lastuse>2025-05-31T08:41:38+02:00</lastuse>
       <lastconfirm>2025-05-24T15:07:51+02:00</lastconfirm>
     </date>
   </event>
