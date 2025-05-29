@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16252722433</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.357077</latitude>
-        <longitude>10.851023</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-29T08:20:38+02:00</create>
-      <lastuse>2025-05-29T12:25:09+02:00</lastuse>
-      <lastconfirm>2025-05-29T11:55:09+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16245944235</id>
     <type>7</type>
     <speed>30</speed>
@@ -76,7 +52,7 @@
     <id>16222331476</id>
     <type>7</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-05-24T11:02:56+02:00</create>
-      <lastuse>2025-05-29T15:27:34+02:00</lastuse>
-      <lastconfirm>2025-05-29T11:57:34+02:00</lastconfirm>
+      <lastuse>2025-05-29T16:02:14+02:00</lastuse>
+      <lastconfirm>2025-05-29T12:02:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +284,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-05-31T09:05:52+02:00</lastuse>
-      <lastconfirm>2025-05-29T09:05:52+02:00</lastconfirm>
+      <lastuse>2025-05-31T11:58:23+02:00</lastuse>
+      <lastconfirm>2025-05-29T11:58:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +404,8 @@
     </location>
     <date>
       <create>2025-05-25T10:12:17+02:00</create>
-      <lastuse>2025-05-31T11:46:03+02:00</lastuse>
-      <lastconfirm>2025-05-29T11:46:03+02:00</lastconfirm>
+      <lastuse>2025-05-31T11:58:43+02:00</lastuse>
+      <lastconfirm>2025-05-29T11:58:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2025-05-08T11:49:12+02:00</create>
-      <lastuse>2025-05-31T11:14:32+02:00</lastuse>
-      <lastconfirm>2025-05-29T11:14:32+02:00</lastconfirm>
+      <lastuse>2025-05-31T11:57:18+02:00</lastuse>
+      <lastconfirm>2025-05-29T11:57:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +620,8 @@
     </location>
     <date>
       <create>2025-05-24T15:07:51+02:00</create>
-      <lastuse>2025-05-31T11:54:12+02:00</lastuse>
-      <lastconfirm>2025-05-29T11:54:12+02:00</lastconfirm>
+      <lastuse>2025-05-31T11:59:02+02:00</lastuse>
+      <lastconfirm>2025-05-29T11:59:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -670,6 +646,30 @@
       <create>2025-05-25T14:01:49+02:00</create>
       <lastuse>2025-05-29T13:45:44+02:00</lastuse>
       <lastconfirm>2025-05-29T05:05:03+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16245166348</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86508</zip>
+      <city>Rehling</city>
+      <state>DE-HH</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.488567</latitude>
+        <longitude>10.938537</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-05-28T07:37:41+02:00</create>
+      <lastuse>2025-05-31T11:56:24+02:00</lastuse>
+      <lastconfirm>2025-05-29T11:56:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
