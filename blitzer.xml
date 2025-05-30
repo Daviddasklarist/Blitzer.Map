@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16263805207</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Forsterstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.362748</latitude>
-        <longitude>10.904593</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-05-30T23:23:26+02:00</create>
-      <lastuse>2025-05-31T00:59:54+02:00</lastuse>
-      <lastconfirm>2025-05-30T23:59:54+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16263654108</id>
     <type>1</type>
     <speed>70</speed>
@@ -116,7 +92,7 @@
     </location>
     <date>
       <create>2025-05-24T11:02:56+02:00</create>
-      <lastuse>2025-05-31T04:53:46+02:00</lastuse>
+      <lastuse>2025-05-31T04:23:46+02:00</lastuse>
       <lastconfirm>2025-05-31T00:53:47+02:00</lastconfirm>
     </date>
   </event>
