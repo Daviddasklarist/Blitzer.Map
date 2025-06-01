@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16274213289</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>Aichacher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.363182</latitude>
-        <longitude>10.988259</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-01T12:28:47+02:00</create>
-      <lastuse>2025-06-01T16:00:46+02:00</lastuse>
-      <lastconfirm>2025-06-01T14:30:47+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16275021121</id>
     <type>1</type>
     <speed>120</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-06-01T14:54:31+02:00</create>
-      <lastuse>2025-06-01T17:33:53+02:00</lastuse>
-      <lastconfirm>2025-06-01T15:33:55+02:00</lastconfirm>
+      <lastuse>2025-06-01T17:37:34+02:00</lastuse>
+      <lastconfirm>2025-06-01T15:37:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +76,7 @@
     <id>16275034639</id>
     <type>7</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -116,56 +92,8 @@
     </location>
     <date>
       <create>2025-06-01T14:55:47+02:00</create>
-      <lastuse>2025-06-01T18:33:32+02:00</lastuse>
-      <lastconfirm>2025-06-01T15:33:33+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16275019011</id>
-    <type>7</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410246</latitude>
-        <longitude>10.918501</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-01T14:53:57+02:00</create>
-      <lastuse>2025-06-01T18:30:57+02:00</lastuse>
-      <lastconfirm>2025-06-01T15:30:58+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16274965005</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.404554</latitude>
-        <longitude>10.561902</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-01T14:44:11+02:00</create>
-      <lastuse>2025-06-01T16:01:29+02:00</lastuse>
-      <lastconfirm>2025-06-01T15:31:29+02:00</lastconfirm>
+      <lastuse>2025-06-01T19:37:25+02:00</lastuse>
+      <lastconfirm>2025-06-01T15:37:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +116,56 @@
     </location>
     <date>
       <create>2025-06-01T15:20:03+02:00</create>
-      <lastuse>2025-06-01T16:02:34+02:00</lastuse>
+      <lastuse>2025-06-01T15:52:34+02:00</lastuse>
       <lastconfirm>2025-06-01T15:32:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16274965005</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.404554</latitude>
+        <longitude>10.561902</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-01T14:44:11+02:00</create>
+      <lastuse>2025-06-01T15:51:29+02:00</lastuse>
+      <lastconfirm>2025-06-01T15:31:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16275271644</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.402580</latitude>
+        <longitude>10.964422</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-01T15:37:02+02:00</create>
+      <lastuse>2025-06-01T15:42:00+02:00</lastuse>
+      <lastconfirm>2025-06-01T15:37:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +404,8 @@
     </location>
     <date>
       <create>2025-05-26T14:08:27+02:00</create>
-      <lastuse>2025-06-03T14:59:08+02:00</lastuse>
-      <lastconfirm>2025-06-01T14:59:08+02:00</lastconfirm>
+      <lastuse>2025-06-03T15:33:52+02:00</lastuse>
+      <lastconfirm>2025-06-01T15:33:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
