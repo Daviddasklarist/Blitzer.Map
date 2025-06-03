@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16288397602</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Kleinaitingen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.224609</latitude>
+        <longitude>10.865965</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-03T12:24:49+02:00</create>
+      <lastuse>2025-06-03T14:33:03+02:00</lastuse>
+      <lastconfirm>2025-06-03T12:33:04+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16288408952</id>
     <type>1</type>
     <speed>100</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-06-03T12:25:02+02:00</create>
-      <lastuse>2025-06-03T14:32:12+02:00</lastuse>
-      <lastconfirm>2025-06-03T12:32:12+02:00</lastconfirm>
+      <lastuse>2025-06-03T14:37:34+02:00</lastuse>
+      <lastconfirm>2025-06-03T12:37:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,7 +116,7 @@
     </location>
     <date>
       <create>2025-06-03T09:58:39+02:00</create>
-      <lastuse>2025-06-03T14:26:24+02:00</lastuse>
+      <lastuse>2025-06-03T13:26:24+02:00</lastuse>
       <lastconfirm>2025-06-03T12:26:25+02:00</lastconfirm>
     </date>
   </event>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2025-06-03T11:33:24+02:00</create>
-      <lastuse>2025-06-03T14:32:04+02:00</lastuse>
+      <lastuse>2025-06-03T14:02:04+02:00</lastuse>
       <lastconfirm>2025-06-03T12:32:04+02:00</lastconfirm>
     </date>
   </event>
@@ -190,6 +214,30 @@
       <create>2025-06-02T11:42:24+02:00</create>
       <lastuse>2025-06-03T16:51:53+02:00</lastuse>
       <lastconfirm>2025-06-03T09:51:53+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16288379896</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Adelsried</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418353</latitude>
+        <longitude>10.702839</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-03T12:20:46+02:00</create>
+      <lastuse>2025-06-03T13:07:34+02:00</lastuse>
+      <lastconfirm>2025-06-03T12:37:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +740,8 @@
     </location>
     <date>
       <create>2025-04-12T19:10:49+02:00</create>
-      <lastuse>2025-06-05T11:20:59+02:00</lastuse>
-      <lastconfirm>2025-06-03T11:21:00+02:00</lastconfirm>
+      <lastuse>2025-06-05T12:33:16+02:00</lastuse>
+      <lastconfirm>2025-06-03T12:33:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -718,6 +766,54 @@
       <create>2025-06-03T07:22:37+02:00</create>
       <lastuse>2025-06-03T20:20:22+02:00</lastuse>
       <lastconfirm>2025-06-03T12:20:23+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16288399116</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.464038</latitude>
+        <longitude>10.879830</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-03T12:21:12+02:00</create>
+      <lastuse>2025-06-03T20:33:07+02:00</lastuse>
+      <lastconfirm>2025-06-03T12:33:09+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16288399119</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.470776</latitude>
+        <longitude>10.878080</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-03T12:22:28+02:00</create>
+      <lastuse>2025-06-03T20:33:46+02:00</lastuse>
+      <lastconfirm>2025-06-03T12:33:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
