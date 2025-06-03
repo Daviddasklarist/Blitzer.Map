@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16286939295</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86845</zip>
-      <city>Großaitingen</city>
-      <state>DE-BY</state>
-      <street>Reinhartshofer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.227117</latitude>
-        <longitude>10.775028</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-03T07:56:37+02:00</create>
-      <lastuse>2025-06-03T09:37:33+02:00</lastuse>
-      <lastconfirm>2025-06-03T08:37:34+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16286562572</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Hohenstaufenstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.311231</latitude>
-        <longitude>10.863541</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-03T06:36:49+02:00</create>
-      <lastuse>2025-06-03T09:34:17+02:00</lastuse>
-      <lastconfirm>2025-06-03T08:34:18+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16286565028</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +68,8 @@
     </location>
     <date>
       <create>2025-06-03T06:16:15+02:00</create>
-      <lastuse>2025-06-03T11:29:56+02:00</lastuse>
-      <lastconfirm>2025-06-03T09:29:56+02:00</lastconfirm>
+      <lastuse>2025-06-03T11:34:45+02:00</lastuse>
+      <lastconfirm>2025-06-03T09:34:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>16287429773</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.419323</latitude>
+        <longitude>10.814102</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-03T09:29:33+02:00</create>
+      <lastuse>2025-06-03T09:56:37+02:00</lastuse>
+      <lastconfirm>2025-06-03T09:36:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16137630711</id>
     <type>26</type>
     <speed></speed>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2025-05-12T15:41:15+02:00</create>
-      <lastuse>2025-06-04T23:49:52+02:00</lastuse>
-      <lastconfirm>2025-05-12T15:41:15+02:00</lastconfirm>
+      <lastuse>2025-06-05T09:34:35+02:00</lastuse>
+      <lastconfirm>2025-06-03T09:34:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2025-04-01T09:21:39+02:00</create>
-      <lastuse>2025-06-05T09:27:51+02:00</lastuse>
-      <lastconfirm>2025-06-03T09:27:51+02:00</lastconfirm>
+      <lastuse>2025-06-05T09:34:17+02:00</lastuse>
+      <lastconfirm>2025-06-03T09:34:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +764,8 @@
     </location>
     <date>
       <create>2025-06-03T08:32:38+02:00</create>
-      <lastuse>2025-06-03T17:27:48+02:00</lastuse>
-      <lastconfirm>2025-06-03T09:27:48+02:00</lastconfirm>
+      <lastuse>2025-06-03T17:33:22+02:00</lastuse>
+      <lastconfirm>2025-06-03T09:33:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
