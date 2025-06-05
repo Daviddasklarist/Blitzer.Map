@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16300777012</id>
+    <id>16300820327</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
-      <zip>86420</zip>
-      <city>Diedorf</city>
+      <zip>86830</zip>
+      <city>Schwabmünchen</city>
       <state>DE-BY</state>
-      <street>Augsburger Straße</street>
+      <street>Kaufbeurer Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.373486</latitude>
-        <longitude>10.767678</longitude>
+        <latitude>48.172596</latitude>
+        <longitude>10.755899</longitude>
       </point>
     </location>
     <date>
-      <create>2025-06-05T06:27:41+02:00</create>
-      <lastuse>2025-06-05T08:58:13+02:00</lastuse>
-      <lastconfirm>2025-06-05T06:58:14+02:00</lastconfirm>
+      <create>2025-06-05T06:37:29+02:00</create>
+      <lastuse>2025-06-05T08:56:53+02:00</lastuse>
+      <lastconfirm>2025-06-05T06:56:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -49,27 +49,51 @@
     </date>
   </event>
   <event>
-    <id>16300820327</id>
+    <id>16300839765</id>
     <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
+    <speed>30</speed>
+    <quality>2</quality>
     <address>
-      <zip>86830</zip>
-      <city>Schwabmünchen</city>
+      <zip>86152</zip>
+      <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Kaufbeurer Straße</street>
+      <street>Unterer Graben</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.172596</latitude>
-        <longitude>10.755899</longitude>
+        <latitude>48.372790</latitude>
+        <longitude>10.901296</longitude>
       </point>
     </location>
     <date>
-      <create>2025-06-05T06:37:29+02:00</create>
-      <lastuse>2025-06-05T08:56:53+02:00</lastuse>
-      <lastconfirm>2025-06-05T06:56:53+02:00</lastconfirm>
+      <create>2025-06-05T06:41:59+02:00</create>
+      <lastuse>2025-06-05T09:41:59+02:00</lastuse>
+      <lastconfirm>2025-06-05T07:02:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16300777012</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86420</zip>
+      <city>Diedorf</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.373486</latitude>
+        <longitude>10.767678</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-05T06:27:41+02:00</create>
+      <lastuse>2025-06-05T08:58:13+02:00</lastuse>
+      <lastconfirm>2025-06-05T06:58:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2025-06-06T17:55:41+02:00</lastuse>
-      <lastconfirm>2025-06-04T17:55:42+02:00</lastconfirm>
+      <lastuse>2025-06-07T06:57:30+02:00</lastuse>
+      <lastconfirm>2025-06-05T06:57:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-06-04T22:25:35+02:00</create>
-      <lastuse>2025-06-05T14:53:23+02:00</lastuse>
-      <lastconfirm>2025-06-05T06:53:23+02:00</lastconfirm>
+      <lastuse>2025-06-05T14:59:09+02:00</lastuse>
+      <lastconfirm>2025-06-05T06:59:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-04-01T09:21:39+02:00</create>
-      <lastuse>2025-06-06T16:10:41+02:00</lastuse>
-      <lastconfirm>2025-06-04T16:10:42+02:00</lastconfirm>
+      <lastuse>2025-06-07T06:59:20+02:00</lastuse>
+      <lastconfirm>2025-06-05T06:59:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
