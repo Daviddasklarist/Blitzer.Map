@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16304909709</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Eichleitnerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.343974</latitude>
+        <longitude>10.885822</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-05T18:58:31+02:00</create>
+      <lastuse>2025-06-05T21:50:46+02:00</lastuse>
+      <lastconfirm>2025-06-05T19:50:47+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16302429243</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-06-05T13:53:21+02:00</create>
-      <lastuse>2025-06-05T21:48:36+02:00</lastuse>
-      <lastconfirm>2025-06-05T19:48:37+02:00</lastconfirm>
+      <lastuse>2025-06-05T21:52:24+02:00</lastuse>
+      <lastconfirm>2025-06-05T19:52:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-01-25T18:59:32+01:00</create>
-      <lastuse>2025-06-07T19:08:18+02:00</lastuse>
-      <lastconfirm>2025-06-05T19:08:19+02:00</lastconfirm>
+      <lastuse>2025-06-07T19:45:20+02:00</lastuse>
+      <lastconfirm>2025-06-05T19:45:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
