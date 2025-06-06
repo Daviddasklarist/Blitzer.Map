@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16310830694</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Familie-Einstein-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377740</latitude>
+        <longitude>10.860271</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-06T15:06:38+02:00</create>
+      <lastuse>2025-06-06T19:11:43+02:00</lastuse>
+      <lastconfirm>2025-06-06T17:11:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16310226235</id>
     <type>1</type>
     <speed>50</speed>
@@ -49,12 +73,36 @@
     </date>
   </event>
   <event>
+    <id>16311601570</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.408233</latitude>
+        <longitude>10.580000</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-06T17:09:02+02:00</create>
+      <lastuse>2025-06-06T17:17:00+02:00</lastuse>
+      <lastconfirm>2025-06-06T17:09:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16311563709</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86167</zip>
+      <zip>86169</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
       <street>A8</street>
@@ -62,38 +110,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.408253</latitude>
-        <longitude>10.929351</longitude>
+        <latitude>48.411747</latitude>
+        <longitude>10.908269</longitude>
       </point>
     </location>
     <date>
       <create>2025-06-06T17:03:03+02:00</create>
-      <lastuse>2025-06-06T17:12:00+02:00</lastuse>
+      <lastuse>2025-06-06T17:17:00+02:00</lastuse>
       <lastconfirm>2025-06-06T17:03:03+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16311589642</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.414745</latitude>
-        <longitude>10.866142</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-06T17:07:03+02:00</create>
-      <lastuse>2025-06-06T17:12:00+02:00</lastuse>
-      <lastconfirm>2025-06-06T17:07:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
