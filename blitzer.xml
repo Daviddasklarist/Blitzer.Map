@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16318742025</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hofackerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.312445</latitude>
+        <longitude>10.898670</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-07T16:49:30+02:00</create>
+      <lastuse>2025-06-07T19:26:12+02:00</lastuse>
+      <lastconfirm>2025-06-07T17:26:13+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16306348172</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-06-07T15:31:09+02:00</create>
-      <lastuse>2025-06-07T17:49:06+02:00</lastuse>
-      <lastconfirm>2025-06-07T17:19:08+02:00</lastconfirm>
+      <lastuse>2025-06-07T17:57:26+02:00</lastuse>
+      <lastconfirm>2025-06-07T17:27:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,6 +118,54 @@
       <create>2025-06-07T15:35:25+02:00</create>
       <lastuse>2025-06-07T17:28:20+02:00</lastuse>
       <lastconfirm>2025-06-07T16:58:20+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16318868266</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.386325</latitude>
+        <longitude>11.077947</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-07T17:12:29+02:00</create>
+      <lastuse>2025-06-07T17:55:02+02:00</lastuse>
+      <lastconfirm>2025-06-07T17:25:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16318874431</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384115</latitude>
+        <longitude>11.081207</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-07T17:14:30+02:00</create>
+      <lastuse>2025-06-07T17:54:33+02:00</lastuse>
+      <lastconfirm>2025-06-07T17:24:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +404,8 @@
     </location>
     <date>
       <create>2025-06-05T20:23:19+02:00</create>
-      <lastuse>2025-06-09T17:17:58+02:00</lastuse>
-      <lastconfirm>2025-06-07T17:17:59+02:00</lastconfirm>
+      <lastuse>2025-06-09T17:24:27+02:00</lastuse>
+      <lastconfirm>2025-06-07T17:24:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +572,8 @@
     </location>
     <date>
       <create>2025-06-06T12:36:26+02:00</create>
-      <lastuse>2025-06-09T14:41:35+02:00</lastuse>
-      <lastconfirm>2025-06-07T14:41:36+02:00</lastconfirm>
+      <lastuse>2025-06-09T17:23:36+02:00</lastuse>
+      <lastconfirm>2025-06-07T17:23:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
