@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16329774630</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Riedingerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382670</latitude>
+        <longitude>10.893253</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-09T07:09:50+02:00</create>
+      <lastuse>2025-06-09T11:04:57+02:00</lastuse>
+      <lastconfirm>2025-06-09T09:04:58+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16306348172</id>
     <type>7</type>
     <speed>50</speed>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-06-08T16:26:58+02:00</create>
-      <lastuse>2025-06-09T16:23:40+02:00</lastuse>
-      <lastconfirm>2025-06-09T08:23:41+02:00</lastconfirm>
+      <lastuse>2025-06-09T17:01:36+02:00</lastuse>
+      <lastconfirm>2025-06-09T09:01:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-06-08T15:35:41+02:00</create>
-      <lastuse>2025-06-09T16:40:41+02:00</lastuse>
-      <lastconfirm>2025-06-09T08:40:41+02:00</lastconfirm>
+      <lastuse>2025-06-09T14:40:41+02:00</lastuse>
+      <lastconfirm>2025-06-08T15:35:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
