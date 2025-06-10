@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16338504931</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Rumplerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337285</latitude>
-        <longitude>10.903231</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-10T11:57:22+02:00</create>
-      <lastuse>2025-06-10T15:57:22+02:00</lastuse>
-      <lastconfirm>2025-06-10T14:17:48+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16338500981</id>
     <type>1</type>
     <speed>30</speed>
@@ -46,30 +22,6 @@
       <create>2025-06-10T11:56:06+02:00</create>
       <lastuse>2025-06-17T14:13:48+02:00</lastuse>
       <lastconfirm>2025-06-10T13:24:08+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16338417267</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberer Graben</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.367931</latitude>
-        <longitude>10.902697</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-10T11:42:29+02:00</create>
-      <lastuse>2025-06-17T14:10:59+02:00</lastuse>
-      <lastconfirm>2025-06-10T13:32:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -117,7 +69,7 @@
     <date>
       <create>2025-06-10T13:57:34+02:00</create>
       <lastuse>2025-06-10T17:57:34+02:00</lastuse>
-      <lastconfirm>2025-06-10T14:17:53+02:00</lastconfirm>
+      <lastconfirm>2025-06-10T14:22:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>16339090977</id>
+    <type>1</type>
+    <speed>110</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86637</zip>
+      <city>Wertingen</city>
+      <state>DE-BY</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.531398</latitude>
+        <longitude>10.753196</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-10T13:37:13+02:00</create>
+      <lastuse>2025-06-10T16:18:16+02:00</lastuse>
+      <lastconfirm>2025-06-10T14:18:18+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16306348172</id>
     <type>7</type>
     <speed>50</speed>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-06-05T11:46:10+02:00</create>
-      <lastuse>2025-06-10T22:13:58+02:00</lastuse>
-      <lastconfirm>2025-06-10T14:13:58+02:00</lastconfirm>
+      <lastuse>2025-06-10T22:22:25+02:00</lastuse>
+      <lastconfirm>2025-06-10T14:22:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2025-06-10T11:22:48+02:00</create>
-      <lastuse>2025-06-10T14:45:49+02:00</lastuse>
-      <lastconfirm>2025-06-10T14:15:49+02:00</lastconfirm>
+      <lastuse>2025-06-10T14:52:34+02:00</lastuse>
+      <lastconfirm>2025-06-10T14:22:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2025-06-10T13:28:57+02:00</create>
-      <lastuse>2025-06-10T14:47:30+02:00</lastuse>
-      <lastconfirm>2025-06-10T14:17:30+02:00</lastconfirm>
+      <lastuse>2025-06-10T14:52:17+02:00</lastuse>
+      <lastconfirm>2025-06-10T14:22:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2025-06-10T13:50:20+02:00</create>
-      <lastuse>2025-06-10T14:44:32+02:00</lastuse>
-      <lastconfirm>2025-06-10T14:14:33+02:00</lastconfirm>
+      <lastuse>2025-06-10T14:51:08+02:00</lastuse>
+      <lastconfirm>2025-06-10T14:21:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2025-06-10T06:39:59+02:00</create>
-      <lastuse>2025-06-10T15:12:56+02:00</lastuse>
-      <lastconfirm>2025-06-10T14:12:57+02:00</lastconfirm>
+      <lastuse>2025-06-10T15:21:40+02:00</lastuse>
+      <lastconfirm>2025-06-10T14:21:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -286,6 +262,30 @@
       <create>2025-06-10T12:04:22+02:00</create>
       <lastuse>2025-06-10T15:10:48+02:00</lastuse>
       <lastconfirm>2025-06-10T14:10:49+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16339321907</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.399998</latitude>
+        <longitude>11.010342</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-10T14:18:02+02:00</create>
+      <lastuse>2025-06-10T14:27:00+02:00</lastuse>
+      <lastconfirm>2025-06-10T14:18:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
