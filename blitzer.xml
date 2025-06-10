@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16336578820</id>
+    <type>1</type>
+    <speed>40</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337333</latitude>
+        <longitude>10.904078</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-10T05:58:14+02:00</create>
+      <lastuse>2025-06-10T08:12:05+02:00</lastuse>
+      <lastconfirm>2025-06-10T06:12:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16306348172</id>
     <type>7</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-06-05T11:46:10+02:00</create>
-      <lastuse>2025-06-10T14:06:10+02:00</lastuse>
-      <lastconfirm>2025-06-10T06:06:10+02:00</lastconfirm>
+      <lastuse>2025-06-10T14:08:58+02:00</lastuse>
+      <lastconfirm>2025-06-10T06:09:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,15 +68,15 @@
     </location>
     <date>
       <create>2025-06-10T05:29:09+02:00</create>
-      <lastuse>2025-06-10T06:34:43+02:00</lastuse>
-      <lastconfirm>2025-06-10T06:04:43+02:00</lastconfirm>
+      <lastuse>2025-06-10T06:43:18+02:00</lastuse>
+      <lastconfirm>2025-06-10T06:13:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16336536202</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-06-10T05:49:40+02:00</create>
-      <lastuse>2025-06-10T07:03:55+02:00</lastuse>
-      <lastconfirm>2025-06-10T06:03:56+02:00</lastconfirm>
+      <lastuse>2025-06-10T07:13:06+02:00</lastuse>
+      <lastconfirm>2025-06-10T06:13:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
