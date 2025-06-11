@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16344071504</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Sportplatzstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.313835</latitude>
+        <longitude>10.891649</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-11T07:16:27+02:00</create>
+      <lastuse>2025-06-11T10:56:07+02:00</lastuse>
+      <lastconfirm>2025-06-11T08:56:07+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16344306805</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -21,7 +45,7 @@
     <date>
       <create>2025-06-11T08:05:49+02:00</create>
       <lastuse>2025-06-11T12:05:49+02:00</lastuse>
-      <lastconfirm>2025-06-11T08:33:52+02:00</lastconfirm>
+      <lastconfirm>2025-06-11T08:56:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +117,31 @@
     <date>
       <create>2025-06-11T07:15:02+02:00</create>
       <lastuse>2025-06-11T11:15:02+02:00</lastuse>
-      <lastconfirm>2025-06-11T08:52:56+02:00</lastconfirm>
+      <lastconfirm>2025-06-11T08:57:57+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16344515468</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.419454</latitude>
+        <longitude>10.812713</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-11T08:47:18+02:00</create>
+      <lastuse>2025-06-11T09:27:22+02:00</lastuse>
+      <lastconfirm>2025-06-11T08:57:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -118,6 +166,30 @@
       <create>2025-06-11T07:06:16+02:00</create>
       <lastuse>2025-06-11T09:42:27+02:00</lastuse>
       <lastconfirm>2025-06-11T08:42:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16344458921</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.368596</latitude>
+        <longitude>10.854535</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-11T08:35:03+02:00</create>
+      <lastuse>2025-06-11T09:56:29+02:00</lastuse>
+      <lastconfirm>2025-06-11T08:56:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
