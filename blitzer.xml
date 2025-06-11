@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16342412562</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.380602</latitude>
+        <longitude>10.915529</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-11T00:27:49+02:00</create>
+      <lastuse>2025-06-11T11:03:34+02:00</lastuse>
+      <lastconfirm>2025-06-11T03:03:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16339841328</id>
     <type>22</type>
     <speed></speed>
@@ -908,8 +932,8 @@
     </location>
     <date>
       <create>2024-12-21T15:13:27+01:00</create>
-      <lastuse>2025-06-12T20:37:04+02:00</lastuse>
-      <lastconfirm>2025-06-10T20:37:06+02:00</lastconfirm>
+      <lastuse>2025-06-13T03:02:16+02:00</lastuse>
+      <lastconfirm>2025-06-11T03:02:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
