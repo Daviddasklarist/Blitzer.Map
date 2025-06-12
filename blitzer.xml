@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16347813447</id>
-    <type>7</type>
-    <speed>20</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Wohlfarth-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.269608</latitude>
-        <longitude>10.888010</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-11T18:39:56+02:00</create>
-      <lastuse>2025-06-12T05:30:17+02:00</lastuse>
-      <lastconfirm>2025-06-11T21:30:17+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16137630711</id>
     <type>26</type>
     <speed></speed>
@@ -166,6 +142,30 @@
       <create>2025-06-07T21:02:30+02:00</create>
       <lastuse>2025-06-13T17:56:21+02:00</lastuse>
       <lastconfirm>2025-06-11T17:56:22+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16337120627</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.326886</latitude>
+        <longitude>10.887151</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-10T07:49:20+02:00</create>
+      <lastuse>2025-06-14T05:26:34+02:00</lastuse>
+      <lastconfirm>2025-06-12T05:26:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +404,8 @@
     </location>
     <date>
       <create>2025-06-10T13:41:09+02:00</create>
-      <lastuse>2025-06-14T05:19:46+02:00</lastuse>
-      <lastconfirm>2025-06-12T05:19:47+02:00</lastconfirm>
+      <lastuse>2025-06-14T05:26:06+02:00</lastuse>
+      <lastconfirm>2025-06-12T05:26:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2025-06-11T13:47:21+02:00</create>
-      <lastuse>2025-06-14T05:19:53+02:00</lastuse>
-      <lastconfirm>2025-06-12T05:19:53+02:00</lastconfirm>
+      <lastuse>2025-06-14T05:25:00+02:00</lastuse>
+      <lastconfirm>2025-06-12T05:25:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +860,8 @@
     </location>
     <date>
       <create>2025-06-11T21:13:24+02:00</create>
-      <lastuse>2025-06-12T11:16:00+02:00</lastuse>
-      <lastconfirm>2025-06-11T21:13:24+02:00</lastconfirm>
+      <lastuse>2025-06-12T13:24:57+02:00</lastuse>
+      <lastconfirm>2025-06-12T05:24:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
