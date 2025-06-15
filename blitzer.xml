@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16371258776</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Donauwörther Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384974</latitude>
+        <longitude>10.880738</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-15T00:08:06+02:00</create>
+      <lastuse>2025-06-15T04:07:31+02:00</lastuse>
+      <lastconfirm>2025-06-15T02:07:32+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16355234413</id>
     <type>7</type>
     <speed>20</speed>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-06-12T14:41:48+02:00</create>
-      <lastuse>2025-06-17T01:10:04+02:00</lastuse>
-      <lastconfirm>2025-06-15T01:10:04+02:00</lastconfirm>
+      <lastuse>2025-06-17T02:04:07+02:00</lastuse>
+      <lastconfirm>2025-06-15T02:04:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
