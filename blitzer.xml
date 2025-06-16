@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16379989360</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Ulrich-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.327645</latitude>
-        <longitude>10.907781</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-16T07:14:15+02:00</create>
-      <lastuse>2025-06-16T13:30:05+02:00</lastuse>
-      <lastconfirm>2025-06-16T12:00:07+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16381382573</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2025-06-16T11:35:33+02:00</create>
-      <lastuse>2025-06-16T14:59:53+02:00</lastuse>
+      <lastuse>2025-06-16T15:35:33+02:00</lastuse>
       <lastconfirm>2025-06-16T12:59:53+02:00</lastconfirm>
     </date>
   </event>
@@ -73,27 +49,27 @@
     </date>
   </event>
   <event>
-    <id>16380736176</id>
+    <id>16381901253</id>
     <type>1</type>
-    <speed>120</speed>
+    <speed>80</speed>
     <quality>3</quality>
     <address>
-      <zip>86695</zip>
-      <city>Allmannshofen</city>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
-      <street>B2</street>
+      <street>Straßenname unbekannt</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.614396</latitude>
-        <longitude>10.838176</longitude>
+        <latitude>48.412468</latitude>
+        <longitude>10.872628</longitude>
       </point>
     </location>
     <date>
-      <create>2025-06-16T09:37:37+02:00</create>
-      <lastuse>2025-06-16T15:07:53+02:00</lastuse>
-      <lastconfirm>2025-06-16T13:07:55+02:00</lastconfirm>
+      <create>2025-06-16T13:06:46+02:00</create>
+      <lastuse>2025-06-16T15:12:00+02:00</lastuse>
+      <lastconfirm>2025-06-16T13:12:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-06-14T10:15:40+02:00</create>
-      <lastuse>2025-06-16T21:07:30+02:00</lastuse>
-      <lastconfirm>2025-06-16T13:07:31+02:00</lastconfirm>
+      <lastuse>2025-06-16T21:13:33+02:00</lastuse>
+      <lastconfirm>2025-06-16T13:13:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
