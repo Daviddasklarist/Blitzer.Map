@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16391220972</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86510</zip>
+      <city>Ried</city>
+      <state>DE-BY</state>
+      <street>St 2052</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.292966</latitude>
+        <longitude>11.090792</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-17T19:11:29+02:00</create>
+      <lastuse>2025-06-17T22:18:30+02:00</lastuse>
+      <lastconfirm>2025-06-17T20:18:31+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16389392846</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-06-17T13:55:14+02:00</create>
-      <lastuse>2025-06-17T21:32:51+02:00</lastuse>
+      <lastuse>2025-06-17T21:02:51+02:00</lastuse>
       <lastconfirm>2025-06-17T20:02:53+02:00</lastconfirm>
     </date>
   </event>
@@ -28,7 +52,7 @@
     <id>16391022460</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-06-17T18:35:02+02:00</create>
-      <lastuse>2025-06-17T22:08:54+02:00</lastuse>
-      <lastconfirm>2025-06-17T20:08:55+02:00</lastconfirm>
+      <lastuse>2025-06-17T22:16:03+02:00</lastuse>
+      <lastconfirm>2025-06-17T20:16:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-06-14T10:15:40+02:00</create>
-      <lastuse>2025-06-18T04:06:31+02:00</lastuse>
-      <lastconfirm>2025-06-17T20:06:32+02:00</lastconfirm>
+      <lastuse>2025-06-18T04:15:41+02:00</lastuse>
+      <lastconfirm>2025-06-17T20:15:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -268,7 +292,7 @@
     <id>16324156848</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-06-08T11:54:29+02:00</create>
-      <lastuse>2025-06-19T20:02:05+02:00</lastuse>
-      <lastconfirm>2025-06-17T20:02:05+02:00</lastconfirm>
+      <lastuse>2025-06-19T20:14:09+02:00</lastuse>
+      <lastconfirm>2025-06-17T20:14:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
