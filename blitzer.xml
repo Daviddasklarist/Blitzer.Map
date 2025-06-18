@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16398692410</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.613242</latitude>
+        <longitude>10.838249</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-18T19:05:01+02:00</create>
+      <lastuse>2025-06-18T23:05:01+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:15:16+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16395714702</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-06-14T10:15:40+02:00</create>
-      <lastuse>2025-06-19T03:13:10+02:00</lastuse>
-      <lastconfirm>2025-06-18T19:13:11+02:00</lastconfirm>
+      <lastuse>2025-06-19T03:15:46+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:15:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-06-18T18:50:14+02:00</create>
-      <lastuse>2025-06-18T20:10:55+02:00</lastuse>
-      <lastconfirm>2025-06-18T19:10:56+02:00</lastconfirm>
+      <lastuse>2025-06-18T20:18:13+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:18:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-06-18T18:36:07+02:00</create>
-      <lastuse>2025-06-18T19:31:02+02:00</lastuse>
-      <lastconfirm>2025-06-18T19:11:02+02:00</lastconfirm>
+      <lastuse>2025-06-18T19:46:21+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:16:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-06-18T18:38:53+02:00</create>
-      <lastuse>2025-06-18T19:40:31+02:00</lastuse>
-      <lastconfirm>2025-06-18T19:10:31+02:00</lastconfirm>
+      <lastuse>2025-06-18T19:46:27+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:16:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -220,7 +244,7 @@
     <id>16398011584</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -236,56 +260,8 @@
     </location>
     <date>
       <create>2025-06-18T17:14:24+02:00</create>
-      <lastuse>2025-06-18T19:49:58+02:00</lastuse>
-      <lastconfirm>2025-06-18T19:09:58+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16398535246</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373058</latitude>
-        <longitude>10.855871</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-18T18:37:04+02:00</create>
-      <lastuse>2025-06-18T19:27:20+02:00</lastuse>
-      <lastconfirm>2025-06-18T18:47:21+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16398535250</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373674</latitude>
-        <longitude>10.856004</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-18T18:37:49+02:00</create>
-      <lastuse>2025-06-18T19:31:14+02:00</lastuse>
-      <lastconfirm>2025-06-18T18:51:15+02:00</lastconfirm>
+      <lastuse>2025-06-18T19:56:55+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:16:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,7 +284,7 @@
     </location>
     <date>
       <create>2025-06-18T18:55:03+02:00</create>
-      <lastuse>2025-06-18T19:18:00+02:00</lastuse>
+      <lastuse>2025-06-18T19:22:00+02:00</lastuse>
       <lastconfirm>2025-06-18T18:55:03+02:00</lastconfirm>
     </date>
   </event>
@@ -524,8 +500,8 @@
     </location>
     <date>
       <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-06-20T18:34:52+02:00</lastuse>
-      <lastconfirm>2025-06-18T18:34:52+02:00</lastconfirm>
+      <lastuse>2025-06-20T19:14:35+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:14:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +668,8 @@
     </location>
     <date>
       <create>2025-06-10T13:41:09+02:00</create>
-      <lastuse>2025-06-20T19:01:17+02:00</lastuse>
-      <lastconfirm>2025-06-18T19:01:17+02:00</lastconfirm>
+      <lastuse>2025-06-20T19:14:38+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:14:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +836,8 @@
     </location>
     <date>
       <create>2025-06-03T14:43:24+02:00</create>
-      <lastuse>2025-06-20T18:43:35+02:00</lastuse>
-      <lastconfirm>2025-06-18T18:43:36+02:00</lastconfirm>
+      <lastuse>2025-06-20T19:10:49+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:10:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1292,8 +1268,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-06-20T18:39:19+02:00</lastuse>
-      <lastconfirm>2025-06-18T18:39:20+02:00</lastconfirm>
+      <lastuse>2025-06-20T19:10:43+02:00</lastuse>
+      <lastconfirm>2025-06-18T19:10:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
