@@ -97,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>16395624308</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.477476</latitude>
+        <longitude>10.867857</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-18T10:36:34+02:00</create>
+      <lastuse>2025-06-18T12:42:37+02:00</lastuse>
+      <lastconfirm>2025-06-18T10:42:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16393287502</id>
     <type>7</type>
     <speed>50</speed>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-06-14T10:15:40+02:00</create>
-      <lastuse>2025-06-18T18:34:58+02:00</lastuse>
-      <lastconfirm>2025-06-18T10:34:58+02:00</lastconfirm>
+      <lastuse>2025-06-18T18:42:35+02:00</lastuse>
+      <lastconfirm>2025-06-18T10:42:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-06-18T06:28:31+02:00</create>
-      <lastuse>2025-06-18T11:31:49+02:00</lastuse>
-      <lastconfirm>2025-06-18T10:31:50+02:00</lastconfirm>
+      <lastuse>2025-06-18T11:41:49+02:00</lastuse>
+      <lastconfirm>2025-06-18T10:41:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-06-08T11:54:29+02:00</create>
-      <lastuse>2025-06-20T10:28:43+02:00</lastuse>
-      <lastconfirm>2025-06-18T10:28:45+02:00</lastconfirm>
+      <lastuse>2025-06-20T10:39:14+02:00</lastuse>
+      <lastconfirm>2025-06-18T10:39:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -625,30 +649,6 @@
     </date>
   </event>
   <event>
-    <id>16394645026</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Stadionstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.359454</latitude>
-        <longitude>10.879717</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-18T07:34:55+02:00</create>
-      <lastuse>2025-06-18T13:07:33+02:00</lastuse>
-      <lastconfirm>2025-06-18T07:34:55+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16250369062</id>
     <type>26</type>
     <speed></speed>
@@ -716,8 +716,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-06-20T10:08:26+02:00</lastuse>
-      <lastconfirm>2025-06-18T10:08:26+02:00</lastconfirm>
+      <lastuse>2025-06-20T10:35:28+02:00</lastuse>
+      <lastconfirm>2025-06-18T10:35:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1084,7 +1084,7 @@
     <id>16395414325</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -1100,8 +1100,8 @@
     </location>
     <date>
       <create>2025-06-18T09:55:07+02:00</create>
-      <lastuse>2025-06-18T18:22:08+02:00</lastuse>
-      <lastconfirm>2025-06-18T10:22:08+02:00</lastconfirm>
+      <lastuse>2025-06-18T18:36:29+02:00</lastuse>
+      <lastconfirm>2025-06-18T10:36:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1244,8 +1244,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-06-20T08:12:23+02:00</lastuse>
-      <lastconfirm>2025-06-18T08:12:23+02:00</lastconfirm>
+      <lastuse>2025-06-20T10:39:19+02:00</lastuse>
+      <lastconfirm>2025-06-18T10:39:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1268,8 +1268,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-06-20T09:22:05+02:00</lastuse>
-      <lastconfirm>2025-06-18T09:22:06+02:00</lastconfirm>
+      <lastuse>2025-06-20T10:35:58+02:00</lastuse>
+      <lastconfirm>2025-06-18T10:35:58+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
