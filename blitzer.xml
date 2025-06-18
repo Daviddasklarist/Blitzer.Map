@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16399807275</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86163</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355157</latitude>
+        <longitude>10.939691</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-18T22:28:35+02:00</create>
+      <lastuse>2025-06-19T01:14:30+02:00</lastuse>
+      <lastconfirm>2025-06-18T23:14:31+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16395714702</id>
     <type>7</type>
     <speed>50</speed>
@@ -76,7 +100,7 @@
     <id>16367573797</id>
     <type>7</type>
     <speed>80</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -92,7 +116,7 @@
     </location>
     <date>
       <create>2025-06-14T10:15:40+02:00</create>
-      <lastuse>2025-06-19T07:12:34+02:00</lastuse>
+      <lastuse>2025-06-19T06:12:34+02:00</lastuse>
       <lastconfirm>2025-06-18T23:12:34+02:00</lastconfirm>
     </date>
   </event>
@@ -268,7 +292,7 @@
     <id>16324156848</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-06-08T11:54:29+02:00</create>
-      <lastuse>2025-06-20T22:57:25+02:00</lastuse>
-      <lastconfirm>2025-06-18T22:57:25+02:00</lastconfirm>
+      <lastuse>2025-06-20T23:10:27+02:00</lastuse>
+      <lastconfirm>2025-06-18T23:10:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-06-16T19:32:02+02:00</create>
-      <lastuse>2025-06-20T21:21:51+02:00</lastuse>
-      <lastconfirm>2025-06-18T21:21:53+02:00</lastconfirm>
+      <lastuse>2025-06-20T13:21:51+02:00</lastuse>
+      <lastconfirm>2025-06-16T19:32:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
