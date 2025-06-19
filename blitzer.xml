@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16404313231</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.242118</latitude>
-        <longitude>10.869685</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-19T13:44:00+02:00</create>
-      <lastuse>2025-06-19T17:44:00+02:00</lastuse>
-      <lastconfirm>2025-06-19T14:07:05+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16402690592</id>
     <type>6</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2025-06-19T08:45:48+02:00</create>
-      <lastuse>2025-06-19T15:37:31+02:00</lastuse>
+      <lastuse>2025-06-19T15:07:31+02:00</lastuse>
       <lastconfirm>2025-06-19T14:07:32+02:00</lastconfirm>
     </date>
   </event>
@@ -68,15 +44,15 @@
     </location>
     <date>
       <create>2025-06-19T09:45:20+02:00</create>
-      <lastuse>2025-06-19T16:08:01+02:00</lastuse>
-      <lastconfirm>2025-06-19T14:08:02+02:00</lastconfirm>
+      <lastuse>2025-06-19T16:10:44+02:00</lastuse>
+      <lastconfirm>2025-06-19T14:10:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16403289360</id>
     <type>1</type>
     <speed>0</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -92,15 +68,15 @@
     </location>
     <date>
       <create>2025-06-19T10:42:54+02:00</create>
-      <lastuse>2025-06-19T15:52:35+02:00</lastuse>
-      <lastconfirm>2025-06-19T14:07:36+02:00</lastconfirm>
+      <lastuse>2025-06-19T16:13:51+02:00</lastuse>
+      <lastconfirm>2025-06-19T14:13:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16402975715</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-06-19T09:43:24+02:00</create>
-      <lastuse>2025-06-19T16:08:20+02:00</lastuse>
-      <lastconfirm>2025-06-19T14:08:21+02:00</lastconfirm>
+      <lastuse>2025-06-19T16:13:28+02:00</lastuse>
+      <lastconfirm>2025-06-19T14:13:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,32 +164,8 @@
     </location>
     <date>
       <create>2025-06-14T10:15:40+02:00</create>
-      <lastuse>2025-06-19T22:08:51+02:00</lastuse>
-      <lastconfirm>2025-06-19T14:08:53+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16403688100</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.366236</latitude>
-        <longitude>10.854146</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-19T11:53:07+02:00</create>
-      <lastuse>2025-06-19T15:01:34+02:00</lastuse>
-      <lastconfirm>2025-06-19T14:01:35+02:00</lastconfirm>
+      <lastuse>2025-06-19T22:13:16+02:00</lastuse>
+      <lastconfirm>2025-06-19T14:13:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +332,8 @@
     </location>
     <date>
       <create>2025-06-08T11:54:29+02:00</create>
-      <lastuse>2025-06-21T14:04:38+02:00</lastuse>
-      <lastconfirm>2025-06-19T14:04:39+02:00</lastconfirm>
+      <lastuse>2025-06-21T14:06:48+02:00</lastuse>
+      <lastconfirm>2025-06-19T14:06:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
