@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16402690592</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.247519</latitude>
+        <longitude>10.869348</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-19T08:45:48+02:00</create>
+      <lastuse>2025-06-19T12:45:48+02:00</lastuse>
+      <lastconfirm>2025-06-19T08:54:22+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16395714702</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2025-06-18T19:51:09+02:00</create>
-      <lastuse>2025-06-19T16:49:25+02:00</lastuse>
+      <lastuse>2025-06-19T15:49:25+02:00</lastuse>
       <lastconfirm>2025-06-19T08:49:26+02:00</lastconfirm>
     </date>
   </event>
@@ -92,15 +116,15 @@
     </location>
     <date>
       <create>2025-06-14T10:15:40+02:00</create>
-      <lastuse>2025-06-19T16:53:27+02:00</lastuse>
-      <lastconfirm>2025-06-19T08:53:27+02:00</lastconfirm>
+      <lastuse>2025-06-19T16:56:00+02:00</lastuse>
+      <lastconfirm>2025-06-19T08:56:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16402680329</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-06-19T08:44:06+02:00</create>
-      <lastuse>2025-06-19T09:23:13+02:00</lastuse>
-      <lastconfirm>2025-06-19T08:53:14+02:00</lastconfirm>
+      <lastuse>2025-06-19T09:27:38+02:00</lastuse>
+      <lastconfirm>2025-06-19T08:57:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-06-08T17:17:00+02:00</create>
-      <lastuse>2025-06-20T21:29:34+02:00</lastuse>
-      <lastconfirm>2025-06-18T21:29:34+02:00</lastconfirm>
+      <lastuse>2025-06-21T08:53:18+02:00</lastuse>
+      <lastconfirm>2025-06-19T08:53:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
