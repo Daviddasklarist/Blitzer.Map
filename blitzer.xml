@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16424589721</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.415664</latitude>
+        <longitude>10.854716</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-22T08:14:44+02:00</create>
+      <lastuse>2025-06-22T11:11:28+02:00</lastuse>
+      <lastconfirm>2025-06-22T09:11:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16424609731</id>
     <type>1</type>
     <speed>110</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-06-22T08:18:49+02:00</create>
-      <lastuse>2025-06-22T11:08:47+02:00</lastuse>
-      <lastconfirm>2025-06-22T09:08:47+02:00</lastconfirm>
+      <lastuse>2025-06-22T11:10:06+02:00</lastuse>
+      <lastconfirm>2025-06-22T09:10:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -70,30 +94,6 @@
       <create>2025-06-18T02:24:49+02:00</create>
       <lastuse>2025-06-22T17:02:21+02:00</lastuse>
       <lastconfirm>2025-06-22T09:02:22+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16424094355</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.405391</latitude>
-        <longitude>10.564719</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-22T06:22:17+02:00</create>
-      <lastuse>2025-06-22T09:36:29+02:00</lastuse>
-      <lastconfirm>2025-06-22T09:06:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,15 +332,15 @@
     </location>
     <date>
       <create>2025-06-08T11:54:29+02:00</create>
-      <lastuse>2025-06-24T08:53:54+02:00</lastuse>
-      <lastconfirm>2025-06-22T08:53:54+02:00</lastconfirm>
+      <lastuse>2025-06-24T00:53:54+02:00</lastuse>
+      <lastconfirm>2025-06-08T11:54:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16417955871</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2025-06-21T10:09:25+02:00</create>
-      <lastuse>2025-06-24T09:03:01+02:00</lastuse>
-      <lastconfirm>2025-06-22T09:03:02+02:00</lastconfirm>
+      <lastuse>2025-06-24T01:03:01+02:00</lastuse>
+      <lastconfirm>2025-06-21T10:09:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
