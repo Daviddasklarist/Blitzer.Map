@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16436334057</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Riedingerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384157</latitude>
+        <longitude>10.889031</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-23T20:52:36+02:00</create>
+      <lastuse>2025-06-23T23:27:05+02:00</lastuse>
+      <lastconfirm>2025-06-23T21:27:05+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16395714702</id>
     <type>7</type>
     <speed>50</speed>
@@ -836,15 +860,15 @@
     </location>
     <date>
       <create>2025-06-23T20:58:09+02:00</create>
-      <lastuse>2025-06-25T21:14:31+02:00</lastuse>
-      <lastconfirm>2025-06-23T21:14:31+02:00</lastconfirm>
+      <lastuse>2025-06-25T21:21:52+02:00</lastuse>
+      <lastconfirm>2025-06-23T21:21:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16436392985</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -860,8 +884,8 @@
     </location>
     <date>
       <create>2025-06-23T21:04:40+02:00</create>
-      <lastuse>2025-06-24T05:15:17+02:00</lastuse>
-      <lastconfirm>2025-06-23T21:15:18+02:00</lastconfirm>
+      <lastuse>2025-06-24T05:22:50+02:00</lastuse>
+      <lastconfirm>2025-06-23T21:22:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1028,8 @@
     </location>
     <date>
       <create>2025-06-23T15:51:25+02:00</create>
-      <lastuse>2025-06-25T17:25:53+02:00</lastuse>
-      <lastconfirm>2025-06-23T17:25:53+02:00</lastconfirm>
+      <lastuse>2025-06-25T21:20:14+02:00</lastuse>
+      <lastconfirm>2025-06-23T21:20:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
