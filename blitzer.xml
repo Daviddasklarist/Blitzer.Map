@@ -62,13 +62,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.377915</latitude>
-        <longitude>11.090609</longitude>
+        <latitude>48.377054</latitude>
+        <longitude>11.091944</longitude>
       </point>
     </location>
     <date>
       <create>2025-06-24T04:52:01+02:00</create>
-      <lastuse>2025-06-24T06:13:00+02:00</lastuse>
+      <lastuse>2025-06-24T06:18:00+02:00</lastuse>
       <lastconfirm>2025-06-24T04:52:01+02:00</lastconfirm>
     </date>
   </event>
@@ -110,13 +110,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.410938</latitude>
-        <longitude>10.913120</longitude>
+        <latitude>48.411204</latitude>
+        <longitude>10.911499</longitude>
       </point>
     </location>
     <date>
       <create>2025-06-24T05:17:02+02:00</create>
-      <lastuse>2025-06-24T06:13:00+02:00</lastuse>
+      <lastuse>2025-06-24T06:18:00+02:00</lastuse>
       <lastconfirm>2025-06-24T05:17:02+02:00</lastconfirm>
     </date>
   </event>
@@ -793,10 +793,34 @@
     </date>
   </event>
   <event>
-    <id>16436184734</id>
+    <id>16436392985</id>
     <type>22</type>
     <speed></speed>
     <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.475487</latitude>
+        <longitude>10.873558</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-23T21:04:40+02:00</create>
+      <lastuse>2025-06-24T14:05:12+02:00</lastuse>
+      <lastconfirm>2025-06-24T06:05:13+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16436184734</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -812,8 +836,8 @@
     </location>
     <date>
       <create>2025-06-23T20:21:34+02:00</create>
-      <lastuse>2025-06-24T07:24:06+02:00</lastuse>
-      <lastconfirm>2025-06-23T20:21:34+02:00</lastconfirm>
+      <lastuse>2025-06-24T14:07:16+02:00</lastuse>
+      <lastconfirm>2025-06-24T06:07:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
