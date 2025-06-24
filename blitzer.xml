@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16443446725</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Nordendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.598893</latitude>
+        <longitude>10.839623</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-24T19:44:07+02:00</create>
+      <lastuse>2025-06-24T23:44:07+02:00</lastuse>
+      <lastconfirm>2025-06-24T19:54:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16442995055</id>
     <type>25</type>
     <speed></speed>
@@ -25,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>16443446346</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417642</latitude>
+        <longitude>10.751492</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-24T19:44:39+02:00</create>
+      <lastuse>2025-06-24T20:24:57+02:00</lastuse>
+      <lastconfirm>2025-06-24T19:54:58+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16443419953</id>
     <type>20</type>
     <speed></speed>
@@ -38,13 +86,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.409058</latitude>
-        <longitude>10.924463</longitude>
+        <latitude>48.408790</latitude>
+        <longitude>10.926084</longitude>
       </point>
     </location>
     <date>
       <create>2025-06-24T19:39:01+02:00</create>
-      <lastuse>2025-06-24T19:57:00+02:00</lastuse>
+      <lastuse>2025-06-24T20:03:00+02:00</lastuse>
       <lastconfirm>2025-06-24T19:39:01+02:00</lastconfirm>
     </date>
   </event>
@@ -764,8 +812,8 @@
     </location>
     <date>
       <create>2025-06-23T21:04:40+02:00</create>
-      <lastuse>2025-06-25T03:47:15+02:00</lastuse>
-      <lastconfirm>2025-06-24T19:47:16+02:00</lastconfirm>
+      <lastuse>2025-06-25T03:54:04+02:00</lastuse>
+      <lastconfirm>2025-06-24T19:54:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
