@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16451592038</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.401741</latitude>
-        <longitude>10.968860</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-25T22:07:01+02:00</create>
-      <lastuse>2025-06-25T22:13:00+02:00</lastuse>
-      <lastconfirm>2025-06-25T22:07:01+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16451592040</id>
     <type>20</type>
     <speed></speed>
@@ -38,14 +14,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.395996</latitude>
-        <longitude>11.037782</longitude>
+        <latitude>48.395925</latitude>
+        <longitude>11.036239</longitude>
       </point>
     </location>
     <date>
       <create>2025-06-25T22:07:01+02:00</create>
-      <lastuse>2025-06-25T22:13:00+02:00</lastuse>
+      <lastuse>2025-06-25T22:19:00+02:00</lastuse>
       <lastconfirm>2025-06-25T22:07:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16451616224</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403877</latitude>
+        <longitude>10.955685</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-25T22:11:02+02:00</create>
+      <lastuse>2025-06-25T22:19:00+02:00</lastuse>
+      <lastconfirm>2025-06-25T22:11:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-01-25T18:59:32+01:00</create>
-      <lastuse>2025-06-27T12:56:15+02:00</lastuse>
-      <lastconfirm>2025-01-25T18:59:32+01:00</lastconfirm>
+      <lastuse>2025-06-27T22:06:09+02:00</lastuse>
+      <lastconfirm>2025-06-25T22:06:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -790,6 +790,30 @@
       <create>2025-04-12T19:10:49+02:00</create>
       <lastuse>2025-06-27T19:44:43+02:00</lastuse>
       <lastconfirm>2025-06-25T19:44:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16451530785</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.474532</latitude>
+        <longitude>10.875001</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-25T21:51:32+02:00</create>
+      <lastuse>2025-06-27T22:09:50+02:00</lastuse>
+      <lastconfirm>2025-06-25T22:09:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
