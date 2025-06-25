@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16448232537</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Rumplerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337317</latitude>
-        <longitude>10.903596</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-25T12:11:48+02:00</create>
-      <lastuse>2025-06-25T17:07:56+02:00</lastuse>
-      <lastconfirm>2025-06-25T15:07:56+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16447444228</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86500</zip>
-      <city>Kutzenhausen</city>
-      <state>DE-BY</state>
-      <street>St.-Jakobus-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.367001</latitude>
-        <longitude>10.698139</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-25T09:54:57+02:00</create>
-      <lastuse>2025-06-25T15:18:46+02:00</lastuse>
-      <lastconfirm>2025-06-25T13:48:47+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16448299822</id>
     <type>1</type>
     <speed>30</speed>
@@ -165,14 +117,14 @@
     <date>
       <create>2025-06-25T14:33:37+02:00</create>
       <lastuse>2025-06-25T17:33:37+02:00</lastuse>
-      <lastconfirm>2025-06-25T15:07:02+02:00</lastconfirm>
+      <lastconfirm>2025-06-25T15:08:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16449053781</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86695</zip>
       <city>Allmannshofen</city>
@@ -188,8 +140,8 @@
     </location>
     <date>
       <create>2025-06-25T14:33:22+02:00</create>
-      <lastuse>2025-06-25T16:33:22+02:00</lastuse>
-      <lastconfirm>2025-06-25T14:56:00+02:00</lastconfirm>
+      <lastuse>2025-06-25T17:12:33+02:00</lastuse>
+      <lastconfirm>2025-06-25T15:12:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -217,31 +169,7 @@
     </date>
   </event>
   <event>
-    <id>16448962347</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.272600</latitude>
-        <longitude>10.868548</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-25T14:17:47+02:00</create>
-      <lastuse>2025-06-25T15:09:25+02:00</lastuse>
-      <lastconfirm>2025-06-25T14:59:27+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16448330373</id>
+    <id>16449288247</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -259,9 +187,9 @@
       </point>
     </location>
     <date>
-      <create>2025-06-25T12:29:02+02:00</create>
-      <lastuse>2025-06-25T15:12:00+02:00</lastuse>
-      <lastconfirm>2025-06-25T12:29:02+02:00</lastconfirm>
+      <create>2025-06-25T15:12:02+02:00</create>
+      <lastuse>2025-06-25T15:17:00+02:00</lastuse>
+      <lastconfirm>2025-06-25T15:12:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +212,8 @@
     </location>
     <date>
       <create>2025-04-02T15:43:42+02:00</create>
-      <lastuse>2025-06-27T13:30:43+02:00</lastuse>
-      <lastconfirm>2025-06-25T13:30:44+02:00</lastconfirm>
+      <lastuse>2025-06-27T15:09:05+02:00</lastuse>
+      <lastconfirm>2025-06-25T15:09:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
