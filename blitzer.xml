@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16461677878</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86504</zip>
+      <city>Merching</city>
+      <state>DE-BY</state>
+      <street>St 2380</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.266755</latitude>
+        <longitude>10.934131</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-27T07:58:04+02:00</create>
+      <lastuse>2025-06-27T12:35:00+02:00</lastuse>
+      <lastconfirm>2025-06-27T10:35:00+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16461297344</id>
     <type>1</type>
     <speed>30</speed>
@@ -140,32 +164,8 @@
     </location>
     <date>
       <create>2025-06-27T09:21:28+02:00</create>
-      <lastuse>2025-06-27T11:00:17+02:00</lastuse>
-      <lastconfirm>2025-06-27T10:30:18+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16462337099</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.382603</latitude>
-        <longitude>11.083230</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-27T10:05:56+02:00</create>
-      <lastuse>2025-06-27T10:34:52+02:00</lastuse>
-      <lastconfirm>2025-06-27T10:24:52+02:00</lastconfirm>
+      <lastuse>2025-06-27T11:06:46+02:00</lastuse>
+      <lastconfirm>2025-06-27T10:36:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,32 @@
     </location>
     <date>
       <create>2025-06-27T10:18:35+02:00</create>
-      <lastuse>2025-06-27T11:02:09+02:00</lastuse>
-      <lastconfirm>2025-06-27T10:32:09+02:00</lastconfirm>
+      <lastuse>2025-06-27T11:05:46+02:00</lastuse>
+      <lastconfirm>2025-06-27T10:35:47+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16462443312</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.375262</latitude>
+        <longitude>11.094612</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-27T10:25:37+02:00</create>
+      <lastuse>2025-06-27T11:35:41+02:00</lastuse>
+      <lastconfirm>2025-06-27T10:35:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,56 +236,8 @@
     </location>
     <date>
       <create>2025-06-27T06:28:54+02:00</create>
-      <lastuse>2025-06-27T11:22:45+02:00</lastuse>
+      <lastuse>2025-06-27T11:02:45+02:00</lastuse>
       <lastconfirm>2025-06-27T10:22:46+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16461322045</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.502669</latitude>
-        <longitude>10.857164</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-27T06:42:25+02:00</create>
-      <lastuse>2025-06-27T10:42:24+02:00</lastuse>
-      <lastconfirm>2025-06-27T09:42:25+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16462470545</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.371954</latitude>
-        <longitude>11.099990</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-27T10:30:02+02:00</create>
-      <lastuse>2025-06-27T10:37:00+02:00</lastuse>
-      <lastconfirm>2025-06-27T10:30:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +884,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-06-29T10:25:07+02:00</lastuse>
-      <lastconfirm>2025-06-27T10:25:08+02:00</lastconfirm>
+      <lastuse>2025-06-29T10:32:10+02:00</lastuse>
+      <lastconfirm>2025-06-27T10:32:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1052,8 @@
     </location>
     <date>
       <create>2025-06-27T05:01:15+02:00</create>
-      <lastuse>2025-06-27T18:27:51+02:00</lastuse>
-      <lastconfirm>2025-06-27T10:27:51+02:00</lastconfirm>
+      <lastuse>2025-06-27T18:31:13+02:00</lastuse>
+      <lastconfirm>2025-06-27T10:31:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1124,8 +1100,8 @@
     </location>
     <date>
       <create>2025-05-28T07:37:41+02:00</create>
-      <lastuse>2025-06-27T16:40:50+02:00</lastuse>
-      <lastconfirm>2025-05-28T07:37:41+02:00</lastconfirm>
+      <lastuse>2025-06-29T10:31:21+02:00</lastuse>
+      <lastconfirm>2025-06-27T10:31:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
