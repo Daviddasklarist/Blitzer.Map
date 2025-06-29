@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16480729787</id>
+    <type>7</type>
+    <speed>40</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Aichacher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365464</latitude>
+        <longitude>10.990965</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-29T23:26:48+02:00</create>
+      <lastuse>2025-06-30T08:54:50+02:00</lastuse>
+      <lastconfirm>2025-06-30T00:54:51+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
