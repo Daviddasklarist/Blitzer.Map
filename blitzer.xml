@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16479876235</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Meringer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.264998</latitude>
+        <longitude>10.905318</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-29T20:33:25+02:00</create>
+      <lastuse>2025-06-29T22:38:11+02:00</lastuse>
+      <lastconfirm>2025-06-29T20:38:12+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16479546343</id>
     <type>29</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-06-29T19:29:11+02:00</create>
-      <lastuse>2025-06-29T20:58:49+02:00</lastuse>
-      <lastconfirm>2025-06-29T20:28:49+02:00</lastconfirm>
+      <lastuse>2025-06-29T21:08:49+02:00</lastuse>
+      <lastconfirm>2025-06-29T20:38:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-01T20:21:16+02:00</lastuse>
-      <lastconfirm>2025-06-29T20:21:17+02:00</lastconfirm>
+      <lastuse>2025-07-01T20:34:49+02:00</lastuse>
+      <lastconfirm>2025-06-29T20:34:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-01T20:25:43+02:00</lastuse>
-      <lastconfirm>2025-06-29T20:25:43+02:00</lastconfirm>
+      <lastuse>2025-07-01T20:34:34+02:00</lastuse>
+      <lastconfirm>2025-06-29T20:34:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2025-06-27T13:29:13+02:00</create>
-      <lastuse>2025-07-01T20:21:52+02:00</lastuse>
-      <lastconfirm>2025-06-29T20:21:52+02:00</lastconfirm>
+      <lastuse>2025-07-01T20:30:32+02:00</lastuse>
+      <lastconfirm>2025-06-29T20:30:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +836,8 @@
     </location>
     <date>
       <create>2025-06-28T13:10:14+02:00</create>
-      <lastuse>2025-07-01T20:22:33+02:00</lastuse>
-      <lastconfirm>2025-06-29T20:22:34+02:00</lastconfirm>
+      <lastuse>2025-07-01T20:31:09+02:00</lastuse>
+      <lastconfirm>2025-06-29T20:31:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
