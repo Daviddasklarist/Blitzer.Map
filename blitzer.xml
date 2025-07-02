@@ -20,15 +20,15 @@
     </location>
     <date>
       <create>2025-07-02T05:56:46+02:00</create>
-      <lastuse>2025-07-02T09:26:20+02:00</lastuse>
-      <lastconfirm>2025-07-02T07:26:20+02:00</lastconfirm>
+      <lastuse>2025-07-02T09:34:05+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:34:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16497373440</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86161</zip>
       <city>Augsburg</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-02T06:08:46+02:00</create>
-      <lastuse>2025-07-02T08:57:12+02:00</lastuse>
-      <lastconfirm>2025-07-02T07:27:13+02:00</lastconfirm>
+      <lastuse>2025-07-02T09:37:46+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:37:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,15 +68,15 @@
     </location>
     <date>
       <create>2025-07-02T06:36:23+02:00</create>
-      <lastuse>2025-07-02T09:24:14+02:00</lastuse>
-      <lastconfirm>2025-07-02T07:24:15+02:00</lastconfirm>
+      <lastuse>2025-07-02T09:35:37+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:35:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16497506730</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -92,8 +92,56 @@
     </location>
     <date>
       <create>2025-07-02T06:36:48+02:00</create>
-      <lastuse>2025-07-02T09:18:46+02:00</lastuse>
-      <lastconfirm>2025-07-02T07:18:47+02:00</lastconfirm>
+      <lastuse>2025-07-02T09:35:06+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:35:07+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16497581309</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417145</latitude>
+        <longitude>10.837446</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-02T06:52:07+02:00</create>
+      <lastuse>2025-07-02T10:52:07+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:37:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16497786794</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416658</latitude>
+        <longitude>10.842740</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-02T07:33:27+02:00</create>
+      <lastuse>2025-07-02T09:37:44+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:37:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +932,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-04T07:28:49+02:00</lastuse>
-      <lastconfirm>2025-07-02T07:28:50+02:00</lastconfirm>
+      <lastuse>2025-07-04T07:34:23+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:34:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1076,8 @@
     </location>
     <date>
       <create>2025-07-01T13:36:58+02:00</create>
-      <lastuse>2025-07-04T07:27:23+02:00</lastuse>
-      <lastconfirm>2025-07-02T07:27:24+02:00</lastconfirm>
+      <lastuse>2025-07-04T07:30:50+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:30:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1054,6 +1102,30 @@
       <create>2025-07-01T17:59:11+02:00</create>
       <lastuse>2025-07-02T15:29:29+02:00</lastuse>
       <lastconfirm>2025-07-02T07:29:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16497639120</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-HH</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.432966</latitude>
+        <longitude>11.107146</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-02T07:02:55+02:00</create>
+      <lastuse>2025-07-02T15:34:38+02:00</lastuse>
+      <lastconfirm>2025-07-02T07:34:38+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
