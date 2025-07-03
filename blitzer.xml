@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16504772609</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Landsberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.255308</latitude>
-        <longitude>10.881665</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-03T05:26:53+02:00</create>
-      <lastuse>2025-07-03T07:32:06+02:00</lastuse>
-      <lastconfirm>2025-07-03T06:32:06+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16504843628</id>
     <type>1</type>
     <speed>50</speed>
@@ -49,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>16504843630</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Krumbacher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.269468</latitude>
+        <longitude>10.822748</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-03T05:43:51+02:00</create>
+      <lastuse>2025-07-03T09:29:23+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:29:23+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16504947774</id>
     <type>1</type>
     <speed>50</speed>
@@ -62,8 +62,8 @@
     </address>
     <location>
       <point>
-        <latitude>48.337521</latitude>
-        <longitude>10.901138</longitude>
+        <latitude>48.337293</latitude>
+        <longitude>10.903026</longitude>
       </point>
     </location>
     <date>
@@ -97,31 +97,79 @@
     </date>
   </event>
   <event>
-    <id>16505062490</id>
+    <id>16505342491</id>
     <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
+    <speed>120</speed>
+    <quality>2</quality>
     <address>
-      <zip>86163</zip>
+      <zip>86169</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Oberländer Straße</street>
+      <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.354857</latitude>
-        <longitude>10.938566</longitude>
+        <latitude>48.410836</latitude>
+        <longitude>10.914595</longitude>
       </point>
     </location>
     <date>
-      <create>2025-07-03T06:30:28+02:00</create>
-      <lastuse>2025-07-03T08:30:28+02:00</lastuse>
-      <lastconfirm>2025-07-03T06:55:04+02:00</lastconfirm>
+      <create>2025-07-03T07:28:12+02:00</create>
+      <lastuse>2025-07-03T09:32:46+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:32:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>16505306642</id>
+    <id>16505343158</id>
+    <type>7</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409891</latitude>
+        <longitude>10.920471</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-03T07:29:00+02:00</create>
+      <lastuse>2025-07-03T11:32:35+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:32:35+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16505345256</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417202</latitude>
+        <longitude>10.744991</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-03T07:29:02+02:00</create>
+      <lastuse>2025-07-03T07:37:00+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:29:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16505364690</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -134,14 +182,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.416908</latitude>
-        <longitude>10.721617</longitude>
+        <latitude>48.417262</latitude>
+        <longitude>10.716618</longitude>
       </point>
     </location>
     <date>
-      <create>2025-07-03T07:20:02+02:00</create>
-      <lastuse>2025-07-03T07:32:00+02:00</lastuse>
-      <lastconfirm>2025-07-03T07:20:02+02:00</lastconfirm>
+      <create>2025-07-03T07:31:03+02:00</create>
+      <lastuse>2025-07-03T07:37:00+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:31:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +476,8 @@
     </location>
     <date>
       <create>2025-05-19T07:01:41+02:00</create>
-      <lastuse>2025-07-05T05:56:47+02:00</lastuse>
-      <lastconfirm>2025-07-03T05:56:48+02:00</lastconfirm>
+      <lastuse>2025-07-05T07:27:37+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:27:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +932,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-05T07:20:16+02:00</lastuse>
-      <lastconfirm>2025-07-03T07:20:16+02:00</lastconfirm>
+      <lastuse>2025-07-05T07:26:17+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:26:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +1004,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-05T07:12:11+02:00</lastuse>
-      <lastconfirm>2025-07-03T07:12:11+02:00</lastconfirm>
+      <lastuse>2025-07-05T07:29:53+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:29:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1132,7 +1180,7 @@
     <id>16505171799</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86485</zip>
       <city>Biberbach</city>
@@ -1148,8 +1196,32 @@
     </location>
     <date>
       <create>2025-07-03T06:53:23+02:00</create>
-      <lastuse>2025-07-03T15:24:51+02:00</lastuse>
-      <lastconfirm>2025-07-03T07:24:51+02:00</lastconfirm>
+      <lastuse>2025-07-03T13:24:51+02:00</lastuse>
+      <lastconfirm>2025-07-03T06:53:23+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16505221052</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.623660</latitude>
+        <longitude>10.836220</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-03T07:03:10+02:00</create>
+      <lastuse>2025-07-03T15:26:01+02:00</lastuse>
+      <lastconfirm>2025-07-03T07:26:02+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
