@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16504772609</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Landsberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.255308</latitude>
+        <longitude>10.881665</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-03T05:26:53+02:00</create>
+      <lastuse>2025-07-03T07:52:52+02:00</lastuse>
+      <lastconfirm>2025-07-03T05:52:53+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16504843628</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Straßberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.271333</latitude>
+        <longitude>10.791564</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-03T05:43:26+02:00</create>
+      <lastuse>2025-07-03T07:51:10+02:00</lastuse>
+      <lastconfirm>2025-07-03T05:51:10+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -409,6 +457,30 @@
     </date>
   </event>
   <event>
+    <id>16461834257</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Friedberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355711</latitude>
+        <longitude>10.917141</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-06-06T18:16:11+02:00</create>
+      <lastuse>2025-07-05T05:45:33+02:00</lastuse>
+      <lastconfirm>2025-07-03T05:45:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16317641392</id>
     <type>26</type>
     <speed></speed>
@@ -788,8 +860,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-05T05:41:09+02:00</lastuse>
-      <lastconfirm>2025-07-03T05:41:10+02:00</lastconfirm>
+      <lastuse>2025-07-05T05:47:24+02:00</lastuse>
+      <lastconfirm>2025-07-03T05:47:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +884,8 @@
     </location>
     <date>
       <create>2025-06-26T08:40:26+02:00</create>
-      <lastuse>2025-07-05T05:37:55+02:00</lastuse>
-      <lastconfirm>2025-07-03T05:37:56+02:00</lastconfirm>
+      <lastuse>2025-07-05T05:47:05+02:00</lastuse>
+      <lastconfirm>2025-07-03T05:47:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +908,8 @@
     </location>
     <date>
       <create>2025-06-27T13:29:13+02:00</create>
-      <lastuse>2025-07-05T05:38:35+02:00</lastuse>
-      <lastconfirm>2025-07-03T05:38:36+02:00</lastconfirm>
+      <lastuse>2025-07-04T21:38:35+02:00</lastuse>
+      <lastconfirm>2025-06-27T13:29:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +1004,8 @@
     </location>
     <date>
       <create>2025-07-01T13:36:58+02:00</create>
-      <lastuse>2025-07-05T05:35:56+02:00</lastuse>
-      <lastconfirm>2025-07-03T05:35:57+02:00</lastconfirm>
+      <lastuse>2025-07-04T21:35:56+02:00</lastuse>
+      <lastconfirm>2025-07-01T13:36:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +1028,8 @@
     </location>
     <date>
       <create>2025-07-02T08:47:44+02:00</create>
-      <lastuse>2025-07-03T13:41:38+02:00</lastuse>
-      <lastconfirm>2025-07-03T05:41:39+02:00</lastconfirm>
+      <lastuse>2025-07-03T13:48:27+02:00</lastuse>
+      <lastconfirm>2025-07-03T05:48:27+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
