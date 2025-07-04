@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16515589325</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418195</latitude>
+        <longitude>10.825087</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-04T15:37:41+02:00</create>
+      <lastuse>2025-07-04T19:53:23+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:23:24+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16516060414</id>
     <type>1</type>
     <speed>50</speed>
@@ -25,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>16516549038</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401587</latitude>
+        <longitude>10.984852</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-04T18:15:56+02:00</create>
+      <lastuse>2025-07-04T19:51:28+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:21:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16505750795</id>
     <type>7</type>
     <speed>120</speed>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2025-07-03T07:28:12+02:00</create>
-      <lastuse>2025-07-04T22:17:36+02:00</lastuse>
-      <lastconfirm>2025-07-04T18:17:37+02:00</lastconfirm>
+      <lastuse>2025-07-04T22:23:28+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:23:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -124,7 +172,7 @@
     <id>16516444448</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Friedberg</city>
@@ -140,8 +188,8 @@
     </location>
     <date>
       <create>2025-07-04T17:58:13+02:00</create>
-      <lastuse>2025-07-04T18:46:07+02:00</lastuse>
-      <lastconfirm>2025-07-04T18:16:07+02:00</lastconfirm>
+      <lastuse>2025-07-04T18:53:33+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:23:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,15 +236,15 @@
     </location>
     <date>
       <create>2025-07-04T13:07:24+02:00</create>
-      <lastuse>2025-07-04T19:17:55+02:00</lastuse>
-      <lastconfirm>2025-07-04T18:17:56+02:00</lastconfirm>
+      <lastuse>2025-07-04T19:23:56+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:23:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16514810420</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86485</zip>
       <city>Biberbach</city>
@@ -212,8 +260,8 @@
     </location>
     <date>
       <create>2025-07-04T13:27:49+02:00</create>
-      <lastuse>2025-07-04T18:30:52+02:00</lastuse>
-      <lastconfirm>2025-07-04T18:10:53+02:00</lastconfirm>
+      <lastuse>2025-07-04T19:19:31+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:19:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1052,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-06T18:12:48+02:00</lastuse>
-      <lastconfirm>2025-07-04T18:12:48+02:00</lastconfirm>
+      <lastuse>2025-07-06T18:18:56+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:18:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1076,8 @@
     </location>
     <date>
       <create>2025-06-26T08:40:26+02:00</create>
-      <lastuse>2025-07-06T17:40:45+02:00</lastuse>
-      <lastconfirm>2025-07-04T17:40:46+02:00</lastconfirm>
+      <lastuse>2025-07-06T18:18:29+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:18:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1148,8 +1196,8 @@
     </location>
     <date>
       <create>2025-07-02T08:47:44+02:00</create>
-      <lastuse>2025-07-06T18:09:41+02:00</lastuse>
-      <lastconfirm>2025-07-04T18:09:41+02:00</lastconfirm>
+      <lastuse>2025-07-06T18:19:15+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:19:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1244,8 +1292,8 @@
     </location>
     <date>
       <create>2025-07-04T12:05:15+02:00</create>
-      <lastuse>2025-07-04T23:58:44+02:00</lastuse>
-      <lastconfirm>2025-07-04T12:05:15+02:00</lastconfirm>
+      <lastuse>2025-07-05T02:15:37+02:00</lastuse>
+      <lastconfirm>2025-07-04T18:15:37+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
