@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16524622738</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.364620</latitude>
+        <longitude>10.853941</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-05T21:19:14+02:00</create>
+      <lastuse>2025-07-06T01:39:25+02:00</lastuse>
+      <lastconfirm>2025-07-05T23:39:26+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16505750795</id>
     <type>7</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-03T07:28:12+02:00</create>
-      <lastuse>2025-07-06T03:04:10+02:00</lastuse>
-      <lastconfirm>2025-07-05T23:34:10+02:00</lastconfirm>
+      <lastuse>2025-07-06T03:42:42+02:00</lastuse>
+      <lastconfirm>2025-07-05T23:42:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,7 +92,7 @@
     </location>
     <date>
       <create>2025-07-05T21:32:01+02:00</create>
-      <lastuse>2025-07-05T23:42:00+02:00</lastuse>
+      <lastuse>2025-07-05T23:48:00+02:00</lastuse>
       <lastconfirm>2025-07-05T21:32:01+02:00</lastconfirm>
     </date>
   </event>
@@ -836,8 +860,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-07T23:29:55+02:00</lastuse>
-      <lastconfirm>2025-07-05T23:29:56+02:00</lastconfirm>
+      <lastuse>2025-07-07T23:38:12+02:00</lastuse>
+      <lastconfirm>2025-07-05T23:38:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
