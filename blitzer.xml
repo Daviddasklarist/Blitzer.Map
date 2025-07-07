@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16534186254</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86163</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Münchner Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.344407</latitude>
-        <longitude>10.941011</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-07T06:50:51+02:00</create>
-      <lastuse>2025-07-07T11:17:48+02:00</lastuse>
-      <lastconfirm>2025-07-07T09:47:49+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16534188939</id>
     <type>1</type>
     <speed>50</speed>
@@ -46,30 +22,6 @@
       <create>2025-07-07T06:51:57+02:00</create>
       <lastuse>2025-07-07T12:40:44+02:00</lastuse>
       <lastconfirm>2025-07-07T10:40:46+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16534237742</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>Thyssenstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.430005</latitude>
-        <longitude>10.869097</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-07T07:01:34+02:00</create>
-      <lastuse>2025-07-07T11:18:55+02:00</lastuse>
-      <lastconfirm>2025-07-07T09:18:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +92,8 @@
     </location>
     <date>
       <create>2025-07-07T08:30:48+02:00</create>
-      <lastuse>2025-07-07T13:14:58+02:00</lastuse>
-      <lastconfirm>2025-07-07T11:14:58+02:00</lastconfirm>
+      <lastuse>2025-07-07T13:23:32+02:00</lastuse>
+      <lastconfirm>2025-07-07T11:23:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +116,8 @@
     </location>
     <date>
       <create>2025-07-07T08:47:39+02:00</create>
-      <lastuse>2025-07-07T13:15:03+02:00</lastuse>
-      <lastconfirm>2025-07-07T11:15:03+02:00</lastconfirm>
+      <lastuse>2025-07-07T13:21:04+02:00</lastuse>
+      <lastconfirm>2025-07-07T11:21:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -189,7 +141,7 @@
     <date>
       <create>2025-07-07T10:02:40+02:00</create>
       <lastuse>2025-07-07T14:02:40+02:00</lastuse>
-      <lastconfirm>2025-07-07T11:16:28+02:00</lastconfirm>
+      <lastconfirm>2025-07-07T11:22:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -213,7 +165,7 @@
     <date>
       <create>2025-07-07T10:17:15+02:00</create>
       <lastuse>2025-07-07T14:17:15+02:00</lastuse>
-      <lastconfirm>2025-07-07T11:16:08+02:00</lastconfirm>
+      <lastconfirm>2025-07-07T11:23:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -237,7 +189,31 @@
     <date>
       <create>2025-07-07T10:22:05+02:00</create>
       <lastuse>2025-07-07T14:22:05+02:00</lastuse>
-      <lastconfirm>2025-07-07T11:16:58+02:00</lastconfirm>
+      <lastconfirm>2025-07-07T11:21:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16535374809</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kurt-Schumacher-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.380145</latitude>
+        <longitude>10.928418</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-07T10:31:02+02:00</create>
+      <lastuse>2025-07-07T13:20:12+02:00</lastuse>
+      <lastconfirm>2025-07-07T11:20:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2025-07-03T07:28:12+02:00</create>
-      <lastuse>2025-07-07T15:17:37+02:00</lastuse>
-      <lastconfirm>2025-07-07T11:17:39+02:00</lastconfirm>
+      <lastuse>2025-07-07T15:19:19+02:00</lastuse>
+      <lastconfirm>2025-07-07T11:19:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -286,6 +262,30 @@
       <create>2025-07-04T06:07:57+02:00</create>
       <lastuse>2025-07-07T19:08:28+02:00</lastuse>
       <lastconfirm>2025-07-07T11:08:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16535546111</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401744</latitude>
+        <longitude>10.981577</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-07T11:01:30+02:00</create>
+      <lastuse>2025-07-07T11:52:20+02:00</lastuse>
+      <lastconfirm>2025-07-07T11:22:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1028,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-09T11:12:08+02:00</lastuse>
-      <lastconfirm>2025-07-07T11:12:08+02:00</lastconfirm>
+      <lastuse>2025-07-09T11:16:29+02:00</lastuse>
+      <lastconfirm>2025-07-07T11:16:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1100,8 @@
     </location>
     <date>
       <create>2025-06-27T16:22:44+02:00</create>
-      <lastuse>2025-07-09T09:40:26+02:00</lastuse>
-      <lastconfirm>2025-07-07T09:40:26+02:00</lastconfirm>
+      <lastuse>2025-07-09T11:17:25+02:00</lastuse>
+      <lastconfirm>2025-07-07T11:17:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1220,8 +1220,8 @@
     </location>
     <date>
       <create>2025-07-07T07:25:00+02:00</create>
-      <lastuse>2025-07-09T10:13:36+02:00</lastuse>
-      <lastconfirm>2025-07-07T10:13:37+02:00</lastconfirm>
+      <lastuse>2025-07-09T11:16:31+02:00</lastuse>
+      <lastconfirm>2025-07-07T11:16:32+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
