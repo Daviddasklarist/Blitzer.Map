@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16552916497</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>Raiffeisenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.551409</latitude>
+        <longitude>10.846158</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-09T18:10:16+02:00</create>
+      <lastuse>2025-07-09T21:23:47+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:23:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16553067118</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86485</zip>
+      <city>Biberbach</city>
+      <state>DE-BY</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.523853</latitude>
+        <longitude>10.804562</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-09T18:36:03+02:00</create>
+      <lastuse>2025-07-09T22:36:03+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:26:05+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16505750795</id>
     <type>7</type>
     <speed>120</speed>
@@ -20,8 +68,8 @@
     </location>
     <date>
       <create>2025-07-03T07:28:12+02:00</create>
-      <lastuse>2025-07-09T23:22:45+02:00</lastuse>
-      <lastconfirm>2025-07-09T19:22:45+02:00</lastconfirm>
+      <lastuse>2025-07-09T22:24:00+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:24:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2025-07-09T18:30:57+02:00</create>
-      <lastuse>2025-07-09T19:48:18+02:00</lastuse>
-      <lastconfirm>2025-07-09T19:18:18+02:00</lastconfirm>
+      <lastuse>2025-07-09T19:56:15+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:26:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +116,8 @@
     </location>
     <date>
       <create>2025-07-09T19:05:53+02:00</create>
-      <lastuse>2025-07-09T19:52:43+02:00</lastuse>
-      <lastconfirm>2025-07-09T19:22:43+02:00</lastconfirm>
+      <lastuse>2025-07-09T19:57:05+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:27:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +188,8 @@
     </location>
     <date>
       <create>2025-01-25T18:59:32+01:00</create>
-      <lastuse>2025-07-11T16:54:00+02:00</lastuse>
-      <lastconfirm>2025-07-09T16:54:00+02:00</lastconfirm>
+      <lastuse>2025-07-11T19:23:37+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:23:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +692,8 @@
     </location>
     <date>
       <create>2025-06-21T20:22:14+02:00</create>
-      <lastuse>2025-07-11T15:59:04+02:00</lastuse>
-      <lastconfirm>2025-07-09T15:59:06+02:00</lastconfirm>
+      <lastuse>2025-07-11T19:24:56+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:24:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +812,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-11T19:15:17+02:00</lastuse>
-      <lastconfirm>2025-07-09T19:15:18+02:00</lastconfirm>
+      <lastuse>2025-07-11T19:20:21+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:20:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +836,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-11T19:18:43+02:00</lastuse>
-      <lastconfirm>2025-07-09T19:18:43+02:00</lastconfirm>
+      <lastuse>2025-07-11T19:21:55+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:21:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +884,8 @@
     </location>
     <date>
       <create>2025-06-27T13:29:13+02:00</create>
-      <lastuse>2025-07-11T19:18:20+02:00</lastuse>
-      <lastconfirm>2025-07-09T19:18:20+02:00</lastconfirm>
+      <lastuse>2025-07-11T19:20:21+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:20:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1100,8 @@
     </location>
     <date>
       <create>2025-07-09T16:05:50+02:00</create>
-      <lastuse>2025-07-10T03:15:36+02:00</lastuse>
-      <lastconfirm>2025-07-09T19:15:37+02:00</lastconfirm>
+      <lastuse>2025-07-10T03:21:38+02:00</lastuse>
+      <lastconfirm>2025-07-09T19:21:39+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
