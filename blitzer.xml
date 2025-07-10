@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16556400427</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Berliner Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377571</latitude>
+        <longitude>10.908913</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-10T06:05:29+02:00</create>
+      <lastuse>2025-07-10T08:13:04+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:13:04+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16505750795</id>
     <type>7</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-03T07:28:12+02:00</create>
-      <lastuse>2025-07-10T10:07:18+02:00</lastuse>
-      <lastconfirm>2025-07-10T06:07:19+02:00</lastconfirm>
+      <lastuse>2025-07-10T09:11:54+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:11:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,32 @@
     </location>
     <date>
       <create>2025-07-10T06:02:08+02:00</create>
-      <lastuse>2025-07-10T06:38:09+02:00</lastuse>
-      <lastconfirm>2025-07-10T06:08:12+02:00</lastconfirm>
+      <lastuse>2025-07-10T06:41:39+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:11:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16556423266</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400994</latitude>
+        <longitude>10.993444</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-10T06:10:02+02:00</create>
+      <lastuse>2025-07-10T06:18:00+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:10:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +404,8 @@
     </location>
     <date>
       <create>2025-05-26T14:08:27+02:00</create>
-      <lastuse>2025-07-11T22:00:07+02:00</lastuse>
-      <lastconfirm>2025-07-09T22:00:07+02:00</lastconfirm>
+      <lastuse>2025-07-12T06:07:24+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:07:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +788,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-12T06:00:36+02:00</lastuse>
-      <lastconfirm>2025-07-10T06:00:37+02:00</lastconfirm>
+      <lastuse>2025-07-12T06:05:33+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:05:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +812,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-12T06:03:50+02:00</lastuse>
-      <lastconfirm>2025-07-10T06:03:51+02:00</lastconfirm>
+      <lastuse>2025-07-12T06:09:51+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:09:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +836,8 @@
     </location>
     <date>
       <create>2025-06-26T08:40:26+02:00</create>
-      <lastuse>2025-07-11T21:47:02+02:00</lastuse>
-      <lastconfirm>2025-06-26T08:40:26+02:00</lastconfirm>
+      <lastuse>2025-07-12T06:08:58+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:08:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +860,8 @@
     </location>
     <date>
       <create>2025-06-27T13:29:13+02:00</create>
-      <lastuse>2025-07-12T06:01:43+02:00</lastuse>
-      <lastconfirm>2025-07-10T06:01:44+02:00</lastconfirm>
+      <lastuse>2025-07-12T06:07:10+02:00</lastuse>
+      <lastconfirm>2025-07-10T06:07:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +884,8 @@
     </location>
     <date>
       <create>2025-06-27T16:22:44+02:00</create>
-      <lastuse>2025-07-11T18:32:52+02:00</lastuse>
-      <lastconfirm>2025-07-09T18:32:52+02:00</lastconfirm>
+      <lastuse>2025-07-11T10:32:52+02:00</lastuse>
+      <lastconfirm>2025-06-27T16:22:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
