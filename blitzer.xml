@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-10T06:47:07+02:00</create>
-      <lastuse>2025-07-10T12:46:24+02:00</lastuse>
-      <lastconfirm>2025-07-10T10:46:24+02:00</lastconfirm>
+      <lastuse>2025-07-10T12:36:34+02:00</lastuse>
+      <lastconfirm>2025-07-10T10:51:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +100,7 @@
     <id>16557710337</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86695</zip>
       <city>Nordendorf</city>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-07-10T10:13:25+02:00</create>
-      <lastuse>2025-07-10T12:46:32+02:00</lastuse>
-      <lastconfirm>2025-07-10T10:46:33+02:00</lastconfirm>
+      <lastuse>2025-07-10T12:19:56+02:00</lastuse>
+      <lastconfirm>2025-07-10T10:49:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -141,7 +141,7 @@
     <date>
       <create>2025-07-10T10:38:52+02:00</create>
       <lastuse>2025-07-10T14:38:52+02:00</lastuse>
-      <lastconfirm>2025-07-10T10:46:28+02:00</lastconfirm>
+      <lastconfirm>2025-07-10T10:52:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-07-03T07:28:12+02:00</create>
-      <lastuse>2025-07-10T14:45:07+02:00</lastuse>
-      <lastconfirm>2025-07-10T10:45:08+02:00</lastconfirm>
+      <lastuse>2025-07-10T14:21:18+02:00</lastuse>
+      <lastconfirm>2025-07-10T10:51:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +932,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-12T10:44:41+02:00</lastuse>
-      <lastconfirm>2025-07-10T10:44:42+02:00</lastconfirm>
+      <lastuse>2025-07-12T10:47:35+02:00</lastuse>
+      <lastconfirm>2025-07-10T10:47:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1004,8 @@
     </location>
     <date>
       <create>2025-06-27T13:29:13+02:00</create>
-      <lastuse>2025-07-12T10:44:18+02:00</lastuse>
-      <lastconfirm>2025-07-10T10:44:19+02:00</lastconfirm>
+      <lastuse>2025-07-12T02:44:18+02:00</lastuse>
+      <lastconfirm>2025-06-27T13:29:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1201,6 +1201,30 @@
     </date>
   </event>
   <event>
+    <id>16553023437</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-HH</state>
+      <street>Pallerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.394358</latitude>
+        <longitude>10.836636</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-09T18:28:19+02:00</create>
+      <lastuse>2025-07-12T10:48:47+02:00</lastuse>
+      <lastconfirm>2025-07-10T10:48:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16557069868</id>
     <type>22</type>
     <speed></speed>
@@ -1222,6 +1246,30 @@
       <create>2025-07-10T08:17:23+02:00</create>
       <lastuse>2025-07-10T18:28:18+02:00</lastuse>
       <lastconfirm>2025-07-10T10:28:19+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16557775856</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.286373</latitude>
+        <longitude>10.873567</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-10T10:21:35+02:00</create>
+      <lastuse>2025-07-10T18:47:49+02:00</lastuse>
+      <lastconfirm>2025-07-10T10:47:49+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
