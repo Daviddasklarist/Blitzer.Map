@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16568689571</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedrich-Ebert-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337864</latitude>
+        <longitude>10.895426</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-11T18:56:45+02:00</create>
+      <lastuse>2025-07-11T21:16:15+02:00</lastuse>
+      <lastconfirm>2025-07-11T19:16:15+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16567902971</id>
     <type>29</type>
     <speed></speed>
@@ -692,8 +716,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-13T19:08:25+02:00</lastuse>
-      <lastconfirm>2025-07-11T19:08:27+02:00</lastconfirm>
+      <lastuse>2025-07-13T19:14:53+02:00</lastuse>
+      <lastconfirm>2025-07-11T19:14:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +740,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-13T19:09:05+02:00</lastuse>
-      <lastconfirm>2025-07-11T19:09:05+02:00</lastconfirm>
+      <lastuse>2025-07-13T19:11:23+02:00</lastuse>
+      <lastconfirm>2025-07-11T19:11:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-06-26T08:40:26+02:00</create>
-      <lastuse>2025-07-13T19:07:11+02:00</lastuse>
-      <lastconfirm>2025-07-11T19:07:11+02:00</lastconfirm>
+      <lastuse>2025-07-13T11:07:11+02:00</lastuse>
+      <lastconfirm>2025-06-26T08:40:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1100,8 @@
     </location>
     <date>
       <create>2025-07-11T17:31:41+02:00</create>
-      <lastuse>2025-07-12T03:03:54+02:00</lastuse>
-      <lastconfirm>2025-07-11T19:03:54+02:00</lastconfirm>
+      <lastuse>2025-07-12T03:14:26+02:00</lastuse>
+      <lastconfirm>2025-07-11T19:14:27+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
