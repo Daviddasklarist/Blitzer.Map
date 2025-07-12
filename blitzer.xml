@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>16570922762</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schaezlerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370779</latitude>
+        <longitude>10.889225</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-12T02:03:45+02:00</create>
+      <lastuse>2025-07-12T05:42:32+02:00</lastuse>
+      <lastconfirm>2025-07-12T03:42:33+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2025-06-13T10:51:16+02:00</create>
-      <lastuse>2025-07-13T08:39:06+02:00</lastuse>
-      <lastconfirm>2025-06-13T10:51:16+02:00</lastconfirm>
+      <lastuse>2025-07-14T03:35:08+02:00</lastuse>
+      <lastconfirm>2025-07-12T03:35:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1124,8 @@
     </location>
     <date>
       <create>2025-07-11T21:02:39+02:00</create>
-      <lastuse>2025-07-12T11:33:16+02:00</lastuse>
-      <lastconfirm>2025-07-12T03:33:18+02:00</lastconfirm>
+      <lastuse>2025-07-12T11:36:05+02:00</lastuse>
+      <lastconfirm>2025-07-12T03:36:06+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
