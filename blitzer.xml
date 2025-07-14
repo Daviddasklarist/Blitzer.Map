@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16587398502</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.402371</latitude>
+        <longitude>10.920351</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-14T08:05:54+02:00</create>
+      <lastuse>2025-07-14T15:17:58+02:00</lastuse>
+      <lastconfirm>2025-07-14T13:17:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16588025598</id>
     <type>1</type>
     <speed>100</speed>
@@ -73,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>16588682533</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Morellstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.356930</latitude>
+        <longitude>10.889853</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-14T11:47:52+02:00</create>
+      <lastuse>2025-07-14T15:15:32+02:00</lastuse>
+      <lastconfirm>2025-07-14T13:15:32+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16588808627</id>
     <type>1</type>
     <speed>50</speed>
@@ -140,8 +188,8 @@
     </location>
     <date>
       <create>2025-07-14T12:26:22+02:00</create>
-      <lastuse>2025-07-14T13:17:35+02:00</lastuse>
-      <lastconfirm>2025-07-14T13:07:35+02:00</lastconfirm>
+      <lastuse>2025-07-14T13:47:43+02:00</lastuse>
+      <lastconfirm>2025-07-14T13:17:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,32 +212,8 @@
     </location>
     <date>
       <create>2025-07-14T12:38:41+02:00</create>
-      <lastuse>2025-07-14T14:11:08+02:00</lastuse>
-      <lastconfirm>2025-07-14T13:11:09+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16589110530</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.423539</latitude>
-        <longitude>10.867203</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-14T12:57:20+02:00</create>
-      <lastuse>2025-07-14T13:42:11+02:00</lastuse>
-      <lastconfirm>2025-07-14T13:12:11+02:00</lastconfirm>
+      <lastuse>2025-07-14T14:15:11+02:00</lastuse>
+      <lastconfirm>2025-07-14T13:15:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2025-06-05T11:33:44+02:00</create>
-      <lastuse>2025-07-16T11:31:34+02:00</lastuse>
-      <lastconfirm>2025-07-14T11:31:35+02:00</lastconfirm>
+      <lastuse>2025-07-16T13:12:02+02:00</lastuse>
+      <lastconfirm>2025-07-14T13:12:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1100,8 @@
     </location>
     <date>
       <create>2025-07-10T16:20:22+02:00</create>
-      <lastuse>2025-07-16T13:01:44+02:00</lastuse>
-      <lastconfirm>2025-07-14T13:01:45+02:00</lastconfirm>
+      <lastuse>2025-07-16T13:11:12+02:00</lastuse>
+      <lastconfirm>2025-07-14T13:11:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
