@@ -76,7 +76,7 @@
     <id>16595750575</id>
     <type>21</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-07-15T10:03:05+02:00</create>
-      <lastuse>2025-07-15T12:27:09+02:00</lastuse>
-      <lastconfirm>2025-07-15T11:47:09+02:00</lastconfirm>
+      <lastuse>2025-07-15T12:33:57+02:00</lastuse>
+      <lastconfirm>2025-07-15T11:53:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2025-07-15T10:29:26+02:00</create>
-      <lastuse>2025-07-15T12:44:13+02:00</lastuse>
+      <lastuse>2025-07-15T12:24:13+02:00</lastuse>
       <lastconfirm>2025-07-15T11:44:14+02:00</lastconfirm>
     </date>
   </event>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-17T11:41:36+02:00</lastuse>
-      <lastconfirm>2025-07-15T11:41:36+02:00</lastconfirm>
+      <lastuse>2025-07-17T11:52:26+02:00</lastuse>
+      <lastconfirm>2025-07-15T11:52:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -724,7 +724,7 @@
     <id>16463471124</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -740,7 +740,7 @@
     </location>
     <date>
       <create>2025-06-27T13:29:13+02:00</create>
-      <lastuse>2025-07-17T03:39:11+02:00</lastuse>
+      <lastuse>2025-07-16T19:39:11+02:00</lastuse>
       <lastconfirm>2025-06-27T13:29:13+02:00</lastconfirm>
     </date>
   </event>
@@ -884,8 +884,8 @@
     </location>
     <date>
       <create>2025-07-07T07:31:31+02:00</create>
-      <lastuse>2025-07-17T01:23:05+02:00</lastuse>
-      <lastconfirm>2025-07-15T01:23:05+02:00</lastconfirm>
+      <lastuse>2025-07-17T11:51:55+02:00</lastuse>
+      <lastconfirm>2025-07-15T11:51:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1004,32 @@
     </location>
     <date>
       <create>2025-07-15T08:59:43+02:00</create>
-      <lastuse>2025-07-15T17:47:36+02:00</lastuse>
+      <lastuse>2025-07-15T17:52:51+02:00</lastuse>
       <lastconfirm>2025-07-15T08:59:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16596218667</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Adelzhausen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.360044</latitude>
+        <longitude>11.127312</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-15T11:40:01+02:00</create>
+      <lastuse>2025-07-15T19:52:30+02:00</lastuse>
+      <lastconfirm>2025-07-15T11:52:31+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
