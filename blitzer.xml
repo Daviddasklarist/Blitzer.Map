@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16594423652</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-BY</state>
+      <street>Fuggerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.186997</latitude>
+        <longitude>10.818868</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-15T05:50:56+02:00</create>
+      <lastuse>2025-07-15T09:37:44+02:00</lastuse>
+      <lastconfirm>2025-07-15T07:37:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16594567841</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-07-15T06:33:56+02:00</create>
-      <lastuse>2025-07-15T09:31:20+02:00</lastuse>
-      <lastconfirm>2025-07-15T07:31:20+02:00</lastconfirm>
+      <lastuse>2025-07-15T09:38:58+02:00</lastuse>
+      <lastconfirm>2025-07-15T07:38:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-07-17T06:31:49+02:00</lastuse>
-      <lastconfirm>2025-07-15T06:31:50+02:00</lastconfirm>
+      <lastuse>2025-07-17T07:34:49+02:00</lastuse>
+      <lastconfirm>2025-07-15T07:34:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +716,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-17T07:26:55+02:00</lastuse>
-      <lastconfirm>2025-07-15T07:26:56+02:00</lastconfirm>
+      <lastuse>2025-07-17T07:33:47+02:00</lastuse>
+      <lastconfirm>2025-07-15T07:33:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +740,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-17T07:27:40+02:00</lastuse>
-      <lastconfirm>2025-07-15T07:27:41+02:00</lastconfirm>
+      <lastuse>2025-07-17T07:31:59+02:00</lastuse>
+      <lastconfirm>2025-07-15T07:31:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-06-27T13:29:13+02:00</create>
-      <lastuse>2025-07-17T07:28:24+02:00</lastuse>
-      <lastconfirm>2025-07-15T07:28:25+02:00</lastconfirm>
+      <lastuse>2025-07-17T07:32:37+02:00</lastuse>
+      <lastconfirm>2025-07-15T07:32:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1052,8 @@
     </location>
     <date>
       <create>2025-07-14T22:06:14+02:00</create>
-      <lastuse>2025-07-15T13:24:13+02:00</lastuse>
-      <lastconfirm>2025-07-14T22:06:14+02:00</lastconfirm>
+      <lastuse>2025-07-15T15:33:40+02:00</lastuse>
+      <lastconfirm>2025-07-15T07:33:40+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
