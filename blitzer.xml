@@ -4,7 +4,7 @@
     <id>16599010698</id>
     <type>2</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -668,8 +668,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-17T20:15:37+02:00</lastuse>
-      <lastconfirm>2025-07-15T20:15:39+02:00</lastconfirm>
+      <lastuse>2025-07-17T20:23:44+02:00</lastuse>
+      <lastconfirm>2025-07-15T20:23:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-17T20:17:10+02:00</lastuse>
-      <lastconfirm>2025-07-15T20:17:11+02:00</lastconfirm>
+      <lastuse>2025-07-17T20:21:25+02:00</lastuse>
+      <lastconfirm>2025-07-15T20:21:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +740,8 @@
     </location>
     <date>
       <create>2025-06-27T13:29:13+02:00</create>
-      <lastuse>2025-07-17T03:56:12+02:00</lastuse>
-      <lastconfirm>2025-06-27T13:29:13+02:00</lastconfirm>
+      <lastuse>2025-07-17T20:24:32+02:00</lastuse>
+      <lastconfirm>2025-07-15T20:24:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -988,7 +988,7 @@
     <id>16596218667</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Adelzhausen</city>
@@ -1004,7 +1004,7 @@
     </location>
     <date>
       <create>2025-07-15T11:40:01+02:00</create>
-      <lastuse>2025-07-16T02:13:47+02:00</lastuse>
+      <lastuse>2025-07-15T22:13:47+02:00</lastuse>
       <lastconfirm>2025-07-15T11:40:01+02:00</lastconfirm>
     </date>
   </event>
@@ -1030,6 +1030,30 @@
       <create>2025-07-15T15:20:54+02:00</create>
       <lastuse>2025-07-16T01:59:41+02:00</lastuse>
       <lastconfirm>2025-07-15T17:59:42+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16599212256</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414486</latitude>
+        <longitude>10.873060</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-15T20:07:49+02:00</create>
+      <lastuse>2025-07-16T04:24:05+02:00</lastuse>
+      <lastconfirm>2025-07-15T20:24:07+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
