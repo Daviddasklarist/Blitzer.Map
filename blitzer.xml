@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16595408899</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Familie-Einstein-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.378518</latitude>
-        <longitude>10.861106</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-15T09:04:14+02:00</create>
-      <lastuse>2025-07-15T14:26:04+02:00</lastuse>
-      <lastconfirm>2025-07-15T12:26:04+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16596418777</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,56 +20,8 @@
     </location>
     <date>
       <create>2025-07-15T12:12:45+02:00</create>
-      <lastuse>2025-07-15T15:30:00+02:00</lastuse>
+      <lastuse>2025-07-15T15:00:00+02:00</lastuse>
       <lastconfirm>2025-07-15T14:00:02+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16596487673</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Alter Postweg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.342727</latitude>
-        <longitude>10.900269</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-15T12:24:29+02:00</create>
-      <lastuse>2025-07-15T14:24:29+02:00</lastuse>
-      <lastconfirm>2025-07-15T13:12:46+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16596505731</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberer Graben</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.367745</latitude>
-        <longitude>10.902830</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-15T12:26:40+02:00</create>
-      <lastuse>2025-07-15T14:44:56+02:00</lastuse>
-      <lastconfirm>2025-07-15T13:14:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +68,8 @@
     </location>
     <date>
       <create>2025-07-15T13:28:12+02:00</create>
-      <lastuse>2025-07-15T15:16:30+02:00</lastuse>
-      <lastconfirm>2025-07-15T14:16:31+02:00</lastconfirm>
+      <lastuse>2025-07-15T15:26:19+02:00</lastuse>
+      <lastconfirm>2025-07-15T14:26:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +92,8 @@
     </location>
     <date>
       <create>2025-07-15T13:45:30+02:00</create>
-      <lastuse>2025-07-15T15:20:48+02:00</lastuse>
-      <lastconfirm>2025-07-15T14:20:49+02:00</lastconfirm>
+      <lastuse>2025-07-15T15:25:53+02:00</lastuse>
+      <lastconfirm>2025-07-15T14:25:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,7 +116,7 @@
     </location>
     <date>
       <create>2025-07-15T14:05:02+02:00</create>
-      <lastuse>2025-07-15T14:27:00+02:00</lastuse>
+      <lastuse>2025-07-15T14:32:00+02:00</lastuse>
       <lastconfirm>2025-07-15T14:05:02+02:00</lastconfirm>
     </date>
   </event>
@@ -196,7 +124,7 @@
     <id>16597142031</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -212,8 +140,8 @@
     </location>
     <date>
       <create>2025-07-15T14:10:35+02:00</create>
-      <lastuse>2025-07-15T15:21:29+02:00</lastuse>
-      <lastconfirm>2025-07-15T14:21:29+02:00</lastconfirm>
+      <lastuse>2025-07-15T15:26:41+02:00</lastuse>
+      <lastconfirm>2025-07-15T14:26:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +716,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-17T14:13:45+02:00</lastuse>
-      <lastconfirm>2025-07-15T14:13:46+02:00</lastconfirm>
+      <lastuse>2025-07-17T14:20:10+02:00</lastuse>
+      <lastconfirm>2025-07-15T14:20:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +740,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-17T14:17:14+02:00</lastuse>
-      <lastconfirm>2025-07-15T14:17:14+02:00</lastconfirm>
+      <lastuse>2025-07-17T06:17:14+02:00</lastuse>
+      <lastconfirm>2025-06-26T06:12:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +764,8 @@
     </location>
     <date>
       <create>2025-06-26T08:40:26+02:00</create>
-      <lastuse>2025-07-17T06:12:33+02:00</lastuse>
-      <lastconfirm>2025-06-26T08:40:26+02:00</lastconfirm>
+      <lastuse>2025-07-17T14:23:33+02:00</lastuse>
+      <lastconfirm>2025-07-15T14:23:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,15 +1028,15 @@
     </location>
     <date>
       <create>2025-07-14T16:07:11+02:00</create>
-      <lastuse>2025-07-17T12:06:12+02:00</lastuse>
-      <lastconfirm>2025-07-15T12:06:12+02:00</lastconfirm>
+      <lastuse>2025-07-17T14:20:35+02:00</lastuse>
+      <lastconfirm>2025-07-15T14:20:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16595383646</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -1124,7 +1052,7 @@
     </location>
     <date>
       <create>2025-07-15T08:59:43+02:00</create>
-      <lastuse>2025-07-15T20:17:00+02:00</lastuse>
+      <lastuse>2025-07-15T18:17:00+02:00</lastuse>
       <lastconfirm>2025-07-15T08:59:43+02:00</lastconfirm>
     </date>
   </event>
