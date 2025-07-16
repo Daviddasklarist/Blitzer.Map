@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16607821510</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.540403</latitude>
+        <longitude>10.841441</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-16T22:56:00+02:00</create>
+      <lastuse>2025-07-17T01:21:12+02:00</lastuse>
+      <lastconfirm>2025-07-16T23:21:13+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
