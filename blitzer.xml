@@ -124,7 +124,7 @@
     <id>16601998018</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -140,7 +140,7 @@
     </location>
     <date>
       <create>2025-07-16T05:59:46+02:00</create>
-      <lastuse>2025-07-16T17:02:43+02:00</lastuse>
+      <lastuse>2025-07-16T16:02:43+02:00</lastuse>
       <lastconfirm>2025-07-16T10:02:44+02:00</lastconfirm>
     </date>
   </event>
@@ -500,8 +500,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-07-18T10:06:52+02:00</lastuse>
-      <lastconfirm>2025-07-16T10:06:52+02:00</lastconfirm>
+      <lastuse>2025-07-18T10:16:47+02:00</lastuse>
+      <lastconfirm>2025-07-16T10:16:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +740,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-18T10:11:13+02:00</lastuse>
-      <lastconfirm>2025-07-16T10:11:13+02:00</lastconfirm>
+      <lastuse>2025-07-18T10:18:05+02:00</lastuse>
+      <lastconfirm>2025-07-16T10:18:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +812,8 @@
     </location>
     <date>
       <create>2025-07-01T07:02:58+02:00</create>
-      <lastuse>2025-07-18T06:35:49+02:00</lastuse>
-      <lastconfirm>2025-07-16T06:35:49+02:00</lastconfirm>
+      <lastuse>2025-07-18T10:18:32+02:00</lastuse>
+      <lastconfirm>2025-07-16T10:18:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -982,6 +982,30 @@
       <create>2025-07-14T16:07:11+02:00</create>
       <lastuse>2025-07-18T07:26:11+02:00</lastuse>
       <lastconfirm>2025-07-16T07:26:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16603107215</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.183734</latitude>
+        <longitude>10.845184</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-16T09:30:33+02:00</create>
+      <lastuse>2025-07-16T18:16:33+02:00</lastuse>
+      <lastconfirm>2025-07-16T10:16:33+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
