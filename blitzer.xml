@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-07-17T10:01:29+02:00</create>
-      <lastuse>2025-07-17T21:01:25+02:00</lastuse>
-      <lastconfirm>2025-07-17T19:01:26+02:00</lastconfirm>
+      <lastuse>2025-07-17T21:04:14+02:00</lastuse>
+      <lastconfirm>2025-07-17T19:04:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -49,27 +49,27 @@
     </date>
   </event>
   <event>
-    <id>16613595732</id>
+    <id>16614433872</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.399412</latitude>
-        <longitude>11.015238</longitude>
+        <latitude>48.419999</latitude>
+        <longitude>10.802730</longitude>
       </point>
     </location>
     <date>
-      <create>2025-07-17T16:46:34+02:00</create>
-      <lastuse>2025-07-17T19:03:52+02:00</lastuse>
-      <lastconfirm>2025-07-17T18:43:54+02:00</lastconfirm>
+      <create>2025-07-17T18:58:07+02:00</create>
+      <lastuse>2025-07-17T19:37:12+02:00</lastuse>
+      <lastconfirm>2025-07-17T19:07:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +644,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-19T18:54:18+02:00</lastuse>
-      <lastconfirm>2025-07-17T18:54:18+02:00</lastconfirm>
+      <lastuse>2025-07-19T19:03:27+02:00</lastuse>
+      <lastconfirm>2025-07-17T19:03:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +932,32 @@
     </location>
     <date>
       <create>2025-07-17T08:49:56+02:00</create>
-      <lastuse>2025-07-18T02:43:11+02:00</lastuse>
-      <lastconfirm>2025-07-17T18:43:11+02:00</lastconfirm>
+      <lastuse>2025-07-18T00:43:11+02:00</lastuse>
+      <lastconfirm>2025-07-17T08:49:56+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16611496437</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396359</latitude>
+        <longitude>10.915568</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-17T11:07:09+02:00</create>
+      <lastuse>2025-07-18T03:00:45+02:00</lastuse>
+      <lastconfirm>2025-07-17T19:00:45+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
