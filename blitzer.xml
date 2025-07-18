@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16618070083</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417095</latitude>
+        <longitude>10.838232</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-18T06:52:41+02:00</create>
+      <lastuse>2025-07-18T13:02:39+02:00</lastuse>
+      <lastconfirm>2025-07-18T11:02:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16618072830</id>
     <type>1</type>
     <speed>100</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-18T06:53:54+02:00</create>
-      <lastuse>2025-07-18T12:47:14+02:00</lastuse>
-      <lastconfirm>2025-07-18T10:47:15+02:00</lastconfirm>
+      <lastuse>2025-07-18T13:01:12+02:00</lastuse>
+      <lastconfirm>2025-07-18T11:01:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -46,30 +70,6 @@
       <create>2025-07-18T07:17:21+02:00</create>
       <lastuse>2025-07-18T12:48:51+02:00</lastuse>
       <lastconfirm>2025-07-18T10:48:52+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16618560040</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Senkelbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374849</latitude>
-        <longitude>10.886385</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-18T08:26:48+02:00</create>
-      <lastuse>2025-07-18T11:00:02+02:00</lastuse>
-      <lastconfirm>2025-07-18T09:30:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -165,7 +165,7 @@
     <date>
       <create>2025-07-18T10:01:01+02:00</create>
       <lastuse>2025-07-18T14:01:01+02:00</lastuse>
-      <lastconfirm>2025-07-18T10:56:07+02:00</lastconfirm>
+      <lastconfirm>2025-07-18T11:02:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -214,30 +214,6 @@
       <create>2025-07-18T10:38:57+02:00</create>
       <lastuse>2025-07-18T12:38:57+02:00</lastuse>
       <lastconfirm>2025-07-18T10:54:09+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16619345762</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86559</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.354312</latitude>
-        <longitude>11.132221</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-18T10:45:03+02:00</create>
-      <lastuse>2025-07-18T11:03:00+02:00</lastuse>
-      <lastconfirm>2025-07-18T10:45:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1076,8 @@
     </location>
     <date>
       <create>2025-07-18T06:19:36+02:00</create>
-      <lastuse>2025-07-18T16:49:14+02:00</lastuse>
-      <lastconfirm>2025-07-18T06:19:36+02:00</lastconfirm>
+      <lastuse>2025-07-18T18:58:36+02:00</lastuse>
+      <lastconfirm>2025-07-18T10:58:38+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
