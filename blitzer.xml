@@ -4,7 +4,7 @@
     <id>16618070083</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-07-18T06:52:41+02:00</create>
-      <lastuse>2025-07-18T16:26:24+02:00</lastuse>
-      <lastconfirm>2025-07-18T14:26:25+02:00</lastconfirm>
+      <lastuse>2025-07-18T16:32:59+02:00</lastuse>
+      <lastconfirm>2025-07-18T14:33:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-18T10:01:01+02:00</create>
-      <lastuse>2025-07-18T15:56:24+02:00</lastuse>
-      <lastconfirm>2025-07-18T14:26:24+02:00</lastconfirm>
+      <lastuse>2025-07-18T16:02:57+02:00</lastuse>
+      <lastconfirm>2025-07-18T14:32:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +76,7 @@
     <id>16620160135</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2025-07-18T13:02:22+02:00</create>
-      <lastuse>2025-07-18T22:25:11+02:00</lastuse>
+      <lastuse>2025-07-18T20:25:11+02:00</lastuse>
       <lastconfirm>2025-07-18T14:25:11+02:00</lastconfirm>
     </date>
   </event>
@@ -118,6 +118,30 @@
       <create>2025-07-18T13:29:41+02:00</create>
       <lastuse>2025-07-18T15:27:13+02:00</lastuse>
       <lastconfirm>2025-07-18T14:27:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16620644994</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.429101</latitude>
+        <longitude>10.867066</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-18T14:21:30+02:00</create>
+      <lastuse>2025-07-18T15:32:40+02:00</lastuse>
+      <lastconfirm>2025-07-18T14:32:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-06-07T21:02:30+02:00</create>
-      <lastuse>2025-07-20T06:45:59+02:00</lastuse>
-      <lastconfirm>2025-07-18T06:45:59+02:00</lastconfirm>
+      <lastuse>2025-07-20T14:29:36+02:00</lastuse>
+      <lastconfirm>2025-07-18T14:29:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +932,8 @@
     </location>
     <date>
       <create>2025-07-10T16:20:22+02:00</create>
-      <lastuse>2025-07-20T14:24:12+02:00</lastuse>
-      <lastconfirm>2025-07-18T14:24:13+02:00</lastconfirm>
+      <lastuse>2025-07-20T14:29:15+02:00</lastuse>
+      <lastconfirm>2025-07-18T14:29:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +1004,8 @@
     </location>
     <date>
       <create>2025-07-18T06:19:36+02:00</create>
-      <lastuse>2025-07-18T22:23:16+02:00</lastuse>
-      <lastconfirm>2025-07-18T14:23:17+02:00</lastconfirm>
+      <lastuse>2025-07-18T20:25:26+02:00</lastuse>
+      <lastconfirm>2025-07-18T06:19:36+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
