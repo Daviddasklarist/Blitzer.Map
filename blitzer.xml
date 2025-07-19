@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16626203038</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417292</latitude>
+        <longitude>10.838368</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-19T07:30:09+02:00</create>
+      <lastuse>2025-07-19T09:30:09+02:00</lastuse>
+      <lastconfirm>2025-07-19T07:45:13+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-21T07:34:04+02:00</lastuse>
-      <lastconfirm>2025-07-19T07:34:04+02:00</lastconfirm>
+      <lastuse>2025-07-21T07:40:04+02:00</lastuse>
+      <lastconfirm>2025-07-19T07:40:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
