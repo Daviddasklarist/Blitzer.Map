@@ -28,7 +28,7 @@
     <id>16627724773</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86695</zip>
       <city>Allmannshofen</city>
@@ -46,6 +46,54 @@
       <create>2025-07-19T12:18:49+02:00</create>
       <lastuse>2025-07-19T15:18:49+02:00</lastuse>
       <lastconfirm>2025-07-19T12:52:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16627728023</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.281344</latitude>
+        <longitude>10.889971</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-19T12:19:32+02:00</create>
+      <lastuse>2025-07-19T14:54:20+02:00</lastuse>
+      <lastconfirm>2025-07-19T12:54:20+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16627901085</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.616988</latitude>
+        <longitude>10.837830</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-19T12:47:48+02:00</create>
+      <lastuse>2025-07-19T15:47:48+02:00</lastuse>
+      <lastconfirm>2025-07-19T12:56:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +620,8 @@
     </location>
     <date>
       <create>2025-06-25T14:32:06+02:00</create>
-      <lastuse>2025-07-21T12:47:14+02:00</lastuse>
-      <lastconfirm>2025-07-19T12:47:14+02:00</lastconfirm>
+      <lastuse>2025-07-21T12:53:50+02:00</lastuse>
+      <lastconfirm>2025-07-19T12:53:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +644,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-21T12:46:20+02:00</lastuse>
-      <lastconfirm>2025-07-19T12:46:20+02:00</lastconfirm>
+      <lastuse>2025-07-21T12:51:16+02:00</lastuse>
+      <lastconfirm>2025-07-19T12:51:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +836,8 @@
     </location>
     <date>
       <create>2025-07-10T16:20:22+02:00</create>
-      <lastuse>2025-07-21T12:33:14+02:00</lastuse>
-      <lastconfirm>2025-07-19T12:33:14+02:00</lastconfirm>
+      <lastuse>2025-07-21T12:51:29+02:00</lastuse>
+      <lastconfirm>2025-07-19T12:51:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +884,8 @@
     </location>
     <date>
       <create>2025-07-19T09:33:11+02:00</create>
-      <lastuse>2025-07-21T12:47:22+02:00</lastuse>
-      <lastconfirm>2025-07-19T12:47:23+02:00</lastconfirm>
+      <lastuse>2025-07-21T12:54:03+02:00</lastuse>
+      <lastconfirm>2025-07-19T12:54:03+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
