@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16644173134</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Stadtbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.381783</latitude>
-        <longitude>10.902318</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-21T14:49:13+02:00</create>
-      <lastuse>2025-07-21T20:01:10+02:00</lastuse>
-      <lastconfirm>2025-07-21T18:31:10+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16645349120</id>
     <type>29</type>
     <speed></speed>
@@ -44,8 +20,32 @@
     </location>
     <date>
       <create>2025-07-21T17:57:52+02:00</create>
-      <lastuse>2025-07-21T19:02:33+02:00</lastuse>
-      <lastconfirm>2025-07-21T18:32:34+02:00</lastconfirm>
+      <lastuse>2025-07-21T18:54:36+02:00</lastuse>
+      <lastconfirm>2025-07-21T18:34:37+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16645499129</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.284895</latitude>
+        <longitude>10.872842</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-21T18:21:34+02:00</create>
+      <lastuse>2025-07-21T18:54:36+02:00</lastuse>
+      <lastconfirm>2025-07-21T18:34:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -86,13 +86,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.407158</latitude>
-        <longitude>10.935935</longitude>
+        <latitude>48.406883</latitude>
+        <longitude>10.937580</longitude>
       </point>
     </location>
     <date>
       <create>2025-07-21T18:28:01+02:00</create>
-      <lastuse>2025-07-21T18:37:00+02:00</lastuse>
+      <lastuse>2025-07-21T18:43:00+02:00</lastuse>
       <lastconfirm>2025-07-21T18:28:01+02:00</lastconfirm>
     </date>
   </event>
@@ -644,8 +644,8 @@
     </location>
     <date>
       <create>2025-06-26T06:12:32+02:00</create>
-      <lastuse>2025-07-23T18:23:13+02:00</lastuse>
-      <lastconfirm>2025-07-21T18:23:13+02:00</lastconfirm>
+      <lastuse>2025-07-23T18:34:08+02:00</lastuse>
+      <lastconfirm>2025-07-21T18:34:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
