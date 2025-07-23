@@ -117,7 +117,7 @@
     <date>
       <create>2025-07-23T08:26:26+02:00</create>
       <lastuse>2025-07-23T12:26:26+02:00</lastuse>
-      <lastconfirm>2025-07-23T10:12:57+02:00</lastconfirm>
+      <lastconfirm>2025-07-23T10:22:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>16658458631</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.252695</latitude>
+        <longitude>10.868111</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-23T10:11:07+02:00</create>
+      <lastuse>2025-07-23T14:11:07+02:00</lastuse>
+      <lastconfirm>2025-07-23T10:21:18+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16649384859</id>
     <type>7</type>
     <speed>100</speed>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-07-22T07:10:02+02:00</create>
-      <lastuse>2025-07-23T18:12:04+02:00</lastuse>
-      <lastconfirm>2025-07-23T10:12:05+02:00</lastconfirm>
+      <lastuse>2025-07-23T18:20:33+02:00</lastuse>
+      <lastconfirm>2025-07-23T10:20:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -958,6 +982,30 @@
       <create>2025-07-23T08:06:27+02:00</create>
       <lastuse>2025-07-23T16:13:55+02:00</lastuse>
       <lastconfirm>2025-07-23T08:06:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16658324085</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.445469</latitude>
+        <longitude>10.872215</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-23T09:48:48+02:00</create>
+      <lastuse>2025-07-23T16:16:41+02:00</lastuse>
+      <lastconfirm>2025-07-23T09:48:48+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
