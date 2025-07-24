@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16665151881</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Rumplerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337368</latitude>
-        <longitude>10.902625</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-24T05:59:37+02:00</create>
-      <lastuse>2025-07-24T11:24:30+02:00</lastuse>
-      <lastconfirm>2025-07-24T09:54:30+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16665191861</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-24T06:49:53+02:00</create>
-      <lastuse>2025-07-24T11:56:13+02:00</lastuse>
-      <lastconfirm>2025-07-24T09:56:14+02:00</lastconfirm>
+      <lastuse>2025-07-24T12:02:25+02:00</lastuse>
+      <lastconfirm>2025-07-24T10:02:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-07-22T07:10:02+02:00</create>
-      <lastuse>2025-07-24T17:57:49+02:00</lastuse>
-      <lastconfirm>2025-07-24T09:57:50+02:00</lastconfirm>
+      <lastuse>2025-07-24T18:00:21+02:00</lastuse>
+      <lastconfirm>2025-07-24T10:00:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,15 +908,15 @@
     </location>
     <date>
       <create>2025-07-24T08:25:23+02:00</create>
-      <lastuse>2025-07-26T09:54:52+02:00</lastuse>
-      <lastconfirm>2025-07-24T09:54:52+02:00</lastconfirm>
+      <lastuse>2025-07-26T09:57:11+02:00</lastuse>
+      <lastconfirm>2025-07-24T09:57:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16666408526</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86707</zip>
       <city>Westendorf</city>
@@ -956,8 +932,8 @@
     </location>
     <date>
       <create>2025-07-24T09:49:11+02:00</create>
-      <lastuse>2025-07-24T17:53:25+02:00</lastuse>
-      <lastconfirm>2025-07-24T09:53:25+02:00</lastconfirm>
+      <lastuse>2025-07-24T17:58:59+02:00</lastuse>
+      <lastconfirm>2025-07-24T09:58:59+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
