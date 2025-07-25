@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16679842873</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.272477</latitude>
+        <longitude>10.876497</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-25T23:24:49+02:00</create>
+      <lastuse>2025-07-26T01:48:05+02:00</lastuse>
+      <lastconfirm>2025-07-25T23:48:05+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16668864027</id>
     <type>7</type>
     <speed>100</speed>
@@ -596,8 +620,8 @@
     </location>
     <date>
       <create>2025-07-07T07:25:00+02:00</create>
-      <lastuse>2025-07-27T23:13:41+02:00</lastuse>
-      <lastconfirm>2025-07-25T23:13:41+02:00</lastconfirm>
+      <lastuse>2025-07-27T23:47:22+02:00</lastuse>
+      <lastconfirm>2025-07-25T23:47:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +740,8 @@
     </location>
     <date>
       <create>2025-07-23T23:24:24+02:00</create>
-      <lastuse>2025-07-27T22:30:06+02:00</lastuse>
-      <lastconfirm>2025-07-25T22:30:06+02:00</lastconfirm>
+      <lastuse>2025-07-27T23:46:53+02:00</lastuse>
+      <lastconfirm>2025-07-25T23:46:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
