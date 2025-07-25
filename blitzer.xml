@@ -4,7 +4,7 @@
     <id>16670228528</id>
     <type>1</type>
     <speed>100</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86551</zip>
       <city>Aichach</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-07-24T19:49:33+02:00</create>
-      <lastuse>2025-07-25T08:56:37+02:00</lastuse>
-      <lastconfirm>2025-07-25T07:26:37+02:00</lastconfirm>
+      <lastuse>2025-07-25T09:35:57+02:00</lastuse>
+      <lastconfirm>2025-07-25T07:35:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -46,6 +46,30 @@
       <create>2025-07-25T06:18:12+02:00</create>
       <lastuse>2025-07-25T08:45:28+02:00</lastuse>
       <lastconfirm>2025-07-25T07:15:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16673560019</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Landsberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.257388</latitude>
+        <longitude>10.882567</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-25T06:25:54+02:00</create>
+      <lastuse>2025-07-25T09:35:14+02:00</lastuse>
+      <lastconfirm>2025-07-25T07:35:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-07-22T07:10:02+02:00</create>
-      <lastuse>2025-07-25T15:32:38+02:00</lastuse>
-      <lastconfirm>2025-07-25T07:32:38+02:00</lastconfirm>
+      <lastuse>2025-07-25T15:35:34+02:00</lastuse>
+      <lastconfirm>2025-07-25T07:35:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,32 +164,8 @@
     </location>
     <date>
       <create>2025-07-25T06:45:16+02:00</create>
-      <lastuse>2025-07-25T08:02:01+02:00</lastuse>
+      <lastuse>2025-07-25T07:42:01+02:00</lastuse>
       <lastconfirm>2025-07-25T07:32:02+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16673667715</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.471193</latitude>
-        <longitude>10.877914</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-25T06:47:01+02:00</create>
-      <lastuse>2025-07-25T07:46:37+02:00</lastuse>
-      <lastconfirm>2025-07-25T07:16:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +404,8 @@
     </location>
     <date>
       <create>2025-04-12T19:10:49+02:00</create>
-      <lastuse>2025-07-26T01:18:23+02:00</lastuse>
-      <lastconfirm>2025-04-12T19:10:49+02:00</lastconfirm>
+      <lastuse>2025-07-27T07:32:37+02:00</lastuse>
+      <lastconfirm>2025-07-25T07:32:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-07-27T07:06:36+02:00</lastuse>
-      <lastconfirm>2025-07-25T07:06:36+02:00</lastconfirm>
+      <lastuse>2025-07-27T07:32:03+02:00</lastuse>
+      <lastconfirm>2025-07-25T07:32:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +908,8 @@
     </location>
     <date>
       <create>2025-07-24T16:13:00+02:00</create>
-      <lastuse>2025-07-27T06:44:55+02:00</lastuse>
-      <lastconfirm>2025-07-25T06:44:55+02:00</lastconfirm>
+      <lastuse>2025-07-27T07:31:01+02:00</lastuse>
+      <lastconfirm>2025-07-25T07:31:01+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
