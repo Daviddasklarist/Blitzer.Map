@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16682472720</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370540</latitude>
+        <longitude>10.804947</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-26T07:46:03+02:00</create>
+      <lastuse>2025-07-26T10:25:35+02:00</lastuse>
+      <lastconfirm>2025-07-26T08:25:36+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16668864027</id>
     <type>7</type>
     <speed>100</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-22T07:10:02+02:00</create>
-      <lastuse>2025-07-26T16:19:38+02:00</lastuse>
-      <lastconfirm>2025-07-26T08:19:39+02:00</lastconfirm>
+      <lastuse>2025-07-26T16:26:46+02:00</lastuse>
+      <lastconfirm>2025-07-26T08:26:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-06-24T08:24:45+02:00</create>
-      <lastuse>2025-07-28T07:31:46+02:00</lastuse>
-      <lastconfirm>2025-07-26T07:31:48+02:00</lastconfirm>
+      <lastuse>2025-07-28T08:23:34+02:00</lastuse>
+      <lastconfirm>2025-07-26T08:23:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-07-25T20:53:23+02:00</create>
-      <lastuse>2025-07-28T07:17:46+02:00</lastuse>
-      <lastconfirm>2025-07-26T07:17:47+02:00</lastconfirm>
+      <lastuse>2025-07-28T08:21:43+02:00</lastuse>
+      <lastconfirm>2025-07-26T08:21:45+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
