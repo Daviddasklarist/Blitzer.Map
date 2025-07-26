@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-07-26T09:41:21+02:00</create>
-      <lastuse>2025-07-26T16:42:57+02:00</lastuse>
-      <lastconfirm>2025-07-26T14:42:58+02:00</lastconfirm>
+      <lastuse>2025-07-26T16:49:44+02:00</lastuse>
+      <lastconfirm>2025-07-26T14:49:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-26T09:59:50+02:00</create>
-      <lastuse>2025-07-26T15:47:50+02:00</lastuse>
-      <lastconfirm>2025-07-26T14:47:50+02:00</lastconfirm>
+      <lastuse>2025-07-26T16:52:47+02:00</lastuse>
+      <lastconfirm>2025-07-26T14:52:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-07-26T14:41:28+02:00</create>
-      <lastuse>2025-07-26T15:18:25+02:00</lastuse>
-      <lastconfirm>2025-07-26T14:48:25+02:00</lastconfirm>
+      <lastuse>2025-07-26T15:22:06+02:00</lastuse>
+      <lastconfirm>2025-07-26T14:52:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -134,13 +134,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.414986</latitude>
-        <longitude>10.862802</longitude>
+        <latitude>48.414745</latitude>
+        <longitude>10.866142</longitude>
       </point>
     </location>
     <date>
       <create>2025-07-26T14:31:02+02:00</create>
-      <lastuse>2025-07-26T14:53:00+02:00</lastuse>
+      <lastuse>2025-07-26T14:57:00+02:00</lastuse>
       <lastconfirm>2025-07-26T14:31:02+02:00</lastconfirm>
     </date>
   </event>
@@ -716,8 +716,8 @@
     </location>
     <date>
       <create>2025-07-07T07:25:00+02:00</create>
-      <lastuse>2025-07-28T06:22:35+02:00</lastuse>
-      <lastconfirm>2025-07-07T07:25:00+02:00</lastconfirm>
+      <lastuse>2025-07-28T14:46:12+02:00</lastuse>
+      <lastconfirm>2025-07-26T14:46:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -862,6 +862,30 @@
       <create>2025-07-25T20:53:23+02:00</create>
       <lastuse>2025-07-28T12:18:55+02:00</lastuse>
       <lastconfirm>2025-07-26T12:18:55+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16683180281</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Zeppelinstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.334521</latitude>
+        <longitude>10.905872</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-26T09:55:33+02:00</create>
+      <lastuse>2025-07-28T14:45:09+02:00</lastuse>
+      <lastconfirm>2025-07-26T14:45:10+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
