@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16690334042</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416624</latitude>
+        <longitude>10.843110</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-27T06:58:58+02:00</create>
+      <lastuse>2025-07-27T11:22:11+02:00</lastuse>
+      <lastconfirm>2025-07-27T09:22:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16690585011</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-07-27T08:27:32+02:00</create>
-      <lastuse>2025-07-27T11:17:09+02:00</lastuse>
-      <lastconfirm>2025-07-27T09:17:10+02:00</lastconfirm>
+      <lastuse>2025-07-27T11:07:08+02:00</lastuse>
+      <lastconfirm>2025-07-27T09:22:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-07-22T07:10:02+02:00</create>
-      <lastuse>2025-07-27T17:15:46+02:00</lastuse>
-      <lastconfirm>2025-07-27T09:15:46+02:00</lastconfirm>
+      <lastuse>2025-07-27T17:21:03+02:00</lastuse>
+      <lastconfirm>2025-07-27T09:21:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -772,7 +796,7 @@
     <id>16663236697</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86154</zip>
       <city>Augsburg</city>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2025-07-23T23:24:24+02:00</create>
-      <lastuse>2025-07-29T08:33:12+02:00</lastuse>
-      <lastconfirm>2025-07-27T08:33:13+02:00</lastconfirm>
+      <lastuse>2025-07-29T00:33:12+02:00</lastuse>
+      <lastconfirm>2025-07-23T23:24:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
