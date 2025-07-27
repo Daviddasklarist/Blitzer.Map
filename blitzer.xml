@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16690778658</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417125</latitude>
+        <longitude>10.838003</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-27T08:27:32+02:00</create>
+      <lastuse>2025-07-27T16:48:36+02:00</lastuse>
+      <lastconfirm>2025-07-27T14:48:37+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16691185566</id>
     <type>1</type>
     <speed>130</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-27T09:47:53+02:00</create>
-      <lastuse>2025-07-27T16:41:57+02:00</lastuse>
-      <lastconfirm>2025-07-27T14:41:57+02:00</lastconfirm>
+      <lastuse>2025-07-27T16:48:37+02:00</lastuse>
+      <lastconfirm>2025-07-27T14:48:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-07-22T07:10:02+02:00</create>
-      <lastuse>2025-07-27T22:42:28+02:00</lastuse>
-      <lastconfirm>2025-07-27T14:42:28+02:00</lastconfirm>
+      <lastuse>2025-07-27T22:44:16+02:00</lastuse>
+      <lastconfirm>2025-07-27T14:44:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,32 @@
     </location>
     <date>
       <create>2025-07-27T13:48:06+02:00</create>
-      <lastuse>2025-07-27T15:11:46+02:00</lastuse>
-      <lastconfirm>2025-07-27T14:41:47+02:00</lastconfirm>
+      <lastuse>2025-07-27T15:14:12+02:00</lastuse>
+      <lastconfirm>2025-07-27T14:44:13+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16692844087</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.329930</latitude>
+        <longitude>10.886611</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-27T14:34:13+02:00</create>
+      <lastuse>2025-07-27T15:17:17+02:00</lastuse>
+      <lastconfirm>2025-07-27T14:47:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +236,8 @@
     </location>
     <date>
       <create>2025-01-25T18:59:32+01:00</create>
-      <lastuse>2025-07-29T13:32:26+02:00</lastuse>
-      <lastconfirm>2025-07-27T13:32:27+02:00</lastconfirm>
+      <lastuse>2025-07-29T14:42:06+02:00</lastuse>
+      <lastconfirm>2025-07-27T14:42:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +284,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-07-29T11:47:35+02:00</lastuse>
-      <lastconfirm>2025-07-27T11:47:36+02:00</lastconfirm>
+      <lastuse>2025-07-29T03:47:35+02:00</lastuse>
+      <lastconfirm>2025-02-11T12:58:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
