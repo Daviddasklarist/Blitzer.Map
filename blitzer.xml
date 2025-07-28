@@ -52,7 +52,7 @@
     <id>16699221128</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86695</zip>
       <city>Allmannshofen</city>
@@ -68,15 +68,15 @@
     </location>
     <date>
       <create>2025-07-28T09:40:33+02:00</create>
-      <lastuse>2025-07-28T14:37:13+02:00</lastuse>
-      <lastconfirm>2025-07-28T13:07:14+02:00</lastconfirm>
+      <lastuse>2025-07-28T14:10:37+02:00</lastuse>
+      <lastconfirm>2025-07-28T13:10:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16699296934</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86676</zip>
       <city>Ehekirchen</city>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2025-07-28T09:54:17+02:00</create>
-      <lastuse>2025-07-28T14:02:07+02:00</lastuse>
+      <lastuse>2025-07-28T13:32:07+02:00</lastuse>
       <lastconfirm>2025-07-28T12:32:07+02:00</lastconfirm>
     </date>
   </event>
@@ -142,6 +142,30 @@
       <create>2025-07-28T12:06:07+02:00</create>
       <lastuse>2025-07-28T15:06:07+02:00</lastuse>
       <lastconfirm>2025-07-28T12:58:05+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16700515323</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414364</latitude>
+        <longitude>10.879043</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-28T13:09:02+02:00</create>
+      <lastuse>2025-07-28T13:17:00+02:00</lastuse>
+      <lastconfirm>2025-07-28T13:09:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -892,7 +916,7 @@
     <id>16699511188</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86554</zip>
       <city>Pöttmes</city>
@@ -908,8 +932,8 @@
     </location>
     <date>
       <create>2025-07-28T10:29:00+02:00</create>
-      <lastuse>2025-07-28T20:55:52+02:00</lastuse>
-      <lastconfirm>2025-07-28T12:55:52+02:00</lastconfirm>
+      <lastuse>2025-07-28T21:08:22+02:00</lastuse>
+      <lastconfirm>2025-07-28T13:08:23+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
