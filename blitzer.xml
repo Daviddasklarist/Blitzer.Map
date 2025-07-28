@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16698154292</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oskar-von-Miller-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.346148</latitude>
-        <longitude>10.880491</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-28T06:32:59+02:00</create>
-      <lastuse>2025-07-28T15:37:41+02:00</lastuse>
-      <lastconfirm>2025-07-28T13:37:41+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16698418756</id>
     <type>1</type>
     <speed>50</speed>
@@ -49,34 +25,10 @@
     </date>
   </event>
   <event>
-    <id>16699221128</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86695</zip>
-      <city>Allmannshofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.613842</latitude>
-        <longitude>10.838173</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-28T09:40:33+02:00</create>
-      <lastuse>2025-07-28T15:37:27+02:00</lastuse>
-      <lastconfirm>2025-07-28T13:37:27+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16699296934</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86676</zip>
       <city>Ehekirchen</city>
@@ -92,7 +44,7 @@
     </location>
     <date>
       <create>2025-07-28T09:54:17+02:00</create>
-      <lastuse>2025-07-28T15:17:27+02:00</lastuse>
+      <lastuse>2025-07-28T14:47:27+02:00</lastuse>
       <lastconfirm>2025-07-28T13:17:28+02:00</lastconfirm>
     </date>
   </event>
@@ -100,7 +52,7 @@
     <id>16699568459</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86165</zip>
       <city>Augsburg</city>
@@ -116,7 +68,7 @@
     </location>
     <date>
       <create>2025-07-28T10:39:08+02:00</create>
-      <lastuse>2025-07-28T14:21:10+02:00</lastuse>
+      <lastuse>2025-07-28T13:51:10+02:00</lastuse>
       <lastconfirm>2025-07-28T13:21:10+02:00</lastconfirm>
     </date>
   </event>
@@ -140,7 +92,7 @@
     </location>
     <date>
       <create>2025-07-28T11:31:36+02:00</create>
-      <lastuse>2025-07-28T15:27:37+02:00</lastuse>
+      <lastuse>2025-07-28T14:57:37+02:00</lastuse>
       <lastconfirm>2025-07-28T13:27:38+02:00</lastconfirm>
     </date>
   </event>
@@ -164,7 +116,7 @@
     </location>
     <date>
       <create>2025-07-28T12:06:07+02:00</create>
-      <lastuse>2025-07-28T15:14:00+02:00</lastuse>
+      <lastuse>2025-07-28T15:06:07+02:00</lastuse>
       <lastconfirm>2025-07-28T13:14:00+02:00</lastconfirm>
     </date>
   </event>
@@ -188,8 +140,32 @@
     </location>
     <date>
       <create>2025-07-28T13:10:49+02:00</create>
-      <lastuse>2025-07-28T14:06:44+02:00</lastuse>
-      <lastconfirm>2025-07-28T13:36:45+02:00</lastconfirm>
+      <lastuse>2025-07-28T14:13:40+02:00</lastuse>
+      <lastconfirm>2025-07-28T13:43:41+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16700662505</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.268100</latitude>
+        <longitude>10.867148</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-28T13:31:11+02:00</create>
+      <lastuse>2025-07-28T14:10:19+02:00</lastuse>
+      <lastconfirm>2025-07-28T13:40:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -206,13 +182,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.414596</latitude>
-        <longitude>10.869365</longitude>
+        <latitude>48.414745</latitude>
+        <longitude>10.866142</longitude>
       </point>
     </location>
     <date>
       <create>2025-07-28T13:09:02+02:00</create>
-      <lastuse>2025-07-28T13:42:00+02:00</lastuse>
+      <lastuse>2025-07-28T13:47:00+02:00</lastuse>
       <lastconfirm>2025-07-28T13:09:02+02:00</lastconfirm>
     </date>
   </event>
@@ -1012,7 +988,7 @@
     <id>16700583730</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -1028,8 +1004,8 @@
     </location>
     <date>
       <create>2025-07-28T13:15:30+02:00</create>
-      <lastuse>2025-07-28T21:33:01+02:00</lastuse>
-      <lastconfirm>2025-07-28T13:33:02+02:00</lastconfirm>
+      <lastuse>2025-07-28T21:37:31+02:00</lastuse>
+      <lastconfirm>2025-07-28T13:37:32+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
