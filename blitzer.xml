@@ -97,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>16709228167</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401908</latitude>
+        <longitude>10.920354</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-29T14:27:46+02:00</create>
+      <lastuse>2025-07-29T16:49:27+02:00</lastuse>
+      <lastconfirm>2025-07-29T15:19:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16709287923</id>
     <type>1</type>
     <speed>100</speed>
@@ -117,7 +141,7 @@
     <date>
       <create>2025-07-29T14:36:45+02:00</create>
       <lastuse>2025-07-29T17:36:45+02:00</lastuse>
-      <lastconfirm>2025-07-29T15:16:45+02:00</lastconfirm>
+      <lastconfirm>2025-07-29T15:21:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-05-19T07:01:41+02:00</create>
-      <lastuse>2025-07-31T14:53:28+02:00</lastuse>
-      <lastconfirm>2025-07-29T14:53:28+02:00</lastconfirm>
+      <lastuse>2025-07-31T15:16:35+02:00</lastuse>
+      <lastconfirm>2025-07-29T15:16:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -910,30 +934,6 @@
       <create>2025-07-29T12:47:42+02:00</create>
       <lastuse>2025-07-29T23:08:06+02:00</lastuse>
       <lastconfirm>2025-07-29T15:08:06+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16708995185</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86695</zip>
-      <city>Mertingen</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.642323</latitude>
-        <longitude>10.835408</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-29T13:46:53+02:00</create>
-      <lastuse>2025-07-29T20:55:07+02:00</lastuse>
-      <lastconfirm>2025-07-29T13:46:53+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
