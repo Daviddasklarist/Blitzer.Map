@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16711587563</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.536076</latitude>
-        <longitude>10.835530</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-29T21:06:06+02:00</create>
-      <lastuse>2025-07-30T00:27:23+02:00</lastuse>
-      <lastconfirm>2025-07-29T22:27:23+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16711591653</id>
     <type>7</type>
     <speed>120</speed>
@@ -68,8 +44,32 @@
     </location>
     <date>
       <create>2025-07-29T22:13:05+02:00</create>
-      <lastuse>2025-07-29T23:01:22+02:00</lastuse>
-      <lastconfirm>2025-07-29T22:31:22+02:00</lastconfirm>
+      <lastuse>2025-07-29T23:05:57+02:00</lastuse>
+      <lastconfirm>2025-07-29T22:35:57+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16711974423</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414219</latitude>
+        <longitude>10.662159</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-29T22:20:07+02:00</create>
+      <lastuse>2025-07-29T23:06:46+02:00</lastuse>
+      <lastconfirm>2025-07-29T22:36:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
