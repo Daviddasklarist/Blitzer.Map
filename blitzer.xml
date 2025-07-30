@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-30T06:44:15+02:00</create>
-      <lastuse>2025-07-30T13:01:08+02:00</lastuse>
-      <lastconfirm>2025-07-30T11:01:08+02:00</lastconfirm>
+      <lastuse>2025-07-30T13:12:37+02:00</lastuse>
+      <lastconfirm>2025-07-30T11:12:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,15 +116,15 @@
     </location>
     <date>
       <create>2025-07-30T09:56:17+02:00</create>
-      <lastuse>2025-07-30T12:52:55+02:00</lastuse>
-      <lastconfirm>2025-07-30T10:52:57+02:00</lastconfirm>
+      <lastuse>2025-07-30T13:12:16+02:00</lastuse>
+      <lastconfirm>2025-07-30T11:12:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16715375188</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -140,8 +140,32 @@
     </location>
     <date>
       <create>2025-07-30T09:58:04+02:00</create>
-      <lastuse>2025-07-30T12:18:58+02:00</lastuse>
-      <lastconfirm>2025-07-30T10:48:58+02:00</lastconfirm>
+      <lastuse>2025-07-30T13:12:02+02:00</lastuse>
+      <lastconfirm>2025-07-30T11:12:03+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16715704531</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337441</latitude>
+        <longitude>10.902538</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-30T10:54:12+02:00</create>
+      <lastuse>2025-07-30T13:12:16+02:00</lastuse>
+      <lastconfirm>2025-07-30T11:12:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-07-30T10:55:09+02:00</create>
-      <lastuse>2025-07-30T12:09:00+02:00</lastuse>
-      <lastconfirm>2025-07-30T11:09:01+02:00</lastconfirm>
+      <lastuse>2025-07-30T12:11:52+02:00</lastuse>
+      <lastconfirm>2025-07-30T11:11:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +740,8 @@
     </location>
     <date>
       <create>2025-07-07T07:25:00+02:00</create>
-      <lastuse>2025-07-31T17:54:27+02:00</lastuse>
-      <lastconfirm>2025-07-07T07:25:00+02:00</lastconfirm>
+      <lastuse>2025-08-01T11:06:16+02:00</lastuse>
+      <lastconfirm>2025-07-30T11:06:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2025-07-14T16:07:11+02:00</create>
-      <lastuse>2025-08-01T10:19:14+02:00</lastuse>
-      <lastconfirm>2025-07-30T10:19:14+02:00</lastconfirm>
+      <lastuse>2025-08-01T11:07:57+02:00</lastuse>
+      <lastconfirm>2025-07-30T11:07:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,32 +1028,32 @@
     </location>
     <date>
       <create>2025-07-30T09:42:06+02:00</create>
-      <lastuse>2025-07-30T18:50:33+02:00</lastuse>
-      <lastconfirm>2025-07-30T10:50:34+02:00</lastconfirm>
+      <lastuse>2025-07-30T16:50:33+02:00</lastuse>
+      <lastconfirm>2025-07-30T09:42:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>16715499327</id>
-    <type>22</type>
+    <id>16715324367</id>
+    <type>26</type>
     <speed></speed>
     <quality>2</quality>
     <address>
-      <zip>86707</zip>
-      <city>Westendorf</city>
+      <zip>86179</zip>
+      <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>B2</street>
+      <street>Königsbrunner Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.580202</latitude>
-        <longitude>10.842610</longitude>
+        <latitude>48.302595</latitude>
+        <longitude>10.902569</longitude>
       </point>
     </location>
     <date>
-      <create>2025-07-30T10:19:58+02:00</create>
-      <lastuse>2025-07-30T12:36:58+02:00</lastuse>
-      <lastconfirm>2025-07-30T10:19:58+02:00</lastconfirm>
+      <create>2025-07-30T09:47:07+02:00</create>
+      <lastuse>2025-08-01T11:09:43+02:00</lastuse>
+      <lastconfirm>2025-07-30T11:09:44+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
