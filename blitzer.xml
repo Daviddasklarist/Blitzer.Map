@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2025-07-30T06:52:56+02:00</create>
-      <lastuse>2025-07-30T09:00:43+02:00</lastuse>
+      <lastuse>2025-07-30T08:30:43+02:00</lastuse>
       <lastconfirm>2025-07-30T07:30:44+02:00</lastconfirm>
     </date>
   </event>
@@ -124,7 +124,7 @@
     <id>16714583837</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-07-30T07:34:49+02:00</create>
-      <lastuse>2025-07-30T09:55:47+02:00</lastuse>
-      <lastconfirm>2025-07-30T07:55:47+02:00</lastconfirm>
+      <lastuse>2025-07-30T10:07:07+02:00</lastuse>
+      <lastconfirm>2025-07-30T08:07:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -166,6 +166,54 @@
       <create>2025-07-30T07:34:16+02:00</create>
       <lastuse>2025-07-30T08:40:05+02:00</lastuse>
       <lastconfirm>2025-07-30T08:00:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16714681768</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.342144</latitude>
+        <longitude>10.888367</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-30T07:52:34+02:00</create>
+      <lastuse>2025-07-30T09:08:00+02:00</lastuse>
+      <lastconfirm>2025-07-30T08:08:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16714730731</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.330521</latitude>
+        <longitude>10.886808</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-30T08:01:50+02:00</create>
+      <lastuse>2025-07-30T09:07:30+02:00</lastuse>
+      <lastconfirm>2025-07-30T08:07:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +308,8 @@
     </location>
     <date>
       <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2025-08-01T06:23:14+02:00</lastuse>
-      <lastconfirm>2025-07-30T06:23:15+02:00</lastconfirm>
+      <lastuse>2025-08-01T08:02:50+02:00</lastuse>
+      <lastconfirm>2025-07-30T08:02:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +452,8 @@
     </location>
     <date>
       <create>2025-04-12T19:10:49+02:00</create>
-      <lastuse>2025-07-31T15:36:10+02:00</lastuse>
-      <lastconfirm>2025-07-29T15:36:11+02:00</lastconfirm>
+      <lastuse>2025-08-01T08:00:11+02:00</lastuse>
+      <lastconfirm>2025-07-30T08:00:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +956,8 @@
     </location>
     <date>
       <create>2025-07-28T17:26:33+02:00</create>
-      <lastuse>2025-08-01T03:57:48+02:00</lastuse>
-      <lastconfirm>2025-07-30T03:57:48+02:00</lastconfirm>
+      <lastuse>2025-08-01T08:01:36+02:00</lastuse>
+      <lastconfirm>2025-07-30T08:01:37+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
