@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16714335186</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Blücherstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.365904</latitude>
-        <longitude>10.947912</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-30T06:44:15+02:00</create>
-      <lastuse>2025-07-30T16:00:50+02:00</lastuse>
-      <lastconfirm>2025-07-30T15:00:52+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16715367770</id>
     <type>1</type>
     <speed>50</speed>
@@ -165,7 +141,31 @@
     <date>
       <create>2025-07-30T14:50:03+02:00</create>
       <lastuse>2025-07-30T18:50:03+02:00</lastuse>
-      <lastconfirm>2025-07-30T15:27:13+02:00</lastconfirm>
+      <lastconfirm>2025-07-30T15:32:50+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16717302737</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>89407</zip>
+      <city>Dillingen a.d.Donau</city>
+      <state>DE-BY</state>
+      <street>Markomannstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.599748</latitude>
+        <longitude>10.543886</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-30T15:11:41+02:00</create>
+      <lastuse>2025-07-30T17:30:38+02:00</lastuse>
+      <lastconfirm>2025-07-30T15:30:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -189,14 +189,14 @@
     <date>
       <create>2025-07-30T15:18:27+02:00</create>
       <lastuse>2025-07-30T17:18:27+02:00</lastuse>
-      <lastconfirm>2025-07-30T15:25:03+02:00</lastconfirm>
+      <lastconfirm>2025-07-30T15:30:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>16717057824</id>
     <type>23</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86477</zip>
       <city>Zusmarshausen</city>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-07-30T14:33:23+02:00</create>
-      <lastuse>2025-07-30T15:53:06+02:00</lastuse>
-      <lastconfirm>2025-07-30T15:23:06+02:00</lastconfirm>
+      <lastuse>2025-07-30T15:41:07+02:00</lastuse>
+      <lastconfirm>2025-07-30T15:31:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-07-30T15:14:57+02:00</create>
-      <lastuse>2025-07-30T15:57:50+02:00</lastuse>
-      <lastconfirm>2025-07-30T15:27:50+02:00</lastconfirm>
+      <lastuse>2025-07-30T16:02:11+02:00</lastuse>
+      <lastconfirm>2025-07-30T15:32:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-07-30T14:26:55+02:00</create>
-      <lastuse>2025-07-30T15:57:15+02:00</lastuse>
-      <lastconfirm>2025-07-30T15:17:15+02:00</lastconfirm>
+      <lastuse>2025-07-30T16:31:04+02:00</lastuse>
+      <lastconfirm>2025-07-30T15:31:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -278,13 +278,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.414486</latitude>
-        <longitude>10.874204</longitude>
+        <latitude>48.414560</latitude>
+        <longitude>10.870978</longitude>
       </point>
     </location>
     <date>
       <create>2025-07-30T15:24:02+02:00</create>
-      <lastuse>2025-07-30T15:32:00+02:00</lastuse>
+      <lastuse>2025-07-30T15:37:00+02:00</lastuse>
       <lastconfirm>2025-07-30T15:24:02+02:00</lastconfirm>
     </date>
   </event>
@@ -836,8 +836,8 @@
     </location>
     <date>
       <create>2025-07-07T07:25:00+02:00</create>
-      <lastuse>2025-08-01T15:11:03+02:00</lastuse>
-      <lastconfirm>2025-07-30T15:11:03+02:00</lastconfirm>
+      <lastuse>2025-08-01T15:27:13+02:00</lastuse>
+      <lastconfirm>2025-07-30T15:27:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1100,8 @@
     </location>
     <date>
       <create>2025-07-30T14:21:16+02:00</create>
-      <lastuse>2025-07-30T23:21:04+02:00</lastuse>
-      <lastconfirm>2025-07-30T15:21:04+02:00</lastconfirm>
+      <lastuse>2025-07-30T21:21:04+02:00</lastuse>
+      <lastconfirm>2025-07-30T14:21:16+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
