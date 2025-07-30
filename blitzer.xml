@@ -193,6 +193,30 @@
     </date>
   </event>
   <event>
+    <id>16715375188</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Lechhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.363242</latitude>
+        <longitude>10.953662</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-30T09:58:04+02:00</create>
+      <lastuse>2025-07-30T12:31:24+02:00</lastuse>
+      <lastconfirm>2025-07-30T10:31:25+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -982,6 +1006,54 @@
       <create>2025-07-29T17:06:03+02:00</create>
       <lastuse>2025-08-01T08:38:02+02:00</lastuse>
       <lastconfirm>2025-07-30T08:38:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16715295688</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Nordendorf</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.603756</latitude>
+        <longitude>10.838505</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-30T09:42:06+02:00</create>
+      <lastuse>2025-07-30T18:28:49+02:00</lastuse>
+      <lastconfirm>2025-07-30T10:28:50+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16715499327</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Westendorf</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.580202</latitude>
+        <longitude>10.842610</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-30T10:19:58+02:00</create>
+      <lastuse>2025-07-30T18:28:42+02:00</lastuse>
+      <lastconfirm>2025-07-30T10:28:42+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
