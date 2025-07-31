@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16726998309</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86830</zip>
+      <city>Schwabmünchen</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.188351</latitude>
+        <longitude>10.753107</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-31T19:10:11+02:00</create>
+      <lastuse>2025-07-31T22:31:27+02:00</lastuse>
+      <lastconfirm>2025-07-31T20:31:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16727238796</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-07-30T09:56:17+02:00</create>
-      <lastuse>2025-08-01T04:19:31+02:00</lastuse>
-      <lastconfirm>2025-07-31T20:19:31+02:00</lastconfirm>
+      <lastuse>2025-08-01T04:32:44+02:00</lastuse>
+      <lastconfirm>2025-07-31T20:32:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,32 +92,8 @@
     </location>
     <date>
       <create>2025-07-31T11:48:41+02:00</create>
-      <lastuse>2025-08-01T00:27:40+02:00</lastuse>
-      <lastconfirm>2025-07-31T20:27:41+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16727216485</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410907</latitude>
-        <longitude>10.643543</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-31T19:47:55+02:00</create>
-      <lastuse>2025-07-31T20:36:14+02:00</lastuse>
-      <lastconfirm>2025-07-31T20:16:14+02:00</lastconfirm>
+      <lastuse>2025-08-01T00:02:13+02:00</lastuse>
+      <lastconfirm>2025-07-31T20:32:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
