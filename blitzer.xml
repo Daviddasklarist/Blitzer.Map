@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16769882038</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.538077</latitude>
+        <longitude>10.838905</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-06T00:05:57+02:00</create>
+      <lastuse>2025-08-06T02:50:25+02:00</lastuse>
+      <lastconfirm>2025-08-06T00:50:26+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16724161503</id>
     <type>7</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-07-31T11:48:41+02:00</create>
-      <lastuse>2025-08-06T04:43:07+02:00</lastuse>
-      <lastconfirm>2025-08-06T00:43:08+02:00</lastconfirm>
+      <lastuse>2025-08-06T04:52:49+02:00</lastuse>
+      <lastconfirm>2025-08-06T00:52:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2025-06-21T18:30:08+02:00</create>
-      <lastuse>2025-08-07T09:41:06+02:00</lastuse>
-      <lastconfirm>2025-06-21T18:30:08+02:00</lastconfirm>
+      <lastuse>2025-08-08T00:46:00+02:00</lastuse>
+      <lastconfirm>2025-08-06T00:46:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +860,8 @@
     </location>
     <date>
       <create>2025-08-04T11:22:06+02:00</create>
-      <lastuse>2025-08-07T23:31:29+02:00</lastuse>
-      <lastconfirm>2025-08-05T23:31:30+02:00</lastconfirm>
+      <lastuse>2025-08-08T00:48:14+02:00</lastuse>
+      <lastconfirm>2025-08-06T00:48:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
