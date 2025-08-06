@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-08-06T19:20:11+02:00</create>
-      <lastuse>2025-08-06T22:12:53+02:00</lastuse>
+      <lastuse>2025-08-06T21:42:53+02:00</lastuse>
       <lastconfirm>2025-08-06T20:12:55+02:00</lastconfirm>
     </date>
   </event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-08-06T10:59:05+02:00</create>
-      <lastuse>2025-08-07T04:12:25+02:00</lastuse>
-      <lastconfirm>2025-08-06T20:12:26+02:00</lastconfirm>
+      <lastuse>2025-08-07T04:15:22+02:00</lastuse>
+      <lastconfirm>2025-08-06T20:15:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,6 +94,30 @@
       <create>2025-08-06T19:24:28+02:00</create>
       <lastuse>2025-08-07T04:11:47+02:00</lastuse>
       <lastconfirm>2025-08-06T20:11:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16776901132</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.419376</latitude>
+        <longitude>10.776884</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-06T20:10:05+02:00</create>
+      <lastuse>2025-08-06T20:47:36+02:00</lastuse>
+      <lastconfirm>2025-08-06T20:17:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2025-08-04T16:30:08+02:00</create>
-      <lastuse>2025-08-08T19:51:58+02:00</lastuse>
-      <lastconfirm>2025-08-06T19:51:59+02:00</lastconfirm>
+      <lastuse>2025-08-08T20:14:46+02:00</lastuse>
+      <lastconfirm>2025-08-06T20:14:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -958,6 +982,30 @@
       <create>2025-08-04T21:16:33+02:00</create>
       <lastuse>2025-08-08T00:09:58+02:00</lastuse>
       <lastconfirm>2025-08-06T00:09:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16776890659</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.388815</latitude>
+        <longitude>11.074228</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-06T20:10:00+02:00</create>
+      <lastuse>2025-08-07T04:13:54+02:00</lastuse>
+      <lastconfirm>2025-08-06T20:13:54+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
