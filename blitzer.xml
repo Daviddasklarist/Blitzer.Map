@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16779890311</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.338797</latitude>
+        <longitude>10.907387</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-07T05:59:47+02:00</create>
+      <lastuse>2025-08-07T07:59:47+02:00</lastuse>
+      <lastconfirm>2025-08-07T06:17:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16773391402</id>
     <type>7</type>
     <speed>50</speed>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2025-06-22T02:14:51+02:00</create>
-      <lastuse>2025-08-08T21:03:07+02:00</lastuse>
-      <lastconfirm>2025-08-06T21:03:07+02:00</lastconfirm>
+      <lastuse>2025-08-08T13:03:07+02:00</lastuse>
+      <lastconfirm>2025-06-22T02:14:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-08-03T12:22:35+02:00</create>
-      <lastuse>2025-08-08T19:27:08+02:00</lastuse>
-      <lastconfirm>2025-08-06T19:27:09+02:00</lastconfirm>
+      <lastuse>2025-08-09T06:14:20+02:00</lastuse>
+      <lastconfirm>2025-08-07T06:14:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
