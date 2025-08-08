@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16790319723</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-BY</state>
-      <street>Römerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.541076</latitude>
-        <longitude>10.855647</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-08T11:56:46+02:00</create>
-      <lastuse>2025-08-08T18:35:39+02:00</lastuse>
-      <lastconfirm>2025-08-08T17:05:39+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16773391402</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,8 +44,32 @@
     </location>
     <date>
       <create>2025-08-08T10:49:56+02:00</create>
-      <lastuse>2025-08-09T02:29:38+02:00</lastuse>
-      <lastconfirm>2025-08-08T18:29:39+02:00</lastconfirm>
+      <lastuse>2025-08-09T02:34:10+02:00</lastuse>
+      <lastconfirm>2025-08-08T18:34:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16792557897</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86492</zip>
+      <city>Egling an der Paar</city>
+      <state>DE-BY</state>
+      <street>Badstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.187035</latitude>
+        <longitude>10.985461</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-08T17:23:12+02:00</create>
+      <lastuse>2025-08-09T02:37:37+02:00</lastuse>
+      <lastconfirm>2025-08-08T18:37:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -148,7 +148,7 @@
     <id>16792849302</id>
     <type>21</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-08-08T18:06:49+02:00</create>
-      <lastuse>2025-08-08T19:32:11+02:00</lastuse>
-      <lastconfirm>2025-08-08T18:32:11+02:00</lastconfirm>
+      <lastuse>2025-08-08T19:36:46+02:00</lastuse>
+      <lastconfirm>2025-08-08T18:36:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,32 +188,8 @@
     </location>
     <date>
       <create>2025-08-08T18:20:03+02:00</create>
-      <lastuse>2025-08-08T18:37:00+02:00</lastuse>
+      <lastuse>2025-08-08T18:42:00+02:00</lastuse>
       <lastconfirm>2025-08-08T18:20:03+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16792986436</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373628</latitude>
-        <longitude>11.097291</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-08T18:27:02+02:00</create>
-      <lastuse>2025-08-08T18:37:00+02:00</lastuse>
-      <lastconfirm>2025-08-08T18:27:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
