@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16801618450</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Ackermann-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374849</latitude>
-        <longitude>10.847246</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-09T18:54:35+02:00</create>
-      <lastuse>2025-08-09T22:02:13+02:00</lastuse>
-      <lastconfirm>2025-08-09T20:32:13+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16801708187</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-08-09T19:13:17+02:00</create>
-      <lastuse>2025-08-09T22:15:30+02:00</lastuse>
-      <lastconfirm>2025-08-09T20:45:30+02:00</lastconfirm>
+      <lastuse>2025-08-09T22:49:42+02:00</lastuse>
+      <lastconfirm>2025-08-09T20:49:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +908,8 @@
     </location>
     <date>
       <create>2025-08-07T13:09:06+02:00</create>
-      <lastuse>2025-08-11T20:07:49+02:00</lastuse>
-      <lastconfirm>2025-08-09T20:07:49+02:00</lastconfirm>
+      <lastuse>2025-08-11T20:46:37+02:00</lastuse>
+      <lastconfirm>2025-08-09T20:46:38+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
