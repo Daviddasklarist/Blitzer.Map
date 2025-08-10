@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16806151408</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>2</quality>
+    <id>16807074662</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
     <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.413761</latitude>
-        <longitude>10.894754</longitude>
+        <latitude>48.416955</latitude>
+        <longitude>10.839551</longitude>
       </point>
     </location>
     <date>
-      <create>2025-08-10T08:18:31+02:00</create>
-      <lastuse>2025-08-10T16:22:33+02:00</lastuse>
-      <lastconfirm>2025-08-10T14:52:34+02:00</lastconfirm>
+      <create>2025-08-10T11:05:37+02:00</create>
+      <lastuse>2025-08-10T16:26:08+02:00</lastuse>
+      <lastconfirm>2025-08-10T14:56:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-08-10T11:19:43+02:00</create>
-      <lastuse>2025-08-10T16:51:21+02:00</lastuse>
-      <lastconfirm>2025-08-10T14:51:22+02:00</lastconfirm>
+      <lastuse>2025-08-10T16:56:32+02:00</lastuse>
+      <lastconfirm>2025-08-10T14:56:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2025-08-10T14:24:05+02:00</create>
-      <lastuse>2025-08-10T16:50:23+02:00</lastuse>
+      <lastuse>2025-08-10T16:24:05+02:00</lastuse>
       <lastconfirm>2025-08-10T14:50:23+02:00</lastconfirm>
     </date>
   </event>
@@ -142,30 +142,6 @@
       <create>2025-08-08T17:23:12+02:00</create>
       <lastuse>2025-08-10T20:48:14+02:00</lastuse>
       <lastconfirm>2025-08-10T12:48:15+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16808340083</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.376149</latitude>
-        <longitude>10.856588</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-10T14:28:37+02:00</create>
-      <lastuse>2025-08-10T15:16:28+02:00</lastuse>
-      <lastconfirm>2025-08-10T14:46:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
