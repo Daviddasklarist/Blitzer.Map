@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16806151408</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413761</latitude>
+        <longitude>10.894754</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-10T08:18:31+02:00</create>
+      <lastuse>2025-08-10T15:42:20+02:00</lastuse>
+      <lastconfirm>2025-08-10T14:27:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16807074662</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416955</latitude>
+        <longitude>10.839551</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-10T11:05:37+02:00</create>
+      <lastuse>2025-08-10T16:27:58+02:00</lastuse>
+      <lastconfirm>2025-08-10T14:27:58+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16807150614</id>
     <type>1</type>
     <speed>120</speed>
@@ -20,32 +68,8 @@
     </location>
     <date>
       <create>2025-08-10T11:19:43+02:00</create>
-      <lastuse>2025-08-10T16:22:04+02:00</lastuse>
-      <lastconfirm>2025-08-10T14:22:06+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16808089499</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Haunstetter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.340148</latitude>
-        <longitude>10.906867</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-10T13:49:37+02:00</create>
-      <lastuse>2025-08-10T15:49:37+02:00</lastuse>
-      <lastconfirm>2025-08-10T14:02:37+02:00</lastconfirm>
+      <lastuse>2025-08-10T16:27:25+02:00</lastuse>
+      <lastconfirm>2025-08-10T14:27:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
