@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16831196851</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418189</latitude>
+        <longitude>10.824849</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-13T08:38:57+02:00</create>
+      <lastuse>2025-08-13T17:17:44+02:00</lastuse>
+      <lastconfirm>2025-08-13T16:02:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16831796313</id>
     <type>6</type>
     <speed></speed>
@@ -20,32 +44,8 @@
     </location>
     <date>
       <create>2025-08-13T10:17:12+02:00</create>
-      <lastuse>2025-08-13T17:27:05+02:00</lastuse>
-      <lastconfirm>2025-08-13T15:57:05+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16832318072</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Karlsbader Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396216</latitude>
-        <longitude>10.913098</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-13T11:39:38+02:00</create>
-      <lastuse>2025-08-13T16:22:28+02:00</lastuse>
-      <lastconfirm>2025-08-13T14:52:28+02:00</lastconfirm>
+      <lastuse>2025-08-13T17:17:51+02:00</lastuse>
+      <lastconfirm>2025-08-13T16:02:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2025-08-13T12:01:59+02:00</create>
-      <lastuse>2025-08-13T17:54:39+02:00</lastuse>
+      <lastuse>2025-08-13T17:24:39+02:00</lastuse>
       <lastconfirm>2025-08-13T15:54:42+02:00</lastconfirm>
     </date>
   </event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-08-08T10:49:56+02:00</create>
-      <lastuse>2025-08-13T23:50:26+02:00</lastuse>
-      <lastconfirm>2025-08-13T15:50:27+02:00</lastconfirm>
+      <lastuse>2025-08-13T23:59:16+02:00</lastuse>
+      <lastconfirm>2025-08-13T15:59:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-08-13T15:14:05+02:00</create>
-      <lastuse>2025-08-13T16:25:01+02:00</lastuse>
-      <lastconfirm>2025-08-13T15:55:03+02:00</lastconfirm>
+      <lastuse>2025-08-13T16:30:36+02:00</lastuse>
+      <lastconfirm>2025-08-13T16:00:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-08-13T15:44:39+02:00</create>
-      <lastuse>2025-08-13T16:25:09+02:00</lastuse>
-      <lastconfirm>2025-08-13T15:55:09+02:00</lastconfirm>
+      <lastuse>2025-08-13T16:31:37+02:00</lastuse>
+      <lastconfirm>2025-08-13T16:01:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +836,8 @@
     </location>
     <date>
       <create>2025-08-04T11:22:06+02:00</create>
-      <lastuse>2025-08-15T13:53:38+02:00</lastuse>
-      <lastconfirm>2025-08-13T13:53:38+02:00</lastconfirm>
+      <lastuse>2025-08-15T15:59:58+02:00</lastuse>
+      <lastconfirm>2025-08-13T15:59:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1078,30 +1078,6 @@
       <create>2025-08-13T13:12:26+02:00</create>
       <lastuse>2025-08-13T23:45:38+02:00</lastuse>
       <lastconfirm>2025-08-13T15:45:39+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16833045445</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.252629</latitude>
-        <longitude>10.868137</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-13T13:26:28+02:00</create>
-      <lastuse>2025-08-13T19:33:33+02:00</lastuse>
-      <lastconfirm>2025-08-13T13:26:28+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
