@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16843267251</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.435339</latitude>
+        <longitude>11.127661</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-14T17:50:46+02:00</create>
+      <lastuse>2025-08-14T21:50:46+02:00</lastuse>
+      <lastconfirm>2025-08-14T19:50:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16789880336</id>
     <type>7</type>
     <speed>70</speed>
@@ -22,30 +46,6 @@
       <create>2025-08-08T10:49:56+02:00</create>
       <lastuse>2025-08-15T03:45:25+02:00</lastuse>
       <lastconfirm>2025-08-14T19:45:26+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16843873154</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.409663</latitude>
-        <longitude>10.629821</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-14T19:24:29+02:00</create>
-      <lastuse>2025-08-14T20:02:22+02:00</lastuse>
-      <lastconfirm>2025-08-14T19:42:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-01-25T18:59:32+01:00</create>
-      <lastuse>2025-08-16T19:12:00+02:00</lastuse>
-      <lastconfirm>2025-08-14T19:12:01+02:00</lastconfirm>
+      <lastuse>2025-08-16T19:47:14+02:00</lastuse>
+      <lastconfirm>2025-08-14T19:47:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
