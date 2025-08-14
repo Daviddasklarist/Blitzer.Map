@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16839083206</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Heumahdstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.308818</latitude>
+        <longitude>10.865092</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-14T06:52:16+02:00</create>
+      <lastuse>2025-08-14T12:32:26+02:00</lastuse>
+      <lastconfirm>2025-08-14T10:32:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16839137010</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,7 +116,7 @@
     </location>
     <date>
       <create>2025-08-14T08:48:58+02:00</create>
-      <lastuse>2025-08-21T09:29:14+02:00</lastuse>
+      <lastuse>2025-08-14T12:48:58+02:00</lastuse>
       <lastconfirm>2025-08-14T09:21:43+02:00</lastconfirm>
     </date>
   </event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-08-08T10:49:56+02:00</create>
-      <lastuse>2025-08-14T18:25:24+02:00</lastuse>
-      <lastconfirm>2025-08-14T10:25:24+02:00</lastconfirm>
+      <lastuse>2025-08-14T18:30:14+02:00</lastuse>
+      <lastconfirm>2025-08-14T10:30:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-08-14T09:34:33+02:00</create>
-      <lastuse>2025-08-14T11:26:06+02:00</lastuse>
-      <lastconfirm>2025-08-14T10:26:06+02:00</lastconfirm>
+      <lastuse>2025-08-14T11:29:40+02:00</lastuse>
+      <lastconfirm>2025-08-14T10:29:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-05-12T08:43:34+02:00</create>
-      <lastuse>2025-08-16T00:01:50+02:00</lastuse>
-      <lastconfirm>2025-05-12T08:43:34+02:00</lastconfirm>
+      <lastuse>2025-08-16T10:26:39+02:00</lastuse>
+      <lastconfirm>2025-08-14T10:26:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-07-28T14:06:55+02:00</create>
-      <lastuse>2025-08-16T07:40:09+02:00</lastuse>
-      <lastconfirm>2025-08-14T07:40:09+02:00</lastconfirm>
+      <lastuse>2025-08-16T10:25:22+02:00</lastuse>
+      <lastconfirm>2025-08-14T10:25:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2025-08-07T13:09:06+02:00</create>
-      <lastuse>2025-08-16T10:16:02+02:00</lastuse>
-      <lastconfirm>2025-08-14T10:16:03+02:00</lastconfirm>
+      <lastuse>2025-08-16T10:27:32+02:00</lastuse>
+      <lastconfirm>2025-08-14T10:27:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
