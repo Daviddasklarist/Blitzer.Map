@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16855903438</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372286</latitude>
+        <longitude>11.099075</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-16T06:17:01+02:00</create>
+      <lastuse>2025-08-16T06:23:00+02:00</lastuse>
+      <lastconfirm>2025-08-16T06:17:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -836,8 +860,8 @@
     </location>
     <date>
       <create>2025-08-13T06:18:56+02:00</create>
-      <lastuse>2025-08-18T04:35:57+02:00</lastuse>
-      <lastconfirm>2025-08-16T04:35:59+02:00</lastconfirm>
+      <lastuse>2025-08-18T06:10:10+02:00</lastuse>
+      <lastconfirm>2025-08-16T06:10:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
