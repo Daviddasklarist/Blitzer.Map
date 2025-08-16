@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16862146154</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86420</zip>
+      <city>Diedorf</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.360032</latitude>
+        <longitude>10.785465</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-16T23:46:19+02:00</create>
+      <lastuse>2025-08-17T08:00:46+02:00</lastuse>
+      <lastconfirm>2025-08-17T00:00:47+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-05-12T08:43:34+02:00</create>
-      <lastuse>2025-08-18T21:31:26+02:00</lastuse>
-      <lastconfirm>2025-08-16T21:31:26+02:00</lastconfirm>
+      <lastuse>2025-08-18T23:56:32+02:00</lastuse>
+      <lastconfirm>2025-08-16T23:56:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-08-04T16:13:22+02:00</create>
-      <lastuse>2025-08-18T22:45:55+02:00</lastuse>
-      <lastconfirm>2025-08-16T22:45:58+02:00</lastconfirm>
+      <lastuse>2025-08-18T23:58:38+02:00</lastuse>
+      <lastconfirm>2025-08-16T23:58:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
