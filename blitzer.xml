@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16858498420</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370589</latitude>
+        <longitude>10.807251</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-16T13:50:44+02:00</create>
+      <lastuse>2025-08-16T19:24:09+02:00</lastuse>
+      <lastconfirm>2025-08-16T17:54:10+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16859841076</id>
     <type>29</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-08-16T17:19:22+02:00</create>
-      <lastuse>2025-08-16T18:22:54+02:00</lastuse>
-      <lastconfirm>2025-08-16T17:52:54+02:00</lastconfirm>
+      <lastuse>2025-08-16T18:27:57+02:00</lastuse>
+      <lastconfirm>2025-08-16T17:57:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +524,8 @@
     </location>
     <date>
       <create>2025-07-28T07:54:29+02:00</create>
-      <lastuse>2025-08-18T17:36:14+02:00</lastuse>
-      <lastconfirm>2025-08-16T17:36:14+02:00</lastconfirm>
+      <lastuse>2025-08-18T17:51:34+02:00</lastuse>
+      <lastconfirm>2025-08-16T17:51:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2025-08-03T12:22:35+02:00</create>
-      <lastuse>2025-08-18T17:16:35+02:00</lastuse>
-      <lastconfirm>2025-08-16T17:16:36+02:00</lastconfirm>
+      <lastuse>2025-08-18T17:52:57+02:00</lastuse>
+      <lastconfirm>2025-08-16T17:52:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +620,8 @@
     </location>
     <date>
       <create>2025-08-04T08:36:45+02:00</create>
-      <lastuse>2025-08-18T17:26:48+02:00</lastuse>
-      <lastconfirm>2025-08-16T17:26:49+02:00</lastconfirm>
+      <lastuse>2025-08-18T17:50:59+02:00</lastuse>
+      <lastconfirm>2025-08-16T17:50:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
