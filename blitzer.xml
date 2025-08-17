@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16869229571</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Ulmer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.380748</latitude>
+        <longitude>10.866103</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-17T20:19:11+02:00</create>
+      <lastuse>2025-08-18T00:05:06+02:00</lastuse>
+      <lastconfirm>2025-08-17T22:05:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16869434756</id>
     <type>2</type>
     <speed></speed>
