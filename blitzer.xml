@@ -76,7 +76,7 @@
     <id>16872418976</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Adelzhausen</city>
@@ -92,8 +92,32 @@
     </location>
     <date>
       <create>2025-08-18T06:01:18+02:00</create>
-      <lastuse>2025-08-18T07:22:03+02:00</lastuse>
-      <lastconfirm>2025-08-18T06:52:03+02:00</lastconfirm>
+      <lastuse>2025-08-18T07:28:52+02:00</lastuse>
+      <lastconfirm>2025-08-18T06:58:53+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16872603182</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.364429</latitude>
+        <longitude>11.120559</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-18T06:36:41+02:00</create>
+      <lastuse>2025-08-18T07:26:45+02:00</lastuse>
+      <lastconfirm>2025-08-18T06:56:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-08-20T06:40:09+02:00</lastuse>
-      <lastconfirm>2025-08-18T06:40:09+02:00</lastconfirm>
+      <lastuse>2025-08-20T06:51:02+02:00</lastuse>
+      <lastconfirm>2025-08-18T06:51:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -793,30 +817,6 @@
     </date>
   </event>
   <event>
-    <id>16760582239</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-HH</state>
-      <street>St.-Johannes-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.266514</latitude>
-        <longitude>10.887552</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-04T21:16:33+02:00</create>
-      <lastuse>2025-08-18T06:53:06+02:00</lastuse>
-      <lastconfirm>2025-08-04T21:16:33+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16782398968</id>
     <type>26</type>
     <speed></speed>
@@ -908,8 +908,8 @@
     </location>
     <date>
       <create>2025-08-13T06:18:56+02:00</create>
-      <lastuse>2025-08-20T06:14:52+02:00</lastuse>
-      <lastconfirm>2025-08-18T06:14:52+02:00</lastconfirm>
+      <lastuse>2025-08-20T06:50:14+02:00</lastuse>
+      <lastconfirm>2025-08-18T06:50:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +956,8 @@
     </location>
     <date>
       <create>2025-08-16T19:21:05+02:00</create>
-      <lastuse>2025-08-20T06:22:12+02:00</lastuse>
-      <lastconfirm>2025-08-18T06:22:12+02:00</lastconfirm>
+      <lastuse>2025-08-20T06:50:42+02:00</lastuse>
+      <lastconfirm>2025-08-18T06:50:42+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
