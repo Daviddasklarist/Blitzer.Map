@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16873735777</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Bressuire-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.341826</latitude>
+        <longitude>10.988347</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-18T09:48:31+02:00</create>
+      <lastuse>2025-08-18T18:11:36+02:00</lastuse>
+      <lastconfirm>2025-08-18T16:11:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16874799971</id>
     <type>1</type>
     <speed>30</speed>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2025-08-03T12:31:21+02:00</create>
-      <lastuse>2025-08-20T15:42:53+02:00</lastuse>
-      <lastconfirm>2025-08-18T15:42:55+02:00</lastconfirm>
+      <lastuse>2025-08-20T16:09:21+02:00</lastuse>
+      <lastconfirm>2025-08-18T16:09:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-08-04T16:13:22+02:00</create>
-      <lastuse>2025-08-20T15:58:59+02:00</lastuse>
-      <lastconfirm>2025-08-18T15:59:00+02:00</lastconfirm>
+      <lastuse>2025-08-20T16:07:15+02:00</lastuse>
+      <lastconfirm>2025-08-18T16:07:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-08-13T06:18:56+02:00</create>
-      <lastuse>2025-08-20T07:56:36+02:00</lastuse>
-      <lastconfirm>2025-08-13T06:18:56+02:00</lastconfirm>
+      <lastuse>2025-08-20T16:08:14+02:00</lastuse>
+      <lastconfirm>2025-08-18T16:08:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
