@@ -28,7 +28,7 @@
     <id>16889214752</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86165</zip>
       <city>Augsburg</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-08-20T06:20:29+02:00</create>
-      <lastuse>2025-08-20T08:49:55+02:00</lastuse>
-      <lastconfirm>2025-08-20T07:49:56+02:00</lastconfirm>
+      <lastuse>2025-08-20T09:59:33+02:00</lastuse>
+      <lastconfirm>2025-08-20T07:59:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +100,7 @@
     <id>16889548143</id>
     <type>6</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -117,7 +117,31 @@
     <date>
       <create>2025-08-20T07:25:31+02:00</create>
       <lastuse>2025-08-20T11:25:31+02:00</lastuse>
-      <lastconfirm>2025-08-20T07:57:38+02:00</lastconfirm>
+      <lastconfirm>2025-08-20T08:00:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16889717676</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401475</latitude>
+        <longitude>10.986658</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-20T07:56:07+02:00</create>
+      <lastuse>2025-08-20T09:16:24+02:00</lastuse>
+      <lastconfirm>2025-08-20T08:01:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-08-19T07:55:57+02:00</create>
-      <lastuse>2025-08-20T11:57:59+02:00</lastuse>
-      <lastconfirm>2025-08-20T07:58:00+02:00</lastconfirm>
+      <lastuse>2025-08-20T12:02:33+02:00</lastuse>
+      <lastconfirm>2025-08-20T08:02:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-05-12T08:43:34+02:00</create>
-      <lastuse>2025-08-22T06:46:40+02:00</lastuse>
-      <lastconfirm>2025-08-20T06:46:40+02:00</lastconfirm>
+      <lastuse>2025-08-22T07:57:07+02:00</lastuse>
+      <lastconfirm>2025-08-20T07:57:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -625,6 +649,30 @@
     </date>
   </event>
   <event>
+    <id>16683180281</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Zeppelinstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.334608</latitude>
+        <longitude>10.905816</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-26T09:55:33+02:00</create>
+      <lastuse>2025-08-22T07:59:52+02:00</lastuse>
+      <lastconfirm>2025-08-20T07:59:52+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16698599918</id>
     <type>26</type>
     <speed></speed>
@@ -668,8 +716,8 @@
     </location>
     <date>
       <create>2025-07-28T14:06:55+02:00</create>
-      <lastuse>2025-08-22T06:45:24+02:00</lastuse>
-      <lastconfirm>2025-08-20T06:45:26+02:00</lastconfirm>
+      <lastuse>2025-08-22T07:55:27+02:00</lastuse>
+      <lastconfirm>2025-08-20T07:55:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +788,8 @@
     </location>
     <date>
       <create>2025-08-04T08:36:45+02:00</create>
-      <lastuse>2025-08-22T06:00:45+02:00</lastuse>
-      <lastconfirm>2025-08-20T06:00:46+02:00</lastconfirm>
+      <lastuse>2025-08-22T07:56:27+02:00</lastuse>
+      <lastconfirm>2025-08-20T07:56:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1052,8 @@
     </location>
     <date>
       <create>2025-08-18T18:50:31+02:00</create>
-      <lastuse>2025-08-22T06:46:04+02:00</lastuse>
-      <lastconfirm>2025-08-20T06:46:05+02:00</lastconfirm>
+      <lastuse>2025-08-22T07:56:25+02:00</lastuse>
+      <lastconfirm>2025-08-20T07:56:26+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
