@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16894860927</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Ulmer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.381577</latitude>
+        <longitude>10.872868</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-20T22:00:35+02:00</create>
+      <lastuse>2025-08-21T01:19:32+02:00</lastuse>
+      <lastconfirm>2025-08-20T23:19:32+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16881461411</id>
     <type>7</type>
     <speed>0</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-08-19T07:55:57+02:00</create>
-      <lastuse>2025-08-21T03:14:14+02:00</lastuse>
-      <lastconfirm>2025-08-20T23:14:14+02:00</lastconfirm>
+      <lastuse>2025-08-21T03:22:26+02:00</lastuse>
+      <lastconfirm>2025-08-20T23:22:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2025-08-20T18:08:00+02:00</create>
-      <lastuse>2025-08-21T07:14:25+02:00</lastuse>
-      <lastconfirm>2025-08-20T23:14:27+02:00</lastconfirm>
+      <lastuse>2025-08-21T07:15:34+02:00</lastuse>
+      <lastconfirm>2025-08-20T23:15:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
