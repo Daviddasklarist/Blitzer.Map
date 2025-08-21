@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-08-21T06:53:47+02:00</create>
-      <lastuse>2025-08-21T10:53:47+02:00</lastuse>
-      <lastconfirm>2025-08-21T08:55:51+02:00</lastconfirm>
+      <lastuse>2025-08-21T11:06:41+02:00</lastuse>
+      <lastconfirm>2025-08-21T09:06:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +93,31 @@
     <date>
       <create>2025-08-21T07:09:11+02:00</create>
       <lastuse>2025-08-21T11:09:11+02:00</lastuse>
-      <lastconfirm>2025-08-21T09:03:32+02:00</lastconfirm>
+      <lastconfirm>2025-08-21T09:06:26+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16897875399</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86163</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Zugspitzstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.359346</latitude>
+        <longitude>10.941138</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-21T08:00:07+02:00</create>
+      <lastuse>2025-08-21T11:07:28+02:00</lastuse>
+      <lastconfirm>2025-08-21T09:07:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -117,7 +141,7 @@
     <date>
       <create>2025-08-21T08:49:51+02:00</create>
       <lastuse>2025-08-21T12:49:51+02:00</lastuse>
-      <lastconfirm>2025-08-21T09:02:13+02:00</lastconfirm>
+      <lastconfirm>2025-08-21T09:06:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-08-19T07:55:57+02:00</create>
-      <lastuse>2025-08-21T13:03:01+02:00</lastuse>
-      <lastconfirm>2025-08-21T09:03:02+02:00</lastconfirm>
+      <lastuse>2025-08-21T13:07:17+02:00</lastuse>
+      <lastconfirm>2025-08-21T09:07:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -214,30 +238,6 @@
       <create>2025-08-21T07:44:00+02:00</create>
       <lastuse>2025-08-21T11:02:37+02:00</lastuse>
       <lastconfirm>2025-08-21T09:02:37+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16898141822</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.401728</latitude>
-        <longitude>10.983018</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-21T08:47:34+02:00</create>
-      <lastuse>2025-08-21T09:25:17+02:00</lastuse>
-      <lastconfirm>2025-08-21T08:55:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +908,8 @@
     </location>
     <date>
       <create>2025-08-04T16:30:08+02:00</create>
-      <lastuse>2025-08-23T07:33:00+02:00</lastuse>
-      <lastconfirm>2025-08-21T07:33:01+02:00</lastconfirm>
+      <lastuse>2025-08-23T09:00:04+02:00</lastuse>
+      <lastconfirm>2025-08-21T09:00:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1150,6 +1150,30 @@
       <create>2025-08-20T21:16:00+02:00</create>
       <lastuse>2025-08-23T08:07:55+02:00</lastuse>
       <lastconfirm>2025-08-21T08:07:56+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16898152765</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400343</latitude>
+        <longitude>11.005277</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-21T08:49:12+02:00</create>
+      <lastuse>2025-08-21T17:04:06+02:00</lastuse>
+      <lastconfirm>2025-08-21T09:04:06+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
