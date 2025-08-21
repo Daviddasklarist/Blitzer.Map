@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16881461411</id>
+    <type>7</type>
+    <speed>0</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409432</latitude>
+        <longitude>10.923039</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-19T07:55:57+02:00</create>
+      <lastuse>2025-08-22T01:04:57+02:00</lastuse>
+      <lastconfirm>2025-08-21T22:04:57+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16882382062</id>
     <type>7</type>
     <speed>30</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-08-21T19:03:10+02:00</create>
-      <lastuse>2025-08-22T01:23:19+02:00</lastuse>
-      <lastconfirm>2025-08-21T21:53:20+02:00</lastconfirm>
+      <lastuse>2025-08-22T01:06:32+02:00</lastuse>
+      <lastconfirm>2025-08-21T22:06:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1028,32 @@
     </location>
     <date>
       <create>2025-08-21T14:34:19+02:00</create>
-      <lastuse>2025-08-23T21:48:48+02:00</lastuse>
-      <lastconfirm>2025-08-21T21:48:48+02:00</lastconfirm>
+      <lastuse>2025-08-23T13:48:48+02:00</lastuse>
+      <lastconfirm>2025-08-21T14:34:19+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16903068007</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.387223</latitude>
+        <longitude>11.076554</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-21T21:54:30+02:00</create>
+      <lastuse>2025-08-22T06:04:04+02:00</lastuse>
+      <lastconfirm>2025-08-21T22:04:05+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
