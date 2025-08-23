@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16915490714</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401615</latitude>
+        <longitude>10.983897</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-23T11:34:01+02:00</create>
+      <lastuse>2025-08-23T22:12:14+02:00</lastuse>
+      <lastconfirm>2025-08-23T20:57:15+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16881461411</id>
     <type>7</type>
     <speed>0</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-08-19T07:55:57+02:00</create>
-      <lastuse>2025-08-24T00:51:50+02:00</lastuse>
-      <lastconfirm>2025-08-23T20:51:51+02:00</lastconfirm>
+      <lastuse>2025-08-24T00:57:31+02:00</lastuse>
+      <lastconfirm>2025-08-23T20:57:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-08-19T10:28:01+02:00</create>
-      <lastuse>2025-08-24T03:21:06+02:00</lastuse>
-      <lastconfirm>2025-08-23T19:21:08+02:00</lastconfirm>
+      <lastuse>2025-08-24T04:55:34+02:00</lastuse>
+      <lastconfirm>2025-08-23T20:55:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-08-21T04:41:06+02:00</create>
-      <lastuse>2025-08-24T04:52:12+02:00</lastuse>
-      <lastconfirm>2025-08-23T20:52:14+02:00</lastconfirm>
+      <lastuse>2025-08-24T04:57:24+02:00</lastuse>
+      <lastconfirm>2025-08-23T20:57:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +716,8 @@
     </location>
     <date>
       <create>2025-08-04T16:13:22+02:00</create>
-      <lastuse>2025-08-25T20:37:54+02:00</lastuse>
-      <lastconfirm>2025-08-23T20:37:55+02:00</lastconfirm>
+      <lastuse>2025-08-25T20:51:07+02:00</lastuse>
+      <lastconfirm>2025-08-23T20:51:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
