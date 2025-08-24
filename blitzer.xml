@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16922340808</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413870</latitude>
+        <longitude>10.895080</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-24T08:02:23+02:00</create>
+      <lastuse>2025-08-24T18:03:33+02:00</lastuse>
+      <lastconfirm>2025-08-24T16:48:33+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16922922510</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-08-24T09:57:02+02:00</create>
-      <lastuse>2025-08-24T18:42:07+02:00</lastuse>
-      <lastconfirm>2025-08-24T16:42:07+02:00</lastconfirm>
+      <lastuse>2025-08-24T18:17:48+02:00</lastuse>
+      <lastconfirm>2025-08-24T16:47:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-08-19T07:55:57+02:00</create>
-      <lastuse>2025-08-24T20:42:45+02:00</lastuse>
-      <lastconfirm>2025-08-24T16:42:46+02:00</lastconfirm>
+      <lastuse>2025-08-24T20:47:28+02:00</lastuse>
+      <lastconfirm>2025-08-24T16:47:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-08-24T16:08:56+02:00</create>
-      <lastuse>2025-08-24T17:08:18+02:00</lastuse>
-      <lastconfirm>2025-08-24T16:38:19+02:00</lastconfirm>
+      <lastuse>2025-08-24T17:16:15+02:00</lastuse>
+      <lastconfirm>2025-08-24T16:46:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-08-24T16:16:28+02:00</create>
-      <lastuse>2025-08-24T17:12:08+02:00</lastuse>
-      <lastconfirm>2025-08-24T16:42:09+02:00</lastconfirm>
+      <lastuse>2025-08-24T17:17:03+02:00</lastuse>
+      <lastconfirm>2025-08-24T16:47:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-08-24T16:16:28+02:00</create>
-      <lastuse>2025-08-24T17:12:10+02:00</lastuse>
-      <lastconfirm>2025-08-24T16:42:11+02:00</lastconfirm>
+      <lastuse>2025-08-24T17:17:04+02:00</lastuse>
+      <lastconfirm>2025-08-24T16:47:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-08-24T16:16:28+02:00</create>
-      <lastuse>2025-08-24T17:02:26+02:00</lastuse>
-      <lastconfirm>2025-08-24T16:32:26+02:00</lastconfirm>
+      <lastuse>2025-08-24T17:18:11+02:00</lastuse>
+      <lastconfirm>2025-08-24T16:48:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +980,8 @@
     </location>
     <date>
       <create>2025-08-13T06:18:56+02:00</create>
-      <lastuse>2025-08-26T16:01:45+02:00</lastuse>
-      <lastconfirm>2025-08-24T16:01:46+02:00</lastconfirm>
+      <lastuse>2025-08-26T16:42:50+02:00</lastuse>
+      <lastconfirm>2025-08-24T16:42:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
