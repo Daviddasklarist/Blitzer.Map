@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16929725340</id>
+    <id>16929741539</id>
     <type>1</type>
     <speed>50</speed>
     <quality>2</quality>
     <address>
-      <zip>86153</zip>
+      <zip>86156</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Berliner Allee</street>
+      <street>Neusässer Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.377939</latitude>
-        <longitude>10.908209</longitude>
+        <latitude>48.385014</latitude>
+        <longitude>10.844121</longitude>
       </point>
     </location>
     <date>
-      <create>2025-08-25T06:08:43+02:00</create>
-      <lastuse>2025-08-25T11:45:45+02:00</lastuse>
-      <lastconfirm>2025-08-25T10:15:46+02:00</lastconfirm>
+      <create>2025-08-25T06:10:23+02:00</create>
+      <lastuse>2025-08-25T11:58:29+02:00</lastuse>
+      <lastconfirm>2025-08-25T10:28:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -69,7 +69,31 @@
     <date>
       <create>2025-08-25T08:18:53+02:00</create>
       <lastuse>2025-08-25T12:18:53+02:00</lastuse>
-      <lastconfirm>2025-08-25T10:27:35+02:00</lastconfirm>
+      <lastconfirm>2025-08-25T10:31:37+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16931115455</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370637</latitude>
+        <longitude>10.806786</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-25T10:10:02+02:00</create>
+      <lastuse>2025-08-25T14:10:02+02:00</lastuse>
+      <lastconfirm>2025-08-25T10:32:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-08-19T07:55:57+02:00</create>
-      <lastuse>2025-08-25T14:26:32+02:00</lastuse>
-      <lastconfirm>2025-08-25T10:26:33+02:00</lastconfirm>
+      <lastuse>2025-08-25T14:32:52+02:00</lastuse>
+      <lastconfirm>2025-08-25T10:32:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
