@@ -69,7 +69,7 @@
     <date>
       <create>2025-08-27T08:42:15+02:00</create>
       <lastuse>2025-08-27T12:42:15+02:00</lastuse>
-      <lastconfirm>2025-08-27T10:37:56+02:00</lastconfirm>
+      <lastconfirm>2025-08-27T10:41:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-08-27T10:03:28+02:00</create>
-      <lastuse>2025-08-27T10:59:13+02:00</lastuse>
-      <lastconfirm>2025-08-27T10:29:14+02:00</lastconfirm>
+      <lastuse>2025-08-27T11:11:53+02:00</lastuse>
+      <lastconfirm>2025-08-27T10:41:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2025-08-04T16:30:08+02:00</create>
-      <lastuse>2025-08-29T10:16:16+02:00</lastuse>
-      <lastconfirm>2025-08-27T10:16:17+02:00</lastconfirm>
+      <lastuse>2025-08-29T10:36:06+02:00</lastuse>
+      <lastconfirm>2025-08-27T10:36:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +980,32 @@
     </location>
     <date>
       <create>2025-08-25T19:51:37+02:00</create>
-      <lastuse>2025-08-29T09:39:45+02:00</lastuse>
-      <lastconfirm>2025-08-27T09:39:45+02:00</lastconfirm>
+      <lastuse>2025-08-29T10:38:23+02:00</lastuse>
+      <lastconfirm>2025-08-27T10:38:23+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16947015382</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418416</latitude>
+        <longitude>10.823606</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-27T09:49:45+02:00</create>
+      <lastuse>2025-08-27T18:39:22+02:00</lastuse>
+      <lastconfirm>2025-08-27T10:39:23+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
