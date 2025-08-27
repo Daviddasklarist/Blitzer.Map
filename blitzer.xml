@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-08-27T08:42:15+02:00</create>
-      <lastuse>2025-08-27T14:26:57+02:00</lastuse>
-      <lastconfirm>2025-08-27T12:26:57+02:00</lastconfirm>
+      <lastuse>2025-08-27T14:30:34+02:00</lastuse>
+      <lastconfirm>2025-08-27T12:30:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-08-27T10:27:01+02:00</create>
-      <lastuse>2025-08-27T14:27:04+02:00</lastuse>
-      <lastconfirm>2025-08-27T12:27:04+02:00</lastconfirm>
+      <lastuse>2025-08-27T14:31:44+02:00</lastuse>
+      <lastconfirm>2025-08-27T12:31:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -124,7 +124,7 @@
     <id>16947755489</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -140,8 +140,32 @@
     </location>
     <date>
       <create>2025-08-27T11:50:25+02:00</create>
-      <lastuse>2025-08-27T14:26:34+02:00</lastuse>
+      <lastuse>2025-08-27T13:56:34+02:00</lastuse>
       <lastconfirm>2025-08-27T12:26:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16881461411</id>
+    <type>7</type>
+    <speed>0</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409432</latitude>
+        <longitude>10.923039</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-19T07:55:57+02:00</create>
+      <lastuse>2025-08-27T14:59:05+02:00</lastuse>
+      <lastconfirm>2025-08-27T12:29:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-08-27T11:28:21+02:00</create>
-      <lastuse>2025-08-27T12:43:21+02:00</lastuse>
-      <lastconfirm>2025-08-27T12:23:21+02:00</lastconfirm>
+      <lastuse>2025-08-27T12:52:47+02:00</lastuse>
+      <lastconfirm>2025-08-27T12:32:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2025-06-07T21:02:30+02:00</create>
-      <lastuse>2025-08-29T12:01:37+02:00</lastuse>
-      <lastconfirm>2025-08-27T12:01:38+02:00</lastconfirm>
+      <lastuse>2025-08-29T12:27:29+02:00</lastuse>
+      <lastconfirm>2025-08-27T12:27:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-08-29T12:19:20+02:00</lastuse>
-      <lastconfirm>2025-08-27T12:19:20+02:00</lastconfirm>
+      <lastuse>2025-08-29T12:26:49+02:00</lastuse>
+      <lastconfirm>2025-08-27T12:26:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1054,30 +1078,6 @@
       <create>2025-08-25T19:51:37+02:00</create>
       <lastuse>2025-08-29T10:38:23+02:00</lastuse>
       <lastconfirm>2025-08-27T10:38:23+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16947373917</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.382363</latitude>
-        <longitude>11.083745</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-27T10:47:58+02:00</create>
-      <lastuse>2025-08-27T17:42:48+02:00</lastuse>
-      <lastconfirm>2025-08-27T10:47:58+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
