@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16951645348</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86438</zip>
+      <city>Kissing</city>
+      <state>DE-BY</state>
+      <street>Meringer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.315344</latitude>
+        <longitude>10.960819</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-27T22:22:36+02:00</create>
+      <lastuse>2025-08-28T00:47:53+02:00</lastuse>
+      <lastconfirm>2025-08-27T22:47:53+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16951476484</id>
     <type>21</type>
     <speed></speed>
