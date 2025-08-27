@@ -68,8 +68,56 @@
     </location>
     <date>
       <create>2025-08-27T08:42:15+02:00</create>
-      <lastuse>2025-08-27T12:42:15+02:00</lastuse>
-      <lastconfirm>2025-08-27T10:41:44+02:00</lastconfirm>
+      <lastuse>2025-08-27T12:46:45+02:00</lastuse>
+      <lastconfirm>2025-08-27T10:46:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16947241605</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337325</latitude>
+        <longitude>10.904735</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-27T10:27:01+02:00</create>
+      <lastuse>2025-08-27T12:43:39+02:00</lastuse>
+      <lastconfirm>2025-08-27T10:43:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16881461411</id>
+    <type>7</type>
+    <speed>0</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409432</latitude>
+        <longitude>10.923039</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-19T07:55:57+02:00</create>
+      <lastuse>2025-08-27T10:41:07+02:00</lastuse>
+      <lastconfirm>2025-08-27T10:45:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -982,30 +1030,6 @@
       <create>2025-08-25T19:51:37+02:00</create>
       <lastuse>2025-08-29T10:38:23+02:00</lastuse>
       <lastconfirm>2025-08-27T10:38:23+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16947015382</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.418416</latitude>
-        <longitude>10.823606</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-27T09:49:45+02:00</create>
-      <lastuse>2025-08-27T18:39:22+02:00</lastuse>
-      <lastconfirm>2025-08-27T10:39:23+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
