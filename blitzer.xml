@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-08-27T10:27:01+02:00</create>
-      <lastuse>2025-09-03T13:39:37+02:00</lastuse>
+      <lastuse>2025-08-27T14:27:01+02:00</lastuse>
       <lastconfirm>2025-08-27T13:26:24+02:00</lastconfirm>
     </date>
   </event>
@@ -52,7 +52,7 @@
     <id>16947741186</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2025-08-27T11:49:29+02:00</create>
-      <lastuse>2025-08-27T14:56:39+02:00</lastuse>
+      <lastuse>2025-08-27T14:49:29+02:00</lastuse>
       <lastconfirm>2025-08-27T13:26:40+02:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-08-27T11:50:25+02:00</create>
-      <lastuse>2025-08-27T15:40:06+02:00</lastuse>
-      <lastconfirm>2025-08-27T13:40:08+02:00</lastconfirm>
+      <lastuse>2025-08-27T15:47:55+02:00</lastuse>
+      <lastconfirm>2025-08-27T13:47:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2025-08-04T16:13:22+02:00</create>
-      <lastuse>2025-08-29T13:00:43+02:00</lastuse>
-      <lastconfirm>2025-08-27T13:00:43+02:00</lastconfirm>
+      <lastuse>2025-08-29T05:40:24+02:00</lastuse>
+      <lastconfirm>2025-08-04T16:13:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +716,8 @@
     </location>
     <date>
       <create>2025-08-04T16:30:08+02:00</create>
-      <lastuse>2025-08-29T13:26:44+02:00</lastuse>
-      <lastconfirm>2025-08-27T13:26:45+02:00</lastconfirm>
+      <lastuse>2025-08-29T13:41:45+02:00</lastuse>
+      <lastconfirm>2025-08-27T13:41:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1006,6 +1006,30 @@
       <create>2025-08-25T19:51:37+02:00</create>
       <lastuse>2025-08-29T13:11:09+02:00</lastuse>
       <lastconfirm>2025-08-27T13:11:09+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16948474188</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86676</zip>
+      <city>Ehekirchen</city>
+      <state>DE-HH</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.638553</latitude>
+        <longitude>11.105567</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-26T09:28:19+02:00</create>
+      <lastuse>2025-09-03T07:32:32+02:00</lastuse>
+      <lastconfirm>2025-08-26T09:28:19+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
