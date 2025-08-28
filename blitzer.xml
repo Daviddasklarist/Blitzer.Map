@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-08-28T22:55:14+02:00</create>
-      <lastuse>2025-08-28T23:50:32+02:00</lastuse>
-      <lastconfirm>2025-08-28T23:20:32+02:00</lastconfirm>
+      <lastuse>2025-08-28T23:54:02+02:00</lastuse>
+      <lastconfirm>2025-08-28T23:24:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,32 @@
     </location>
     <date>
       <create>2025-08-28T23:08:47+02:00</create>
-      <lastuse>2025-08-28T23:51:17+02:00</lastuse>
-      <lastconfirm>2025-08-28T23:21:17+02:00</lastconfirm>
+      <lastuse>2025-08-28T23:57:07+02:00</lastuse>
+      <lastconfirm>2025-08-28T23:27:08+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16960105777</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.389406</latitude>
+        <longitude>11.073332</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-28T23:13:48+02:00</create>
+      <lastuse>2025-08-28T23:57:01+02:00</lastuse>
+      <lastconfirm>2025-08-28T23:27:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1006,6 +1030,30 @@
       <create>2025-08-28T16:43:35+02:00</create>
       <lastuse>2025-08-30T21:57:29+02:00</lastuse>
       <lastconfirm>2025-08-28T21:57:30+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16959814686</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-HH</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.392969</latitude>
+        <longitude>11.066408</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-28T22:18:33+02:00</create>
+      <lastuse>2025-08-29T07:20:43+02:00</lastuse>
+      <lastconfirm>2025-08-28T23:20:43+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
