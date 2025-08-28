@@ -52,7 +52,7 @@
     <id>16955945716</id>
     <type>1</type>
     <speed>20</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86150</zip>
       <city>Augsburg</city>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-08-28T12:03:32+02:00</create>
-      <lastuse>2025-08-28T15:20:51+02:00</lastuse>
-      <lastconfirm>2025-08-28T13:20:51+02:00</lastconfirm>
+      <lastuse>2025-08-28T16:39:40+02:00</lastuse>
+      <lastconfirm>2025-08-28T14:39:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-08-28T08:28:11+02:00</create>
-      <lastuse>2025-08-28T15:04:50+02:00</lastuse>
-      <lastconfirm>2025-08-28T14:34:50+02:00</lastconfirm>
+      <lastuse>2025-08-28T15:12:58+02:00</lastuse>
+      <lastconfirm>2025-08-28T14:42:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-08-28T13:29:46+02:00</create>
-      <lastuse>2025-08-28T15:04:20+02:00</lastuse>
-      <lastconfirm>2025-08-28T14:34:21+02:00</lastconfirm>
+      <lastuse>2025-08-28T15:09:10+02:00</lastuse>
+      <lastconfirm>2025-08-28T14:39:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -175,20 +175,20 @@
     <quality>3</quality>
     <address>
       <zip>86169</zip>
-      <city>Friedberg</city>
+      <city>Augsburg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.408298</latitude>
-        <longitude>10.929963</longitude>
+        <latitude>48.408821</latitude>
+        <longitude>10.926831</longitude>
       </point>
     </location>
     <date>
       <create>2025-08-28T14:26:02+02:00</create>
-      <lastuse>2025-08-28T14:42:00+02:00</lastuse>
+      <lastuse>2025-08-28T14:48:00+02:00</lastuse>
       <lastconfirm>2025-08-28T14:26:02+02:00</lastconfirm>
     </date>
   </event>
@@ -212,7 +212,7 @@
     </location>
     <date>
       <create>2025-08-28T14:36:02+02:00</create>
-      <lastuse>2025-08-28T14:42:00+02:00</lastuse>
+      <lastuse>2025-08-28T14:48:00+02:00</lastuse>
       <lastconfirm>2025-08-28T14:36:02+02:00</lastconfirm>
     </date>
   </event>
@@ -668,8 +668,8 @@
     </location>
     <date>
       <create>2025-07-28T14:06:55+02:00</create>
-      <lastuse>2025-08-30T14:21:29+02:00</lastuse>
-      <lastconfirm>2025-08-28T14:21:30+02:00</lastconfirm>
+      <lastuse>2025-08-30T06:21:29+02:00</lastuse>
+      <lastconfirm>2025-07-28T14:06:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +764,8 @@
     </location>
     <date>
       <create>2025-08-04T12:14:46+02:00</create>
-      <lastuse>2025-08-30T14:32:52+02:00</lastuse>
-      <lastconfirm>2025-08-28T14:32:52+02:00</lastconfirm>
+      <lastuse>2025-08-30T14:39:09+02:00</lastuse>
+      <lastconfirm>2025-08-28T14:39:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1150,30 +1150,6 @@
       <create>2025-08-27T22:28:06+02:00</create>
       <lastuse>2025-08-30T06:47:15+02:00</lastuse>
       <lastconfirm>2025-08-28T06:47:17+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16956231708</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Adelzhausen</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.358648</latitude>
-        <longitude>11.128879</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-28T12:47:30+02:00</create>
-      <lastuse>2025-08-28T18:29:17+02:00</lastuse>
-      <lastconfirm>2025-08-28T12:47:30+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
