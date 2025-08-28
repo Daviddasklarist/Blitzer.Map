@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>16955510763</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.462040</latitude>
-        <longitude>10.880080</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-28T08:28:11+02:00</create>
-      <lastuse>2025-08-28T20:25:57+02:00</lastuse>
-      <lastconfirm>2025-08-28T19:55:57+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>16957872841</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2025-08-28T17:01:59+02:00</create>
-      <lastuse>2025-08-28T20:27:13+02:00</lastuse>
+      <lastuse>2025-08-28T20:17:13+02:00</lastuse>
       <lastconfirm>2025-08-28T19:57:14+02:00</lastconfirm>
     </date>
   </event>
@@ -404,8 +380,8 @@
     </location>
     <date>
       <create>2025-07-07T07:31:31+02:00</create>
-      <lastuse>2025-08-30T19:40:26+02:00</lastuse>
-      <lastconfirm>2025-08-28T19:40:26+02:00</lastconfirm>
+      <lastuse>2025-08-30T19:55:53+02:00</lastuse>
+      <lastconfirm>2025-08-28T19:55:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +692,8 @@
     </location>
     <date>
       <create>2025-08-13T06:18:56+02:00</create>
-      <lastuse>2025-08-30T19:44:51+02:00</lastuse>
-      <lastconfirm>2025-08-28T19:44:52+02:00</lastconfirm>
+      <lastuse>2025-08-30T19:59:24+02:00</lastuse>
+      <lastconfirm>2025-08-28T19:59:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -814,30 +790,6 @@
       <create>2025-08-18T18:50:31+02:00</create>
       <lastuse>2025-08-30T17:56:03+02:00</lastuse>
       <lastconfirm>2025-08-28T17:56:04+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16884076893</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Butzstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.340367</latitude>
-        <longitude>10.862181</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-19T14:54:21+02:00</create>
-      <lastuse>2025-08-29T01:49:07+02:00</lastuse>
-      <lastconfirm>2025-08-19T14:54:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
