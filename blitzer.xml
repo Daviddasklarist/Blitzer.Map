@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16962374816</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86415</zip>
+      <city>Mering</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.273761</latitude>
+        <longitude>10.982574</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-29T06:49:47+02:00</create>
+      <lastuse>2025-08-29T09:03:45+02:00</lastuse>
+      <lastconfirm>2025-08-29T07:03:47+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16962388495</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-08-29T06:50:35+02:00</create>
-      <lastuse>2025-08-29T09:02:10+02:00</lastuse>
+      <lastuse>2025-08-29T08:50:35+02:00</lastuse>
       <lastconfirm>2025-08-29T07:02:11+02:00</lastconfirm>
     </date>
   </event>
@@ -28,7 +52,7 @@
     <id>16962388497</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -45,31 +69,7 @@
     <date>
       <create>2025-08-29T06:51:01+02:00</create>
       <lastuse>2025-08-29T09:51:01+02:00</lastuse>
-      <lastconfirm>2025-08-29T06:55:18+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16962117464</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Adelzhausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.358750</latitude>
-        <longitude>11.128630</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-29T05:56:15+02:00</create>
-      <lastuse>2025-08-29T08:03:22+02:00</lastuse>
-      <lastconfirm>2025-08-29T07:03:23+02:00</lastconfirm>
+      <lastconfirm>2025-08-29T07:04:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>16962315629</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.283625</latitude>
+        <longitude>10.872399</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-29T06:36:25+02:00</create>
+      <lastuse>2025-08-29T08:05:21+02:00</lastuse>
+      <lastconfirm>2025-08-29T07:05:22+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16962199385</id>
     <type>20</type>
     <speed></speed>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-08-29T06:14:36+02:00</create>
-      <lastuse>2025-08-29T08:00:10+02:00</lastuse>
-      <lastconfirm>2025-08-29T07:00:11+02:00</lastconfirm>
+      <lastuse>2025-08-29T08:07:29+02:00</lastuse>
+      <lastconfirm>2025-08-29T07:07:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-08-29T06:15:36+02:00</create>
-      <lastuse>2025-08-29T07:54:59+02:00</lastuse>
-      <lastconfirm>2025-08-29T06:55:00+02:00</lastconfirm>
+      <lastuse>2025-08-29T08:07:40+02:00</lastuse>
+      <lastconfirm>2025-08-29T07:07:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +980,8 @@
     </location>
     <date>
       <create>2025-08-22T20:14:04+02:00</create>
-      <lastuse>2025-08-31T05:09:25+02:00</lastuse>
-      <lastconfirm>2025-08-29T05:09:25+02:00</lastconfirm>
+      <lastuse>2025-08-31T07:02:19+02:00</lastuse>
+      <lastconfirm>2025-08-29T07:02:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
