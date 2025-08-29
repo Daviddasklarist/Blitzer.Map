@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16965508897</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403320</latitude>
+        <longitude>10.920452</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-29T15:25:08+02:00</create>
+      <lastuse>2025-08-29T17:32:26+02:00</lastuse>
+      <lastconfirm>2025-08-29T15:32:26+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16965518263</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.406085</latitude>
+        <longitude>10.943800</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-29T15:27:38+02:00</create>
+      <lastuse>2025-08-29T16:02:16+02:00</lastuse>
+      <lastconfirm>2025-08-29T15:32:17+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16964945010</id>
     <type>20</type>
     <speed></speed>
@@ -548,8 +596,8 @@
     </location>
     <date>
       <create>2025-08-04T12:14:46+02:00</create>
-      <lastuse>2025-08-31T15:19:13+02:00</lastuse>
-      <lastconfirm>2025-08-29T15:19:13+02:00</lastconfirm>
+      <lastuse>2025-08-31T15:25:14+02:00</lastuse>
+      <lastconfirm>2025-08-29T15:25:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +764,8 @@
     </location>
     <date>
       <create>2025-08-16T19:21:05+02:00</create>
-      <lastuse>2025-08-29T16:09:21+02:00</lastuse>
-      <lastconfirm>2025-08-29T07:25:02+02:00</lastconfirm>
+      <lastuse>2025-08-30T00:09:21+02:00</lastuse>
+      <lastconfirm>2025-08-29T15:25:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
