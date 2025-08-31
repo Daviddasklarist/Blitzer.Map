@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16978370606</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.415050</latitude>
+        <longitude>10.664415</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-31T05:32:57+02:00</create>
+      <lastuse>2025-08-31T06:13:59+02:00</lastuse>
+      <lastconfirm>2025-08-31T05:43:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
