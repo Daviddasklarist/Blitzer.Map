@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16979602232</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.356896</latitude>
+        <longitude>10.850997</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-31T09:43:11+02:00</create>
+      <lastuse>2025-08-31T11:53:38+02:00</lastuse>
+      <lastconfirm>2025-08-31T09:53:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16979624684</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362029</latitude>
+        <longitude>10.852730</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-31T09:47:22+02:00</create>
+      <lastuse>2025-08-31T11:53:49+02:00</lastuse>
+      <lastconfirm>2025-08-31T09:53:50+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>16979302715</id>
     <type>23</type>
     <speed></speed>
@@ -20,8 +68,8 @@
     </location>
     <date>
       <create>2025-08-31T08:43:33+02:00</create>
-      <lastuse>2025-08-31T10:17:16+02:00</lastuse>
-      <lastconfirm>2025-08-31T09:47:16+02:00</lastconfirm>
+      <lastuse>2025-08-31T10:21:10+02:00</lastuse>
+      <lastconfirm>2025-08-31T09:51:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -46,6 +94,30 @@
       <create>2025-08-31T09:04:38+02:00</create>
       <lastuse>2025-08-31T10:16:33+02:00</lastuse>
       <lastconfirm>2025-08-31T09:46:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16979576735</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396066</latitude>
+        <longitude>11.036630</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-31T09:38:28+02:00</create>
+      <lastuse>2025-08-31T10:23:27+02:00</lastuse>
+      <lastconfirm>2025-08-31T09:53:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
