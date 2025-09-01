@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>16984946529</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86415</zip>
+      <city>Mering</city>
+      <state>DE-BY</state>
+      <street>Hörmannsberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.274161</latitude>
+        <longitude>10.991219</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-01T01:15:23+02:00</create>
+      <lastuse>2025-09-01T12:33:50+02:00</lastuse>
+      <lastconfirm>2025-09-01T04:33:50+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
