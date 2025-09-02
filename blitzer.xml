@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-09-02T05:47:12+02:00</create>
-      <lastuse>2025-09-02T11:35:08+02:00</lastuse>
-      <lastconfirm>2025-09-02T09:35:09+02:00</lastconfirm>
+      <lastuse>2025-09-02T11:49:37+02:00</lastuse>
+      <lastconfirm>2025-09-02T09:49:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,6 +121,30 @@
     </date>
   </event>
   <event>
+    <id>17104915986</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Aurnhammer-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.336742</latitude>
+        <longitude>10.867625</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-02T07:33:10+02:00</create>
+      <lastuse>2025-09-02T11:49:15+02:00</lastuse>
+      <lastconfirm>2025-09-02T09:49:16+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17105088898</id>
     <type>1</type>
     <speed>50</speed>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-09-02T09:18:44+02:00</create>
-      <lastuse>2025-09-02T11:44:00+02:00</lastuse>
-      <lastconfirm>2025-09-02T09:44:01+02:00</lastconfirm>
+      <lastuse>2025-09-02T11:52:20+02:00</lastuse>
+      <lastconfirm>2025-09-02T09:52:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-08-04T12:14:46+02:00</create>
-      <lastuse>2025-09-04T08:47:52+02:00</lastuse>
-      <lastconfirm>2025-09-02T08:47:52+02:00</lastconfirm>
+      <lastuse>2025-09-04T09:45:44+02:00</lastuse>
+      <lastconfirm>2025-09-02T09:45:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1108,7 +1132,7 @@
     <id>16964224802</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86637</zip>
       <city>Wertingen</city>
@@ -1124,8 +1148,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-09-04T00:10:44+02:00</lastuse>
-      <lastconfirm>2025-08-29T12:08:52+02:00</lastconfirm>
+      <lastuse>2025-09-04T09:46:53+02:00</lastuse>
+      <lastconfirm>2025-09-02T09:46:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1225,10 +1249,34 @@
     </date>
   </event>
   <event>
-    <id>17105565839</id>
+    <id>17105506416</id>
     <type>22</type>
     <speed></speed>
     <quality>2</quality>
+    <address>
+      <zip>89434</zip>
+      <city>Blindheim</city>
+      <state>DE-HH</state>
+      <street>B16</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.642493</latitude>
+        <longitude>10.615958</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-02T09:13:09+02:00</create>
+      <lastuse>2025-09-02T17:46:22+02:00</lastuse>
+      <lastconfirm>2025-09-02T09:46:22+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17105565839</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -1244,8 +1292,8 @@
     </location>
     <date>
       <create>2025-09-02T09:23:27+02:00</create>
-      <lastuse>2025-09-02T17:41:20+02:00</lastuse>
-      <lastconfirm>2025-09-02T09:41:21+02:00</lastconfirm>
+      <lastuse>2025-09-02T17:47:03+02:00</lastuse>
+      <lastconfirm>2025-09-02T09:47:03+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
