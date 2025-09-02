@@ -1,102 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17104380388</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Berliner Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.377785</latitude>
-        <longitude>10.908460</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-02T05:47:12+02:00</create>
-      <lastuse>2025-09-02T11:35:18+02:00</lastuse>
-      <lastconfirm>2025-09-02T10:05:19+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17104454957</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Neuburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.399678</latitude>
-        <longitude>10.913460</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-02T06:03:25+02:00</create>
-      <lastuse>2025-09-02T10:33:03+02:00</lastuse>
-      <lastconfirm>2025-09-02T09:33:04+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17104543524</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86157</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.362397</latitude>
-        <longitude>10.869217</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-02T06:20:15+02:00</create>
-      <lastuse>2025-09-02T10:30:39+02:00</lastuse>
-      <lastconfirm>2025-09-02T09:30:40+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17104601095</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86420</zip>
-      <city>Diedorf</city>
-      <state>DE-BY</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374613</latitude>
-        <longitude>10.764022</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-02T06:33:26+02:00</create>
-      <lastuse>2025-09-02T10:33:26+02:00</lastuse>
-      <lastconfirm>2025-09-02T09:07:49+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17104830068</id>
     <type>1</type>
     <speed>50</speed>
@@ -169,54 +73,6 @@
     </date>
   </event>
   <event>
-    <id>17105528741</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Berliner Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.371679</latitude>
-        <longitude>10.921783</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-02T09:18:44+02:00</create>
-      <lastuse>2025-09-09T10:17:19+02:00</lastuse>
-      <lastconfirm>2025-09-02T10:01:17+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17105428107</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.366868</latitude>
-        <longitude>11.114189</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-02T09:00:22+02:00</create>
-      <lastuse>2025-09-02T10:41:13+02:00</lastuse>
-      <lastconfirm>2025-09-02T10:21:15+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17105724724</id>
     <type>29</type>
     <speed></speed>
@@ -236,8 +92,8 @@
     </location>
     <date>
       <create>2025-09-02T09:50:52+02:00</create>
-      <lastuse>2025-09-02T10:55:08+02:00</lastuse>
-      <lastconfirm>2025-09-02T10:25:09+02:00</lastconfirm>
+      <lastuse>2025-09-02T11:02:39+02:00</lastuse>
+      <lastconfirm>2025-09-02T10:32:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +572,8 @@
     </location>
     <date>
       <create>2025-07-28T14:06:55+02:00</create>
-      <lastuse>2025-09-04T10:09:38+02:00</lastuse>
-      <lastconfirm>2025-09-02T10:09:40+02:00</lastconfirm>
+      <lastuse>2025-09-04T10:26:44+02:00</lastuse>
+      <lastconfirm>2025-09-02T10:26:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
