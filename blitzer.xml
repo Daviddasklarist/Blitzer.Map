@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17117332158</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383656</latitude>
+        <longitude>10.858485</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-03T18:47:47+02:00</create>
+      <lastuse>2025-09-03T21:12:23+02:00</lastuse>
+      <lastconfirm>2025-09-03T19:12:24+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17105940262</id>
     <type>7</type>
     <speed>30</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-09-03T17:44:22+02:00</create>
-      <lastuse>2025-09-03T19:38:50+02:00</lastuse>
-      <lastconfirm>2025-09-03T19:08:50+02:00</lastconfirm>
+      <lastuse>2025-09-03T19:42:27+02:00</lastuse>
+      <lastconfirm>2025-09-03T19:12:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-09-05T18:53:43+02:00</lastuse>
-      <lastconfirm>2025-09-03T18:53:45+02:00</lastconfirm>
+      <lastuse>2025-09-05T19:06:25+02:00</lastuse>
+      <lastconfirm>2025-09-03T19:06:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2025-08-04T16:13:22+02:00</create>
-      <lastuse>2025-09-05T19:01:08+02:00</lastuse>
-      <lastconfirm>2025-09-03T19:01:08+02:00</lastconfirm>
+      <lastuse>2025-09-05T19:05:58+02:00</lastuse>
+      <lastconfirm>2025-09-03T19:05:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
