@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17128999147</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Rumplerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337380</latitude>
-        <longitude>10.902093</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-05T06:16:33+02:00</create>
-      <lastuse>2025-09-05T12:00:14+02:00</lastuse>
-      <lastconfirm>2025-09-05T11:00:15+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17129105501</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,15 +44,39 @@
     </location>
     <date>
       <create>2025-09-05T07:31:33+02:00</create>
-      <lastuse>2025-09-05T13:00:51+02:00</lastuse>
-      <lastconfirm>2025-09-05T11:00:52+02:00</lastconfirm>
+      <lastuse>2025-09-05T13:03:11+02:00</lastuse>
+      <lastconfirm>2025-09-05T11:03:12+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17129508828</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.393432</latitude>
+        <longitude>11.066191</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-05T07:55:15+02:00</create>
+      <lastuse>2025-09-05T12:35:22+02:00</lastuse>
+      <lastconfirm>2025-09-05T11:05:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17129758085</id>
     <type>2</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2025-09-05T08:41:28+02:00</create>
-      <lastuse>2025-09-05T12:48:48+02:00</lastuse>
+      <lastuse>2025-09-05T12:18:48+02:00</lastuse>
       <lastconfirm>2025-09-05T10:48:49+02:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-09-05T10:24:34+02:00</create>
-      <lastuse>2025-09-05T11:32:21+02:00</lastuse>
-      <lastconfirm>2025-09-05T11:02:22+02:00</lastconfirm>
+      <lastuse>2025-09-05T11:38:41+02:00</lastuse>
+      <lastconfirm>2025-09-05T11:08:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
