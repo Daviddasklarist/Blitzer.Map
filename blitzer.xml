@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17137327903</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.353780</latitude>
+        <longitude>10.854408</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-06T06:26:18+02:00</create>
+      <lastuse>2025-09-06T09:26:18+02:00</lastuse>
+      <lastconfirm>2025-09-06T06:32:26+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17105940262</id>
     <type>7</type>
     <speed>30</speed>
