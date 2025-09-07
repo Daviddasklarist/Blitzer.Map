@@ -25,34 +25,10 @@
     </date>
   </event>
   <event>
-    <id>17147970922</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.404195</latitude>
-        <longitude>10.953839</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-07T15:07:17+02:00</create>
-      <lastuse>2025-09-07T19:07:17+02:00</lastuse>
-      <lastconfirm>2025-09-07T16:32:09+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17148214561</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -69,7 +45,7 @@
     <date>
       <create>2025-09-07T15:49:31+02:00</create>
       <lastuse>2025-09-07T19:49:31+02:00</lastuse>
-      <lastconfirm>2025-09-07T16:30:58+02:00</lastconfirm>
+      <lastconfirm>2025-09-07T16:38:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +69,7 @@
     <date>
       <create>2025-09-07T15:51:22+02:00</create>
       <lastuse>2025-09-07T19:51:22+02:00</lastuse>
-      <lastconfirm>2025-09-07T16:31:31+02:00</lastconfirm>
+      <lastconfirm>2025-09-07T16:36:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,15 +140,15 @@
     </location>
     <date>
       <create>2025-09-07T15:42:23+02:00</create>
-      <lastuse>2025-09-07T16:57:11+02:00</lastuse>
-      <lastconfirm>2025-09-07T16:27:11+02:00</lastconfirm>
+      <lastuse>2025-09-07T17:07:13+02:00</lastuse>
+      <lastconfirm>2025-09-07T16:37:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17148318973</id>
     <type>23</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -188,8 +164,32 @@
     </location>
     <date>
       <create>2025-09-07T16:06:16+02:00</create>
-      <lastuse>2025-09-07T16:48:03+02:00</lastuse>
-      <lastconfirm>2025-09-07T16:28:03+02:00</lastconfirm>
+      <lastuse>2025-09-07T17:06:33+02:00</lastuse>
+      <lastconfirm>2025-09-07T16:36:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17148377555</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401201</latitude>
+        <longitude>10.992718</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-07T16:16:36+02:00</create>
+      <lastuse>2025-09-07T17:04:00+02:00</lastuse>
+      <lastconfirm>2025-09-07T16:34:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +668,8 @@
     </location>
     <date>
       <create>2025-08-04T12:14:46+02:00</create>
-      <lastuse>2025-09-09T15:25:00+02:00</lastuse>
-      <lastconfirm>2025-09-07T15:25:00+02:00</lastconfirm>
+      <lastuse>2025-09-09T16:33:44+02:00</lastuse>
+      <lastconfirm>2025-09-07T16:33:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1172,8 +1172,8 @@
     </location>
     <date>
       <create>2025-09-06T11:42:43+02:00</create>
-      <lastuse>2025-09-09T16:21:29+02:00</lastuse>
-      <lastconfirm>2025-09-07T16:21:30+02:00</lastconfirm>
+      <lastuse>2025-09-09T16:31:18+02:00</lastuse>
+      <lastconfirm>2025-09-07T16:31:19+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
