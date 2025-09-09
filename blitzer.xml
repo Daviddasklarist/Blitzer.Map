@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-09-09T06:48:00+02:00</create>
-      <lastuse>2025-09-09T10:19:45+02:00</lastuse>
-      <lastconfirm>2025-09-09T08:19:45+02:00</lastconfirm>
+      <lastuse>2025-09-09T10:41:16+02:00</lastuse>
+      <lastconfirm>2025-09-09T08:41:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-09-09T07:35:59+02:00</create>
-      <lastuse>2025-09-09T10:37:14+02:00</lastuse>
-      <lastconfirm>2025-09-09T08:37:14+02:00</lastconfirm>
+      <lastuse>2025-09-09T10:42:06+02:00</lastuse>
+      <lastconfirm>2025-09-09T08:42:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-09-09T07:41:23+02:00</create>
-      <lastuse>2025-09-09T09:36:26+02:00</lastuse>
-      <lastconfirm>2025-09-09T08:36:26+02:00</lastconfirm>
+      <lastuse>2025-09-09T09:42:37+02:00</lastuse>
+      <lastconfirm>2025-09-09T08:42:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,12 +188,12 @@
     </location>
     <date>
       <create>2025-09-09T07:49:27+02:00</create>
-      <lastuse>2025-09-09T09:02:52+02:00</lastuse>
-      <lastconfirm>2025-09-09T08:32:54+02:00</lastconfirm>
+      <lastuse>2025-09-09T09:12:11+02:00</lastuse>
+      <lastconfirm>2025-09-09T08:42:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17161351651</id>
+    <id>17161405983</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -206,14 +206,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.417403</latitude>
-        <longitude>10.749999</longitude>
+        <latitude>48.417075</latitude>
+        <longitude>10.741653</longitude>
       </point>
     </location>
     <date>
-      <create>2025-09-09T08:31:03+02:00</create>
-      <lastuse>2025-09-09T08:42:00+02:00</lastuse>
-      <lastconfirm>2025-09-09T08:31:03+02:00</lastconfirm>
+      <create>2025-09-09T08:40:02+02:00</create>
+      <lastuse>2025-09-09T08:47:00+02:00</lastuse>
+      <lastconfirm>2025-09-09T08:40:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17161410677</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414596</latitude>
+        <longitude>10.869365</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-09T08:41:03+02:00</create>
+      <lastuse>2025-09-09T08:47:00+02:00</lastuse>
+      <lastconfirm>2025-09-09T08:41:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2025-08-13T06:18:56+02:00</create>
-      <lastuse>2025-09-11T08:31:56+02:00</lastuse>
-      <lastconfirm>2025-09-09T08:31:57+02:00</lastconfirm>
+      <lastuse>2025-09-11T08:37:58+02:00</lastuse>
+      <lastconfirm>2025-09-09T08:37:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1318,6 +1342,30 @@
       <create>2025-09-09T06:50:40+02:00</create>
       <lastuse>2025-09-11T08:14:06+02:00</lastuse>
       <lastconfirm>2025-09-09T08:14:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17161218664</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86485</zip>
+      <city>Biberbach</city>
+      <state>DE-HH</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.528408</latitude>
+        <longitude>10.773483</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-09T08:07:35+02:00</create>
+      <lastuse>2025-09-09T16:38:45+02:00</lastuse>
+      <lastconfirm>2025-09-09T08:38:45+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
