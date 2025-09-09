@@ -4,7 +4,7 @@
     <id>17162484537</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -14,14 +14,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.337575</latitude>
-        <longitude>10.902150</longitude>
+        <latitude>48.337468</latitude>
+        <longitude>10.902311</longitude>
       </point>
     </location>
     <date>
       <create>2025-09-09T11:42:34+02:00</create>
-      <lastuse>2025-09-09T16:12:21+02:00</lastuse>
-      <lastconfirm>2025-09-09T14:12:21+02:00</lastconfirm>
+      <lastuse>2025-09-09T16:17:24+02:00</lastuse>
+      <lastconfirm>2025-09-09T14:17:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +100,7 @@
     <id>17162827660</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2025-09-09T12:39:24+02:00</create>
-      <lastuse>2025-09-09T16:07:16+02:00</lastuse>
+      <lastuse>2025-09-09T15:37:16+02:00</lastuse>
       <lastconfirm>2025-09-09T14:07:17+02:00</lastconfirm>
     </date>
   </event>
@@ -142,6 +142,30 @@
       <create>2025-09-09T10:27:26+02:00</create>
       <lastuse>2025-09-09T21:49:34+02:00</lastuse>
       <lastconfirm>2025-09-09T13:49:35+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17163404091</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418736</latitude>
+        <longitude>10.773291</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-09T14:12:46+02:00</create>
+      <lastuse>2025-09-09T14:46:56+02:00</lastuse>
+      <lastconfirm>2025-09-09T14:16:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
