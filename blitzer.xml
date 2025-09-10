@@ -25,30 +25,6 @@
     </date>
   </event>
   <event>
-    <id>17168854385</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86674</zip>
-      <city>Baar</city>
-      <state>DE-BY</state>
-      <street>Aichacher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.589471</latitude>
-        <longitude>10.959842</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-10T06:59:11+02:00</create>
-      <lastuse>2025-09-10T10:58:52+02:00</lastuse>
-      <lastconfirm>2025-09-10T08:58:52+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17168897269</id>
     <type>1</type>
     <speed>30</speed>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2025-09-10T09:33:20+02:00</create>
-      <lastuse>2025-09-10T11:27:58+02:00</lastuse>
-      <lastconfirm>2025-09-10T10:57:58+02:00</lastconfirm>
+      <lastuse>2025-09-10T11:32:45+02:00</lastuse>
+      <lastconfirm>2025-09-10T11:02:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +812,8 @@
     </location>
     <date>
       <create>2025-08-13T06:18:56+02:00</create>
-      <lastuse>2025-09-12T09:50:52+02:00</lastuse>
-      <lastconfirm>2025-09-10T09:50:52+02:00</lastconfirm>
+      <lastuse>2025-09-12T10:58:15+02:00</lastuse>
+      <lastconfirm>2025-09-10T10:58:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1148,8 +1124,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-09-12T00:10:56+02:00</lastuse>
-      <lastconfirm>2025-09-01T13:08:14+02:00</lastconfirm>
+      <lastuse>2025-09-12T10:56:50+02:00</lastuse>
+      <lastconfirm>2025-09-10T10:56:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1414,6 +1390,30 @@
       <create>2025-09-10T09:16:14+02:00</create>
       <lastuse>2025-09-10T18:36:58+02:00</lastuse>
       <lastconfirm>2025-09-10T10:36:58+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17170189086</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Nordendorf</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.585725</latitude>
+        <longitude>10.840738</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-10T10:49:20+02:00</create>
+      <lastuse>2025-09-10T18:59:44+02:00</lastuse>
+      <lastconfirm>2025-09-10T10:59:44+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
