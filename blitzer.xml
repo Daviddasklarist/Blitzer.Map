@@ -169,6 +169,30 @@
     </date>
   </event>
   <event>
+    <id>17179386934</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.412531</latitude>
+        <longitude>10.655866</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-11T13:42:59+02:00</create>
+      <lastuse>2025-09-11T14:28:51+02:00</lastuse>
+      <lastconfirm>2025-09-11T13:58:52+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -1148,8 +1172,8 @@
     </location>
     <date>
       <create>2025-09-09T06:50:40+02:00</create>
-      <lastuse>2025-09-13T11:10:19+02:00</lastuse>
-      <lastconfirm>2025-09-11T11:10:20+02:00</lastconfirm>
+      <lastuse>2025-09-13T13:53:38+02:00</lastuse>
+      <lastconfirm>2025-09-11T13:53:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1270,6 +1294,30 @@
       <create>2025-09-10T16:39:39+02:00</create>
       <lastuse>2025-09-13T03:49:04+02:00</lastuse>
       <lastconfirm>2025-09-10T16:39:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17179183734</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400557</latitude>
+        <longitude>10.920507</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-11T13:06:56+02:00</create>
+      <lastuse>2025-09-11T21:52:24+02:00</lastuse>
+      <lastconfirm>2025-09-11T13:52:25+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
