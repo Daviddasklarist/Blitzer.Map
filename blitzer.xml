@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>17181362839</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418957</latitude>
+        <longitude>10.773993</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-11T18:55:13+02:00</create>
+      <lastuse>2025-09-11T19:35:36+02:00</lastuse>
+      <lastconfirm>2025-09-11T19:05:36+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-08-03T12:22:35+02:00</create>
-      <lastuse>2025-09-13T17:50:27+02:00</lastuse>
-      <lastconfirm>2025-09-11T17:50:28+02:00</lastconfirm>
+      <lastuse>2025-09-13T19:01:25+02:00</lastuse>
+      <lastconfirm>2025-09-11T19:01:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-08-20T21:16:00+02:00</create>
-      <lastuse>2025-09-13T17:57:46+02:00</lastuse>
-      <lastconfirm>2025-09-11T17:57:47+02:00</lastconfirm>
+      <lastuse>2025-09-13T19:03:41+02:00</lastuse>
+      <lastconfirm>2025-09-11T19:03:42+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1174,6 +1198,30 @@
       <create>2025-09-11T16:10:37+02:00</create>
       <lastuse>2025-09-12T02:56:47+02:00</lastuse>
       <lastconfirm>2025-09-11T18:56:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17181045078</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Müllerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377530</latitude>
+        <longitude>10.900787</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-11T18:04:33+02:00</create>
+      <lastuse>2025-09-12T03:03:43+02:00</lastuse>
+      <lastconfirm>2025-09-11T19:03:44+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
