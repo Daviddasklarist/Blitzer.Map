@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17176230521</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schillstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385422</latitude>
+        <longitude>10.907822</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-11T04:21:54+02:00</create>
+      <lastuse>2025-09-11T07:39:54+02:00</lastuse>
+      <lastconfirm>2025-09-11T05:39:55+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17176558366</id>
     <type>1</type>
     <speed>80</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -21,7 +45,7 @@
     <date>
       <create>2025-09-11T05:30:22+02:00</create>
       <lastuse>2025-09-11T07:30:22+02:00</lastuse>
-      <lastconfirm>2025-09-11T05:38:15+02:00</lastconfirm>
+      <lastconfirm>2025-09-11T05:39:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
