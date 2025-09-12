@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17189940679</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86672</zip>
-      <city>Thierhaupten</city>
-      <state>DE-BY</state>
-      <street>Meitinger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.568673</latitude>
-        <longitude>10.902558</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-12T20:36:50+02:00</create>
-      <lastuse>2025-09-12T23:50:20+02:00</lastuse>
-      <lastconfirm>2025-09-12T22:20:21+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17162033550</id>
     <type>7</type>
     <speed>50</speed>
@@ -484,7 +460,7 @@
     <id>16848520828</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2025-08-15T09:35:56+02:00</create>
-      <lastuse>2025-09-14T23:23:58+02:00</lastuse>
-      <lastconfirm>2025-09-12T23:23:59+02:00</lastconfirm>
+      <lastuse>2025-09-14T15:23:58+02:00</lastuse>
+      <lastconfirm>2025-08-15T09:35:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +668,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-09-14T14:38:06+02:00</lastuse>
-      <lastconfirm>2025-08-29T12:08:52+02:00</lastconfirm>
+      <lastuse>2025-09-14T23:40:03+02:00</lastuse>
+      <lastconfirm>2025-09-12T23:40:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
