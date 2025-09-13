@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17193308018</id>
-    <type>1</type>
-    <speed>0</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417116</latitude>
-        <longitude>10.837420</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-13T07:59:51+02:00</create>
-      <lastuse>2025-09-13T16:36:58+02:00</lastuse>
-      <lastconfirm>2025-09-13T15:06:58+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17195199393</id>
     <type>1</type>
     <speed>120</speed>
@@ -44,15 +20,15 @@
     </location>
     <date>
       <create>2025-09-13T13:51:44+02:00</create>
-      <lastuse>2025-09-13T16:36:24+02:00</lastuse>
-      <lastconfirm>2025-09-13T15:06:24+02:00</lastconfirm>
+      <lastuse>2025-09-13T17:12:34+02:00</lastuse>
+      <lastconfirm>2025-09-13T15:12:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17195202732</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86507</zip>
       <city>Kleinaitingen</city>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-09-13T13:52:31+02:00</create>
-      <lastuse>2025-09-13T16:32:16+02:00</lastuse>
-      <lastconfirm>2025-09-13T15:02:16+02:00</lastconfirm>
+      <lastuse>2025-09-13T16:38:24+02:00</lastuse>
+      <lastconfirm>2025-09-13T15:08:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-09-13T14:26:06+02:00</create>
-      <lastuse>2025-09-13T15:31:06+02:00</lastuse>
-      <lastconfirm>2025-09-13T15:01:06+02:00</lastconfirm>
+      <lastuse>2025-09-13T15:41:58+02:00</lastuse>
+      <lastconfirm>2025-09-13T15:11:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,15 +164,15 @@
     </location>
     <date>
       <create>2025-09-13T14:30:08+02:00</create>
-      <lastuse>2025-09-13T16:02:29+02:00</lastuse>
-      <lastconfirm>2025-09-13T15:02:30+02:00</lastconfirm>
+      <lastuse>2025-09-13T16:09:31+02:00</lastuse>
+      <lastconfirm>2025-09-13T15:09:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17195554031</id>
     <type>23</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Friedberg</city>
@@ -212,15 +188,15 @@
     </location>
     <date>
       <create>2025-09-13T14:53:06+02:00</create>
-      <lastuse>2025-09-13T15:37:40+02:00</lastuse>
-      <lastconfirm>2025-09-13T15:07:40+02:00</lastconfirm>
+      <lastuse>2025-09-13T15:40:55+02:00</lastuse>
+      <lastconfirm>2025-09-13T15:10:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17195576906</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2025-09-13T14:56:03+02:00</create>
-      <lastuse>2025-09-13T15:22:52+02:00</lastuse>
-      <lastconfirm>2025-09-13T15:07:53+02:00</lastconfirm>
+      <lastuse>2025-09-13T15:23:37+02:00</lastuse>
+      <lastconfirm>2025-09-13T15:08:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -254,13 +230,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.398566</latitude>
-        <longitude>11.019555</longitude>
+        <latitude>48.398154</latitude>
+        <longitude>11.021044</longitude>
       </point>
     </location>
     <date>
       <create>2025-09-13T15:00:03+02:00</create>
-      <lastuse>2025-09-13T15:12:00+02:00</lastuse>
+      <lastuse>2025-09-13T15:18:00+02:00</lastuse>
       <lastconfirm>2025-09-13T15:00:03+02:00</lastconfirm>
     </date>
   </event>
@@ -884,8 +860,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-09-15T14:16:08+02:00</lastuse>
-      <lastconfirm>2025-09-13T14:16:09+02:00</lastconfirm>
+      <lastuse>2025-09-15T15:07:54+02:00</lastuse>
+      <lastconfirm>2025-09-13T15:07:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1196,8 +1172,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-09-15T15:04:24+02:00</lastuse>
-      <lastconfirm>2025-09-13T15:04:25+02:00</lastconfirm>
+      <lastuse>2025-09-15T15:09:45+02:00</lastuse>
+      <lastconfirm>2025-09-13T15:09:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
