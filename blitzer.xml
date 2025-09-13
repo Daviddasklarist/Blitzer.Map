@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17195199393</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.229832</latitude>
+        <longitude>10.866732</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-13T13:51:44+02:00</create>
+      <lastuse>2025-09-13T21:41:47+02:00</lastuse>
+      <lastconfirm>2025-09-13T19:41:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17196971796</id>
     <type>1</type>
     <speed>120</speed>
@@ -21,7 +45,7 @@
     <date>
       <create>2025-09-13T19:02:46+02:00</create>
       <lastuse>2025-09-13T23:02:46+02:00</lastuse>
-      <lastconfirm>2025-09-13T19:34:52+02:00</lastconfirm>
+      <lastconfirm>2025-09-13T19:43:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -70,30 +94,6 @@
       <create>2025-09-12T11:20:40+02:00</create>
       <lastuse>2025-09-14T02:37:50+02:00</lastuse>
       <lastconfirm>2025-09-13T18:37:52+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17196888196</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.316290</latitude>
-        <longitude>10.886422</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-13T18:47:10+02:00</create>
-      <lastuse>2025-09-13T19:39:15+02:00</lastuse>
-      <lastconfirm>2025-09-13T19:19:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-09-15T18:21:36+02:00</lastuse>
-      <lastconfirm>2025-09-13T18:21:36+02:00</lastconfirm>
+      <lastuse>2025-09-15T19:37:19+02:00</lastuse>
+      <lastconfirm>2025-09-13T19:37:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +860,8 @@
     </location>
     <date>
       <create>2025-09-08T10:39:58+02:00</create>
-      <lastuse>2025-09-15T11:36:06+02:00</lastuse>
-      <lastconfirm>2025-09-13T11:36:06+02:00</lastconfirm>
+      <lastuse>2025-09-15T19:37:56+02:00</lastuse>
+      <lastconfirm>2025-09-13T19:37:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +980,8 @@
     </location>
     <date>
       <create>2025-09-10T08:14:43+02:00</create>
-      <lastuse>2025-09-15T18:02:17+02:00</lastuse>
-      <lastconfirm>2025-09-13T18:02:17+02:00</lastconfirm>
+      <lastuse>2025-09-15T19:36:27+02:00</lastuse>
+      <lastconfirm>2025-09-13T19:36:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1036,7 +1036,7 @@
     <id>17188383281</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -1052,7 +1052,7 @@
     </location>
     <date>
       <create>2025-09-12T16:17:41+02:00</create>
-      <lastuse>2025-09-15T03:03:21+02:00</lastuse>
+      <lastuse>2025-09-14T19:03:21+02:00</lastuse>
       <lastconfirm>2025-09-12T16:17:41+02:00</lastconfirm>
     </date>
   </event>
