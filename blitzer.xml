@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17202663831</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.497071</latitude>
-        <longitude>10.860269</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-14T13:42:07+02:00</create>
-      <lastuse>2025-09-14T18:42:51+02:00</lastuse>
-      <lastconfirm>2025-09-14T16:42:53+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17162033550</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-09-09T10:27:26+02:00</create>
-      <lastuse>2025-09-15T00:30:38+02:00</lastuse>
-      <lastconfirm>2025-09-14T16:30:38+02:00</lastconfirm>
+      <lastuse>2025-09-15T00:43:33+02:00</lastuse>
+      <lastconfirm>2025-09-14T16:43:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +52,7 @@
     <id>17203608245</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86477</zip>
       <city>Adelsried</city>
@@ -92,7 +68,7 @@
     </location>
     <date>
       <create>2025-09-14T16:26:46+02:00</create>
-      <lastuse>2025-09-14T17:09:21+02:00</lastuse>
+      <lastuse>2025-09-14T16:59:21+02:00</lastuse>
       <lastconfirm>2025-09-14T16:39:21+02:00</lastconfirm>
     </date>
   </event>
