@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2025-09-15T09:58:53+02:00</create>
-      <lastuse>2025-09-15T13:06:28+02:00</lastuse>
+      <lastuse>2025-09-15T12:36:28+02:00</lastuse>
       <lastconfirm>2025-09-15T11:36:29+02:00</lastconfirm>
     </date>
   </event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-09-15T11:54:54+02:00</create>
-      <lastuse>2025-09-15T14:25:21+02:00</lastuse>
-      <lastconfirm>2025-09-15T12:25:22+02:00</lastconfirm>
+      <lastuse>2025-09-15T14:28:07+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:28:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>17209929561</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Pferseer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365562</latitude>
+        <longitude>10.880771</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-15T12:13:02+02:00</create>
+      <lastuse>2025-09-15T14:31:20+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:31:20+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17162033550</id>
     <type>7</type>
     <speed>50</speed>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-09-09T10:27:26+02:00</create>
-      <lastuse>2025-09-15T20:17:21+02:00</lastuse>
-      <lastconfirm>2025-09-15T12:17:21+02:00</lastconfirm>
+      <lastuse>2025-09-15T20:28:46+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:28:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2025-08-04T12:14:46+02:00</create>
-      <lastuse>2025-09-17T12:07:26+02:00</lastuse>
-      <lastconfirm>2025-09-15T12:07:28+02:00</lastconfirm>
+      <lastuse>2025-09-17T12:29:16+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:29:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1030,6 +1054,30 @@
       <create>2025-09-11T18:04:33+02:00</create>
       <lastuse>2025-09-17T12:15:20+02:00</lastuse>
       <lastconfirm>2025-09-15T12:15:20+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17209271231</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409772</latitude>
+        <longitude>10.590693</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-15T10:16:40+02:00</create>
+      <lastuse>2025-09-15T18:26:16+02:00</lastuse>
+      <lastconfirm>2025-09-15T10:16:40+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
