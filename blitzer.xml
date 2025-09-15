@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>17209541689</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Sauerbruchstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.306711</latitude>
+        <longitude>10.915740</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-15T11:05:22+02:00</create>
+      <lastuse>2025-09-15T14:58:10+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:58:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17209727179</id>
     <type>1</type>
     <speed>50</speed>
@@ -49,10 +73,34 @@
     </date>
   </event>
   <event>
+    <id>17209730659</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wellenburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.338243</latitude>
+        <longitude>10.858311</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-15T11:39:39+02:00</create>
+      <lastuse>2025-09-15T14:58:58+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:58:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17209817521</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86356</zip>
       <city>Neusäß</city>
@@ -68,15 +116,15 @@
     </location>
     <date>
       <create>2025-09-15T11:54:54+02:00</create>
-      <lastuse>2025-09-15T14:57:04+02:00</lastuse>
-      <lastconfirm>2025-09-15T12:57:06+02:00</lastconfirm>
+      <lastuse>2025-09-15T13:59:40+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:59:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17209866755</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -92,8 +140,8 @@
     </location>
     <date>
       <create>2025-09-15T12:01:30+02:00</create>
-      <lastuse>2025-09-15T14:50:02+02:00</lastuse>
-      <lastconfirm>2025-09-15T12:50:03+02:00</lastconfirm>
+      <lastuse>2025-09-15T14:58:25+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:58:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +380,8 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-09-17T12:30:55+02:00</lastuse>
-      <lastconfirm>2025-09-15T12:30:56+02:00</lastconfirm>
+      <lastuse>2025-09-17T12:59:52+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:59:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1124,8 @@
     </location>
     <date>
       <create>2025-09-15T12:07:19+02:00</create>
-      <lastuse>2025-09-15T20:52:12+02:00</lastuse>
-      <lastconfirm>2025-09-15T12:52:13+02:00</lastconfirm>
+      <lastuse>2025-09-15T20:55:14+02:00</lastuse>
+      <lastconfirm>2025-09-15T12:55:14+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
