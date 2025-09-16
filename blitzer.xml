@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17215107113</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Hans-Böckler-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.385608</latitude>
-        <longitude>10.907189</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-16T04:20:57+02:00</create>
-      <lastuse>2025-09-16T07:38:21+02:00</lastuse>
-      <lastconfirm>2025-09-16T06:08:22+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17215591043</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-09-16T06:09:18+02:00</create>
-      <lastuse>2025-09-16T08:17:59+02:00</lastuse>
-      <lastconfirm>2025-09-16T06:18:00+02:00</lastconfirm>
+      <lastuse>2025-09-16T08:22:02+02:00</lastuse>
+      <lastconfirm>2025-09-16T06:22:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -69,7 +45,7 @@
     <date>
       <create>2025-09-16T06:09:39+02:00</create>
       <lastuse>2025-09-16T09:09:39+02:00</lastuse>
-      <lastconfirm>2025-09-16T06:18:01+02:00</lastconfirm>
+      <lastconfirm>2025-09-16T06:21:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +260,8 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-09-18T05:48:46+02:00</lastuse>
-      <lastconfirm>2025-09-16T05:48:47+02:00</lastconfirm>
+      <lastuse>2025-09-18T06:15:05+02:00</lastuse>
+      <lastconfirm>2025-09-16T06:15:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2025-08-04T12:14:46+02:00</create>
-      <lastuse>2025-09-18T03:22:20+02:00</lastuse>
-      <lastconfirm>2025-09-16T03:22:22+02:00</lastconfirm>
+      <lastuse>2025-09-18T06:15:11+02:00</lastuse>
+      <lastconfirm>2025-09-16T06:15:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1006,30 +982,6 @@
       <create>2025-09-15T11:27:12+02:00</create>
       <lastuse>2025-09-18T00:25:58+02:00</lastuse>
       <lastconfirm>2025-09-16T00:25:58+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17213945450</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.404223</latitude>
-        <longitude>10.953831</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-16T00:07:52+02:00</create>
-      <lastuse>2025-09-16T08:13:16+02:00</lastuse>
-      <lastconfirm>2025-09-16T00:07:52+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
