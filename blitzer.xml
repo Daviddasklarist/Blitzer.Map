@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>15856218440</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bahnstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337911</latitude>
+        <longitude>10.870578</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-09T13:01:11+01:00</create>
+      <lastuse>2025-09-19T14:04:04+02:00</lastuse>
+      <lastconfirm>2025-09-17T14:04:04+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15363365193</id>
     <type>26</type>
     <speed></speed>
@@ -46,6 +70,30 @@
       <create>2025-01-25T18:59:32+01:00</create>
       <lastuse>2025-09-19T14:41:16+02:00</lastuse>
       <lastconfirm>2025-09-17T14:41:16+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17208612517</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bahnstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337922</latitude>
+        <longitude>10.869540</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-05T14:47:28+01:00</create>
+      <lastuse>2025-09-19T18:05:47+02:00</lastuse>
+      <lastconfirm>2025-09-17T18:05:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,30 +142,6 @@
       <create>2025-03-08T09:54:17+01:00</create>
       <lastuse>2025-09-19T22:40:31+02:00</lastuse>
       <lastconfirm>2025-09-17T22:40:31+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>15856218440</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bahnstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337911</latitude>
-        <longitude>10.870578</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-09-19T14:04:04+02:00</lastuse>
-      <lastconfirm>2025-09-17T14:04:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -817,30 +841,6 @@
     </date>
   </event>
   <event>
-    <id>17208612517</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bahnstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337922</latitude>
-        <longitude>10.869540</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2025-09-19T18:05:47+02:00</lastuse>
-      <lastconfirm>2025-09-17T18:05:47+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17209675928</id>
     <type>26</type>
     <speed></speed>
@@ -956,8 +956,8 @@
     </location>
     <date>
       <create>2025-09-17T21:42:46+02:00</create>
-      <lastuse>2025-09-18T08:39:38+02:00</lastuse>
-      <lastconfirm>2025-09-18T00:39:39+02:00</lastconfirm>
+      <lastuse>2025-09-18T08:41:52+02:00</lastuse>
+      <lastconfirm>2025-09-18T00:41:52+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
