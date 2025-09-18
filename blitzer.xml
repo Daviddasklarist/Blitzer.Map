@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17235528483</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86551</zip>
-      <city>Aichach</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.435298</latitude>
-        <longitude>11.126279</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-18T17:49:21+02:00</create>
-      <lastuse>2025-09-18T23:28:50+02:00</lastuse>
-      <lastconfirm>2025-09-18T22:28:51+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17237100039</id>
     <type>23</type>
     <speed></speed>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-09-20T21:50:12+02:00</lastuse>
-      <lastconfirm>2025-09-18T21:50:13+02:00</lastconfirm>
+      <lastuse>2025-09-20T22:48:41+02:00</lastuse>
+      <lastconfirm>2025-09-18T22:48:42+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +956,8 @@
     </location>
     <date>
       <create>2025-09-18T18:40:28+02:00</create>
-      <lastuse>2025-09-19T06:36:50+02:00</lastuse>
-      <lastconfirm>2025-09-18T22:36:50+02:00</lastconfirm>
+      <lastuse>2025-09-19T06:47:09+02:00</lastuse>
+      <lastconfirm>2025-09-18T22:47:09+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
