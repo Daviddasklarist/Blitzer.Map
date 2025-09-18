@@ -4,7 +4,7 @@
     <id>17231241994</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86165</zip>
       <city>Augsburg</city>
@@ -21,31 +21,7 @@
     <date>
       <create>2025-09-18T06:04:23+02:00</create>
       <lastuse>2025-09-18T10:04:23+02:00</lastuse>
-      <lastconfirm>2025-09-18T07:33:02+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17231480097</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Karlsruher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.402628</latitude>
-        <longitude>10.865299</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-18T06:54:30+02:00</create>
-      <lastuse>2025-09-18T09:15:44+02:00</lastuse>
-      <lastconfirm>2025-09-18T07:15:44+02:00</lastconfirm>
+      <lastconfirm>2025-09-18T07:35:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -62,13 +38,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.403232</latitude>
-        <longitude>10.863957</longitude>
+        <latitude>48.403029</latitude>
+        <longitude>10.864440</longitude>
       </point>
     </location>
     <date>
       <create>2025-09-18T06:54:43+02:00</create>
-      <lastuse>2025-09-18T09:54:43+02:00</lastuse>
+      <lastuse>2025-09-25T07:37:42+02:00</lastuse>
       <lastconfirm>2025-09-18T07:26:21+02:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-09-18T07:06:00+02:00</create>
-      <lastuse>2025-09-18T09:33:27+02:00</lastuse>
-      <lastconfirm>2025-09-18T07:33:27+02:00</lastconfirm>
+      <lastuse>2025-09-18T09:38:44+02:00</lastuse>
+      <lastconfirm>2025-09-18T07:38:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,32 +92,8 @@
     </location>
     <date>
       <create>2025-09-18T07:20:30+02:00</create>
-      <lastuse>2025-09-18T09:32:04+02:00</lastuse>
-      <lastconfirm>2025-09-18T07:32:05+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17231648105</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.394760</latitude>
-        <longitude>10.863642</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-18T07:25:40+02:00</create>
-      <lastuse>2025-09-18T09:33:27+02:00</lastuse>
-      <lastconfirm>2025-09-18T07:33:27+02:00</lastconfirm>
+      <lastuse>2025-09-18T09:38:13+02:00</lastuse>
+      <lastconfirm>2025-09-18T07:38:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -169,6 +121,54 @@
     </date>
   </event>
   <event>
+    <id>17231624515</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.420055</latitude>
+        <longitude>10.802723</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-18T07:21:38+02:00</create>
+      <lastuse>2025-09-18T08:07:59+02:00</lastuse>
+      <lastconfirm>2025-09-18T07:38:00+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17231654221</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.420086</latitude>
+        <longitude>10.801150</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-18T07:27:26+02:00</create>
+      <lastuse>2025-09-18T08:08:02+02:00</lastuse>
+      <lastconfirm>2025-09-18T07:38:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17231474842</id>
     <type>20</type>
     <speed></speed>
@@ -190,6 +190,30 @@
       <create>2025-09-18T06:52:11+02:00</create>
       <lastuse>2025-09-18T08:33:58+02:00</lastuse>
       <lastconfirm>2025-09-18T07:33:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17231663611</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.356736</latitude>
+        <longitude>10.851091</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-18T07:29:18+02:00</create>
+      <lastuse>2025-09-18T08:37:04+02:00</lastuse>
+      <lastconfirm>2025-09-18T07:37:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2025-08-04T12:14:46+02:00</create>
-      <lastuse>2025-09-20T07:19:18+02:00</lastuse>
-      <lastconfirm>2025-09-18T07:19:19+02:00</lastconfirm>
+      <lastuse>2025-09-20T07:31:07+02:00</lastuse>
+      <lastconfirm>2025-09-18T07:31:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +1004,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-09-20T06:49:58+02:00</lastuse>
-      <lastconfirm>2025-09-18T06:49:58+02:00</lastconfirm>
+      <lastuse>2025-09-19T22:49:58+02:00</lastuse>
+      <lastconfirm>2025-09-11T18:04:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1124,8 @@
     </location>
     <date>
       <create>2025-09-17T16:48:12+02:00</create>
-      <lastuse>2025-09-20T07:20:20+02:00</lastuse>
-      <lastconfirm>2025-09-18T07:20:21+02:00</lastconfirm>
+      <lastuse>2025-09-20T07:30:50+02:00</lastuse>
+      <lastconfirm>2025-09-18T07:30:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
