@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>17235528483</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.435298</latitude>
+        <longitude>11.126279</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-18T17:49:21+02:00</create>
+      <lastuse>2025-09-18T21:49:21+02:00</lastuse>
+      <lastconfirm>2025-09-18T18:45:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17235654289</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2025-09-18T18:08:04+02:00</create>
-      <lastuse>2025-09-18T20:39:24+02:00</lastuse>
+      <lastuse>2025-09-18T20:09:24+02:00</lastuse>
       <lastconfirm>2025-09-18T18:39:25+02:00</lastconfirm>
     </date>
   </event>
@@ -140,32 +164,8 @@
     </location>
     <date>
       <create>2025-09-18T17:33:08+02:00</create>
-      <lastuse>2025-09-18T19:43:06+02:00</lastuse>
-      <lastconfirm>2025-09-18T18:43:06+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17235529614</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86695</zip>
-      <city>Nordendorf</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.590528</latitude>
-        <longitude>10.839968</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-18T17:49:50+02:00</create>
-      <lastuse>2025-09-18T18:50:02+02:00</lastuse>
-      <lastconfirm>2025-09-18T18:30:03+02:00</lastconfirm>
+      <lastuse>2025-09-18T19:46:49+02:00</lastuse>
+      <lastconfirm>2025-09-18T18:46:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-09-18T18:15:23+02:00</create>
-      <lastuse>2025-09-18T19:13:54+02:00</lastuse>
-      <lastconfirm>2025-09-18T18:43:55+02:00</lastconfirm>
+      <lastuse>2025-09-18T19:18:48+02:00</lastuse>
+      <lastconfirm>2025-09-18T18:48:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2025-08-04T12:14:46+02:00</create>
-      <lastuse>2025-09-20T18:32:20+02:00</lastuse>
-      <lastconfirm>2025-09-18T18:32:20+02:00</lastconfirm>
+      <lastuse>2025-09-20T18:42:06+02:00</lastuse>
+      <lastconfirm>2025-09-18T18:42:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1100,8 @@
     </location>
     <date>
       <create>2025-09-17T22:27:25+02:00</create>
-      <lastuse>2025-09-20T17:57:58+02:00</lastuse>
-      <lastconfirm>2025-09-18T17:57:59+02:00</lastconfirm>
+      <lastuse>2025-09-20T18:40:04+02:00</lastuse>
+      <lastconfirm>2025-09-18T18:40:05+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
