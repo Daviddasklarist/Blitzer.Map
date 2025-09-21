@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17259504424</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Inninger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.309993</latitude>
+        <longitude>10.886751</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-21T18:46:23+02:00</create>
+      <lastuse>2025-09-21T20:56:16+02:00</lastuse>
+      <lastconfirm>2025-09-21T18:56:16+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17259267794</id>
     <type>29</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-09-21T18:05:18+02:00</create>
-      <lastuse>2025-09-21T19:20:52+02:00</lastuse>
-      <lastconfirm>2025-09-21T18:50:53+02:00</lastconfirm>
+      <lastuse>2025-09-21T19:27:14+02:00</lastuse>
+      <lastconfirm>2025-09-21T18:57:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-09-21T18:42:30+02:00</create>
-      <lastuse>2025-09-21T19:22:36+02:00</lastuse>
-      <lastconfirm>2025-09-21T18:52:38+02:00</lastconfirm>
+      <lastuse>2025-09-21T19:27:03+02:00</lastuse>
+      <lastconfirm>2025-09-21T18:57:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-09-23T18:28:53+02:00</lastuse>
-      <lastconfirm>2025-09-21T18:28:54+02:00</lastconfirm>
+      <lastuse>2025-09-23T18:54:36+02:00</lastuse>
+      <lastconfirm>2025-09-21T18:54:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
