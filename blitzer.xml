@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17262924019</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedrich-Ebert-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337682</latitude>
+        <longitude>10.877296</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-22T05:59:07+02:00</create>
+      <lastuse>2025-09-22T08:19:01+02:00</lastuse>
+      <lastconfirm>2025-09-22T06:19:03+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17262937388</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-09-22T06:00:26+02:00</create>
-      <lastuse>2025-09-22T08:14:27+02:00</lastuse>
-      <lastconfirm>2025-09-22T06:14:28+02:00</lastconfirm>
+      <lastuse>2025-09-22T08:23:35+02:00</lastuse>
+      <lastconfirm>2025-09-22T06:23:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +644,8 @@
     </location>
     <date>
       <create>2025-09-10T08:14:43+02:00</create>
-      <lastuse>2025-09-24T06:08:12+02:00</lastuse>
-      <lastconfirm>2025-09-22T06:08:12+02:00</lastconfirm>
+      <lastuse>2025-09-24T06:15:10+02:00</lastuse>
+      <lastconfirm>2025-09-22T06:15:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
