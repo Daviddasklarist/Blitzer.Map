@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17265048948</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86150</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Pferseer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.365655</latitude>
-        <longitude>10.880859</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-22T12:06:51+02:00</create>
-      <lastuse>2025-09-22T16:42:09+02:00</lastuse>
-      <lastconfirm>2025-09-22T15:42:09+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17266343357</id>
     <type>1</type>
     <speed>60</speed>
@@ -68,32 +44,8 @@
     </location>
     <date>
       <create>2025-09-22T15:19:58+02:00</create>
-      <lastuse>2025-09-22T16:57:11+02:00</lastuse>
+      <lastuse>2025-09-22T16:47:11+02:00</lastuse>
       <lastconfirm>2025-09-22T16:27:11+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17266378200</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Adelzhausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.358175</latitude>
-        <longitude>11.129055</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-22T15:41:09+02:00</create>
-      <lastuse>2025-09-22T16:37:55+02:00</lastuse>
-      <lastconfirm>2025-09-22T16:17:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +68,8 @@
     </location>
     <date>
       <create>2025-09-22T15:41:40+02:00</create>
-      <lastuse>2025-09-22T16:52:11+02:00</lastuse>
-      <lastconfirm>2025-09-22T16:22:11+02:00</lastconfirm>
+      <lastuse>2025-09-22T17:02:35+02:00</lastuse>
+      <lastconfirm>2025-09-22T16:32:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +164,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-09-24T14:41:50+02:00</lastuse>
-      <lastconfirm>2025-09-22T14:41:50+02:00</lastconfirm>
+      <lastuse>2025-09-24T16:26:57+02:00</lastuse>
+      <lastconfirm>2025-09-22T16:26:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +212,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-09-24T15:03:54+02:00</lastuse>
-      <lastconfirm>2025-09-22T15:03:54+02:00</lastconfirm>
+      <lastuse>2025-09-24T16:25:54+02:00</lastuse>
+      <lastconfirm>2025-09-22T16:25:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +836,8 @@
     </location>
     <date>
       <create>2025-09-17T22:27:25+02:00</create>
-      <lastuse>2025-09-24T15:54:27+02:00</lastuse>
-      <lastconfirm>2025-09-22T15:54:27+02:00</lastconfirm>
+      <lastuse>2025-09-24T16:28:53+02:00</lastuse>
+      <lastconfirm>2025-09-22T16:28:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,15 +908,15 @@
     </location>
     <date>
       <create>2025-09-22T14:33:44+02:00</create>
-      <lastuse>2025-09-23T00:24:09+02:00</lastuse>
-      <lastconfirm>2025-09-22T16:24:09+02:00</lastconfirm>
+      <lastuse>2025-09-23T00:27:23+02:00</lastuse>
+      <lastconfirm>2025-09-22T16:27:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17266457437</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -980,8 +932,8 @@
     </location>
     <date>
       <create>2025-09-22T15:53:09+02:00</create>
-      <lastuse>2025-09-23T00:12:34+02:00</lastuse>
-      <lastconfirm>2025-09-22T16:12:35+02:00</lastconfirm>
+      <lastuse>2025-09-23T00:29:17+02:00</lastuse>
+      <lastconfirm>2025-09-22T16:29:18+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
