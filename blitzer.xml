@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-09-23T12:05:46+02:00</create>
-      <lastuse>2025-09-23T15:14:16+02:00</lastuse>
+      <lastuse>2025-09-23T14:44:16+02:00</lastuse>
       <lastconfirm>2025-09-23T13:14:16+02:00</lastconfirm>
     </date>
   </event>
@@ -121,30 +121,6 @@
     </date>
   </event>
   <event>
-    <id>17273262367</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Miehle-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.335869</latitude>
-        <longitude>10.879070</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-23T12:46:56+02:00</create>
-      <lastuse>2025-09-23T13:57:09+02:00</lastuse>
-      <lastconfirm>2025-09-23T12:57:10+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17273270306</id>
     <type>1</type>
     <speed>70</speed>
@@ -165,7 +141,31 @@
     <date>
       <create>2025-09-23T12:48:29+02:00</create>
       <lastuse>2025-09-23T16:48:29+02:00</lastuse>
-      <lastconfirm>2025-09-23T13:49:38+02:00</lastconfirm>
+      <lastconfirm>2025-09-23T13:55:16+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17273292746</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.412389</latitude>
+        <longitude>10.920137</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-23T12:51:52+02:00</create>
+      <lastuse>2025-09-23T15:53:48+02:00</lastuse>
+      <lastconfirm>2025-09-23T13:53:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,32 @@
     </location>
     <date>
       <create>2025-09-23T13:27:37+02:00</create>
-      <lastuse>2025-09-23T14:18:54+02:00</lastuse>
-      <lastconfirm>2025-09-23T13:48:54+02:00</lastconfirm>
+      <lastuse>2025-09-23T14:17:44+02:00</lastuse>
+      <lastconfirm>2025-09-23T13:57:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17273602935</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.397033</latitude>
+        <longitude>10.867315</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-23T13:43:59+02:00</create>
+      <lastuse>2025-09-23T14:27:35+02:00</lastuse>
+      <lastconfirm>2025-09-23T13:57:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-08-03T12:22:35+02:00</create>
-      <lastuse>2025-09-25T13:37:44+02:00</lastuse>
-      <lastconfirm>2025-09-23T13:37:45+02:00</lastconfirm>
+      <lastuse>2025-09-25T13:53:43+02:00</lastuse>
+      <lastconfirm>2025-09-23T13:53:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
