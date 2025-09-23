@@ -213,7 +213,7 @@
     <date>
       <create>2025-09-23T09:01:17+02:00</create>
       <lastuse>2025-09-23T13:01:17+02:00</lastuse>
-      <lastconfirm>2025-09-23T09:23:59+02:00</lastconfirm>
+      <lastconfirm>2025-09-23T09:27:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-09-23T07:28:59+02:00</create>
-      <lastuse>2025-09-23T09:53:02+02:00</lastuse>
-      <lastconfirm>2025-09-23T09:23:03+02:00</lastconfirm>
+      <lastuse>2025-09-23T09:55:24+02:00</lastuse>
+      <lastconfirm>2025-09-23T09:25:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +332,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-09-25T06:22:48+02:00</lastuse>
-      <lastconfirm>2025-09-23T06:22:49+02:00</lastconfirm>
+      <lastuse>2025-09-25T09:24:57+02:00</lastuse>
+      <lastconfirm>2025-09-23T09:24:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1078,6 +1078,30 @@
       <create>2025-09-23T08:32:24+02:00</create>
       <lastuse>2025-09-23T17:16:48+02:00</lastuse>
       <lastconfirm>2025-09-23T09:16:49+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17271968202</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.231388</latitude>
+        <longitude>10.866951</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-23T09:03:01+02:00</create>
+      <lastuse>2025-09-23T17:22:56+02:00</lastuse>
+      <lastconfirm>2025-09-23T09:22:57+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
