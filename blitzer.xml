@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17270989179</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337249</latitude>
+        <longitude>10.902895</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-23T06:09:21+02:00</create>
+      <lastuse>2025-09-23T08:22:04+02:00</lastuse>
+      <lastconfirm>2025-09-23T06:22:05+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17270962488</id>
     <type>29</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-09-23T06:03:53+02:00</create>
-      <lastuse>2025-09-23T06:47:50+02:00</lastuse>
-      <lastconfirm>2025-09-23T06:17:50+02:00</lastconfirm>
+      <lastuse>2025-09-23T06:49:28+02:00</lastuse>
+      <lastconfirm>2025-09-23T06:19:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
