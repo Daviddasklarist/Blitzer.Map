@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17286863114</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370877</latitude>
+        <longitude>10.875290</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-25T05:58:22+02:00</create>
+      <lastuse>2025-09-25T08:08:07+02:00</lastuse>
+      <lastconfirm>2025-09-25T06:08:07+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
