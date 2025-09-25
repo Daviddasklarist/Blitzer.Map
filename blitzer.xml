@@ -73,30 +73,6 @@
     </date>
   </event>
   <event>
-    <id>17287203401</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Postillionstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.305855</latitude>
-        <longitude>10.893796</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-25T07:06:18+02:00</create>
-      <lastuse>2025-09-25T11:06:18+02:00</lastuse>
-      <lastconfirm>2025-09-25T09:21:51+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17287394139</id>
     <type>1</type>
     <speed>50</speed>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2025-09-25T10:43:13+02:00</create>
-      <lastuse>2025-09-25T11:18:25+02:00</lastuse>
-      <lastconfirm>2025-09-25T10:48:26+02:00</lastconfirm>
+      <lastuse>2025-09-25T11:37:56+02:00</lastuse>
+      <lastconfirm>2025-09-25T11:07:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1054,6 +1030,30 @@
       <create>2025-09-24T17:07:02+02:00</create>
       <lastuse>2025-09-25T18:42:37+02:00</lastuse>
       <lastconfirm>2025-09-25T10:42:37+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17287790182</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-HH</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.358933</latitude>
+        <longitude>10.973667</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-25T08:49:30+02:00</create>
+      <lastuse>2025-09-25T19:03:38+02:00</lastuse>
+      <lastconfirm>2025-09-25T11:03:38+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
