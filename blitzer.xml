@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17291537505</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372743</latitude>
+        <longitude>10.863280</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-25T18:59:46+02:00</create>
+      <lastuse>2025-09-25T21:35:02+02:00</lastuse>
+      <lastconfirm>2025-09-25T19:35:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17291248175</id>
     <type>23</type>
     <speed></speed>
@@ -20,15 +44,15 @@
     </location>
     <date>
       <create>2025-09-25T18:11:15+02:00</create>
-      <lastuse>2025-09-25T20:01:54+02:00</lastuse>
-      <lastconfirm>2025-09-25T19:31:54+02:00</lastconfirm>
+      <lastuse>2025-09-25T20:06:14+02:00</lastuse>
+      <lastconfirm>2025-09-25T19:36:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17291385618</id>
     <type>23</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-09-25T18:35:00+02:00</create>
-      <lastuse>2025-09-25T19:58:54+02:00</lastuse>
-      <lastconfirm>2025-09-25T19:28:54+02:00</lastconfirm>
+      <lastuse>2025-09-25T20:04:53+02:00</lastuse>
+      <lastconfirm>2025-09-25T19:34:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-09-27T18:22:02+02:00</lastuse>
-      <lastconfirm>2025-09-25T18:22:02+02:00</lastconfirm>
+      <lastuse>2025-09-27T19:31:13+02:00</lastuse>
+      <lastconfirm>2025-09-25T19:31:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1028,8 @@
     </location>
     <date>
       <create>2025-09-25T16:44:59+02:00</create>
-      <lastuse>2025-09-26T01:16:48+02:00</lastuse>
-      <lastconfirm>2025-09-25T16:44:59+02:00</lastconfirm>
+      <lastuse>2025-09-26T03:32:09+02:00</lastuse>
+      <lastconfirm>2025-09-25T19:32:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
