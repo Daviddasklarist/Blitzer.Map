@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17303398495</id>
-    <type>1</type>
-    <speed>80</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86551</zip>
-      <city>Aichach</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.435121</latitude>
-        <longitude>11.123306</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-27T07:34:33+02:00</create>
-      <lastuse>2025-09-27T10:01:30+02:00</lastuse>
-      <lastconfirm>2025-09-27T08:01:31+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -172,7 +148,7 @@
     <id>16317777904</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86167</zip>
       <city>Augsburg</city>
@@ -188,7 +164,7 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-09-28T06:06:07+02:00</lastuse>
+      <lastuse>2025-09-27T22:06:07+02:00</lastuse>
       <lastconfirm>2025-06-07T13:47:05+02:00</lastconfirm>
     </date>
   </event>
