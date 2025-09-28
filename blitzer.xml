@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17310441835</id>
+    <type>7</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Unterer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.373769</latitude>
+        <longitude>10.901529</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-27T17:11:10+02:00</create>
+      <lastuse>2025-09-28T14:53:13+02:00</lastuse>
+      <lastconfirm>2025-09-28T07:53:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
