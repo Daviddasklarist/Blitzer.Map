@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17306620761</id>
-    <type>1</type>
+    <id>17309664833</id>
+    <type>7</type>
+    <speed>90</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413515</latitude>
+        <longitude>10.872350</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-28T02:36:32+02:00</create>
+      <lastuse>2025-09-28T13:17:28+02:00</lastuse>
+      <lastconfirm>2025-09-28T05:17:28+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17310441835</id>
+    <type>7</type>
     <speed>30</speed>
     <quality>3</quality>
     <address>
@@ -20,32 +44,8 @@
     </location>
     <date>
       <create>2025-09-27T17:11:10+02:00</create>
-      <lastuse>2025-09-28T06:29:27+02:00</lastuse>
+      <lastuse>2025-09-28T14:29:27+02:00</lastuse>
       <lastconfirm>2025-09-28T04:29:28+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17309664833</id>
-    <type>7</type>
-    <speed>90</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>Straßenname unbekannt</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.413515</latitude>
-        <longitude>10.872350</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-28T02:36:32+02:00</create>
-      <lastuse>2025-09-28T13:12:41+02:00</lastuse>
-      <lastconfirm>2025-09-28T05:12:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
