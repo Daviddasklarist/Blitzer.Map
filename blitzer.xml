@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17311739820</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.356816</latitude>
+        <longitude>10.850986</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-28T09:47:52+02:00</create>
+      <lastuse>2025-09-28T11:53:29+02:00</lastuse>
+      <lastconfirm>2025-09-28T09:53:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17310441835</id>
     <type>7</type>
     <speed>30</speed>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-09-17T22:27:25+02:00</create>
-      <lastuse>2025-09-29T08:32:41+02:00</lastuse>
-      <lastconfirm>2025-09-17T22:27:25+02:00</lastconfirm>
+      <lastuse>2025-09-30T09:47:06+02:00</lastuse>
+      <lastconfirm>2025-09-28T09:47:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
