@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17318172177</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Aindlinger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.393218</latitude>
+        <longitude>10.932605</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-29T05:59:16+02:00</create>
+      <lastuse>2025-09-29T08:09:26+02:00</lastuse>
+      <lastconfirm>2025-09-29T06:09:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-10-01T05:35:57+02:00</lastuse>
-      <lastconfirm>2025-09-29T05:35:58+02:00</lastconfirm>
+      <lastuse>2025-10-01T06:07:01+02:00</lastuse>
+      <lastconfirm>2025-09-29T06:07:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
