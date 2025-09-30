@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17330335879</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.419511</latitude>
-        <longitude>10.687469</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-30T18:25:43+02:00</create>
-      <lastuse>2025-09-30T21:08:40+02:00</lastuse>
-      <lastconfirm>2025-09-30T20:38:40+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17329947071</id>
     <type>20</type>
     <speed></speed>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-10-02T18:28:48+02:00</lastuse>
-      <lastconfirm>2025-09-30T18:28:49+02:00</lastconfirm>
+      <lastuse>2025-10-02T10:28:48+02:00</lastuse>
+      <lastconfirm>2025-06-07T13:47:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -964,7 +940,7 @@
     <id>17330469661</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -980,7 +956,7 @@
     </location>
     <date>
       <create>2025-09-30T18:49:05+02:00</create>
-      <lastuse>2025-10-01T02:38:57+02:00</lastuse>
+      <lastuse>2025-10-01T00:38:57+02:00</lastuse>
       <lastconfirm>2025-09-30T18:49:05+02:00</lastconfirm>
     </date>
   </event>
