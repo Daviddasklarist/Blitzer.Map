@@ -3,7 +3,7 @@
   <event>
     <id>17335042324</id>
     <type>1</type>
-    <speed>40</speed>
+    <speed>30</speed>
     <quality>2</quality>
     <address>
       <zip>86152</zip>
@@ -14,13 +14,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.369005</latitude>
-        <longitude>10.901901</longitude>
+        <latitude>48.367765</latitude>
+        <longitude>10.902781</longitude>
       </point>
     </location>
     <date>
       <create>2025-10-01T10:11:01+02:00</create>
-      <lastuse>2025-10-01T15:54:44+02:00</lastuse>
+      <lastuse>2025-10-01T15:24:44+02:00</lastuse>
       <lastconfirm>2025-10-01T14:24:44+02:00</lastconfirm>
     </date>
   </event>
@@ -100,7 +100,7 @@
     <id>17336021645</id>
     <type>23</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -116,8 +116,32 @@
     </location>
     <date>
       <create>2025-10-01T12:55:54+02:00</create>
-      <lastuse>2025-10-01T14:52:42+02:00</lastuse>
-      <lastconfirm>2025-10-01T14:32:42+02:00</lastconfirm>
+      <lastuse>2025-10-01T15:07:28+02:00</lastuse>
+      <lastconfirm>2025-10-01T14:37:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17336554036</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.229349</latitude>
+        <longitude>10.866574</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-01T14:24:31+02:00</create>
+      <lastuse>2025-10-01T15:34:22+02:00</lastuse>
+      <lastconfirm>2025-10-01T14:34:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-10-03T13:18:35+02:00</lastuse>
-      <lastconfirm>2025-10-01T13:18:36+02:00</lastconfirm>
+      <lastuse>2025-10-03T14:32:13+02:00</lastuse>
+      <lastconfirm>2025-10-01T14:32:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-10-03T13:40:48+02:00</lastuse>
-      <lastconfirm>2025-10-01T13:40:48+02:00</lastconfirm>
+      <lastuse>2025-10-03T14:33:12+02:00</lastuse>
+      <lastconfirm>2025-10-01T14:33:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1052,8 @@
     </location>
     <date>
       <create>2025-10-01T13:34:25+02:00</create>
-      <lastuse>2025-10-01T22:29:47+02:00</lastuse>
-      <lastconfirm>2025-10-01T14:29:48+02:00</lastconfirm>
+      <lastuse>2025-10-01T22:31:52+02:00</lastuse>
+      <lastconfirm>2025-10-01T14:31:53+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
