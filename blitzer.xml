@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17354469082</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>89343</zip>
+      <city>Bayern</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400167</latitude>
+        <longitude>10.548188</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-03T20:39:07+02:00</create>
+      <lastuse>2025-10-03T21:27:59+02:00</lastuse>
+      <lastconfirm>2025-10-03T20:58:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-10-05T19:31:28+02:00</lastuse>
-      <lastconfirm>2025-10-03T19:31:28+02:00</lastconfirm>
+      <lastuse>2025-10-05T20:50:56+02:00</lastuse>
+      <lastconfirm>2025-10-03T20:50:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-10-05T20:36:39+02:00</lastuse>
-      <lastconfirm>2025-10-03T20:36:40+02:00</lastconfirm>
+      <lastuse>2025-10-05T20:54:29+02:00</lastuse>
+      <lastconfirm>2025-10-03T20:54:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
