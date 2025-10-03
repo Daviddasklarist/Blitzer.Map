@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17353625400</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Nordendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.596877</latitude>
+        <longitude>10.840133</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-03T18:07:59+02:00</create>
+      <lastuse>2025-10-03T21:07:59+02:00</lastuse>
+      <lastconfirm>2025-10-03T18:16:23+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -460,7 +484,7 @@
     <id>17129311991</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86154</zip>
       <city>Augsburg</city>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-09-05T07:19:37+02:00</create>
-      <lastuse>2025-10-05T17:24:55+02:00</lastuse>
-      <lastconfirm>2025-10-03T17:24:55+02:00</lastconfirm>
+      <lastuse>2025-10-05T09:24:55+02:00</lastuse>
+      <lastconfirm>2025-09-05T07:19:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +740,8 @@
     </location>
     <date>
       <create>2025-09-27T07:39:04+02:00</create>
-      <lastuse>2025-10-05T17:34:48+02:00</lastuse>
-      <lastconfirm>2025-10-03T17:34:49+02:00</lastconfirm>
+      <lastuse>2025-10-05T09:34:48+02:00</lastuse>
+      <lastconfirm>2025-09-27T07:39:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
