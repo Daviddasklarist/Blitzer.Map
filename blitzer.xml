@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17350795476</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.492259</latitude>
+        <longitude>10.860055</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-03T09:53:34+02:00</create>
+      <lastuse>2025-10-03T13:53:34+02:00</lastuse>
+      <lastconfirm>2025-10-03T10:20:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17350876500</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.495244</latitude>
+        <longitude>10.860062</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-03T10:09:33+02:00</create>
+      <lastuse>2025-10-03T13:09:33+02:00</lastuse>
+      <lastconfirm>2025-10-03T10:21:19+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -380,8 +428,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-10-04T23:42:57+02:00</lastuse>
-      <lastconfirm>2025-10-02T23:42:58+02:00</lastconfirm>
+      <lastuse>2025-10-04T15:42:57+02:00</lastuse>
+      <lastconfirm>2025-08-29T12:08:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
