@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17350795476</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.492259</latitude>
+        <longitude>10.860055</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-03T09:53:34+02:00</create>
+      <lastuse>2025-10-03T12:02:15+02:00</lastuse>
+      <lastconfirm>2025-10-03T10:02:15+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-11T12:58:46+01:00</create>
-      <lastuse>2025-10-04T19:45:39+02:00</lastuse>
-      <lastconfirm>2025-10-02T19:45:41+02:00</lastconfirm>
+      <lastuse>2025-10-05T09:58:39+02:00</lastuse>
+      <lastconfirm>2025-10-03T09:58:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-10-05T07:41:32+02:00</lastuse>
-      <lastconfirm>2025-10-03T07:41:32+02:00</lastconfirm>
+      <lastuse>2025-10-05T09:56:05+02:00</lastuse>
+      <lastconfirm>2025-10-03T09:56:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
