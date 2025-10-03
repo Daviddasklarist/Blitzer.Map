@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17354023184</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Sebastianstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.380419</latitude>
+        <longitude>10.896774</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-03T19:17:45+02:00</create>
+      <lastuse>2025-10-03T22:04:38+02:00</lastuse>
+      <lastconfirm>2025-10-03T20:04:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-10-05T19:18:45+02:00</lastuse>
-      <lastconfirm>2025-10-03T19:18:45+02:00</lastconfirm>
+      <lastuse>2025-10-05T20:00:28+02:00</lastuse>
+      <lastconfirm>2025-10-03T20:00:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2025-09-15T22:53:46+02:00</create>
-      <lastuse>2025-10-05T08:13:31+02:00</lastuse>
-      <lastconfirm>2025-09-15T22:53:46+02:00</lastconfirm>
+      <lastuse>2025-10-05T20:04:12+02:00</lastuse>
+      <lastconfirm>2025-10-03T20:04:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-10-05T10:28:24+02:00</lastuse>
-      <lastconfirm>2025-09-25T16:21:27+02:00</lastconfirm>
+      <lastuse>2025-10-05T20:03:06+02:00</lastuse>
+      <lastconfirm>2025-10-03T20:03:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
