@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>15856218440</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bahnstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337911</latitude>
-        <longitude>10.870578</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-10-07T01:16:33+02:00</lastuse>
-      <lastconfirm>2025-10-05T01:16:34+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17208612517</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bahnstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337922</latitude>
-        <longitude>10.869540</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2025-10-06T08:52:34+02:00</lastuse>
-      <lastconfirm>2025-10-04T08:52:34+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15453973286</id>
     <type>26</type>
     <speed></speed>
@@ -94,6 +46,30 @@
       <create>2025-03-08T09:54:17+01:00</create>
       <lastuse>2025-10-06T23:26:37+02:00</lastuse>
       <lastconfirm>2025-10-04T23:26:37+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15856218440</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bahnstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337911</latitude>
+        <longitude>10.870578</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2024-12-09T13:01:11+01:00</create>
+      <lastuse>2025-10-07T01:16:33+02:00</lastuse>
+      <lastconfirm>2025-10-05T01:16:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -262,30 +238,6 @@
       <create>2025-08-03T12:22:35+02:00</create>
       <lastuse>2025-10-06T16:44:43+02:00</lastuse>
       <lastconfirm>2025-10-04T16:44:44+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17279519987</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86514</zip>
-      <city>Ustersbach</city>
-      <state>DE-HH</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.317876</latitude>
-        <longitude>10.648402</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-16T19:21:05+02:00</create>
-      <lastuse>2025-10-06T18:32:58+02:00</lastuse>
-      <lastconfirm>2025-10-04T18:32:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -553,6 +505,30 @@
     </date>
   </event>
   <event>
+    <id>17208612517</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bahnstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337922</latitude>
+        <longitude>10.869540</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-02-05T14:47:28+01:00</create>
+      <lastuse>2025-10-06T08:52:34+02:00</lastuse>
+      <lastconfirm>2025-10-04T08:52:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17213580187</id>
     <type>26</type>
     <speed></speed>
@@ -574,30 +550,6 @@
       <create>2025-09-15T22:53:46+02:00</create>
       <lastuse>2025-10-06T20:45:38+02:00</lastuse>
       <lastconfirm>2025-10-04T20:45:38+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17342239622</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Firnhaberstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.344168</latitude>
-        <longitude>10.894209</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-16T10:43:07+02:00</create>
-      <lastuse>2025-10-06T16:15:21+02:00</lastuse>
-      <lastconfirm>2025-10-04T16:15:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -646,6 +598,30 @@
       <create>2025-09-23T22:06:22+02:00</create>
       <lastuse>2025-10-06T11:28:21+02:00</lastuse>
       <lastconfirm>2025-10-04T11:28:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17279519987</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86514</zip>
+      <city>Ustersbach</city>
+      <state>DE-HH</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.317876</latitude>
+        <longitude>10.648402</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-16T19:21:05+02:00</create>
+      <lastuse>2025-10-06T18:32:58+02:00</lastuse>
+      <lastconfirm>2025-10-04T18:32:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -886,6 +862,30 @@
       <create>2025-10-02T05:36:27+02:00</create>
       <lastuse>2025-10-06T15:53:22+02:00</lastuse>
       <lastconfirm>2025-10-04T15:53:22+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17342239622</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Firnhaberstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.344168</latitude>
+        <longitude>10.894209</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-16T10:43:07+02:00</create>
+      <lastuse>2025-10-06T16:15:21+02:00</lastuse>
+      <lastconfirm>2025-10-04T16:15:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
