@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17358481626</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-BY</state>
-      <street>Ulmer Landstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.370606</latitude>
-        <longitude>10.809369</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-04T10:03:12+02:00</create>
-      <lastuse>2025-10-04T17:31:20+02:00</lastuse>
-      <lastconfirm>2025-10-04T16:31:22+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17360083312</id>
     <type>29</type>
     <speed></speed>
@@ -44,8 +20,32 @@
     </location>
     <date>
       <create>2025-10-04T14:49:10+02:00</create>
-      <lastuse>2025-10-04T17:03:06+02:00</lastuse>
-      <lastconfirm>2025-10-04T16:33:06+02:00</lastconfirm>
+      <lastuse>2025-10-04T17:14:01+02:00</lastuse>
+      <lastconfirm>2025-10-04T16:44:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17360675449</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396095</latitude>
+        <longitude>11.038125</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-04T16:32:29+02:00</create>
+      <lastuse>2025-10-04T17:13:29+02:00</lastuse>
+      <lastconfirm>2025-10-04T16:43:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +740,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-10-06T16:16:54+02:00</lastuse>
-      <lastconfirm>2025-10-04T16:16:54+02:00</lastconfirm>
+      <lastuse>2025-10-06T16:38:02+02:00</lastuse>
+      <lastconfirm>2025-10-04T16:38:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
