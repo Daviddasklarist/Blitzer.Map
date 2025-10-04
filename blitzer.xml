@@ -4,7 +4,7 @@
     <id>17361097749</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -28,7 +28,7 @@
     <id>17361011800</id>
     <type>23</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-04T17:30:46+02:00</create>
-      <lastuse>2025-10-04T19:17:34+02:00</lastuse>
-      <lastconfirm>2025-10-04T18:47:34+02:00</lastconfirm>
+      <lastuse>2025-10-04T19:23:22+02:00</lastuse>
+      <lastconfirm>2025-10-04T18:53:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +76,7 @@
     <id>17361196783</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2025-10-04T18:04:33+02:00</create>
-      <lastuse>2025-10-04T19:22:24+02:00</lastuse>
+      <lastuse>2025-10-04T19:02:24+02:00</lastuse>
       <lastconfirm>2025-10-04T18:42:24+02:00</lastconfirm>
     </date>
   </event>
@@ -428,8 +428,8 @@
     </location>
     <date>
       <create>2025-08-27T12:41:22+02:00</create>
-      <lastuse>2025-10-06T15:36:35+02:00</lastuse>
-      <lastconfirm>2025-10-04T15:36:36+02:00</lastconfirm>
+      <lastuse>2025-10-06T18:45:33+02:00</lastuse>
+      <lastconfirm>2025-10-04T18:45:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1126,30 +1126,6 @@
       <create>2025-10-03T13:53:18+02:00</create>
       <lastuse>2025-10-06T16:12:26+02:00</lastuse>
       <lastconfirm>2025-10-04T16:12:27+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17358036194</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Stadionstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.358482</latitude>
-        <longitude>10.878364</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-04T08:34:02+02:00</create>
-      <lastuse>2025-10-06T01:07:45+02:00</lastuse>
-      <lastconfirm>2025-10-04T08:34:02+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
