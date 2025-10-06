@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17372617849</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.453557</latitude>
+        <longitude>10.872262</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-06T06:54:54+02:00</create>
+      <lastuse>2025-10-06T08:00:01+02:00</lastuse>
+      <lastconfirm>2025-10-06T07:00:03+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-09-27T07:39:04+02:00</create>
-      <lastuse>2025-10-07T23:44:03+02:00</lastuse>
-      <lastconfirm>2025-10-05T23:44:05+02:00</lastconfirm>
+      <lastuse>2025-10-08T06:56:17+02:00</lastuse>
+      <lastconfirm>2025-10-06T06:56:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-10-08T05:43:17+02:00</lastuse>
-      <lastconfirm>2025-10-06T05:43:18+02:00</lastconfirm>
+      <lastuse>2025-10-08T06:58:08+02:00</lastuse>
+      <lastconfirm>2025-10-06T06:58:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -820,7 +844,7 @@
     <id>17319155093</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -836,7 +860,7 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-10-07T04:40:30+02:00</lastuse>
+      <lastuse>2025-10-06T20:40:30+02:00</lastuse>
       <lastconfirm>2025-09-29T08:56:18+02:00</lastconfirm>
     </date>
   </event>
@@ -884,8 +908,8 @@
     </location>
     <date>
       <create>2025-10-02T05:36:27+02:00</create>
-      <lastuse>2025-10-07T19:15:08+02:00</lastuse>
-      <lastconfirm>2025-10-05T19:15:08+02:00</lastconfirm>
+      <lastuse>2025-10-08T06:56:28+02:00</lastuse>
+      <lastconfirm>2025-10-06T06:56:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
