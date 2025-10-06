@@ -25,10 +25,34 @@
     </date>
   </event>
   <event>
+    <id>17373702017</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86574</zip>
+      <city>Petersdorf</city>
+      <state>DE-BY</state>
+      <street>Aichacher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.511652</latitude>
+        <longitude>11.024730</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-06T10:03:31+02:00</create>
+      <lastuse>2025-10-06T14:23:43+02:00</lastuse>
+      <lastconfirm>2025-10-06T12:23:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17374208751</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86161</zip>
       <city>Augsburg</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-10-06T11:30:50+02:00</create>
-      <lastuse>2025-10-06T13:30:50+02:00</lastuse>
-      <lastconfirm>2025-10-06T12:02:26+02:00</lastconfirm>
+      <lastuse>2025-10-06T14:24:25+02:00</lastuse>
+      <lastconfirm>2025-10-06T12:24:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,32 @@
     </location>
     <date>
       <create>2025-10-06T11:35:09+02:00</create>
-      <lastuse>2025-10-06T14:22:14+02:00</lastuse>
-      <lastconfirm>2025-10-06T12:22:15+02:00</lastconfirm>
+      <lastuse>2025-10-06T14:28:50+02:00</lastuse>
+      <lastconfirm>2025-10-06T12:28:51+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17374277849</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schertlinstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.353069</latitude>
+        <longitude>10.894648</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-06T11:43:38+02:00</create>
+      <lastuse>2025-10-13T12:28:03+02:00</lastuse>
+      <lastconfirm>2025-10-06T12:26:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
