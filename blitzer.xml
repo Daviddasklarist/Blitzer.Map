@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17374277849</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Schertlinstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.353069</latitude>
-        <longitude>10.894648</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-06T11:43:38+02:00</create>
-      <lastuse>2025-10-06T18:02:15+02:00</lastuse>
-      <lastconfirm>2025-10-06T17:02:16+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17374746972</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2025-10-06T13:03:15+02:00</create>
-      <lastuse>2025-10-06T19:40:14+02:00</lastuse>
+      <lastuse>2025-10-06T19:10:14+02:00</lastuse>
       <lastconfirm>2025-10-06T17:40:16+02:00</lastconfirm>
     </date>
   </event>
@@ -73,30 +49,6 @@
     </date>
   </event>
   <event>
-    <id>17376076000</id>
-    <type>2</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Holzweg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.390607</latitude>
-        <longitude>10.863194</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-06T16:45:11+02:00</create>
-      <lastuse>2025-10-06T19:34:34+02:00</lastuse>
-      <lastconfirm>2025-10-06T17:34:34+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17375159492</id>
     <type>7</type>
     <speed>50</speed>
@@ -116,8 +68,8 @@
     </location>
     <date>
       <create>2025-10-06T14:13:24+02:00</create>
-      <lastuse>2025-10-13T17:24:50+02:00</lastuse>
-      <lastconfirm>2025-10-06T16:33:18+02:00</lastconfirm>
+      <lastuse>2025-10-07T01:43:58+02:00</lastuse>
+      <lastconfirm>2025-10-06T17:43:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,15 +92,15 @@
     </location>
     <date>
       <create>2025-10-06T17:08:36+02:00</create>
-      <lastuse>2025-10-06T18:11:26+02:00</lastuse>
-      <lastconfirm>2025-10-06T17:41:26+02:00</lastconfirm>
+      <lastuse>2025-10-06T18:15:44+02:00</lastuse>
+      <lastconfirm>2025-10-06T17:45:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17375684957</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -164,8 +116,8 @@
     </location>
     <date>
       <create>2025-10-06T15:41:56+02:00</create>
-      <lastuse>2025-10-06T18:16:06+02:00</lastuse>
-      <lastconfirm>2025-10-06T17:36:06+02:00</lastconfirm>
+      <lastuse>2025-10-06T18:05:52+02:00</lastuse>
+      <lastconfirm>2025-10-06T17:45:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +140,8 @@
     </location>
     <date>
       <create>2025-10-06T16:07:18+02:00</create>
-      <lastuse>2025-10-06T18:42:09+02:00</lastuse>
-      <lastconfirm>2025-10-06T17:42:09+02:00</lastconfirm>
+      <lastuse>2025-10-06T18:45:09+02:00</lastuse>
+      <lastconfirm>2025-10-06T17:45:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +164,8 @@
     </location>
     <date>
       <create>2025-10-06T16:35:42+02:00</create>
-      <lastuse>2025-10-06T18:35:34+02:00</lastuse>
-      <lastconfirm>2025-10-06T17:35:35+02:00</lastconfirm>
+      <lastuse>2025-10-06T18:03:17+02:00</lastuse>
+      <lastconfirm>2025-10-06T17:43:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +932,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-10-08T17:19:55+02:00</lastuse>
-      <lastconfirm>2025-10-06T17:19:55+02:00</lastconfirm>
+      <lastuse>2025-10-08T17:43:16+02:00</lastuse>
+      <lastconfirm>2025-10-06T17:43:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1004,8 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-10-08T17:31:16+02:00</lastuse>
-      <lastconfirm>2025-10-06T17:31:17+02:00</lastconfirm>
+      <lastuse>2025-10-08T17:44:34+02:00</lastuse>
+      <lastconfirm>2025-10-06T17:44:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
