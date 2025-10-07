@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17380082811</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hans-Böckler-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382764</latitude>
+        <longitude>10.905518</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-07T05:59:58+02:00</create>
+      <lastuse>2025-10-07T08:06:02+02:00</lastuse>
+      <lastconfirm>2025-10-07T06:06:03+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17375159492</id>
     <type>7</type>
     <speed>50</speed>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-10-09T05:58:37+02:00</lastuse>
-      <lastconfirm>2025-10-07T05:58:37+02:00</lastconfirm>
+      <lastuse>2025-10-09T06:04:58+02:00</lastuse>
+      <lastconfirm>2025-10-07T06:04:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
