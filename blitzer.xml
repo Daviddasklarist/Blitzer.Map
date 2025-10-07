@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17386502330</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Mertingen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.639883</latitude>
+        <longitude>10.835588</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-08T00:29:24+02:00</create>
+      <lastuse>2025-10-08T02:53:49+02:00</lastuse>
+      <lastconfirm>2025-10-08T00:53:49+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17381712733</id>
     <type>7</type>
     <speed>50</speed>
