@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17391270328</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.435183</latitude>
+        <longitude>11.124588</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-08T15:16:20+02:00</create>
+      <lastuse>2025-10-08T17:47:34+02:00</lastuse>
+      <lastconfirm>2025-10-08T15:47:35+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17381712733</id>
     <type>7</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-07T10:50:48+02:00</create>
-      <lastuse>2025-10-08T23:28:51+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:28:51+02:00</lastconfirm>
+      <lastuse>2025-10-08T23:46:11+02:00</lastuse>
+      <lastconfirm>2025-10-08T15:46:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -52,7 +76,7 @@
     <id>17390855937</id>
     <type>21</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -68,7 +92,7 @@
     </location>
     <date>
       <create>2025-10-08T14:07:34+02:00</create>
-      <lastuse>2025-10-08T16:13:46+02:00</lastuse>
+      <lastuse>2025-10-08T15:53:46+02:00</lastuse>
       <lastconfirm>2025-10-08T15:33:47+02:00</lastconfirm>
     </date>
   </event>
@@ -92,36 +116,12 @@
     </location>
     <date>
       <create>2025-10-08T14:55:30+02:00</create>
-      <lastuse>2025-10-08T16:20:26+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:40:26+02:00</lastconfirm>
+      <lastuse>2025-10-08T16:43:12+02:00</lastuse>
+      <lastconfirm>2025-10-08T15:43:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17391430155</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396232</latitude>
-        <longitude>11.030579</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-08T15:42:02+02:00</create>
-      <lastuse>2025-10-08T15:47:00+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:42:02+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17391430158</id>
+    <id>17391455930</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -134,14 +134,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.388437</latitude>
-        <longitude>11.074730</longitude>
+        <latitude>48.395082</latitude>
+        <longitude>11.062159</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-08T15:42:02+02:00</create>
-      <lastuse>2025-10-08T15:47:00+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:42:02+02:00</lastconfirm>
+      <create>2025-10-08T15:46:02+02:00</create>
+      <lastuse>2025-10-08T15:52:00+02:00</lastuse>
+      <lastconfirm>2025-10-08T15:46:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +836,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-10-10T15:30:06+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:30:07+02:00</lastconfirm>
+      <lastuse>2025-10-10T15:40:35+02:00</lastuse>
+      <lastconfirm>2025-10-08T15:40:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
