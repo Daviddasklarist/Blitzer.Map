@@ -28,7 +28,7 @@
     <id>17391270328</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86551</zip>
       <city>Aichach</city>
@@ -44,8 +44,32 @@
     </location>
     <date>
       <create>2025-10-08T15:16:20+02:00</create>
-      <lastuse>2025-10-08T17:16:20+02:00</lastuse>
-      <lastconfirm>2025-10-08T16:03:17+02:00</lastconfirm>
+      <lastuse>2025-10-08T18:12:17+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:12:19+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17391300821</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86637</zip>
+      <city>Binswangen</city>
+      <state>DE-BY</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.572032</latitude>
+        <longitude>10.626750</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-08T15:21:23+02:00</create>
+      <lastuse>2025-10-08T18:09:38+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:09:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -110,13 +134,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.408298</latitude>
-        <longitude>10.929963</longitude>
+        <latitude>48.407532</latitude>
+        <longitude>10.934664</longitude>
       </point>
     </location>
     <date>
       <create>2025-10-08T16:01:04+02:00</create>
-      <lastuse>2025-10-08T16:13:00+02:00</lastuse>
+      <lastuse>2025-10-08T16:17:00+02:00</lastuse>
       <lastconfirm>2025-10-08T16:01:04+02:00</lastconfirm>
     </date>
   </event>
@@ -620,8 +644,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-10-10T15:55:14+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:55:14+02:00</lastconfirm>
+      <lastuse>2025-10-10T16:06:50+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:06:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-09-25T08:46:44+02:00</create>
-      <lastuse>2025-10-10T14:45:47+02:00</lastuse>
-      <lastconfirm>2025-10-08T14:45:47+02:00</lastconfirm>
+      <lastuse>2025-10-10T06:45:47+02:00</lastuse>
+      <lastconfirm>2025-09-25T08:46:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +836,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-10-10T15:40:35+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:40:35+02:00</lastconfirm>
+      <lastuse>2025-10-10T16:08:16+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:08:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1076,8 @@
     </location>
     <date>
       <create>2025-10-08T06:34:51+02:00</create>
-      <lastuse>2025-10-08T21:22:40+02:00</lastuse>
-      <lastconfirm>2025-10-08T13:22:40+02:00</lastconfirm>
+      <lastuse>2025-10-09T00:06:35+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:06:36+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
