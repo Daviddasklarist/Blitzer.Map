@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17390975185</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Maximilianstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.363303</latitude>
+        <longitude>10.900090</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-08T14:27:35+02:00</create>
+      <lastuse>2025-10-08T18:08:43+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:08:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17391270328</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-08T15:16:20+02:00</create>
-      <lastuse>2025-10-08T18:02:18+02:00</lastuse>
-      <lastconfirm>2025-10-08T16:02:18+02:00</lastconfirm>
+      <lastuse>2025-10-08T17:16:20+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:03:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2025-10-07T10:50:48+02:00</create>
-      <lastuse>2025-10-08T23:46:11+02:00</lastuse>
+      <lastuse>2025-10-08T22:46:11+02:00</lastuse>
       <lastconfirm>2025-10-08T15:46:11+02:00</lastconfirm>
     </date>
   </event>
@@ -68,32 +92,8 @@
     </location>
     <date>
       <create>2025-10-08T13:06:25+02:00</create>
-      <lastuse>2025-10-08T21:49:55+02:00</lastuse>
+      <lastuse>2025-10-08T20:49:55+02:00</lastuse>
       <lastconfirm>2025-10-08T14:49:56+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17391146242</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.385492</latitude>
-        <longitude>11.078785</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-08T14:55:30+02:00</create>
-      <lastuse>2025-10-08T16:10:39+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:50:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -103,20 +103,20 @@
     <quality>3</quality>
     <address>
       <zip>86169</zip>
-      <city>Augsburg</city>
+      <city>Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.410712</latitude>
-        <longitude>10.915402</longitude>
+        <latitude>48.408298</latitude>
+        <longitude>10.929963</longitude>
       </point>
     </location>
     <date>
       <create>2025-10-08T16:01:04+02:00</create>
-      <lastuse>2025-10-08T16:07:00+02:00</lastuse>
+      <lastuse>2025-10-08T16:13:00+02:00</lastuse>
       <lastconfirm>2025-10-08T16:01:04+02:00</lastconfirm>
     </date>
   </event>
@@ -308,8 +308,8 @@
     </location>
     <date>
       <create>2025-07-07T07:31:31+02:00</create>
-      <lastuse>2025-10-10T15:33:49+02:00</lastuse>
-      <lastconfirm>2025-10-08T15:33:49+02:00</lastconfirm>
+      <lastuse>2025-10-10T16:04:42+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:04:42+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +764,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-10-10T14:32:16+02:00</lastuse>
-      <lastconfirm>2025-10-08T14:32:18+02:00</lastconfirm>
+      <lastuse>2025-10-10T16:03:06+02:00</lastuse>
+      <lastconfirm>2025-10-08T16:03:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
