@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17395949812</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86420</zip>
+      <city>Diedorf</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352206</latitude>
+        <longitude>10.772677</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-09T06:14:53+02:00</create>
+      <lastuse>2025-10-09T08:20:13+02:00</lastuse>
+      <lastconfirm>2025-10-09T06:20:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17381712733</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-10-09T05:28:51+02:00</create>
-      <lastuse>2025-10-09T07:14:01+02:00</lastuse>
-      <lastconfirm>2025-10-09T06:14:02+02:00</lastconfirm>
+      <lastuse>2025-10-09T07:22:21+02:00</lastuse>
+      <lastconfirm>2025-10-09T06:22:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-10-09T05:36:08+02:00</create>
-      <lastuse>2025-10-09T06:47:50+02:00</lastuse>
-      <lastconfirm>2025-10-09T06:17:51+02:00</lastconfirm>
+      <lastuse>2025-10-09T06:49:39+02:00</lastuse>
+      <lastconfirm>2025-10-09T06:19:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-10-09T05:55:28+02:00</create>
-      <lastuse>2025-10-09T06:47:35+02:00</lastuse>
-      <lastconfirm>2025-10-09T06:17:35+02:00</lastconfirm>
+      <lastuse>2025-10-09T06:41:34+02:00</lastuse>
+      <lastconfirm>2025-10-09T06:21:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -124,7 +148,7 @@
     <id>17395900194</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86707</zip>
       <city>Meitingen</city>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-10-09T06:03:59+02:00</create>
-      <lastuse>2025-10-09T07:16:27+02:00</lastuse>
-      <lastconfirm>2025-10-09T06:16:27+02:00</lastconfirm>
+      <lastuse>2025-10-09T07:22:31+02:00</lastuse>
+      <lastconfirm>2025-10-09T06:22:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
