@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17413081171</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.461018</latitude>
+        <longitude>10.879961</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-11T09:47:59+02:00</create>
+      <lastuse>2025-10-11T11:58:43+02:00</lastuse>
+      <lastconfirm>2025-10-11T09:58:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17381712733</id>
     <type>7</type>
     <speed>50</speed>
@@ -22,6 +46,30 @@
       <create>2025-10-07T10:50:48+02:00</create>
       <lastuse>2025-10-11T15:37:54+02:00</lastuse>
       <lastconfirm>2025-10-11T07:37:55+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17413077879</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.374834</latitude>
+        <longitude>11.095491</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-11T09:46:15+02:00</create>
+      <lastuse>2025-10-11T10:28:17+02:00</lastuse>
+      <lastconfirm>2025-10-11T09:58:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +236,8 @@
     </location>
     <date>
       <create>2025-07-06T11:27:02+02:00</create>
-      <lastuse>2025-10-12T14:29:40+02:00</lastuse>
-      <lastconfirm>2025-10-10T14:29:41+02:00</lastconfirm>
+      <lastuse>2025-10-13T09:51:17+02:00</lastuse>
+      <lastconfirm>2025-10-11T09:51:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
