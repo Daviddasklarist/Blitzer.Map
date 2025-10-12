@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17420024300</id>
+    <type>1</type>
+    <speed>0</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416998</latitude>
+        <longitude>10.838763</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-12T07:31:50+02:00</create>
+      <lastuse>2025-10-12T16:42:38+02:00</lastuse>
+      <lastconfirm>2025-10-12T14:42:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17420627734</id>
     <type>6</type>
     <speed></speed>
@@ -20,15 +44,15 @@
     </location>
     <date>
       <create>2025-10-12T09:36:05+02:00</create>
-      <lastuse>2025-10-12T15:37:02+02:00</lastuse>
-      <lastconfirm>2025-10-12T14:37:02+02:00</lastconfirm>
+      <lastuse>2025-10-12T16:10:50+02:00</lastuse>
+      <lastconfirm>2025-10-12T14:40:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17420655041</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-10-12T09:42:58+02:00</create>
-      <lastuse>2025-10-12T16:37:04+02:00</lastuse>
-      <lastconfirm>2025-10-12T14:37:05+02:00</lastconfirm>
+      <lastuse>2025-10-12T16:41:15+02:00</lastuse>
+      <lastconfirm>2025-10-12T14:41:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -70,6 +94,30 @@
       <create>2025-10-07T10:50:48+02:00</create>
       <lastuse>2025-10-12T22:35:44+02:00</lastuse>
       <lastconfirm>2025-10-12T14:35:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17422139188</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Adelzhausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362919</latitude>
+        <longitude>11.123642</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-12T14:20:28+02:00</create>
+      <lastuse>2025-10-12T15:12:56+02:00</lastuse>
+      <lastconfirm>2025-10-12T14:42:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +428,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-10-14T13:45:05+02:00</lastuse>
-      <lastconfirm>2025-10-12T13:45:07+02:00</lastconfirm>
+      <lastuse>2025-10-14T14:36:20+02:00</lastuse>
+      <lastconfirm>2025-10-12T14:36:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +812,8 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-10-13T19:26:36+02:00</lastuse>
-      <lastconfirm>2025-09-29T08:56:18+02:00</lastconfirm>
+      <lastuse>2025-10-14T14:36:09+02:00</lastuse>
+      <lastconfirm>2025-10-12T14:36:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
