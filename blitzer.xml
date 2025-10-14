@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17430098785</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410411</latitude>
+        <longitude>10.617490</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-13T15:08:55+02:00</create>
+      <lastuse>2025-10-14T07:55:58+02:00</lastuse>
+      <lastconfirm>2025-10-14T06:40:58+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17433992134</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-10-14T03:26:27+02:00</create>
-      <lastuse>2025-10-14T08:01:08+02:00</lastuse>
+      <lastuse>2025-10-14T07:31:08+02:00</lastuse>
       <lastconfirm>2025-10-14T06:31:09+02:00</lastconfirm>
     </date>
   </event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-10-16T06:32:24+02:00</lastuse>
-      <lastconfirm>2025-10-14T06:32:24+02:00</lastconfirm>
+      <lastuse>2025-10-16T06:39:56+02:00</lastuse>
+      <lastconfirm>2025-10-14T06:39:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-10-16T06:19:24+02:00</lastuse>
-      <lastconfirm>2025-10-14T06:19:24+02:00</lastconfirm>
+      <lastuse>2025-10-16T06:35:29+02:00</lastuse>
+      <lastconfirm>2025-10-14T06:35:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2025-10-13T08:09:57+02:00</create>
-      <lastuse>2025-10-14T14:31:58+02:00</lastuse>
-      <lastconfirm>2025-10-14T06:31:58+02:00</lastconfirm>
+      <lastuse>2025-10-14T14:37:10+02:00</lastuse>
+      <lastconfirm>2025-10-14T06:37:10+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
