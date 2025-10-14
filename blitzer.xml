@@ -117,7 +117,7 @@
     <date>
       <create>2025-10-14T10:14:25+02:00</create>
       <lastuse>2025-10-14T14:14:25+02:00</lastuse>
-      <lastconfirm>2025-10-14T11:37:38+02:00</lastconfirm>
+      <lastconfirm>2025-10-14T11:42:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-10-16T11:28:24+02:00</lastuse>
-      <lastconfirm>2025-10-14T11:28:25+02:00</lastconfirm>
+      <lastuse>2025-10-16T11:38:40+02:00</lastuse>
+      <lastconfirm>2025-10-14T11:38:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-10-16T11:33:20+02:00</lastuse>
-      <lastconfirm>2025-10-14T11:33:21+02:00</lastconfirm>
+      <lastuse>2025-10-16T11:38:27+02:00</lastuse>
+      <lastconfirm>2025-10-14T11:38:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +668,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-10-16T11:29:34+02:00</lastuse>
-      <lastconfirm>2025-10-14T11:29:35+02:00</lastconfirm>
+      <lastuse>2025-10-16T11:39:55+02:00</lastuse>
+      <lastconfirm>2025-10-14T11:39:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1100,32 @@
     </location>
     <date>
       <create>2025-10-14T10:45:34+02:00</create>
-      <lastuse>2025-10-14T17:07:15+02:00</lastuse>
+      <lastuse>2025-10-14T15:07:15+02:00</lastuse>
       <lastconfirm>2025-10-14T10:45:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17436524081</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414296</latitude>
+        <longitude>10.878929</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-14T11:27:14+02:00</create>
+      <lastuse>2025-10-14T19:38:34+02:00</lastuse>
+      <lastconfirm>2025-10-14T11:38:34+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
