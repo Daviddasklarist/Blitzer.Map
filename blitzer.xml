@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17437465232</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86399</zip>
-      <city>Bobingen</city>
-      <state>DE-BY</state>
-      <street>Schloßberg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.272165</latitude>
-        <longitude>10.790125</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-14T14:03:56+02:00</create>
-      <lastuse>2025-10-14T17:04:51+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:04:51+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17436486081</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +44,32 @@
     </location>
     <date>
       <create>2025-10-14T11:46:43+02:00</create>
-      <lastuse>2025-10-14T16:37:37+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:07:37+02:00</lastconfirm>
+      <lastuse>2025-10-14T17:30:20+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:30:20+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17437465232</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Schloßberg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.272165</latitude>
+        <longitude>10.790125</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-14T14:03:56+02:00</create>
+      <lastuse>2025-10-14T17:30:12+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:30:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,171 +97,27 @@
     </date>
   </event>
   <event>
-    <id>17276587540</id>
-    <type>26</type>
+    <id>17437859765</id>
+    <type>21</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86492</zip>
-      <city>Egling an der Paar</city>
-      <state>DE-HH</state>
-      <street>Hauptstraße</street>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>B300</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.186227</latitude>
-        <longitude>10.980981</longitude>
+        <latitude>48.422882</latitude>
+        <longitude>11.093520</longitude>
       </point>
     </location>
     <date>
-      <create>2025-09-23T22:06:22+02:00</create>
-      <lastuse>2025-10-15T23:48:00+02:00</lastuse>
-      <lastconfirm>2025-10-13T23:48:01+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17287790175</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86399</zip>
-      <city>Bobingen</city>
-      <state>DE-HH</state>
-      <street>Mickhauser Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.247489</latitude>
-        <longitude>10.691592</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-25T08:46:44+02:00</create>
-      <lastuse>2025-10-15T07:42:19+02:00</lastuse>
-      <lastconfirm>2025-09-25T08:46:44+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17388219690</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86415</zip>
-      <city>Mering</city>
-      <state>DE-HH</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.273616</latitude>
-        <longitude>10.983324</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-08T06:34:51+02:00</create>
-      <lastuse>2025-10-16T15:02:43+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:02:43+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17434874063</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-HH</state>
-      <street>Wertachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.283560</latitude>
-        <longitude>10.876862</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-14T06:39:32+02:00</create>
-      <lastuse>2025-10-14T21:05:49+02:00</lastuse>
-      <lastconfirm>2025-10-14T06:39:32+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16748892408</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-HH</state>
-      <street>Hunnenstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.285201</latitude>
-        <longitude>10.879302</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-08-03T12:22:35+02:00</create>
-      <lastuse>2025-10-16T13:35:18+02:00</lastuse>
-      <lastconfirm>2025-10-14T13:35:19+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16528533484</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bürgermeister-Widmeier-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.314019</latitude>
-        <longitude>10.910509</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-06T11:27:02+02:00</create>
-      <lastuse>2025-10-16T13:07:09+02:00</lastuse>
-      <lastconfirm>2025-10-14T13:07:09+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17429428244</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Heinrich-Hertz-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.319159</latitude>
-        <longitude>10.894633</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-13T13:12:39+02:00</create>
-      <lastuse>2025-10-16T10:19:37+02:00</lastuse>
-      <lastconfirm>2025-10-14T10:19:37+02:00</lastconfirm>
+      <create>2025-10-14T15:08:04+02:00</create>
+      <lastuse>2025-10-14T16:31:18+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:31:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -313,174 +169,6 @@
     </date>
   </event>
   <event>
-    <id>16542933036</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bergiusstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.338667</latitude>
-        <longitude>10.882958</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2025-10-16T15:15:41+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:15:42+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16534401036</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Klausenberg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.342252</latitude>
-        <longitude>10.869787</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-07T07:31:31+02:00</create>
-      <lastuse>2025-10-16T15:15:59+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:15:59+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17299039949</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Schertlinstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.353612</latitude>
-        <longitude>10.890457</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-26T17:44:07+02:00</create>
-      <lastuse>2025-10-16T14:57:59+02:00</lastuse>
-      <lastconfirm>2025-10-14T14:58:00+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17350801405</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Schertlinstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.353810</latitude>
-        <longitude>10.889704</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-03T09:50:42+02:00</create>
-      <lastuse>2025-10-16T14:16:09+02:00</lastuse>
-      <lastconfirm>2025-10-14T14:16:10+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17319155093</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Gögginger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.355940</latitude>
-        <longitude>10.885822</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-10-16T14:41:28+02:00</lastuse>
-      <lastconfirm>2025-10-14T14:41:28+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17227161099</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Remboldstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.361676</latitude>
-        <longitude>10.904691</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-17T16:48:12+02:00</create>
-      <lastuse>2025-10-16T09:54:59+02:00</lastuse>
-      <lastconfirm>2025-10-14T09:54:59+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16988916161</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86150</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Rosenaustraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.362964</latitude>
-        <longitude>10.882905</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-10-16T15:17:00+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:17:00+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15595992108</id>
     <type>26</type>
     <speed></speed>
@@ -505,75 +193,27 @@
     </date>
   </event>
   <event>
-    <id>17427645315</id>
+    <id>16317641392</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
+      <zip>89420</zip>
+      <city>Höchstädt an der Donau</city>
       <state>DE-HH</state>
-      <street>Holzbachstraße</street>
+      <street>B16</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.371469</latitude>
-        <longitude>10.879357</longitude>
+        <latitude>48.641210</latitude>
+        <longitude>10.613145</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-13T08:09:57+02:00</create>
-      <lastuse>2025-10-16T15:04:52+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:04:52+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17427107647</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Holzbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373054</latitude>
-        <longitude>10.880433</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-13T06:28:17+02:00</create>
-      <lastuse>2025-10-16T06:54:53+02:00</lastuse>
-      <lastconfirm>2025-10-13T06:28:17+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17181045078</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Müllerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.377530</latitude>
-        <longitude>10.900787</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-10-16T14:32:21+02:00</lastuse>
-      <lastconfirm>2025-10-14T14:32:21+02:00</lastconfirm>
+      <create>2025-06-07T13:24:47+02:00</create>
+      <lastuse>2025-10-16T14:56:36+02:00</lastuse>
+      <lastconfirm>2025-10-14T14:56:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -601,75 +241,147 @@
     </date>
   </event>
   <event>
-    <id>17164071761</id>
+    <id>16352625519</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86167</zip>
-      <city>Augsburg</city>
+      <zip>89443</zip>
+      <city>Blindheim</city>
       <state>DE-HH</state>
-      <street>Schillstraße</street>
+      <street>B16</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.382953</latitude>
-        <longitude>10.908940</longitude>
+        <latitude>48.643832</latitude>
+        <longitude>10.618843</longitude>
       </point>
     </location>
     <date>
-      <create>2025-09-09T15:59:25+02:00</create>
-      <lastuse>2025-10-16T09:36:34+02:00</lastuse>
-      <lastconfirm>2025-10-14T09:36:34+02:00</lastconfirm>
+      <create>2025-06-12T11:39:25+02:00</create>
+      <lastuse>2025-10-16T13:39:33+02:00</lastuse>
+      <lastconfirm>2025-10-14T13:39:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17423163172</id>
+    <id>16528533484</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86165</zip>
+      <zip>86179</zip>
       <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>Bozener Straße</street>
+      <street>Bürgermeister-Widmeier-Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.384193</latitude>
-        <longitude>10.931373</longitude>
+        <latitude>48.314019</latitude>
+        <longitude>10.910509</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-12T17:24:19+02:00</create>
-      <lastuse>2025-10-16T11:56:41+02:00</lastuse>
-      <lastconfirm>2025-10-14T11:56:41+02:00</lastconfirm>
+      <create>2025-07-06T11:27:02+02:00</create>
+      <lastuse>2025-10-16T13:07:09+02:00</lastuse>
+      <lastconfirm>2025-10-14T13:07:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17304429896</id>
+    <id>16534401036</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86154</zip>
+      <zip>86199</zip>
       <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>Zollernstraße</street>
+      <street>Klausenberg</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.384252</latitude>
-        <longitude>10.876719</longitude>
+        <latitude>48.342252</latitude>
+        <longitude>10.869787</longitude>
       </point>
     </location>
     <date>
-      <create>2025-09-27T10:50:18+02:00</create>
-      <lastuse>2025-10-16T11:55:13+02:00</lastuse>
-      <lastconfirm>2025-10-14T11:55:14+02:00</lastconfirm>
+      <create>2025-07-07T07:31:31+02:00</create>
+      <lastuse>2025-10-16T15:15:59+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:15:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16542933036</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bergiusstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.338667</latitude>
+        <longitude>10.882958</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-08T11:03:12+02:00</create>
+      <lastuse>2025-10-16T15:15:41+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:15:42+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16748892408</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>Hunnenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.285201</latitude>
+        <longitude>10.879302</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-03T12:22:35+02:00</create>
+      <lastuse>2025-10-16T13:35:18+02:00</lastuse>
+      <lastconfirm>2025-10-14T13:35:19+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>16917102730</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86637</zip>
+      <city>Wertingen</city>
+      <state>DE-HH</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.543403</latitude>
+        <longitude>10.729322</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-08-23T15:50:12+02:00</create>
+      <lastuse>2025-10-16T15:03:06+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:03:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -697,99 +409,51 @@
     </date>
   </event>
   <event>
-    <id>17208050280</id>
+    <id>16964224802</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
+      <zip>86637</zip>
+      <city>Wertingen</city>
       <state>DE-HH</state>
-      <street>Derchinger Straße</street>
+      <street>St 2033</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.385187</latitude>
-        <longitude>10.926750</longitude>
+        <latitude>48.542708</latitude>
+        <longitude>10.730774</longitude>
       </point>
     </location>
     <date>
-      <create>2025-09-15T06:46:05+02:00</create>
-      <lastuse>2025-10-15T22:56:45+02:00</lastuse>
-      <lastconfirm>2025-09-15T06:46:05+02:00</lastconfirm>
+      <create>2025-08-29T12:08:52+02:00</create>
+      <lastuse>2025-10-16T15:19:27+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:19:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17290552223</id>
+    <id>16988916161</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86156</zip>
+      <zip>86150</zip>
       <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>Kobelweg</street>
+      <street>Rosenaustraße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.385770</latitude>
-        <longitude>10.850162</longitude>
+        <latitude>48.362964</latitude>
+        <longitude>10.882905</longitude>
       </point>
     </location>
     <date>
-      <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-10-16T15:00:06+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:00:06+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17304402373</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Kobelweg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.385785</latitude>
-        <longitude>10.850322</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-10-16T15:22:43+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:22:43+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17396410153</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-HH</state>
-      <street>Westheimer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.386711</latitude>
-        <longitude>10.821676</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-09T07:41:01+02:00</create>
-      <lastuse>2025-10-16T13:27:26+02:00</lastuse>
-      <lastconfirm>2025-10-14T13:27:27+02:00</lastconfirm>
+      <create>2025-09-01T13:08:14+02:00</create>
+      <lastuse>2025-10-16T15:17:00+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:17:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -817,51 +481,75 @@
     </date>
   </event>
   <event>
-    <id>17422156032</id>
+    <id>17164071761</id>
     <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Hirblinger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.389334</latitude>
-        <longitude>10.871606</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-12T14:23:22+02:00</create>
-      <lastuse>2025-10-16T15:04:54+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:04:55+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17435153937</id>
-    <type>22</type>
     <speed></speed>
     <quality>3</quality>
     <address>
       <zip>86167</zip>
       <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>Aindlinger Straße</street>
+      <street>Schillstraße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.389897</latitude>
-        <longitude>10.935469</longitude>
+        <latitude>48.382953</latitude>
+        <longitude>10.908940</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-14T07:32:08+02:00</create>
-      <lastuse>2025-10-14T23:06:57+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:06:57+02:00</lastconfirm>
+      <create>2025-09-09T15:59:25+02:00</create>
+      <lastuse>2025-10-16T09:36:34+02:00</lastuse>
+      <lastconfirm>2025-10-14T09:36:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17181045078</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Müllerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377530</latitude>
+        <longitude>10.900787</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-11T18:04:33+02:00</create>
+      <lastuse>2025-10-16T14:32:21+02:00</lastuse>
+      <lastconfirm>2025-10-14T14:32:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17208050280</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Derchinger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385187</latitude>
+        <longitude>10.926750</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-15T06:46:05+02:00</create>
+      <lastuse>2025-10-15T22:56:45+02:00</lastuse>
+      <lastconfirm>2025-09-15T06:46:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -889,7 +577,79 @@
     </date>
   </event>
   <event>
-    <id>17346118629</id>
+    <id>17227161099</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Remboldstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.361676</latitude>
+        <longitude>10.904691</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-17T16:48:12+02:00</create>
+      <lastuse>2025-10-16T09:54:59+02:00</lastuse>
+      <lastconfirm>2025-10-14T09:54:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17276587540</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86492</zip>
+      <city>Egling an der Paar</city>
+      <state>DE-HH</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.186227</latitude>
+        <longitude>10.980981</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-23T22:06:22+02:00</create>
+      <lastuse>2025-10-15T23:48:00+02:00</lastuse>
+      <lastconfirm>2025-10-13T23:48:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17287790175</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-HH</state>
+      <street>Mickhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.247489</latitude>
+        <longitude>10.691592</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-25T08:46:44+02:00</create>
+      <lastuse>2025-10-15T07:42:19+02:00</lastuse>
+      <lastconfirm>2025-09-25T08:46:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17290552223</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
@@ -897,43 +657,115 @@
       <zip>86156</zip>
       <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>Holzweg</street>
+      <street>Kobelweg</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.393349</latitude>
-        <longitude>10.848469</longitude>
+        <latitude>48.385770</latitude>
+        <longitude>10.850162</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-02T18:37:20+02:00</create>
-      <lastuse>2025-10-15T18:56:38+02:00</lastuse>
-      <lastconfirm>2025-10-13T18:56:39+02:00</lastconfirm>
+      <create>2025-09-25T16:21:27+02:00</create>
+      <lastuse>2025-10-16T15:00:06+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:00:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17436524081</id>
-    <type>22</type>
+    <id>17299039949</id>
+    <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
+      <zip>86159</zip>
+      <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>Augsburger Straße</street>
+      <street>Schertlinstraße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.414296</latitude>
-        <longitude>10.878929</longitude>
+        <latitude>48.353612</latitude>
+        <longitude>10.890457</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-14T11:27:14+02:00</create>
-      <lastuse>2025-10-14T21:19:02+02:00</lastuse>
-      <lastconfirm>2025-10-14T11:27:14+02:00</lastconfirm>
+      <create>2025-09-26T17:44:07+02:00</create>
+      <lastuse>2025-10-16T14:57:59+02:00</lastuse>
+      <lastconfirm>2025-10-14T14:58:00+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17304402373</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Kobelweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385785</latitude>
+        <longitude>10.850322</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-27T10:49:33+02:00</create>
+      <lastuse>2025-10-16T15:22:43+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:22:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17304429896</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Zollernstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384252</latitude>
+        <longitude>10.876719</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-27T10:50:18+02:00</create>
+      <lastuse>2025-10-16T11:55:13+02:00</lastuse>
+      <lastconfirm>2025-10-14T11:55:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17319155093</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Gögginger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355940</latitude>
+        <longitude>10.885822</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-29T08:56:18+02:00</create>
+      <lastuse>2025-10-16T14:41:28+02:00</lastuse>
+      <lastconfirm>2025-10-14T14:41:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -985,99 +817,291 @@
     </date>
   </event>
   <event>
-    <id>16964224802</id>
+    <id>17346118629</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86637</zip>
-      <city>Wertingen</city>
+      <zip>86156</zip>
+      <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>St 2033</street>
+      <street>Holzweg</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.542708</latitude>
-        <longitude>10.730774</longitude>
+        <latitude>48.393349</latitude>
+        <longitude>10.848469</longitude>
       </point>
     </location>
     <date>
-      <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-10-16T15:19:27+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:19:27+02:00</lastconfirm>
+      <create>2025-10-02T18:37:20+02:00</create>
+      <lastuse>2025-10-15T18:56:38+02:00</lastuse>
+      <lastconfirm>2025-10-13T18:56:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>16917102730</id>
+    <id>17350801405</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86637</zip>
-      <city>Wertingen</city>
+      <zip>86159</zip>
+      <city>Augsburg</city>
       <state>DE-HH</state>
-      <street>St 2033</street>
+      <street>Schertlinstraße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.543403</latitude>
-        <longitude>10.729322</longitude>
+        <latitude>48.353810</latitude>
+        <longitude>10.889704</longitude>
       </point>
     </location>
     <date>
-      <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-10-16T15:03:06+02:00</lastuse>
-      <lastconfirm>2025-10-14T15:03:06+02:00</lastconfirm>
+      <create>2025-10-03T09:50:42+02:00</create>
+      <lastuse>2025-10-16T15:26:30+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:26:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>16317641392</id>
+    <id>17388219690</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>89420</zip>
-      <city>Höchstädt an der Donau</city>
+      <zip>86415</zip>
+      <city>Mering</city>
       <state>DE-HH</state>
-      <street>B16</street>
+      <street>Augsburger Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.641210</latitude>
-        <longitude>10.613145</longitude>
+        <latitude>48.273616</latitude>
+        <longitude>10.983324</longitude>
       </point>
     </location>
     <date>
-      <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-10-16T14:56:36+02:00</lastuse>
-      <lastconfirm>2025-10-14T14:56:36+02:00</lastconfirm>
+      <create>2025-10-08T06:34:51+02:00</create>
+      <lastuse>2025-10-16T15:02:43+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:02:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>16352625519</id>
+    <id>17396410153</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>89443</zip>
-      <city>Blindheim</city>
+      <zip>86356</zip>
+      <city>Neusäß</city>
       <state>DE-HH</state>
-      <street>B16</street>
+      <street>Westheimer Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.643832</latitude>
-        <longitude>10.618843</longitude>
+        <latitude>48.386711</latitude>
+        <longitude>10.821676</longitude>
       </point>
     </location>
     <date>
-      <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-10-16T13:39:33+02:00</lastuse>
-      <lastconfirm>2025-10-14T13:39:33+02:00</lastconfirm>
+      <create>2025-10-09T07:41:01+02:00</create>
+      <lastuse>2025-10-16T13:27:26+02:00</lastuse>
+      <lastconfirm>2025-10-14T13:27:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17422156032</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Hirblinger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.389334</latitude>
+        <longitude>10.871606</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-12T14:23:22+02:00</create>
+      <lastuse>2025-10-16T15:04:54+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:04:55+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17423163172</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bozener Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384193</latitude>
+        <longitude>10.931373</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-12T17:24:19+02:00</create>
+      <lastuse>2025-10-16T11:56:41+02:00</lastuse>
+      <lastconfirm>2025-10-14T11:56:41+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17427107647</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Holzbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.373054</latitude>
+        <longitude>10.880433</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-13T06:28:17+02:00</create>
+      <lastuse>2025-10-16T06:54:53+02:00</lastuse>
+      <lastconfirm>2025-10-13T06:28:17+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17427645315</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Holzbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.371469</latitude>
+        <longitude>10.879357</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-13T08:09:57+02:00</create>
+      <lastuse>2025-10-16T15:04:52+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:04:52+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17429428244</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Heinrich-Hertz-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.319159</latitude>
+        <longitude>10.894633</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-13T13:12:39+02:00</create>
+      <lastuse>2025-10-16T10:19:37+02:00</lastuse>
+      <lastconfirm>2025-10-14T10:19:37+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17434874063</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.283560</latitude>
+        <longitude>10.876862</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-14T06:39:32+02:00</create>
+      <lastuse>2025-10-14T21:05:49+02:00</lastuse>
+      <lastconfirm>2025-10-14T06:39:32+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17435153937</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Aindlinger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.389897</latitude>
+        <longitude>10.935469</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-14T07:32:08+02:00</create>
+      <lastuse>2025-10-14T23:06:57+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:06:57+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17436524081</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414296</latitude>
+        <longitude>10.878929</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-14T11:27:14+02:00</create>
+      <lastuse>2025-10-14T23:29:17+02:00</lastuse>
+      <lastconfirm>2025-10-14T15:29:18+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
