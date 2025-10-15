@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2025-10-15T11:34:55+02:00</create>
-      <lastuse>2025-10-15T15:23:22+02:00</lastuse>
+      <lastuse>2025-10-15T14:53:22+02:00</lastuse>
       <lastconfirm>2025-10-15T13:23:23+02:00</lastconfirm>
     </date>
   </event>
@@ -52,7 +52,7 @@
     <id>17444595478</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86444</zip>
       <city>Affing</city>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-10-15T12:04:28+02:00</create>
-      <lastuse>2025-10-15T15:25:26+02:00</lastuse>
-      <lastconfirm>2025-10-15T13:25:27+02:00</lastconfirm>
+      <lastuse>2025-10-15T15:33:10+02:00</lastuse>
+      <lastconfirm>2025-10-15T13:33:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -134,13 +134,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.411253</latitude>
-        <longitude>10.912137</longitude>
+        <latitude>48.410712</latitude>
+        <longitude>10.915402</longitude>
       </point>
     </location>
     <date>
       <create>2025-10-15T13:25:03+02:00</create>
-      <lastuse>2025-10-15T13:33:00+02:00</lastuse>
+      <lastuse>2025-10-15T13:38:00+02:00</lastuse>
       <lastconfirm>2025-10-15T13:25:03+02:00</lastconfirm>
     </date>
   </event>
@@ -1076,8 +1076,8 @@
     </location>
     <date>
       <create>2025-10-14T19:27:09+02:00</create>
-      <lastuse>2025-10-15T21:21:49+02:00</lastuse>
-      <lastconfirm>2025-10-15T13:21:49+02:00</lastconfirm>
+      <lastuse>2025-10-15T21:26:29+02:00</lastuse>
+      <lastconfirm>2025-10-15T13:26:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1156,7 +1156,7 @@
     <id>17444744866</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86154</zip>
       <city>Gersthofen</city>
@@ -1172,8 +1172,32 @@
     </location>
     <date>
       <create>2025-10-15T12:28:11+02:00</create>
-      <lastuse>2025-10-15T21:14:29+02:00</lastuse>
-      <lastconfirm>2025-10-15T13:14:33+02:00</lastconfirm>
+      <lastuse>2025-10-15T21:27:01+02:00</lastuse>
+      <lastconfirm>2025-10-15T13:27:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17445037319</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.294491</latitude>
+        <longitude>10.876957</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-15T13:15:22+02:00</create>
+      <lastuse>2025-10-15T21:28:55+02:00</lastuse>
+      <lastconfirm>2025-10-15T13:28:55+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
