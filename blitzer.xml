@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17450357876</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Blücherstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373024</latitude>
-        <longitude>10.933016</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-16T06:27:11+02:00</create>
-      <lastuse>2025-10-16T11:52:40+02:00</lastuse>
-      <lastconfirm>2025-10-16T10:52:41+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17450409423</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-10-16T07:30:33+02:00</create>
-      <lastuse>2025-10-16T13:07:43+02:00</lastuse>
-      <lastconfirm>2025-10-16T11:07:44+02:00</lastconfirm>
+      <lastuse>2025-10-16T13:31:59+02:00</lastuse>
+      <lastconfirm>2025-10-16T11:31:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-10-16T08:46:49+02:00</create>
-      <lastuse>2025-10-16T12:46:49+02:00</lastuse>
-      <lastconfirm>2025-10-16T11:25:55+02:00</lastconfirm>
+      <lastuse>2025-10-16T13:00:57+02:00</lastuse>
+      <lastconfirm>2025-10-16T11:30:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-10-16T06:47:00+02:00</create>
-      <lastuse>2025-10-16T11:57:02+02:00</lastuse>
-      <lastconfirm>2025-10-16T11:27:02+02:00</lastconfirm>
+      <lastuse>2025-10-16T12:02:28+02:00</lastuse>
+      <lastconfirm>2025-10-16T11:32:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-10-18T10:06:58+02:00</lastuse>
-      <lastconfirm>2025-10-16T10:06:59+02:00</lastconfirm>
+      <lastuse>2025-10-18T11:29:12+02:00</lastuse>
+      <lastconfirm>2025-10-16T11:29:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1150,6 +1126,30 @@
       <create>2025-10-16T08:47:45+02:00</create>
       <lastuse>2025-10-16T19:02:19+02:00</lastuse>
       <lastconfirm>2025-10-16T11:02:20+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17451743489</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.265873</latitude>
+        <longitude>10.866618</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-16T10:40:54+02:00</create>
+      <lastuse>2025-10-16T19:29:46+02:00</lastuse>
+      <lastconfirm>2025-10-16T11:29:47+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
