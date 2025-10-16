@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17453161218</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>Otto-Hahn-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.407631</latitude>
-        <longitude>10.869176</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-16T14:40:45+02:00</create>
-      <lastuse>2025-10-16T19:47:45+02:00</lastuse>
-      <lastconfirm>2025-10-16T18:47:47+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17454728008</id>
     <type>29</type>
     <speed></speed>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-10-18T18:38:43+02:00</lastuse>
-      <lastconfirm>2025-10-16T18:38:44+02:00</lastconfirm>
+      <lastuse>2025-10-18T19:09:02+02:00</lastuse>
+      <lastconfirm>2025-10-16T19:09:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -673,6 +649,30 @@
     </date>
   </event>
   <event>
+    <id>17319155093</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Gögginger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355940</latitude>
+        <longitude>10.885822</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-09-29T08:56:18+02:00</create>
+      <lastuse>2025-10-18T19:07:18+02:00</lastuse>
+      <lastconfirm>2025-10-16T19:07:18+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17341432760</id>
     <type>26</type>
     <speed></speed>
@@ -956,8 +956,8 @@
     </location>
     <date>
       <create>2025-10-15T14:13:05+02:00</create>
-      <lastuse>2025-10-18T18:44:19+02:00</lastuse>
-      <lastconfirm>2025-10-16T18:44:19+02:00</lastconfirm>
+      <lastuse>2025-10-18T10:44:19+02:00</lastuse>
+      <lastconfirm>2025-10-15T14:13:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
