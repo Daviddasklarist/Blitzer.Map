@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<traffic_informations>
+
+  <!-- Typ 1: Mobiler Blitzer -->
+  <event>
+    <id>10000000001</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bahnhofstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.3665</latitude>
+        <longitude>10.8985</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 2: Rotlichtblitzer -->
+  <event>
+    <id>10000000002</id>
+    <type>2</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.3472</latitude>
+        <longitude>10.9055</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 6: Abstandskontrolle -->
+  <event>
+    <id>10000000006</id>
+    <type>6</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17 Messezentrum</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.3399</latitude>
+        <longitude>10.8930</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 7: Blitzeranhänger -->
+  <event>
+    <id>10000000007</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.3700</latitude>
+        <longitude>10.9600</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 20: Stauende -->
+  <event>
+    <id>10000000020</id>
+    <type>20</type>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.4090</latitude>
+        <longitude>10.6200</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 21: Unfall -->
+  <event>
+    <id>10000000021</id>
+    <type>21</type>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.2840</latitude>
+        <longitude>10.8700</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 23: Hindernis -->
+  <event>
+    <id>10000000023</id>
+    <type>23</type>
+    <quality>3</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Donauwörther Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.3900</latitude>
+        <longitude>10.8750</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 24: Rutschige Fahrbahn -->
+  <event>
+    <id>10000000024</id>
+    <type>24</type>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.4010</latitude>
+        <longitude>10.9150</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 25: Sichtbehinderung -->
+  <event>
+    <id>10000000025</id>
+    <type>25</type>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.3709</latitude>
+        <longitude>10.8745</longitude>
+      </point>
+    </location>
+  </event>
+
+  <!-- Typ 29: Pannenfahrzeug -->
+  <event>
+    <id>10000000029</id>
+    <type>29</type>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Gögginger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.3559</latitude>
+        <longitude>10.8858</longitude>
+      </point>
+    </location>
+  </event>
+
+</traffic_informations>
