@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17452170700</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>AIC 25</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.368933</latitude>
-        <longitude>10.959580</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-16T11:56:56+02:00</create>
-      <lastuse>2025-10-16T18:51:14+02:00</lastuse>
-      <lastconfirm>2025-10-16T18:21:14+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17453161218</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,32 +44,8 @@
     </location>
     <date>
       <create>2025-10-16T16:19:03+02:00</create>
-      <lastuse>2025-10-16T20:36:21+02:00</lastuse>
-      <lastconfirm>2025-10-16T18:36:21+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17454178262</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86574</zip>
-      <city>Petersdorf</city>
-      <state>DE-BY</state>
-      <street>Aichacher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.511632</latitude>
-        <longitude>11.029742</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-16T17:22:02+02:00</create>
-      <lastuse>2025-10-16T18:27:20+02:00</lastuse>
-      <lastconfirm>2025-10-16T17:57:21+02:00</lastconfirm>
+      <lastuse>2025-10-16T20:42:27+02:00</lastuse>
+      <lastconfirm>2025-10-16T18:42:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,27 +73,27 @@
     </date>
   </event>
   <event>
-    <id>17454349448</id>
-    <type>23</type>
+    <id>17453800914</id>
+    <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
+      <zip>86156</zip>
+      <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>B17</street>
+      <street>Dayton-Ring</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.268542</latitude>
-        <longitude>10.867120</longitude>
+        <latitude>48.373023</latitude>
+        <longitude>10.856070</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-16T17:49:57+02:00</create>
-      <lastuse>2025-10-16T19:00:32+02:00</lastuse>
-      <lastconfirm>2025-10-16T18:30:33+02:00</lastconfirm>
+      <create>2025-10-16T16:25:00+02:00</create>
+      <lastuse>2025-10-16T19:40:26+02:00</lastuse>
+      <lastconfirm>2025-10-16T18:40:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +188,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-10-18T17:22:20+02:00</lastuse>
-      <lastconfirm>2025-10-16T17:22:20+02:00</lastconfirm>
+      <lastuse>2025-10-18T18:38:43+02:00</lastuse>
+      <lastconfirm>2025-10-16T18:38:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +692,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-10-18T17:33:15+02:00</lastuse>
-      <lastconfirm>2025-10-16T17:33:15+02:00</lastconfirm>
+      <lastuse>2025-10-18T18:36:39+02:00</lastuse>
+      <lastconfirm>2025-10-16T18:36:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +812,8 @@
     </location>
     <date>
       <create>2025-10-02T18:37:20+02:00</create>
-      <lastuse>2025-10-18T10:05:08+02:00</lastuse>
-      <lastconfirm>2025-10-16T10:05:09+02:00</lastconfirm>
+      <lastuse>2025-10-18T18:39:50+02:00</lastuse>
+      <lastconfirm>2025-10-16T18:39:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +980,8 @@
     </location>
     <date>
       <create>2025-10-14T19:27:09+02:00</create>
-      <lastuse>2025-10-18T17:42:52+02:00</lastuse>
-      <lastconfirm>2025-10-16T17:42:52+02:00</lastconfirm>
+      <lastuse>2025-10-18T09:42:52+02:00</lastuse>
+      <lastconfirm>2025-10-14T19:27:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1028,8 @@
     </location>
     <date>
       <create>2025-10-15T14:13:05+02:00</create>
-      <lastuse>2025-10-18T18:28:02+02:00</lastuse>
-      <lastconfirm>2025-10-16T18:28:03+02:00</lastconfirm>
+      <lastuse>2025-10-18T18:36:39+02:00</lastuse>
+      <lastconfirm>2025-10-16T18:36:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
