@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17454890961</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.625743</latitude>
+        <longitude>10.836036</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-16T19:19:57+02:00</create>
+      <lastuse>2025-10-16T23:19:57+02:00</lastuse>
+      <lastconfirm>2025-10-16T20:25:26+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17454931874</id>
     <type>23</type>
     <speed></speed>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-10-18T19:50:19+02:00</lastuse>
-      <lastconfirm>2025-10-16T19:50:19+02:00</lastconfirm>
+      <lastuse>2025-10-18T20:23:06+02:00</lastuse>
+      <lastconfirm>2025-10-16T20:23:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
