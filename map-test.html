@@ -1,137 +1,106 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        html, body {
-            width: 100%;
-            height: 100%;
-        }
-        #map {
-            width: 90vmin; /* Karte ist quadratisch */
-            height: 90vmin;
-            margin: auto;
-            background: #f0f0f0;
-            display: block;
-        }
-    </style>
-</head>
-<body>
-    <div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script>
+    // Karte initialisieren
+    const map = L.map('map').setView([48.3665, 10.8944], 12);
 
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <script>
-        // Karte initialisieren
-        const map = L.map('map').setView([48.3665, 10.8944], 12);
+    // OpenStreetMap-Tiles hinzufügen
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+    }).addTo(map);
 
-        // OpenStreetMap-Tiles hinzufügen
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-        }).addTo(map);
+    // Benutzerdefinierte Icons definieren
+    const customIcon = L.icon({
+        iconUrl: 'Blitzer_Icon.png',
+        iconSize: [40, 40],
+        iconAnchor: [20, 40],
+        popupAnchor: [0, -40]
+    });
 
-        // Benutzerdefinierte Icons definieren
-        const customIcon = L.icon({
-            iconUrl: 'Blitzer_Icon.png', // Relativer oder absoluter Pfad zu Ihrem Icon
-            iconSize: [40, 40],
-            iconAnchor: [20, 40],
-            popupAnchor: [0, -40]
-        });
+    const abstandIcon = L.icon({
+        iconUrl: 'Abstand.png',
+        iconSize: [40, 40],
+        iconAnchor: [20, 40],
+        popupAnchor: [0, -40]
+    });
 
-        const warningIcon = L.icon({
-            iconUrl: 'Warnung_Icon.png', // Relativer oder absoluter Pfad zu Ihrem Warnungs-Icon
-            iconSize: [40, 40],
-            iconAnchor: [20, 40],
-            popupAnchor: [0, -40]
-        });
+    const warningIcon = L.icon({
+        iconUrl: 'Warnung_Icon.png',
+        iconSize: [40, 40],
+        iconAnchor: [20, 40],
+        popupAnchor: [0, -40]
+    });
 
-        let markers = []; // Array, um die Marker zu speichern
+    let markers = []; // Array, um die Marker zu speichern
 
-        // Typ-Übersetzungen
-        const typeTranslations = {
-            "1": "Blitzer",
-            "7": "Blitzeranhänger",
-            "20": "Stauende",
-            "21": "Unfall",
-            "23": "Hindernis",
-            "24": "rutschige Fahrbahn",
-            "25": "Sichtbehinderung",
-            "29": "Pannenfahrzeug"
-        };
+    const typeTranslations = {
+        "1": "Mobiler Blitzer",
+        "2": "Rotlichtblitzer",
+        "6": "Abstandskontrolle",
+        "7": "Blitzeranhänger",
+        "20": "Stauende",
+        "21": "Unfall",
+        "23": "Hindernis",
+        "24": "Rutschige Fahrbahn",
+        "25": "Sichtbehinderung",
+        "29": "Pannenfahrzeug"
+    };
 
-        // Funktion zum Laden und Aktualisieren der XML-Daten
-        function loadXMLAndUpdateMap() {
-            fetch('https://raw.githubusercontent.com/Daviddasklarist/Blitzer.Map/main/blitzer.xml?' + new Date().getTime())
-                .then(response => response.text())
-                .then(data => {
-                    const parser = new DOMParser();
-                    const xmlDoc = parser.parseFromString(data, 'application/xml');
-                    const events = xmlDoc.getElementsByTagName('event');
-                    const bounds = [];
+    function loadXMLAndUpdateMap() {
+        fetch('https://raw.githubusercontent.com/Daviddasklarist/Blitzer.Map/main/blitzer.xml?' + new Date().getTime())
+            .then(response => response.text())
+            .then(data => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(data, 'application/xml');
+                const events = xmlDoc.getElementsByTagName('event');
+                const bounds = [];
 
-                    // Bestehende Marker entfernen
-                    markers.forEach(marker => map.removeLayer(marker));
-                    markers = []; // Array leeren
+                // Bestehende Marker entfernen
+                markers.forEach(marker => map.removeLayer(marker));
+                markers = [];
 
-                    // Neue Marker hinzufügen
-                    for (let i = 0; i < events.length; i++) {
-                        const event = events[i];
-                        const type = event.getElementsByTagName('type')[0]?.textContent;
+                // Neue Marker hinzufügen
+                for (let i = 0; i < events.length; i++) {
+                    const event = events[i];
+                    const type = event.getElementsByTagName('type')[0]?.textContent;
+                    const latitude = parseFloat(event.getElementsByTagName('latitude')[0]?.textContent);
+                    const longitude = parseFloat(event.getElementsByTagName('longitude')[0]?.textContent);
+                    const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
+                    const city = event.getElementsByTagName('city')[0]?.textContent || 'Unbekannte Stadt';
 
-                        // Marker-Icon basierend auf dem Typ auswählen
-                        let iconToUse = null;
-                        if (type === '7' || type === '1') {
-                            iconToUse = customIcon;
-                        } else if (['20', '21', '23', '24', '25', '29'].includes(type)) {
-                            iconToUse = warningIcon;
-                        }
-
-                        // Marker nur erstellen, wenn ein Icon definiert ist
-                        if (iconToUse) {
-                            const latitude = parseFloat(event.getElementsByTagName('latitude')[0]?.textContent);
-                            const longitude = parseFloat(event.getElementsByTagName('longitude')[0]?.textContent);
-                            const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
-                            const city = event.getElementsByTagName('city')[0]?.textContent || 'Unbekannte Stadt';
-
-                            // Typ-Übersetzung und Popup-Inhalt erstellen
-                            const translatedType = typeTranslations[type] || "Unbekannter Typ";
-                            const popupContent = `
-                                <div>
-                                    <b>${translatedType}</b>
-                                    <br>${city}<br>${street}
-                                </div>
-                            `;
-
-                            // Marker erstellen und hinzufügen
-                            const marker = L.marker([latitude, longitude], { icon: iconToUse })
-                                .bindPopup(popupContent);
-                            marker.addTo(map);
-                            markers.push(marker); // Marker speichern
-                            bounds.push([latitude, longitude]);
-                        }
+                    // Marker-Icon auswählen
+                    let iconToUse = null;
+                    if (type === '6') {
+                        iconToUse = abstandIcon;
+                    } else if (type === '7' || type === '1' || type === '2') {
+                        iconToUse = customIcon;
+                    } else if (['20', '21', '23', '24', '25', '29'].includes(type)) {
+                        iconToUse = warningIcon;
                     }
 
-                    // Karte an die neuen Marker anpassen
-                    if (bounds.length > 0) {
-                        map.fitBounds(bounds);
+                    if (iconToUse && !isNaN(latitude) && !isNaN(longitude)) {
+                        const translatedType = typeTranslations[type] || "Unbekannter Typ";
+                        const popupContent = `
+                            <div>
+                                <b>${translatedType}</b>
+                                <br>${city}<br>${street}
+                            </div>
+                        `;
+
+                        const marker = L.marker([latitude, longitude], { icon: iconToUse })
+                            .bindPopup(popupContent);
+                        marker.addTo(map);
+                        markers.push(marker);
+                        bounds.push([latitude, longitude]);
                     }
-                })
-                .catch(error => console.error('Fehler beim Laden der XML-Daten:', error));
-        }
+                }
 
-        // Aufruf der Funktion beim Laden der Seite
-        loadXMLAndUpdateMap();
+                if (bounds.length > 0) {
+                    map.fitBounds(bounds);
+                }
+            })
+            .catch(error => console.error('Fehler beim Laden der XML-Daten:', error));
+    }
 
-        // Optionale automatische Aktualisierung alle 30 Sekunden
-        setInterval(() => {
-            loadXMLAndUpdateMap();
-        }, 30000); // Aktualisierung alle 30 Sekunden
-    </script>
-</body>
-</html>
+    loadXMLAndUpdateMap();
+    setInterval(loadXMLAndUpdateMap, 30000); // alle 30 Sekunden aktualisieren
+</script>
