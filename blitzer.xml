@@ -4,7 +4,7 @@
     <id>17455375490</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2025-10-16T20:45:50+02:00</create>
-      <lastuse>2025-10-17T00:54:00+02:00</lastuse>
+      <lastuse>2025-10-16T23:54:00+02:00</lastuse>
       <lastconfirm>2025-10-16T22:54:00+02:00</lastconfirm>
     </date>
   </event>
@@ -28,7 +28,7 @@
     <id>17455381790</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-10-16T20:47:45+02:00</create>
-      <lastuse>2025-10-17T00:54:38+02:00</lastuse>
+      <lastuse>2025-10-17T00:24:38+02:00</lastuse>
       <lastconfirm>2025-10-16T22:54:38+02:00</lastconfirm>
     </date>
   </event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-10-18T22:44:05+02:00</lastuse>
-      <lastconfirm>2025-10-16T22:44:06+02:00</lastconfirm>
+      <lastuse>2025-10-18T23:00:59+02:00</lastuse>
+      <lastconfirm>2025-10-16T23:01:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,15 +668,15 @@
     </location>
     <date>
       <create>2025-09-27T10:50:18+02:00</create>
-      <lastuse>2025-10-18T20:37:05+02:00</lastuse>
-      <lastconfirm>2025-10-16T20:37:07+02:00</lastconfirm>
+      <lastuse>2025-10-18T23:04:08+02:00</lastuse>
+      <lastconfirm>2025-10-16T23:04:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17319155093</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-10-18T22:47:07+02:00</lastuse>
-      <lastconfirm>2025-10-16T22:47:08+02:00</lastconfirm>
+      <lastuse>2025-10-18T23:00:26+02:00</lastuse>
+      <lastconfirm>2025-10-16T23:00:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1054,6 +1054,30 @@
       <create>2025-10-16T16:26:26+02:00</create>
       <lastuse>2025-10-18T18:15:19+02:00</lastuse>
       <lastconfirm>2025-10-16T18:15:19+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17455282721</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.283183</latitude>
+        <longitude>10.878691</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-16T20:28:48+02:00</create>
+      <lastuse>2025-10-18T23:02:07+02:00</lastuse>
+      <lastconfirm>2025-10-16T23:02:07+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
