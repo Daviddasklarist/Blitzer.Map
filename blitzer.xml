@@ -117,7 +117,7 @@
     <date>
       <create>2025-10-16T14:39:31+02:00</create>
       <lastuse>2025-10-16T18:39:31+02:00</lastuse>
-      <lastconfirm>2025-10-16T15:12:51+02:00</lastconfirm>
+      <lastconfirm>2025-10-16T15:15:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,32 @@
     </location>
     <date>
       <create>2025-10-16T12:58:26+02:00</create>
-      <lastuse>2025-10-16T16:12:00+02:00</lastuse>
-      <lastconfirm>2025-10-16T15:12:01+02:00</lastconfirm>
+      <lastuse>2025-10-16T16:17:37+02:00</lastuse>
+      <lastconfirm>2025-10-16T15:17:39+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17453326129</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.380943</latitude>
+        <longitude>11.085575</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-16T15:08:37+02:00</create>
+      <lastuse>2025-10-16T15:47:23+02:00</lastuse>
+      <lastconfirm>2025-10-16T15:17:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -182,13 +206,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.414745</latitude>
-        <longitude>10.866142</longitude>
+        <latitude>48.414846</latitude>
+        <longitude>10.864532</longitude>
       </point>
     </location>
     <date>
       <create>2025-10-16T15:09:02+02:00</create>
-      <lastuse>2025-10-16T15:18:00+02:00</lastuse>
+      <lastuse>2025-10-16T15:22:00+02:00</lastuse>
       <lastconfirm>2025-10-16T15:09:02+02:00</lastconfirm>
     </date>
   </event>
@@ -1060,7 +1084,7 @@
     <id>17439468348</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86167</zip>
       <city>Augsburg</city>
@@ -1076,8 +1100,8 @@
     </location>
     <date>
       <create>2025-10-14T19:27:09+02:00</create>
-      <lastuse>2025-10-18T14:42:48+02:00</lastuse>
-      <lastconfirm>2025-10-16T14:42:49+02:00</lastconfirm>
+      <lastuse>2025-10-18T06:42:48+02:00</lastuse>
+      <lastconfirm>2025-10-14T19:27:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1172,8 +1196,8 @@
     </location>
     <date>
       <create>2025-10-16T08:47:45+02:00</create>
-      <lastuse>2025-10-16T21:50:34+02:00</lastuse>
-      <lastconfirm>2025-10-16T13:50:34+02:00</lastconfirm>
+      <lastuse>2025-10-16T23:14:05+02:00</lastuse>
+      <lastconfirm>2025-10-16T15:14:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1198,54 +1222,6 @@
       <create>2025-10-16T09:17:36+02:00</create>
       <lastuse>2025-10-16T23:00:59+02:00</lastuse>
       <lastconfirm>2025-10-16T15:00:59+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17453027307</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86507</zip>
-      <city>Kleinaitingen</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.213021</latitude>
-        <longitude>10.860128</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-16T14:19:23+02:00</create>
-      <lastuse>2025-10-16T23:08:13+02:00</lastuse>
-      <lastconfirm>2025-10-16T15:08:14+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17453149464</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86507</zip>
-      <city>Kleinaitingen</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.223095</latitude>
-        <longitude>10.865255</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-16T14:39:41+02:00</create>
-      <lastuse>2025-10-16T18:59:23+02:00</lastuse>
-      <lastconfirm>2025-10-16T14:39:41+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
