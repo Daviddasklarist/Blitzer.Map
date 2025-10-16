@@ -81,7 +81,7 @@
         };
 
         function loadXMLAndUpdateMap() {
-            fetch('https://raw.githubusercontent.com/Daviddasklarist/Blitzer.Map/main/blitzer.xml?' + new Date().getTime())
+            fetch('https://raw.githubusercontent.com/Daviddasklarist/Blitzer.Map/main/test_blitzer.xml?' + new Date().getTime())
                 .then(response => response.text())
                 .then(data => {
                     const parser = new DOMParser();
@@ -143,3 +143,4 @@
     </script>
 </body>
 </html>
+
