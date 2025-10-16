@@ -140,7 +140,7 @@
     </location>
     <date>
       <create>2025-10-16T07:26:37+02:00</create>
-      <lastuse>2025-10-16T11:21:49+02:00</lastuse>
+      <lastuse>2025-10-23T09:24:57+02:00</lastuse>
       <lastconfirm>2025-10-16T09:21:49+02:00</lastconfirm>
     </date>
   </event>
@@ -213,7 +213,7 @@
     <date>
       <create>2025-10-16T08:46:49+02:00</create>
       <lastuse>2025-10-16T12:46:49+02:00</lastuse>
-      <lastconfirm>2025-10-16T09:22:38+02:00</lastconfirm>
+      <lastconfirm>2025-10-16T09:27:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-10-16T06:47:00+02:00</create>
-      <lastuse>2025-10-16T09:47:05+02:00</lastuse>
-      <lastconfirm>2025-10-16T09:17:05+02:00</lastconfirm>
+      <lastuse>2025-10-16T09:45:37+02:00</lastuse>
+      <lastconfirm>2025-10-16T09:25:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -289,7 +289,7 @@
     </date>
   </event>
   <event>
-    <id>17451273955</id>
+    <id>17451284580</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -302,18 +302,18 @@
     </address>
     <location>
       <point>
-        <latitude>48.396267</latitude>
-        <longitude>11.043954</longitude>
+        <latitude>48.396400</latitude>
+        <longitude>11.047040</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-16T09:20:03+02:00</create>
-      <lastuse>2025-10-16T09:27:00+02:00</lastuse>
-      <lastconfirm>2025-10-16T09:20:03+02:00</lastconfirm>
+      <create>2025-10-16T09:24:02+02:00</create>
+      <lastuse>2025-10-16T09:32:00+02:00</lastuse>
+      <lastconfirm>2025-10-16T09:24:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17451274465</id>
+    <id>17451306823</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -326,14 +326,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.373927</latitude>
-        <longitude>11.096457</longitude>
+        <latitude>48.387503</latitude>
+        <longitude>11.075811</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-16T09:21:01+02:00</create>
-      <lastuse>2025-10-16T09:27:00+02:00</lastuse>
-      <lastconfirm>2025-10-16T09:21:01+02:00</lastconfirm>
+      <create>2025-10-16T09:27:03+02:00</create>
+      <lastuse>2025-10-16T09:32:00+02:00</lastuse>
+      <lastconfirm>2025-10-16T09:27:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1318,6 +1318,30 @@
       <create>2025-10-16T05:40:08+02:00</create>
       <lastuse>2025-10-18T09:06:06+02:00</lastuse>
       <lastconfirm>2025-10-16T09:06:06+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17451091318</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-HH</state>
+      <street>Joseph-Hohenbleicher-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.359302</latitude>
+        <longitude>10.983722</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-16T08:47:45+02:00</create>
+      <lastuse>2025-10-16T17:24:51+02:00</lastuse>
+      <lastconfirm>2025-10-16T09:24:51+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
