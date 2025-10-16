@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17450329979</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.281258</latitude>
+        <longitude>10.889946</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-16T06:20:21+02:00</create>
+      <lastuse>2025-10-16T08:33:20+02:00</lastuse>
+      <lastconfirm>2025-10-16T06:33:20+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17449949545</id>
     <type>21</type>
     <speed></speed>
@@ -49,7 +73,7 @@
     </date>
   </event>
   <event>
-    <id>17450357815</id>
+    <id>17450378649</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -62,14 +86,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.396469</latitude>
-        <longitude>11.048584</longitude>
+        <latitude>48.396066</latitude>
+        <longitude>11.039325</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-16T06:28:01+02:00</create>
-      <lastuse>2025-10-16T06:33:00+02:00</lastuse>
-      <lastconfirm>2025-10-16T06:28:01+02:00</lastconfirm>
+      <create>2025-10-16T06:31:01+02:00</create>
+      <lastuse>2025-10-16T06:38:00+02:00</lastuse>
+      <lastconfirm>2025-10-16T06:31:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +836,8 @@
     </location>
     <date>
       <create>2025-10-03T09:50:42+02:00</create>
-      <lastuse>2025-10-18T05:32:04+02:00</lastuse>
-      <lastconfirm>2025-10-16T05:32:06+02:00</lastconfirm>
+      <lastuse>2025-10-18T06:28:51+02:00</lastuse>
+      <lastconfirm>2025-10-16T06:28:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
