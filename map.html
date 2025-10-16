@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blitzer Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <style>
         * {
@@ -15,7 +16,7 @@
             height: 100%;
         }
         #map {
-            width: 90vmin; /* Karte ist quadratisch */
+            width: 90vmin;
             height: 90vmin;
             margin: auto;
             background: #f0f0f0;
@@ -26,8 +27,14 @@
 <body>
     <div id="map"></div>
 
+    <!-- Leaflet laden -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+    <!-- Dein Script -->
     <script>
+    // Warten, bis DOM geladen ist → verhindert "Map container not found"
+    window.addEventListener('DOMContentLoaded', () => {
+
         // Karte initialisieren
         const map = L.map('map').setView([48.3665, 10.8944], 12);
 
@@ -38,14 +45,21 @@
 
         // Benutzerdefinierte Icons definieren
         const customIcon = L.icon({
-            iconUrl: 'Blitzer_Icon.png', // Relativer oder absoluter Pfad zu Ihrem Icon
+            iconUrl: 'Blitzer_Icon.png',
+            iconSize: [40, 40],
+            iconAnchor: [20, 40],
+            popupAnchor: [0, -40]
+        });
+
+        const abstandIcon = L.icon({
+            iconUrl: 'Abstand.png',
             iconSize: [40, 40],
             iconAnchor: [20, 40],
             popupAnchor: [0, -40]
         });
 
         const warningIcon = L.icon({
-            iconUrl: 'Warnung_Icon.png', // Relativer oder absoluter Pfad zu Ihrem Warnungs-Icon
+            iconUrl: 'Warnung_Icon.png',
             iconSize: [40, 40],
             iconAnchor: [20, 40],
             popupAnchor: [0, -40]
@@ -53,20 +67,19 @@
 
         let markers = []; // Array, um die Marker zu speichern
 
-        // Typ-Übersetzungen
         const typeTranslations = {
-            "1": "Blitzer",
-            "2": "Blitzer",
+            "1": "Mobiler Blitzer",
+            "2": "Rotlichtblitzer",
+            "6": "Abstandskontrolle",
             "7": "Blitzeranhänger",
             "20": "Stauende",
             "21": "Unfall",
             "23": "Hindernis",
-            "24": "rutschige Fahrbahn",
+            "24": "Rutschige Fahrbahn",
             "25": "Sichtbehinderung",
             "29": "Pannenfahrzeug"
         };
 
-        // Funktion zum Laden und Aktualisieren der XML-Daten
         function loadXMLAndUpdateMap() {
             fetch('https://raw.githubusercontent.com/Daviddasklarist/Blitzer.Map/main/blitzer.xml?' + new Date().getTime())
                 .then(response => response.text())
@@ -78,29 +91,28 @@
 
                     // Bestehende Marker entfernen
                     markers.forEach(marker => map.removeLayer(marker));
-                    markers = []; // Array leeren
+                    markers = [];
 
                     // Neue Marker hinzufügen
                     for (let i = 0; i < events.length; i++) {
                         const event = events[i];
                         const type = event.getElementsByTagName('type')[0]?.textContent;
+                        const latitude = parseFloat(event.getElementsByTagName('latitude')[0]?.textContent);
+                        const longitude = parseFloat(event.getElementsByTagName('longitude')[0]?.textContent);
+                        const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
+                        const city = event.getElementsByTagName('city')[0]?.textContent || 'Unbekannte Stadt';
 
-                        // Marker-Icon basierend auf dem Typ auswählen
+                        // Marker-Icon auswählen
                         let iconToUse = null;
-                        if (type === '7' || type === '1' || type === '2') {
+                        if (type === '6') {
+                            iconToUse = abstandIcon;
+                        } else if (type === '7' || type === '1' || type === '2') {
                             iconToUse = customIcon;
                         } else if (['20', '21', '23', '24', '25', '29'].includes(type)) {
                             iconToUse = warningIcon;
                         }
 
-                        // Marker nur erstellen, wenn ein Icon definiert ist
-                        if (iconToUse) {
-                            const latitude = parseFloat(event.getElementsByTagName('latitude')[0]?.textContent);
-                            const longitude = parseFloat(event.getElementsByTagName('longitude')[0]?.textContent);
-                            const street = event.getElementsByTagName('street')[0]?.textContent || 'Unbekannte Straße';
-                            const city = event.getElementsByTagName('city')[0]?.textContent || 'Unbekannte Stadt';
-
-                            // Typ-Übersetzung und Popup-Inhalt erstellen
+                        if (iconToUse && !isNaN(latitude) && !isNaN(longitude)) {
                             const translatedType = typeTranslations[type] || "Unbekannter Typ";
                             const popupContent = `
                                 <div>
@@ -109,16 +121,14 @@
                                 </div>
                             `;
 
-                            // Marker erstellen und hinzufügen
                             const marker = L.marker([latitude, longitude], { icon: iconToUse })
                                 .bindPopup(popupContent);
                             marker.addTo(map);
-                            markers.push(marker); // Marker speichern
+                            markers.push(marker);
                             bounds.push([latitude, longitude]);
                         }
                     }
 
-                    // Karte an die neuen Marker anpassen
                     if (bounds.length > 0) {
                         map.fitBounds(bounds);
                     }
@@ -126,13 +136,10 @@
                 .catch(error => console.error('Fehler beim Laden der XML-Daten:', error));
         }
 
-        // Aufruf der Funktion beim Laden der Seite
         loadXMLAndUpdateMap();
+        setInterval(loadXMLAndUpdateMap, 30000); // alle 30 Sekunden aktualisieren
 
-        // Optionale automatische Aktualisierung alle 30 Sekunden
-        setInterval(() => {
-            loadXMLAndUpdateMap();
-        }, 30000); // Aktualisierung alle 30 Sekunden
+    });
     </script>
 </body>
 </html>
