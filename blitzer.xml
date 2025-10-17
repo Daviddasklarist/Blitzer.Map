@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17463958559</id>
+    <type>1</type>
+    <speed>130</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.613864</latitude>
+        <longitude>10.838225</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-17T23:12:49+02:00</create>
+      <lastuse>2025-10-18T02:12:49+02:00</lastuse>
+      <lastconfirm>2025-10-17T23:47:52+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -620,8 +644,8 @@
     </location>
     <date>
       <create>2025-09-27T10:50:18+02:00</create>
-      <lastuse>2025-10-19T08:26:43+02:00</lastuse>
-      <lastconfirm>2025-09-27T10:50:18+02:00</lastconfirm>
+      <lastuse>2025-10-19T23:42:30+02:00</lastuse>
+      <lastconfirm>2025-10-17T23:42:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +932,8 @@
     </location>
     <date>
       <create>2025-10-15T14:13:05+02:00</create>
-      <lastuse>2025-10-19T20:09:35+02:00</lastuse>
-      <lastconfirm>2025-10-17T20:09:35+02:00</lastconfirm>
+      <lastuse>2025-10-19T23:44:28+02:00</lastuse>
+      <lastconfirm>2025-10-17T23:44:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
