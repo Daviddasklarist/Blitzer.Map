@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17467225555</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370200</latitude>
+        <longitude>10.830401</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-18T10:19:19+02:00</create>
+      <lastuse>2025-10-18T18:57:07+02:00</lastuse>
+      <lastconfirm>2025-10-18T16:57:08+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17468582974</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-18T14:15:53+02:00</create>
-      <lastuse>2025-10-18T18:47:40+02:00</lastuse>
-      <lastconfirm>2025-10-18T16:47:40+02:00</lastconfirm>
+      <lastuse>2025-10-18T18:54:02+02:00</lastuse>
+      <lastconfirm>2025-10-18T16:54:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,15 +68,15 @@
     </location>
     <date>
       <create>2025-10-18T14:51:40+02:00</create>
-      <lastuse>2025-10-18T18:52:58+02:00</lastuse>
-      <lastconfirm>2025-10-18T16:53:00+02:00</lastconfirm>
+      <lastuse>2025-10-18T18:26:59+02:00</lastuse>
+      <lastconfirm>2025-10-18T16:57:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17468940405</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -68,7 +92,7 @@
     </location>
     <date>
       <create>2025-10-18T15:16:11+02:00</create>
-      <lastuse>2025-10-18T17:49:59+02:00</lastuse>
+      <lastuse>2025-10-18T17:19:59+02:00</lastuse>
       <lastconfirm>2025-10-18T16:20:00+02:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-10-18T14:58:41+02:00</create>
-      <lastuse>2025-10-18T17:21:47+02:00</lastuse>
-      <lastconfirm>2025-10-18T16:51:47+02:00</lastconfirm>
+      <lastuse>2025-10-18T17:24:49+02:00</lastuse>
+      <lastconfirm>2025-10-18T16:54:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-10-20T16:04:20+02:00</lastuse>
-      <lastconfirm>2025-10-18T16:04:20+02:00</lastconfirm>
+      <lastuse>2025-10-20T16:52:47+02:00</lastuse>
+      <lastconfirm>2025-10-18T16:52:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2025-10-20T16:24:33+02:00</lastuse>
-      <lastconfirm>2025-10-18T16:24:33+02:00</lastconfirm>
+      <lastuse>2025-10-20T16:50:45+02:00</lastuse>
+      <lastconfirm>2025-10-18T16:50:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
