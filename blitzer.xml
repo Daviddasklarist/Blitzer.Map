@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17470225903</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Stettenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.360175</latitude>
+        <longitude>10.894334</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-18T19:00:09+02:00</create>
+      <lastuse>2025-10-19T01:34:09+02:00</lastuse>
+      <lastconfirm>2025-10-18T23:34:10+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17471624812</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.259969</latitude>
+        <longitude>10.866516</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-18T23:24:19+02:00</create>
+      <lastuse>2025-10-19T00:06:43+02:00</lastuse>
+      <lastconfirm>2025-10-18T23:36:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
