@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17474074768</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86559</zip>
+      <city>Adelzhausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355092</latitude>
+        <longitude>11.131560</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-19T07:50:41+02:00</create>
+      <lastuse>2025-10-19T08:42:43+02:00</lastuse>
+      <lastconfirm>2025-10-19T08:22:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -860,8 +884,8 @@
     </location>
     <date>
       <create>2025-10-15T14:00:16+02:00</create>
-      <lastuse>2025-10-20T19:38:40+02:00</lastuse>
-      <lastconfirm>2025-10-18T19:38:40+02:00</lastconfirm>
+      <lastuse>2025-10-21T08:16:20+02:00</lastuse>
+      <lastconfirm>2025-10-19T08:16:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
