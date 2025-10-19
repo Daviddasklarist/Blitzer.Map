@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17474200653</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.388101</latitude>
+        <longitude>11.032045</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-19T08:18:05+02:00</create>
+      <lastuse>2025-10-19T10:41:21+02:00</lastuse>
+      <lastconfirm>2025-10-19T08:41:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-10-08T06:34:51+02:00</create>
-      <lastuse>2025-10-21T08:04:25+02:00</lastuse>
-      <lastconfirm>2025-10-19T08:04:27+02:00</lastconfirm>
+      <lastuse>2025-10-21T08:35:15+02:00</lastuse>
+      <lastconfirm>2025-10-19T08:35:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +908,8 @@
     </location>
     <date>
       <create>2025-10-15T14:13:05+02:00</create>
-      <lastuse>2025-10-21T08:02:34+02:00</lastuse>
-      <lastconfirm>2025-10-19T08:02:37+02:00</lastconfirm>
+      <lastuse>2025-10-21T08:37:26+02:00</lastuse>
+      <lastconfirm>2025-10-19T08:37:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
