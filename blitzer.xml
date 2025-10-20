@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17481105562</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Haunstetter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.335259</latitude>
-        <longitude>10.907777</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-20T06:20:05+02:00</create>
-      <lastuse>2025-10-20T10:59:43+02:00</lastuse>
-      <lastconfirm>2025-10-20T09:59:43+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17481130159</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2025-10-20T06:25:55+02:00</create>
-      <lastuse>2025-10-20T12:13:51+02:00</lastuse>
+      <lastuse>2025-10-20T11:43:51+02:00</lastuse>
       <lastconfirm>2025-10-20T10:13:54+02:00</lastconfirm>
     </date>
   </event>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-20T06:46:43+02:00</create>
-      <lastuse>2025-10-20T12:20:53+02:00</lastuse>
-      <lastconfirm>2025-10-20T10:20:53+02:00</lastconfirm>
+      <lastuse>2025-10-20T12:28:37+02:00</lastuse>
+      <lastconfirm>2025-10-20T10:28:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -165,7 +141,7 @@
     <date>
       <create>2025-10-20T09:39:43+02:00</create>
       <lastuse>2025-10-20T13:39:43+02:00</lastuse>
-      <lastconfirm>2025-10-20T10:22:13+02:00</lastconfirm>
+      <lastconfirm>2025-10-20T10:28:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -796,7 +772,7 @@
     <id>17319155093</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -812,7 +788,7 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-10-21T18:01:53+02:00</lastuse>
+      <lastuse>2025-10-21T10:01:53+02:00</lastuse>
       <lastconfirm>2025-09-29T08:56:18+02:00</lastconfirm>
     </date>
   </event>
