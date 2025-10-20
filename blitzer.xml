@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17481032617</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396522</latitude>
+        <longitude>11.028565</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-20T06:05:07+02:00</create>
+      <lastuse>2025-10-20T06:47:55+02:00</lastuse>
+      <lastconfirm>2025-10-20T06:17:56+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -620,7 +644,7 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-10-21T20:55:19+02:00</lastuse>
+      <lastuse>2025-10-21T12:55:19+02:00</lastuse>
       <lastconfirm>2025-09-29T08:56:18+02:00</lastconfirm>
     </date>
   </event>
