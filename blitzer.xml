@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-10-21T06:13:33+02:00</create>
-      <lastuse>2025-10-21T11:53:31+02:00</lastuse>
-      <lastconfirm>2025-10-21T09:53:31+02:00</lastconfirm>
+      <lastuse>2025-10-21T13:01:47+02:00</lastuse>
+      <lastconfirm>2025-10-21T11:01:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +76,7 @@
     <id>17489392845</id>
     <type>1</type>
     <speed>100</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86465</zip>
       <city>Welden</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-10-21T07:34:15+02:00</create>
-      <lastuse>2025-10-21T11:57:39+02:00</lastuse>
-      <lastconfirm>2025-10-21T10:27:39+02:00</lastconfirm>
+      <lastuse>2025-10-21T13:03:22+02:00</lastuse>
+      <lastconfirm>2025-10-21T11:03:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -189,7 +189,31 @@
     <date>
       <create>2025-10-21T10:13:57+02:00</create>
       <lastuse>2025-10-21T12:13:57+02:00</lastuse>
-      <lastconfirm>2025-10-21T10:53:36+02:00</lastconfirm>
+      <lastconfirm>2025-10-21T11:03:03+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17490556972</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.388825</latitude>
+        <longitude>10.861154</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-21T10:53:49+02:00</create>
+      <lastuse>2025-10-21T12:03:33+02:00</lastuse>
+      <lastconfirm>2025-10-21T11:03:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2025-10-23T07:55:29+02:00</lastuse>
-      <lastconfirm>2025-10-21T07:55:29+02:00</lastconfirm>
+      <lastuse>2025-10-23T10:58:49+02:00</lastuse>
+      <lastconfirm>2025-10-21T10:58:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-10-22T23:39:23+02:00</lastuse>
-      <lastconfirm>2025-10-20T23:39:23+02:00</lastconfirm>
+      <lastuse>2025-10-23T10:58:09+02:00</lastuse>
+      <lastconfirm>2025-10-21T10:58:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1124,8 @@
     </location>
     <date>
       <create>2025-10-16T08:47:45+02:00</create>
-      <lastuse>2025-10-23T10:40:35+02:00</lastuse>
-      <lastconfirm>2025-10-21T10:40:35+02:00</lastconfirm>
+      <lastuse>2025-10-23T10:59:30+02:00</lastuse>
+      <lastconfirm>2025-10-21T10:59:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1222,6 +1246,30 @@
       <create>2025-10-19T14:12:05+02:00</create>
       <lastuse>2025-10-23T10:49:53+02:00</lastuse>
       <lastconfirm>2025-10-21T10:49:53+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17490447488</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.346433</latitude>
+        <longitude>10.876965</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-21T10:34:17+02:00</create>
+      <lastuse>2025-10-23T10:57:53+02:00</lastuse>
+      <lastconfirm>2025-10-21T10:57:54+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
