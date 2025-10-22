@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17499916677</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410475</latitude>
+        <longitude>10.617378</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-22T15:08:29+02:00</create>
+      <lastuse>2025-10-22T23:15:58+02:00</lastuse>
+      <lastconfirm>2025-10-22T21:45:58+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17490787397</id>
     <type>7</type>
     <speed>0</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2025-10-24T16:38:34+02:00</lastuse>
-      <lastconfirm>2025-10-22T16:38:34+02:00</lastconfirm>
+      <lastuse>2025-10-24T21:40:16+02:00</lastuse>
+      <lastconfirm>2025-10-22T21:40:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +980,8 @@
     </location>
     <date>
       <create>2025-10-16T08:47:45+02:00</create>
-      <lastuse>2025-10-24T19:39:03+02:00</lastuse>
-      <lastconfirm>2025-10-22T19:39:03+02:00</lastconfirm>
+      <lastuse>2025-10-24T21:40:51+02:00</lastuse>
+      <lastconfirm>2025-10-22T21:40:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1124,8 @@
     </location>
     <date>
       <create>2025-10-22T06:58:28+02:00</create>
-      <lastuse>2025-10-24T18:40:17+02:00</lastuse>
-      <lastconfirm>2025-10-22T18:40:17+02:00</lastconfirm>
+      <lastuse>2025-10-24T21:42:25+02:00</lastuse>
+      <lastconfirm>2025-10-22T21:42:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1172,8 +1196,8 @@
     </location>
     <date>
       <create>2025-10-22T21:02:35+02:00</create>
-      <lastuse>2025-10-24T21:38:05+02:00</lastuse>
-      <lastconfirm>2025-10-22T21:38:05+02:00</lastconfirm>
+      <lastuse>2025-10-24T21:43:07+02:00</lastuse>
+      <lastconfirm>2025-10-22T21:43:07+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
