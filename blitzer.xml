@@ -117,7 +117,7 @@
     <date>
       <create>2025-10-23T10:14:14+02:00</create>
       <lastuse>2025-10-23T14:14:14+02:00</lastuse>
-      <lastconfirm>2025-10-23T12:07:23+02:00</lastconfirm>
+      <lastconfirm>2025-10-23T12:12:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -172,7 +172,7 @@
     <id>17506519150</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-10-23T11:41:56+02:00</create>
-      <lastuse>2025-10-23T14:06:45+02:00</lastuse>
-      <lastconfirm>2025-10-23T12:06:46+02:00</lastconfirm>
+      <lastuse>2025-10-23T14:10:22+02:00</lastuse>
+      <lastconfirm>2025-10-23T12:10:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -217,6 +217,30 @@
     </date>
   </event>
   <event>
+    <id>17506560487</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362380</latitude>
+        <longitude>10.852907</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-23T11:49:06+02:00</create>
+      <lastuse>2025-10-23T13:12:15+02:00</lastuse>
+      <lastconfirm>2025-10-23T12:12:15+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-10-24T22:46:40+02:00</lastuse>
-      <lastconfirm>2024-12-09T13:01:11+01:00</lastconfirm>
+      <lastuse>2025-10-25T12:05:27+02:00</lastuse>
+      <lastconfirm>2025-10-23T12:05:28+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1345,30 +1369,6 @@
     </date>
   </event>
   <event>
-    <id>17505997313</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.511472</latitude>
-        <longitude>10.841862</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-23T10:13:03+02:00</create>
-      <lastuse>2025-10-23T15:59:10+02:00</lastuse>
-      <lastconfirm>2025-10-23T10:13:03+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17506115494</id>
     <type>22</type>
     <speed></speed>
@@ -1388,8 +1388,8 @@
     </location>
     <date>
       <create>2025-10-23T10:33:51+02:00</create>
-      <lastuse>2025-10-23T19:48:44+02:00</lastuse>
-      <lastconfirm>2025-10-23T11:48:44+02:00</lastconfirm>
+      <lastuse>2025-10-23T16:05:36+02:00</lastuse>
+      <lastconfirm>2025-10-23T10:33:51+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
