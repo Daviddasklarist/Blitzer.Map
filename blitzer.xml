@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17504580093</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Meraner Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.386187</latitude>
-        <longitude>10.938367</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-23T05:52:59+02:00</create>
-      <lastuse>2025-10-23T10:54:24+02:00</lastuse>
-      <lastconfirm>2025-10-23T09:54:24+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17504817812</id>
     <type>1</type>
     <speed>30</speed>
@@ -165,7 +141,7 @@
     <date>
       <create>2025-10-23T10:04:17+02:00</create>
       <lastuse>2025-10-23T12:04:17+02:00</lastuse>
-      <lastconfirm>2025-10-23T10:21:15+02:00</lastconfirm>
+      <lastconfirm>2025-10-23T10:23:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -189,7 +165,7 @@
     <date>
       <create>2025-10-23T10:14:14+02:00</create>
       <lastuse>2025-10-23T13:14:14+02:00</lastuse>
-      <lastconfirm>2025-10-23T10:22:33+02:00</lastconfirm>
+      <lastconfirm>2025-10-23T10:23:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1172,8 +1148,8 @@
     </location>
     <date>
       <create>2025-10-16T16:26:26+02:00</create>
-      <lastuse>2025-10-25T10:18:23+02:00</lastuse>
-      <lastconfirm>2025-10-23T10:18:23+02:00</lastconfirm>
+      <lastuse>2025-10-25T10:20:44+02:00</lastuse>
+      <lastconfirm>2025-10-23T10:20:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1364,7 +1340,7 @@
     </location>
     <date>
       <create>2025-10-23T09:38:56+02:00</create>
-      <lastuse>2025-10-23T15:53:33+02:00</lastuse>
+      <lastuse>2025-10-23T13:53:33+02:00</lastuse>
       <lastconfirm>2025-10-23T09:38:56+02:00</lastconfirm>
     </date>
   </event>
@@ -1372,7 +1348,7 @@
     <id>17505879953</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -1388,8 +1364,32 @@
     </location>
     <date>
       <create>2025-10-23T09:53:13+02:00</create>
-      <lastuse>2025-10-23T18:17:51+02:00</lastuse>
-      <lastconfirm>2025-10-23T10:17:52+02:00</lastconfirm>
+      <lastuse>2025-10-23T18:20:03+02:00</lastuse>
+      <lastconfirm>2025-10-23T10:20:03+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17505997313</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.511472</latitude>
+        <longitude>10.841862</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-23T10:13:03+02:00</create>
+      <lastuse>2025-10-23T18:24:45+02:00</lastuse>
+      <lastconfirm>2025-10-23T10:24:45+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
