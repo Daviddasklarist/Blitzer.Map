@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17516890836</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>Römerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.540851</latitude>
+        <longitude>10.855750</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-24T18:48:12+02:00</create>
+      <lastuse>2025-10-24T21:48:12+02:00</lastuse>
+      <lastconfirm>2025-10-24T19:19:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17516938361</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-24T18:55:04+02:00</create>
-      <lastuse>2025-10-24T20:55:04+02:00</lastuse>
-      <lastconfirm>2025-10-24T19:07:14+02:00</lastconfirm>
+      <lastuse>2025-10-24T21:21:46+02:00</lastuse>
+      <lastconfirm>2025-10-24T19:21:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-10-26T19:02:40+01:00</lastuse>
-      <lastconfirm>2025-10-24T19:02:41+02:00</lastconfirm>
+      <lastuse>2025-10-26T19:15:48+01:00</lastuse>
+      <lastconfirm>2025-10-24T19:15:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
