@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>17524777873</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>A29</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.521993</latitude>
+        <longitude>10.858386</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-25T20:02:03+02:00</create>
+      <lastuse>2025-10-25T23:07:48+02:00</lastuse>
+      <lastconfirm>2025-10-25T21:07:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17490787397</id>
     <type>7</type>
     <speed>0</speed>
@@ -73,30 +97,6 @@
     </date>
   </event>
   <event>
-    <id>17524650450</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.387758</latitude>
-        <longitude>11.075622</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-25T19:39:55+02:00</create>
-      <lastuse>2025-10-25T21:07:47+02:00</lastuse>
-      <lastconfirm>2025-10-25T20:57:48+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17524664847</id>
     <type>29</type>
     <speed></speed>
@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2025-10-25T19:40:55+02:00</create>
-      <lastuse>2025-10-25T21:27:42+02:00</lastuse>
+      <lastuse>2025-10-25T21:17:42+02:00</lastuse>
       <lastconfirm>2025-10-25T20:57:42+02:00</lastconfirm>
     </date>
   </event>
