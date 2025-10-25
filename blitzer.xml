@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17525603771</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Untermeitingen</city>
+      <state>DE-BY</state>
+      <street>Daimlerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.172675</latitude>
+        <longitude>10.837521</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-25T22:41:58+02:00</create>
+      <lastuse>2025-10-26T01:31:31+02:00</lastuse>
+      <lastconfirm>2025-10-25T23:31:31+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17490787397</id>
     <type>7</type>
     <speed>0</speed>
