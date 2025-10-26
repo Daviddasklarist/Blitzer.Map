@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17529020531</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Berliner Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.381940</latitude>
+        <longitude>10.902053</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-26T09:42:49+01:00</create>
+      <lastuse>2025-10-26T12:21:12+01:00</lastuse>
+      <lastconfirm>2025-10-26T10:21:13+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17529039409</id>
     <type>1</type>
     <speed>80</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-26T09:45:51+01:00</create>
-      <lastuse>2025-10-26T11:47:22+01:00</lastuse>
-      <lastconfirm>2025-10-26T10:17:23+01:00</lastconfirm>
+      <lastuse>2025-10-26T12:21:12+01:00</lastuse>
+      <lastconfirm>2025-10-26T10:21:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -45,7 +69,7 @@
     <date>
       <create>2025-10-26T09:46:15+01:00</create>
       <lastuse>2025-10-26T12:46:15+01:00</lastuse>
-      <lastconfirm>2025-10-26T10:17:26+01:00</lastconfirm>
+      <lastconfirm>2025-10-26T10:22:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,32 @@
     </location>
     <date>
       <create>2025-10-26T09:54:54+01:00</create>
-      <lastuse>2025-10-26T11:47:16+01:00</lastuse>
-      <lastconfirm>2025-10-26T10:17:16+01:00</lastconfirm>
+      <lastuse>2025-10-26T11:52:17+01:00</lastuse>
+      <lastconfirm>2025-10-26T10:22:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17529166554</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.613726</latitude>
+        <longitude>10.838254</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-26T10:12:48+01:00</create>
+      <lastuse>2025-10-26T12:22:32+01:00</lastuse>
+      <lastconfirm>2025-10-26T10:22:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +164,7 @@
     </location>
     <date>
       <create>2025-10-26T02:43:39+01:00</create>
-      <lastuse>2025-10-26T18:04:17+01:00</lastuse>
+      <lastuse>2025-10-26T17:04:17+01:00</lastuse>
       <lastconfirm>2025-10-26T10:04:18+01:00</lastconfirm>
     </date>
   </event>
@@ -716,8 +764,8 @@
     </location>
     <date>
       <create>2025-09-27T10:50:18+02:00</create>
-      <lastuse>2025-10-27T17:18:26+01:00</lastuse>
-      <lastconfirm>2025-10-25T17:18:26+02:00</lastconfirm>
+      <lastuse>2025-10-27T09:18:26+01:00</lastuse>
+      <lastconfirm>2025-09-27T10:50:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
