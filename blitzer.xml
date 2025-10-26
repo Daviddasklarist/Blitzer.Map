@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17528273199</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Thyssenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.430001</latitude>
+        <longitude>10.867183</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-26T07:02:12+01:00</create>
+      <lastuse>2025-10-26T09:50:59+01:00</lastuse>
+      <lastconfirm>2025-10-26T07:50:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17490787397</id>
     <type>7</type>
     <speed>0</speed>
@@ -956,8 +980,8 @@
     </location>
     <date>
       <create>2025-10-16T20:28:48+02:00</create>
-      <lastuse>2025-10-28T02:51:47+01:00</lastuse>
-      <lastconfirm>2025-10-26T02:51:47+01:00</lastconfirm>
+      <lastuse>2025-10-28T07:44:59+01:00</lastuse>
+      <lastconfirm>2025-10-26T07:45:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
