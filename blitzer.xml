@@ -145,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>17537407167</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385936</latitude>
+        <longitude>10.859608</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-27T12:32:00+01:00</create>
+      <lastuse>2025-10-27T13:37:41+01:00</lastuse>
+      <lastconfirm>2025-10-27T12:37:42+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-10-29T10:08:42+01:00</lastuse>
-      <lastconfirm>2025-10-27T10:08:42+01:00</lastconfirm>
+      <lastuse>2025-10-29T12:34:46+01:00</lastuse>
+      <lastconfirm>2025-10-27T12:34:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-10-29T12:10:06+01:00</lastuse>
-      <lastconfirm>2025-10-27T12:10:07+01:00</lastconfirm>
+      <lastuse>2025-10-29T12:33:15+01:00</lastuse>
+      <lastconfirm>2025-10-27T12:33:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-09-05T07:19:37+02:00</create>
-      <lastuse>2025-10-29T11:08:57+01:00</lastuse>
-      <lastconfirm>2025-10-27T11:08:58+01:00</lastconfirm>
+      <lastuse>2025-10-29T12:33:58+01:00</lastuse>
+      <lastconfirm>2025-10-27T12:33:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1172,32 +1196,8 @@
     </location>
     <date>
       <create>2025-10-27T08:59:43+01:00</create>
-      <lastuse>2025-10-27T14:04:59+01:00</lastuse>
+      <lastuse>2025-10-27T18:31:29+01:00</lastuse>
       <lastconfirm>2025-10-27T08:59:43+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17537185948</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86695</zip>
-      <city>Mertingen</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.640460</latitude>
-        <longitude>10.835495</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-27T11:52:00+01:00</create>
-      <lastuse>2025-10-27T14:01:18+01:00</lastuse>
-      <lastconfirm>2025-10-27T11:52:00+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
