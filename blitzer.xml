@@ -121,54 +121,6 @@
     </date>
   </event>
   <event>
-    <id>17536716132</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.392087</latitude>
-        <longitude>11.069093</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-27T10:33:44+01:00</create>
-      <lastuse>2025-10-27T11:33:18+01:00</lastuse>
-      <lastconfirm>2025-10-27T11:13:18+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17536718504</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.392139</latitude>
-        <longitude>11.068932</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-27T10:34:44+01:00</create>
-      <lastuse>2025-10-27T11:47:57+01:00</lastuse>
-      <lastconfirm>2025-10-27T11:27:57+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -1174,6 +1126,30 @@
       <create>2025-10-22T16:36:10+02:00</create>
       <lastuse>2025-10-29T00:37:57+01:00</lastuse>
       <lastconfirm>2025-10-22T16:36:10+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17536170416</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Untermeitingen</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.173086</latitude>
+        <longitude>10.839773</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-27T08:59:43+01:00</create>
+      <lastuse>2025-10-27T19:34:45+01:00</lastuse>
+      <lastconfirm>2025-10-27T11:34:45+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
