@@ -49,27 +49,27 @@
     </date>
   </event>
   <event>
-    <id>17537109334</id>
+    <id>17537142126</id>
     <type>1</type>
-    <speed>30</speed>
+    <speed>20</speed>
     <quality>2</quality>
     <address>
-      <zip>86157</zip>
+      <zip>86156</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Augsburger Straße</street>
+      <street>Familie-Einstein-Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.363704</latitude>
-        <longitude>10.873958</longitude>
+        <latitude>48.377588</latitude>
+        <longitude>10.860017</longitude>
       </point>
     </location>
     <date>
-      <create>2025-10-27T11:40:36+01:00</create>
-      <lastuse>2025-10-27T14:10:26+01:00</lastuse>
-      <lastconfirm>2025-10-27T13:40:26+01:00</lastconfirm>
+      <create>2025-10-27T11:46:43+01:00</create>
+      <lastuse>2025-10-27T16:02:07+01:00</lastuse>
+      <lastconfirm>2025-10-27T14:02:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1076,8 @@
     </location>
     <date>
       <create>2025-10-16T08:47:45+02:00</create>
-      <lastuse>2025-10-29T11:59:21+01:00</lastuse>
-      <lastconfirm>2025-10-27T11:59:22+01:00</lastconfirm>
+      <lastuse>2025-10-29T13:55:27+01:00</lastuse>
+      <lastconfirm>2025-10-27T13:55:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1100,8 @@
     </location>
     <date>
       <create>2025-10-16T16:26:26+02:00</create>
-      <lastuse>2025-10-29T13:40:22+01:00</lastuse>
-      <lastconfirm>2025-10-27T13:40:22+01:00</lastconfirm>
+      <lastuse>2025-10-29T05:40:22+01:00</lastuse>
+      <lastconfirm>2025-10-16T16:26:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1198,6 +1198,30 @@
       <create>2025-10-22T16:13:53+02:00</create>
       <lastuse>2025-10-29T08:44:09+01:00</lastuse>
       <lastconfirm>2025-10-27T08:44:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17537774847</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-HH</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409714</latitude>
+        <longitude>11.087728</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-27T13:32:30+01:00</create>
+      <lastuse>2025-10-27T21:58:43+01:00</lastuse>
+      <lastconfirm>2025-10-27T13:58:43+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
