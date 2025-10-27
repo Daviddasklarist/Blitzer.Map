@@ -124,7 +124,7 @@
     <id>17537234399</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-10-27T12:02:39+01:00</create>
-      <lastuse>2025-10-27T14:39:34+01:00</lastuse>
-      <lastconfirm>2025-10-27T12:39:36+01:00</lastconfirm>
+      <lastuse>2025-10-27T15:07:06+01:00</lastuse>
+      <lastconfirm>2025-10-27T13:07:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -214,6 +214,30 @@
       <create>2025-10-27T12:32:00+01:00</create>
       <lastuse>2025-10-27T13:48:38+01:00</lastuse>
       <lastconfirm>2025-10-27T12:48:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17537525520</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.376786</latitude>
+        <longitude>10.856573</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-27T12:51:17+01:00</create>
+      <lastuse>2025-10-27T14:06:23+01:00</lastuse>
+      <lastconfirm>2025-10-27T13:06:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-10-29T12:14:01+01:00</lastuse>
-      <lastconfirm>2025-10-27T12:14:01+01:00</lastconfirm>
+      <lastuse>2025-10-29T13:00:40+01:00</lastuse>
+      <lastconfirm>2025-10-27T13:00:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-10-29T12:50:30+01:00</lastuse>
-      <lastconfirm>2025-10-27T12:50:30+01:00</lastconfirm>
+      <lastuse>2025-10-29T13:04:22+01:00</lastuse>
+      <lastconfirm>2025-10-27T13:04:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1225,30 +1249,6 @@
     </date>
   </event>
   <event>
-    <id>17500480449</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86150</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Schießgrabenstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.363316</latitude>
-        <longitude>10.895481</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-22T16:36:10+02:00</create>
-      <lastuse>2025-10-28T19:38:18+01:00</lastuse>
-      <lastconfirm>2025-10-22T16:36:10+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17536170416</id>
     <type>22</type>
     <speed></speed>
@@ -1292,8 +1292,8 @@
     </location>
     <date>
       <create>2025-10-27T12:49:38+01:00</create>
-      <lastuse>2025-10-29T12:59:59+01:00</lastuse>
-      <lastconfirm>2025-10-27T13:00:00+01:00</lastconfirm>
+      <lastuse>2025-10-29T13:03:57+01:00</lastuse>
+      <lastconfirm>2025-10-27T13:03:59+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
