@@ -25,30 +25,6 @@
     </date>
   </event>
   <event>
-    <id>17537142126</id>
-    <type>1</type>
-    <speed>20</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Familie-Einstein-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.377588</latitude>
-        <longitude>10.860017</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-27T11:46:43+01:00</create>
-      <lastuse>2025-10-27T15:32:07+01:00</lastuse>
-      <lastconfirm>2025-10-27T14:02:07+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17537234399</id>
     <type>1</type>
     <speed>50</speed>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-10-21T11:31:50+02:00</create>
-      <lastuse>2025-10-27T23:03:09+01:00</lastuse>
-      <lastconfirm>2025-10-27T15:03:10+01:00</lastconfirm>
+      <lastuse>2025-10-27T23:31:11+01:00</lastuse>
+      <lastconfirm>2025-10-27T15:31:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +740,8 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-10-29T14:43:19+01:00</lastuse>
-      <lastconfirm>2025-10-27T14:43:20+01:00</lastconfirm>
+      <lastuse>2025-10-29T06:43:19+01:00</lastuse>
+      <lastconfirm>2025-09-29T08:56:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1126,6 +1102,30 @@
       <create>2025-10-22T16:13:53+02:00</create>
       <lastuse>2025-10-29T14:18:46+01:00</lastuse>
       <lastconfirm>2025-10-27T14:18:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17537774847</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-HH</state>
+      <street>B300</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409714</latitude>
+        <longitude>11.087728</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-27T13:32:30+01:00</create>
+      <lastuse>2025-10-27T23:29:40+01:00</lastuse>
+      <lastconfirm>2025-10-27T15:29:41+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
