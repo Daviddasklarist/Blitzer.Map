@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17547626563</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.292915</latitude>
-        <longitude>10.876120</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-28T19:35:26+01:00</create>
-      <lastuse>2025-10-28T22:13:39+01:00</lastuse>
-      <lastconfirm>2025-10-28T21:43:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -1036,7 +1012,7 @@
     <id>17548198238</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -1052,8 +1028,8 @@
     </location>
     <date>
       <create>2025-10-28T21:24:05+01:00</create>
-      <lastuse>2025-10-29T05:42:10+01:00</lastuse>
-      <lastconfirm>2025-10-28T21:42:11+01:00</lastconfirm>
+      <lastuse>2025-10-29T06:01:07+01:00</lastuse>
+      <lastconfirm>2025-10-28T22:01:08+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
