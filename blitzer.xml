@@ -52,7 +52,7 @@
     <id>17544933398</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86179</zip>
       <city>Augsburg</city>
@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2025-10-28T12:13:17+01:00</create>
-      <lastuse>2025-10-28T15:30:35+01:00</lastuse>
+      <lastuse>2025-10-28T15:00:35+01:00</lastuse>
       <lastconfirm>2025-10-28T14:30:35+01:00</lastconfirm>
     </date>
   </event>
@@ -76,7 +76,7 @@
     <id>17545261988</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86420</zip>
       <city>Diedorf</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-10-28T13:07:39+01:00</create>
-      <lastuse>2025-10-28T16:25:32+01:00</lastuse>
-      <lastconfirm>2025-10-28T14:25:32+01:00</lastconfirm>
+      <lastuse>2025-10-28T16:53:32+01:00</lastuse>
+      <lastconfirm>2025-10-28T14:53:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-10-30T13:45:06+01:00</lastuse>
-      <lastconfirm>2025-10-28T13:45:06+01:00</lastconfirm>
+      <lastuse>2025-10-30T14:51:55+01:00</lastuse>
+      <lastconfirm>2025-10-28T14:51:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +380,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-10-30T13:04:51+01:00</lastuse>
-      <lastconfirm>2025-10-28T13:04:54+01:00</lastconfirm>
+      <lastuse>2025-10-30T14:51:37+01:00</lastuse>
+      <lastconfirm>2025-10-28T14:51:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +404,8 @@
     </location>
     <date>
       <create>2025-09-05T07:19:37+02:00</create>
-      <lastuse>2025-10-30T13:36:15+01:00</lastuse>
-      <lastconfirm>2025-10-28T13:36:15+01:00</lastconfirm>
+      <lastuse>2025-10-30T14:50:20+01:00</lastuse>
+      <lastconfirm>2025-10-28T14:50:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +908,8 @@
     </location>
     <date>
       <create>2025-10-15T14:13:05+02:00</create>
-      <lastuse>2025-10-30T14:34:17+01:00</lastuse>
-      <lastconfirm>2025-10-28T14:34:17+01:00</lastconfirm>
+      <lastuse>2025-10-30T14:51:39+01:00</lastuse>
+      <lastconfirm>2025-10-28T14:51:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1102,6 +1102,30 @@
       <create>2025-10-27T18:42:17+01:00</create>
       <lastuse>2025-10-30T13:11:59+01:00</lastuse>
       <lastconfirm>2025-10-28T13:12:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17545785608</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.537391</latitude>
+        <longitude>10.837596</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-28T14:30:11+01:00</create>
+      <lastuse>2025-10-30T06:54:35+01:00</lastuse>
+      <lastconfirm>2025-10-28T14:30:11+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
