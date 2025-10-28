@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17543152752</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Zollernstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.388496</latitude>
-        <longitude>10.880924</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-28T07:09:08+01:00</create>
-      <lastuse>2025-10-28T16:07:21+01:00</lastuse>
-      <lastconfirm>2025-10-28T14:37:22+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17544719067</id>
     <type>1</type>
     <speed>30</speed>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-10-30T12:30:27+01:00</lastuse>
-      <lastconfirm>2025-10-28T12:30:27+01:00</lastconfirm>
+      <lastuse>2025-10-30T15:34:17+01:00</lastuse>
+      <lastconfirm>2025-10-28T15:34:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-10-30T14:59:14+01:00</lastuse>
-      <lastconfirm>2025-10-28T14:59:14+01:00</lastconfirm>
+      <lastuse>2025-10-30T15:34:23+01:00</lastuse>
+      <lastconfirm>2025-10-28T15:34:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +404,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-10-30T14:39:45+01:00</lastuse>
-      <lastconfirm>2025-10-28T14:39:45+01:00</lastconfirm>
+      <lastuse>2025-10-30T15:34:22+01:00</lastuse>
+      <lastconfirm>2025-10-28T15:34:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1078,30 +1054,6 @@
       <create>2025-10-27T18:42:17+01:00</create>
       <lastuse>2025-10-30T15:04:25+01:00</lastuse>
       <lastconfirm>2025-10-28T15:04:25+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17545935168</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.524626</latitude>
-        <longitude>10.833062</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-28T14:59:15+01:00</create>
-      <lastuse>2025-10-28T23:28:15+01:00</lastuse>
-      <lastconfirm>2025-10-28T15:28:17+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
