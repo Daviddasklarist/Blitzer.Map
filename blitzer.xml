@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17558650258</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Äußerer Gang</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.367814</latitude>
+        <longitude>10.902773</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-30T06:51:53+01:00</create>
+      <lastuse>2025-10-30T12:17:37+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:17:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17558802868</id>
     <type>1</type>
     <speed>80</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-30T07:21:11+01:00</create>
-      <lastuse>2025-10-30T12:12:17+01:00</lastuse>
-      <lastconfirm>2025-10-30T10:12:17+01:00</lastconfirm>
+      <lastuse>2025-10-30T11:47:25+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:17:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-10-29T10:51:18+01:00</create>
-      <lastuse>2025-10-30T17:52:37+01:00</lastuse>
-      <lastconfirm>2025-10-30T09:52:37+01:00</lastconfirm>
+      <lastuse>2025-10-30T18:16:37+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:16:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,32 +212,8 @@
     </location>
     <date>
       <create>2025-10-30T07:18:36+01:00</create>
-      <lastuse>2025-10-30T17:44:18+01:00</lastuse>
+      <lastuse>2025-10-30T16:44:18+01:00</lastuse>
       <lastconfirm>2025-10-30T09:44:18+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17559549248</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.362030</latitude>
-        <longitude>10.852725</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-30T09:34:49+01:00</create>
-      <lastuse>2025-10-30T10:13:08+01:00</lastuse>
-      <lastconfirm>2025-10-30T09:53:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-11-01T08:30:10+01:00</lastuse>
-      <lastconfirm>2025-10-30T08:30:10+01:00</lastconfirm>
+      <lastuse>2025-11-01T10:11:08+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:11:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
