@@ -100,7 +100,7 @@
     <id>17559141470</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86504</zip>
       <city>Merching</city>
@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2025-10-30T08:23:41+01:00</create>
-      <lastuse>2025-10-30T12:26:16+01:00</lastuse>
+      <lastuse>2025-10-30T12:23:41+01:00</lastuse>
       <lastconfirm>2025-10-30T10:26:16+01:00</lastconfirm>
     </date>
   </event>
@@ -142,6 +142,30 @@
       <create>2025-10-30T09:32:45+01:00</create>
       <lastuse>2025-10-30T13:32:45+01:00</lastuse>
       <lastconfirm>2025-10-30T09:56:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17559888857</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413767</latitude>
+        <longitude>10.894465</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-30T10:32:56+01:00</create>
+      <lastuse>2025-10-30T12:06:50+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:36:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -214,6 +238,30 @@
       <create>2025-10-30T07:18:36+01:00</create>
       <lastuse>2025-10-30T16:44:18+01:00</lastuse>
       <lastconfirm>2025-10-30T09:44:18+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17559860553</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.390449</latitude>
+        <longitude>10.861787</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-30T10:27:41+01:00</create>
+      <lastuse>2025-10-30T11:36:03+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:36:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +500,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-11-01T09:20:39+01:00</lastuse>
-      <lastconfirm>2025-10-30T09:20:39+01:00</lastconfirm>
+      <lastuse>2025-11-01T10:32:10+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:32:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1124,8 @@
     </location>
     <date>
       <create>2025-10-16T20:28:48+02:00</create>
-      <lastuse>2025-11-01T09:15:52+01:00</lastuse>
-      <lastconfirm>2025-10-30T09:15:54+01:00</lastconfirm>
+      <lastuse>2025-11-01T10:34:20+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:34:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1148,8 @@
     </location>
     <date>
       <create>2025-10-17T08:07:49+02:00</create>
-      <lastuse>2025-11-01T08:13:30+01:00</lastuse>
-      <lastconfirm>2025-10-30T08:13:31+01:00</lastconfirm>
+      <lastuse>2025-11-01T10:30:34+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:30:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1292,8 +1340,8 @@
     </location>
     <date>
       <create>2025-10-29T16:50:06+01:00</create>
-      <lastuse>2025-10-31T16:43:38+01:00</lastuse>
-      <lastconfirm>2025-10-29T16:50:06+01:00</lastconfirm>
+      <lastuse>2025-11-01T10:33:13+01:00</lastuse>
+      <lastconfirm>2025-10-30T10:33:14+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
