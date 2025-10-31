@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17571358798</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Stettenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.360298</latitude>
+        <longitude>10.892596</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-31T20:34:24+01:00</create>
+      <lastuse>2025-10-31T23:05:52+01:00</lastuse>
+      <lastconfirm>2025-10-31T21:05:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17550432863</id>
     <type>7</type>
     <speed>30</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-10-30T17:17:11+01:00</create>
-      <lastuse>2025-11-01T00:32:05+01:00</lastuse>
-      <lastconfirm>2025-10-31T21:02:07+01:00</lastconfirm>
+      <lastuse>2025-11-01T01:08:53+01:00</lastuse>
+      <lastconfirm>2025-10-31T21:08:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-07-06T11:27:02+02:00</create>
-      <lastuse>2025-11-02T17:37:34+01:00</lastuse>
-      <lastconfirm>2025-10-31T17:37:34+01:00</lastconfirm>
+      <lastuse>2025-11-02T21:03:39+01:00</lastuse>
+      <lastconfirm>2025-10-31T21:03:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-11-02T09:57:10+01:00</lastuse>
-      <lastconfirm>2025-08-23T15:50:12+02:00</lastconfirm>
+      <lastuse>2025-11-02T21:03:50+01:00</lastuse>
+      <lastconfirm>2025-10-31T21:03:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-11-02T20:05:21+01:00</lastuse>
-      <lastconfirm>2025-10-31T20:05:21+01:00</lastconfirm>
+      <lastuse>2025-11-02T21:02:16+01:00</lastuse>
+      <lastconfirm>2025-10-31T21:02:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2025-10-12T14:23:22+02:00</create>
-      <lastuse>2025-11-02T20:39:36+01:00</lastuse>
-      <lastconfirm>2025-10-31T20:39:37+01:00</lastconfirm>
+      <lastuse>2025-11-02T21:04:10+01:00</lastuse>
+      <lastconfirm>2025-10-31T21:04:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
