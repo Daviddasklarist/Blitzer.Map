@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17566408584</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Nagahama-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365968</latitude>
+        <longitude>10.914224</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-31T05:57:43+01:00</create>
+      <lastuse>2025-10-31T13:19:23+01:00</lastuse>
+      <lastconfirm>2025-10-31T11:19:23+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17566821447</id>
     <type>1</type>
     <speed>30</speed>
@@ -93,7 +117,7 @@
     <date>
       <create>2025-10-31T09:28:50+01:00</create>
       <lastuse>2025-10-31T13:28:50+01:00</lastuse>
-      <lastconfirm>2025-10-31T11:16:24+01:00</lastconfirm>
+      <lastconfirm>2025-10-31T11:23:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>17567853224</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Von-Rehlingen-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382899</latitude>
+        <longitude>10.812523</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-31T10:35:29+01:00</create>
+      <lastuse>2025-10-31T13:23:27+01:00</lastuse>
+      <lastconfirm>2025-10-31T11:23:28+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17567881436</id>
     <type>6</type>
     <speed></speed>
@@ -141,7 +189,7 @@
     <date>
       <create>2025-10-31T10:40:08+01:00</create>
       <lastuse>2025-10-31T14:40:08+01:00</lastuse>
-      <lastconfirm>2025-10-31T11:17:53+01:00</lastconfirm>
+      <lastconfirm>2025-10-31T11:22:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,32 +260,8 @@
     </location>
     <date>
       <create>2025-10-30T17:17:11+01:00</create>
-      <lastuse>2025-10-31T15:17:55+01:00</lastuse>
-      <lastconfirm>2025-10-31T11:17:56+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17567948241</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.290163</latitude>
-        <longitude>10.875202</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-31T10:53:41+01:00</create>
-      <lastuse>2025-10-31T12:17:21+01:00</lastuse>
-      <lastconfirm>2025-10-31T11:17:22+01:00</lastconfirm>
+      <lastuse>2025-10-31T15:23:39+01:00</lastuse>
+      <lastconfirm>2025-10-31T11:23:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-11-02T11:12:37+01:00</lastuse>
-      <lastconfirm>2025-10-31T11:12:37+01:00</lastconfirm>
+      <lastuse>2025-11-02T11:17:53+01:00</lastuse>
+      <lastconfirm>2025-10-31T11:17:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-09-17T16:48:12+02:00</create>
-      <lastuse>2025-11-02T09:24:30+01:00</lastuse>
-      <lastconfirm>2025-10-31T09:24:31+01:00</lastconfirm>
+      <lastuse>2025-11-02T11:18:23+01:00</lastuse>
+      <lastconfirm>2025-10-31T11:18:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-11-02T10:52:37+01:00</lastuse>
-      <lastconfirm>2025-10-31T10:52:37+01:00</lastconfirm>
+      <lastuse>2025-11-02T11:18:48+01:00</lastuse>
+      <lastconfirm>2025-10-31T11:18:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
