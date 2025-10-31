@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-10-31T13:49:02+01:00</create>
-      <lastuse>2025-10-31T18:48:54+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:48:54+01:00</lastconfirm>
+      <lastuse>2025-10-31T18:52:49+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:52:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-10-31T15:04:31+01:00</create>
-      <lastuse>2025-10-31T18:48:27+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:48:28+01:00</lastconfirm>
+      <lastuse>2025-10-31T18:52:31+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:52:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,15 +92,15 @@
     </location>
     <date>
       <create>2025-10-29T10:51:18+01:00</create>
-      <lastuse>2025-11-01T00:45:31+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:45:31+01:00</lastconfirm>
+      <lastuse>2025-11-01T00:49:28+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:49:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17562428593</id>
     <type>7</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-10-30T17:17:11+01:00</create>
-      <lastuse>2025-10-31T20:48:58+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:48:59+01:00</lastconfirm>
+      <lastuse>2025-10-31T20:21:01+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:51:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-10-31T15:42:17+01:00</create>
-      <lastuse>2025-10-31T17:14:28+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:44:29+01:00</lastconfirm>
+      <lastuse>2025-10-31T17:22:08+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:52:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-10-31T16:10:37+01:00</create>
-      <lastuse>2025-10-31T17:16:27+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:46:28+01:00</lastconfirm>
+      <lastuse>2025-10-31T17:22:02+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:52:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-10-31T16:11:38+01:00</create>
-      <lastuse>2025-10-31T17:18:10+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:48:12+01:00</lastconfirm>
+      <lastuse>2025-10-31T17:22:18+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:52:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,56 @@
     </location>
     <date>
       <create>2025-10-31T16:23:47+01:00</create>
-      <lastuse>2025-10-31T17:16:00+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:46:02+01:00</lastconfirm>
+      <lastuse>2025-10-31T17:19:34+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:49:35+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17569956916</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.419054</latitude>
+        <longitude>10.774995</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-31T16:30:06+01:00</create>
+      <lastuse>2025-10-31T17:22:16+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:52:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17569968550</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.426849</latitude>
+        <longitude>10.867005</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-31T16:33:08+01:00</create>
+      <lastuse>2025-10-31T17:19:48+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:49:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,7 +284,7 @@
     </location>
     <date>
       <create>2025-10-31T13:38:32+01:00</create>
-      <lastuse>2025-10-31T17:40:37+01:00</lastuse>
+      <lastuse>2025-10-31T17:20:37+01:00</lastuse>
       <lastconfirm>2025-10-31T16:40:37+01:00</lastconfirm>
     </date>
   </event>
@@ -260,8 +308,8 @@
     </location>
     <date>
       <create>2025-10-31T14:00:05+01:00</create>
-      <lastuse>2025-10-31T17:36:07+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:36:08+01:00</lastconfirm>
+      <lastuse>2025-10-31T17:50:59+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:50:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +332,8 @@
     </location>
     <date>
       <create>2025-10-31T14:08:52+01:00</create>
-      <lastuse>2025-10-31T17:48:07+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:48:07+01:00</lastconfirm>
+      <lastuse>2025-10-31T17:51:57+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:51:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,7 +356,7 @@
     </location>
     <date>
       <create>2025-10-31T15:51:46+01:00</create>
-      <lastuse>2025-10-31T17:47:26+01:00</lastuse>
+      <lastuse>2025-10-31T17:27:26+01:00</lastuse>
       <lastconfirm>2025-10-31T16:47:27+01:00</lastconfirm>
     </date>
   </event>
@@ -316,7 +364,7 @@
     <id>17569975070</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -332,8 +380,8 @@
     </location>
     <date>
       <create>2025-10-31T16:34:39+01:00</create>
-      <lastuse>2025-10-31T17:43:57+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:43:57+01:00</lastconfirm>
+      <lastuse>2025-10-31T17:51:37+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:51:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +500,8 @@
     </location>
     <date>
       <create>2025-06-07T13:47:05+02:00</create>
-      <lastuse>2025-11-02T07:45:55+01:00</lastuse>
-      <lastconfirm>2025-06-07T13:47:05+02:00</lastconfirm>
+      <lastuse>2025-11-02T16:46:56+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:46:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +836,8 @@
     </location>
     <date>
       <create>2025-09-23T22:06:22+02:00</create>
-      <lastuse>2025-11-02T12:39:20+01:00</lastuse>
-      <lastconfirm>2025-10-31T12:39:21+01:00</lastconfirm>
+      <lastuse>2025-11-02T16:47:25+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:47:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +980,8 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-11-02T16:03:48+01:00</lastuse>
-      <lastconfirm>2025-10-31T16:03:49+01:00</lastconfirm>
+      <lastuse>2025-11-02T16:49:14+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:49:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1364,8 +1412,8 @@
     </location>
     <date>
       <create>2025-10-29T15:29:11+01:00</create>
-      <lastuse>2025-11-02T15:32:57+01:00</lastuse>
-      <lastconfirm>2025-10-31T15:32:57+01:00</lastconfirm>
+      <lastuse>2025-11-02T16:46:27+01:00</lastuse>
+      <lastconfirm>2025-10-31T16:46:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1412,8 +1460,8 @@
     </location>
     <date>
       <create>2025-10-31T08:17:29+01:00</create>
-      <lastuse>2025-11-02T14:26:44+01:00</lastuse>
-      <lastconfirm>2025-10-31T14:26:44+01:00</lastconfirm>
+      <lastuse>2025-11-02T06:26:44+01:00</lastuse>
+      <lastconfirm>2025-10-31T08:17:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1462,6 +1510,30 @@
       <create>2025-10-31T09:22:06+01:00</create>
       <lastuse>2025-11-02T15:43:47+01:00</lastuse>
       <lastconfirm>2025-10-31T15:43:48+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17569763020</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.472415</latitude>
+        <longitude>10.877275</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-10-31T15:58:41+01:00</create>
+      <lastuse>2025-10-31T20:49:01+01:00</lastuse>
+      <lastconfirm>2025-10-31T15:58:41+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
