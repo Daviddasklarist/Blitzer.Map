@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17575507475</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416968</latitude>
+        <longitude>10.839137</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-01T10:39:42+01:00</create>
+      <lastuse>2025-11-01T21:11:16+01:00</lastuse>
+      <lastconfirm>2025-11-01T19:26:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17550432863</id>
     <type>7</type>
     <speed>30</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-10-30T17:17:11+01:00</create>
-      <lastuse>2025-11-01T23:23:44+01:00</lastuse>
-      <lastconfirm>2025-11-01T19:23:44+01:00</lastconfirm>
+      <lastuse>2025-11-01T23:27:07+01:00</lastuse>
+      <lastconfirm>2025-11-01T19:27:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-11-01T18:43:52+01:00</create>
-      <lastuse>2025-11-01T19:53:51+01:00</lastuse>
-      <lastconfirm>2025-11-01T19:23:52+01:00</lastconfirm>
+      <lastuse>2025-11-01T19:58:17+01:00</lastuse>
+      <lastconfirm>2025-11-01T19:28:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-11-03T18:42:33+01:00</lastuse>
-      <lastconfirm>2025-11-01T18:42:34+01:00</lastconfirm>
+      <lastuse>2025-11-03T19:22:38+01:00</lastuse>
+      <lastconfirm>2025-11-01T19:22:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +884,8 @@
     </location>
     <date>
       <create>2025-10-15T14:13:05+02:00</create>
-      <lastuse>2025-11-03T18:41:13+01:00</lastuse>
-      <lastconfirm>2025-11-01T18:41:13+01:00</lastconfirm>
+      <lastuse>2025-11-03T19:24:50+01:00</lastuse>
+      <lastconfirm>2025-11-01T19:24:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
