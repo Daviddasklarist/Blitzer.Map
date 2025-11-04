@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17596687974</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Westendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.574758</latitude>
+        <longitude>10.845950</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-04T05:50:21+01:00</create>
+      <lastuse>2025-11-04T07:58:59+01:00</lastuse>
+      <lastconfirm>2025-11-04T05:59:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17550432863</id>
     <type>7</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-10-29T10:51:18+01:00</create>
-      <lastuse>2025-11-04T13:35:28+01:00</lastuse>
-      <lastconfirm>2025-11-04T05:35:28+01:00</lastconfirm>
+      <lastuse>2025-11-04T13:53:55+01:00</lastuse>
+      <lastconfirm>2025-11-04T05:53:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,32 @@
     </location>
     <date>
       <create>2025-11-02T20:57:26+01:00</create>
-      <lastuse>2025-11-04T09:20:40+01:00</lastuse>
-      <lastconfirm>2025-11-04T05:50:40+01:00</lastconfirm>
+      <lastuse>2025-11-04T09:58:39+01:00</lastuse>
+      <lastconfirm>2025-11-04T05:58:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17596671720</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385543</latitude>
+        <longitude>11.078767</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-04T05:48:02+01:00</create>
+      <lastuse>2025-11-04T06:56:22+01:00</lastuse>
+      <lastconfirm>2025-11-04T05:56:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +332,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2025-11-05T23:44:05+01:00</lastuse>
-      <lastconfirm>2025-11-03T23:44:06+01:00</lastconfirm>
+      <lastuse>2025-11-06T05:51:08+01:00</lastuse>
+      <lastconfirm>2025-11-04T05:51:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +908,8 @@
     </location>
     <date>
       <create>2025-10-16T08:47:45+02:00</create>
-      <lastuse>2025-11-06T00:21:21+01:00</lastuse>
-      <lastconfirm>2025-11-04T00:21:21+01:00</lastconfirm>
+      <lastuse>2025-11-06T05:52:02+01:00</lastuse>
+      <lastconfirm>2025-11-04T05:52:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1076,8 @@
     </location>
     <date>
       <create>2025-10-29T08:23:22+01:00</create>
-      <lastuse>2025-11-05T17:28:11+01:00</lastuse>
-      <lastconfirm>2025-11-03T17:28:12+01:00</lastconfirm>
+      <lastuse>2025-11-06T05:51:37+01:00</lastuse>
+      <lastconfirm>2025-11-04T05:51:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
