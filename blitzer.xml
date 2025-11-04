@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17602159677</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schaezlerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369359</latitude>
+        <longitude>10.891433</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-04T20:55:09+01:00</create>
+      <lastuse>2025-11-04T23:06:07+01:00</lastuse>
+      <lastconfirm>2025-11-04T21:06:08+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17586090995</id>
     <type>7</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-02T20:57:26+01:00</create>
-      <lastuse>2025-11-05T01:02:58+01:00</lastuse>
-      <lastconfirm>2025-11-04T21:02:59+01:00</lastconfirm>
+      <lastuse>2025-11-05T00:36:01+01:00</lastuse>
+      <lastconfirm>2025-11-04T21:06:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-11-04T18:11:39+01:00</create>
-      <lastuse>2025-11-04T21:15:54+01:00</lastuse>
-      <lastconfirm>2025-11-04T20:55:54+01:00</lastconfirm>
+      <lastuse>2025-11-04T21:38:44+01:00</lastuse>
+      <lastconfirm>2025-11-04T21:08:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
