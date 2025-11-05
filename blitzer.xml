@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-11-05T06:16:14+01:00</create>
-      <lastuse>2025-11-05T10:25:47+01:00</lastuse>
+      <lastuse>2025-11-05T09:25:47+01:00</lastuse>
       <lastconfirm>2025-11-05T08:25:47+01:00</lastconfirm>
     </date>
   </event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-11-05T07:00:57+01:00</create>
-      <lastuse>2025-11-05T10:28:04+01:00</lastuse>
-      <lastconfirm>2025-11-05T08:28:04+01:00</lastconfirm>
+      <lastuse>2025-11-05T10:29:51+01:00</lastuse>
+      <lastconfirm>2025-11-05T08:29:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -172,7 +172,7 @@
     <id>17605315315</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86485</zip>
       <city>Biberbach</city>
@@ -188,8 +188,32 @@
     </location>
     <date>
       <create>2025-11-05T07:40:05+01:00</create>
-      <lastuse>2025-11-05T09:37:37+01:00</lastuse>
+      <lastuse>2025-11-05T09:07:37+01:00</lastuse>
       <lastconfirm>2025-11-05T08:07:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17605315318</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86485</zip>
+      <city>Biberbach</city>
+      <state>DE-BY</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.524244</latitude>
+        <longitude>10.806795</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-05T07:40:30+01:00</create>
+      <lastuse>2025-11-05T10:29:45+01:00</lastuse>
+      <lastconfirm>2025-11-05T08:29:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-11-02T20:57:26+01:00</create>
-      <lastuse>2025-11-05T11:57:33+01:00</lastuse>
-      <lastconfirm>2025-11-05T08:27:33+01:00</lastconfirm>
+      <lastuse>2025-11-05T12:32:03+01:00</lastuse>
+      <lastconfirm>2025-11-05T08:32:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,12 +308,36 @@
     </location>
     <date>
       <create>2025-11-05T07:57:24+01:00</create>
-      <lastuse>2025-11-05T08:58:07+01:00</lastuse>
-      <lastconfirm>2025-11-05T08:28:07+01:00</lastconfirm>
+      <lastuse>2025-11-05T08:59:33+01:00</lastuse>
+      <lastconfirm>2025-11-05T08:29:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17605570580</id>
+    <id>17605504021</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.475746</latitude>
+        <longitude>10.872520</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-05T08:13:02+01:00</create>
+      <lastuse>2025-11-05T08:51:10+01:00</lastuse>
+      <lastconfirm>2025-11-05T08:31:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17605621328</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -302,14 +350,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.418728</latitude>
-        <longitude>10.819250</longitude>
+        <latitude>48.419505</latitude>
+        <longitude>10.810507</longitude>
       </point>
     </location>
     <date>
-      <create>2025-11-05T08:24:02+01:00</create>
-      <lastuse>2025-11-05T08:33:00+01:00</lastuse>
-      <lastconfirm>2025-11-05T08:24:02+01:00</lastconfirm>
+      <create>2025-11-05T08:32:03+01:00</create>
+      <lastuse>2025-11-05T08:37:00+01:00</lastuse>
+      <lastconfirm>2025-11-05T08:32:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -961,30 +1009,6 @@
     </date>
   </event>
   <event>
-    <id>17388219690</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86415</zip>
-      <city>Mering</city>
-      <state>DE-HH</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.273616</latitude>
-        <longitude>10.983324</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-10-08T06:34:51+02:00</create>
-      <lastuse>2025-11-05T19:42:56+01:00</lastuse>
-      <lastconfirm>2025-10-08T06:34:51+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17422156032</id>
     <type>26</type>
     <speed></speed>
@@ -1100,8 +1124,8 @@
     </location>
     <date>
       <create>2025-10-16T20:28:48+02:00</create>
-      <lastuse>2025-11-07T07:39:07+01:00</lastuse>
-      <lastconfirm>2025-11-05T07:39:09+01:00</lastconfirm>
+      <lastuse>2025-11-07T08:28:02+01:00</lastuse>
+      <lastconfirm>2025-11-05T08:28:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1340,8 +1364,8 @@
     </location>
     <date>
       <create>2025-10-31T09:22:06+01:00</create>
-      <lastuse>2025-11-07T06:58:55+01:00</lastuse>
-      <lastconfirm>2025-11-05T06:58:55+01:00</lastconfirm>
+      <lastuse>2025-11-06T22:58:55+01:00</lastuse>
+      <lastconfirm>2025-10-31T09:22:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1418,7 +1442,7 @@
   </event>
   <event>
     <id>17597551783</id>
-    <type>22</type>
+    <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
