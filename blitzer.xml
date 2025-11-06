@@ -28,7 +28,7 @@
     <id>17615289521</id>
     <type>6</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-06T13:13:44+01:00</create>
-      <lastuse>2025-11-06T22:14:34+01:00</lastuse>
-      <lastconfirm>2025-11-06T20:44:35+01:00</lastconfirm>
+      <lastuse>2025-11-06T22:05:07+01:00</lastuse>
+      <lastconfirm>2025-11-06T20:50:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -73,51 +73,27 @@
     </date>
   </event>
   <event>
-    <id>17617672930</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.536921</latitude>
-        <longitude>10.836953</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-06T19:26:17+01:00</create>
-      <lastuse>2025-11-06T20:50:21+01:00</lastuse>
-      <lastconfirm>2025-11-06T20:30:22+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17617672932</id>
+    <id>17618050033</id>
     <type>23</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
-      <street>B2</street>
+      <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.537463</latitude>
-        <longitude>10.837882</longitude>
+        <latitude>48.414456</latitude>
+        <longitude>10.881131</longitude>
       </point>
     </location>
     <date>
-      <create>2025-11-06T19:26:33+01:00</create>
-      <lastuse>2025-11-06T20:52:28+01:00</lastuse>
-      <lastconfirm>2025-11-06T20:32:28+01:00</lastconfirm>
+      <create>2025-11-06T20:33:39+01:00</create>
+      <lastuse>2025-11-06T21:23:31+01:00</lastuse>
+      <lastconfirm>2025-11-06T20:53:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-11-08T20:29:56+01:00</lastuse>
-      <lastconfirm>2025-11-06T20:29:56+01:00</lastconfirm>
+      <lastuse>2025-11-08T20:48:21+01:00</lastuse>
+      <lastconfirm>2025-11-06T20:48:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1270,6 +1246,30 @@
       <create>2025-11-06T15:49:31+01:00</create>
       <lastuse>2025-11-08T18:02:58+01:00</lastuse>
       <lastconfirm>2025-11-06T18:02:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17618028993</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401220</latitude>
+        <longitude>10.990103</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-06T20:25:08+01:00</create>
+      <lastuse>2025-11-07T04:49:52+01:00</lastuse>
+      <lastconfirm>2025-11-06T20:49:52+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
