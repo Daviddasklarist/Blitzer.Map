@@ -4,7 +4,7 @@
     <id>17614844778</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2025-11-06T12:00:36+01:00</create>
-      <lastuse>2025-11-06T17:30:35+01:00</lastuse>
+      <lastuse>2025-11-06T17:00:35+01:00</lastuse>
       <lastconfirm>2025-11-06T16:00:35+01:00</lastconfirm>
     </date>
   </event>
@@ -28,7 +28,7 @@
     <id>17615289521</id>
     <type>6</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-06T13:13:44+01:00</create>
-      <lastuse>2025-11-06T18:17:43+01:00</lastuse>
-      <lastconfirm>2025-11-06T16:47:44+01:00</lastconfirm>
+      <lastuse>2025-11-06T18:22:57+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:52:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +93,7 @@
     <date>
       <create>2025-11-06T15:38:23+01:00</create>
       <lastuse>2025-11-06T19:38:23+01:00</lastuse>
-      <lastconfirm>2025-11-06T16:46:51+01:00</lastconfirm>
+      <lastconfirm>2025-11-06T16:51:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-11-05T10:24:35+01:00</create>
-      <lastuse>2025-11-07T00:00:54+01:00</lastuse>
-      <lastconfirm>2025-11-06T16:00:55+01:00</lastconfirm>
+      <lastuse>2025-11-07T00:48:21+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:48:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-11-06T16:37:14+01:00</create>
-      <lastuse>2025-11-06T17:17:58+01:00</lastuse>
-      <lastconfirm>2025-11-06T16:47:59+01:00</lastconfirm>
+      <lastuse>2025-11-06T17:21:43+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:51:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-11-06T16:18:23+01:00</create>
-      <lastuse>2025-11-06T17:42:26+01:00</lastuse>
-      <lastconfirm>2025-11-06T16:42:28+01:00</lastconfirm>
+      <lastuse>2025-11-06T17:50:42+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:50:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -220,7 +220,7 @@
     <id>17616556011</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86179</zip>
       <city>Augsburg</city>
@@ -236,8 +236,32 @@
     </location>
     <date>
       <create>2025-11-06T16:32:14+01:00</create>
-      <lastuse>2025-11-06T17:22:25+01:00</lastuse>
-      <lastconfirm>2025-11-06T16:42:26+01:00</lastconfirm>
+      <lastuse>2025-11-06T17:51:48+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:51:49+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17616578074</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.423273</latitude>
+        <longitude>10.867200</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-06T16:35:31+01:00</create>
+      <lastuse>2025-11-06T17:51:13+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:51:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -262,6 +286,54 @@
       <create>2025-11-06T16:38:17+01:00</create>
       <lastuse>2025-11-06T17:44:19+01:00</lastuse>
       <lastconfirm>2025-11-06T16:44:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17616646028</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.335857</latitude>
+        <longitude>10.888639</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-06T16:45:36+01:00</create>
+      <lastuse>2025-11-06T17:52:19+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:52:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17616650404</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417633</latitude>
+        <longitude>10.869810</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-06T16:46:21+01:00</create>
+      <lastuse>2025-11-06T17:51:05+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:51:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1316,8 +1388,8 @@
     </location>
     <date>
       <create>2025-11-05T04:55:02+01:00</create>
-      <lastuse>2025-11-08T16:30:05+01:00</lastuse>
-      <lastconfirm>2025-11-06T16:30:06+01:00</lastconfirm>
+      <lastuse>2025-11-08T16:45:43+01:00</lastuse>
+      <lastconfirm>2025-11-06T16:45:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
