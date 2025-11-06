@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17611050015</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Langenmantelstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374304</latitude>
-        <longitude>10.883993</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-05T23:46:58+01:00</create>
-      <lastuse>2025-11-06T02:07:31+01:00</lastuse>
-      <lastconfirm>2025-11-06T01:07:31+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17586090995</id>
     <type>7</type>
     <speed>120</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-11-02T20:57:26+01:00</create>
-      <lastuse>2025-11-06T06:02:28+01:00</lastuse>
-      <lastconfirm>2025-11-06T02:02:28+01:00</lastconfirm>
+      <lastuse>2025-11-06T06:08:22+01:00</lastuse>
+      <lastconfirm>2025-11-06T02:08:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1220,8 +1196,8 @@
     </location>
     <date>
       <create>2025-11-05T15:34:38+01:00</create>
-      <lastuse>2025-11-06T08:17:33+01:00</lastuse>
-      <lastconfirm>2025-11-06T00:17:34+01:00</lastconfirm>
+      <lastuse>2025-11-06T10:08:07+01:00</lastuse>
+      <lastconfirm>2025-11-06T02:08:07+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
