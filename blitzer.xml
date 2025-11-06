@@ -28,7 +28,7 @@
     <id>17615289521</id>
     <type>6</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-06T13:13:44+01:00</create>
-      <lastuse>2025-11-06T18:57:53+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:27:53+01:00</lastconfirm>
+      <lastuse>2025-11-06T18:31:07+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:31:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +93,7 @@
     <date>
       <create>2025-11-06T15:38:23+01:00</create>
       <lastuse>2025-11-06T19:38:23+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:27:45+01:00</lastconfirm>
+      <lastconfirm>2025-11-06T17:33:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -118,30 +118,6 @@
       <create>2025-11-05T10:24:35+01:00</create>
       <lastuse>2025-11-07T01:05:44+01:00</lastuse>
       <lastconfirm>2025-11-06T17:05:44+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17616585049</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.303165</latitude>
-        <longitude>10.880946</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-06T16:37:14+01:00</create>
-      <lastuse>2025-11-06T17:32:35+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:12:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2025-11-06T16:18:23+01:00</create>
-      <lastuse>2025-11-06T18:23:43+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:23:43+01:00</lastconfirm>
+      <lastuse>2025-11-06T18:28:50+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:28:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,15 +212,15 @@
     </location>
     <date>
       <create>2025-11-06T16:45:36+01:00</create>
-      <lastuse>2025-11-06T18:11:06+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:11:07+01:00</lastconfirm>
+      <lastuse>2025-11-06T18:30:16+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:30:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17616650404</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2025-11-06T16:46:21+01:00</create>
-      <lastuse>2025-11-06T18:27:39+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:27:40+01:00</lastconfirm>
+      <lastuse>2025-11-06T18:32:37+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:32:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +260,56 @@
     </location>
     <date>
       <create>2025-11-06T16:46:21+01:00</create>
-      <lastuse>2025-11-06T18:11:08+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:11:09+01:00</lastconfirm>
+      <lastuse>2025-11-06T18:28:48+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:28:48+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17616862199</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.343573</latitude>
+        <longitude>10.886316</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-06T17:19:34+01:00</create>
+      <lastuse>2025-11-06T18:30:56+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:30:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17616880059</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Tiefenbacherstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414731</latitude>
+        <longitude>10.875667</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-06T17:21:35+01:00</create>
+      <lastuse>2025-11-06T18:33:56+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:33:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-11-08T17:04:13+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:04:14+01:00</lastconfirm>
+      <lastuse>2025-11-08T17:27:52+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:27:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-11-08T16:33:49+01:00</lastuse>
-      <lastconfirm>2025-11-06T16:33:50+01:00</lastconfirm>
+      <lastuse>2025-11-08T17:28:20+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:28:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1292,8 +1316,8 @@
     </location>
     <date>
       <create>2025-11-03T08:28:21+01:00</create>
-      <lastuse>2025-11-08T17:09:29+01:00</lastuse>
-      <lastconfirm>2025-11-06T17:09:29+01:00</lastconfirm>
+      <lastuse>2025-11-08T17:28:28+01:00</lastuse>
+      <lastconfirm>2025-11-06T17:28:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
