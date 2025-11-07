@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17615289521</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410477</latitude>
+        <longitude>10.617409</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-06T13:13:44+01:00</create>
+      <lastuse>2025-11-07T11:22:30+01:00</lastuse>
+      <lastconfirm>2025-11-07T09:52:30+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17620774135</id>
     <type>1</type>
     <speed>50</speed>
@@ -100,7 +124,7 @@
     <id>17621226234</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>89420</zip>
       <city>Höchstädt an der Donau</city>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-11-07T07:24:57+01:00</create>
-      <lastuse>2025-11-07T11:39:54+01:00</lastuse>
-      <lastconfirm>2025-11-07T09:39:54+01:00</lastconfirm>
+      <lastuse>2025-11-07T11:50:58+01:00</lastuse>
+      <lastconfirm>2025-11-07T09:50:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,7 +164,7 @@
     </location>
     <date>
       <create>2025-11-07T07:31:20+01:00</create>
-      <lastuse>2025-11-07T11:36:23+01:00</lastuse>
+      <lastuse>2025-11-07T11:06:23+01:00</lastuse>
       <lastconfirm>2025-11-07T09:36:24+01:00</lastconfirm>
     </date>
   </event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-11-07T08:38:19+01:00</create>
-      <lastuse>2025-11-07T10:17:04+01:00</lastuse>
-      <lastconfirm>2025-11-07T09:47:05+01:00</lastconfirm>
+      <lastuse>2025-11-07T10:22:27+01:00</lastuse>
+      <lastconfirm>2025-11-07T09:52:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2025-09-29T08:56:18+02:00</create>
-      <lastuse>2025-11-09T08:08:06+01:00</lastuse>
-      <lastconfirm>2025-11-07T08:08:08+01:00</lastconfirm>
+      <lastuse>2025-11-09T09:48:32+01:00</lastuse>
+      <lastconfirm>2025-11-07T09:48:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1076,8 @@
     </location>
     <date>
       <create>2025-10-27T17:24:57+01:00</create>
-      <lastuse>2025-11-09T08:47:31+01:00</lastuse>
-      <lastconfirm>2025-11-07T08:47:32+01:00</lastconfirm>
+      <lastuse>2025-11-09T09:49:26+01:00</lastuse>
+      <lastconfirm>2025-11-07T09:49:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
