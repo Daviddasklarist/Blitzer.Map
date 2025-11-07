@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>17622310503</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.248064</latitude>
+        <longitude>10.869210</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-07T10:36:12+01:00</create>
+      <lastuse>2025-11-07T15:45:24+01:00</lastuse>
+      <lastconfirm>2025-11-07T14:15:24+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17622724849</id>
     <type>1</type>
     <speed>30</speed>
@@ -51,7 +75,7 @@
   <event>
     <id>17623374994</id>
     <type>1</type>
-    <speed>20</speed>
+    <speed>50</speed>
     <quality>3</quality>
     <address>
       <zip>86154</zip>
@@ -68,7 +92,7 @@
     </location>
     <date>
       <create>2025-11-07T13:37:19+01:00</create>
-      <lastuse>2025-11-07T16:08:10+01:00</lastuse>
+      <lastuse>2025-11-07T15:38:10+01:00</lastuse>
       <lastconfirm>2025-11-07T14:08:11+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-11-05T10:24:35+01:00</create>
-      <lastuse>2025-11-07T21:41:34+01:00</lastuse>
-      <lastconfirm>2025-11-07T13:41:34+01:00</lastconfirm>
+      <lastuse>2025-11-07T22:17:43+01:00</lastuse>
+      <lastconfirm>2025-11-07T14:17:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-11-07T13:11:54+01:00</create>
-      <lastuse>2025-11-07T14:42:46+01:00</lastuse>
-      <lastconfirm>2025-11-07T14:12:46+01:00</lastconfirm>
+      <lastuse>2025-11-07T14:46:48+01:00</lastuse>
+      <lastconfirm>2025-11-07T14:16:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-11-07T14:00:21+01:00</create>
-      <lastuse>2025-11-07T14:42:47+01:00</lastuse>
-      <lastconfirm>2025-11-07T14:12:49+01:00</lastconfirm>
+      <lastuse>2025-11-07T14:46:44+01:00</lastuse>
+      <lastconfirm>2025-11-07T14:16:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-11-07T12:34:00+01:00</create>
-      <lastuse>2025-11-07T15:10:13+01:00</lastuse>
-      <lastconfirm>2025-11-07T14:10:14+01:00</lastconfirm>
+      <lastuse>2025-11-07T15:17:30+01:00</lastuse>
+      <lastconfirm>2025-11-07T14:17:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-11-07T13:07:36+01:00</create>
-      <lastuse>2025-11-07T15:04:28+01:00</lastuse>
-      <lastconfirm>2025-11-07T14:04:29+01:00</lastconfirm>
+      <lastuse>2025-11-07T15:16:36+01:00</lastuse>
+      <lastconfirm>2025-11-07T14:16:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2025-11-09T13:16:44+01:00</lastuse>
-      <lastconfirm>2025-11-07T13:16:45+01:00</lastconfirm>
+      <lastuse>2025-11-09T05:16:44+01:00</lastuse>
+      <lastconfirm>2025-07-08T11:03:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1342,30 +1366,6 @@
       <create>2025-11-06T15:49:31+01:00</create>
       <lastuse>2025-11-09T10:07:38+01:00</lastuse>
       <lastconfirm>2025-11-07T10:07:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17622149657</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-HH</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.389426</latitude>
-        <longitude>11.033539</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-07T10:06:40+01:00</create>
-      <lastuse>2025-11-07T18:29:30+01:00</lastuse>
-      <lastconfirm>2025-11-07T10:06:40+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
