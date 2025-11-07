@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17625539281</id>
+    <id>17625668514</id>
     <type>1</type>
-    <speed>90</speed>
+    <speed>100</speed>
     <quality>2</quality>
     <address>
       <zip>86551</zip>
@@ -14,14 +14,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.434888</latitude>
-        <longitude>11.118410</longitude>
+        <latitude>48.435175</latitude>
+        <longitude>11.124086</longitude>
       </point>
     </location>
     <date>
-      <create>2025-11-07T19:34:39+01:00</create>
-      <lastuse>2025-11-07T22:01:29+01:00</lastuse>
-      <lastconfirm>2025-11-07T20:01:29+01:00</lastconfirm>
+      <create>2025-11-07T19:56:42+01:00</create>
+      <lastuse>2025-11-07T22:56:42+01:00</lastuse>
+      <lastconfirm>2025-11-07T20:11:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -46,30 +46,6 @@
       <create>2025-11-05T10:24:35+01:00</create>
       <lastuse>2025-11-08T04:06:49+01:00</lastuse>
       <lastconfirm>2025-11-07T20:06:50+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17625558303</id>
-    <type>7</type>
-    <speed>90</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86551</zip>
-      <city>Aichach</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.433713</latitude>
-        <longitude>11.109946</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-07T19:36:43+01:00</create>
-      <lastuse>2025-11-08T01:59:30+01:00</lastuse>
-      <lastconfirm>2025-11-07T19:59:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +260,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2025-11-09T19:57:31+01:00</lastuse>
-      <lastconfirm>2025-11-07T19:57:32+01:00</lastconfirm>
+      <lastuse>2025-11-09T20:07:06+01:00</lastuse>
+      <lastconfirm>2025-11-07T20:07:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1148,8 +1124,8 @@
     </location>
     <date>
       <create>2025-11-05T15:34:38+01:00</create>
-      <lastuse>2025-11-09T18:47:17+01:00</lastuse>
-      <lastconfirm>2025-11-07T18:47:18+01:00</lastconfirm>
+      <lastuse>2025-11-09T20:07:59+01:00</lastuse>
+      <lastconfirm>2025-11-07T20:08:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
