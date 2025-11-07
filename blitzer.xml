@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17615289521</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410477</latitude>
+        <longitude>10.617409</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-06T13:13:44+01:00</create>
+      <lastuse>2025-11-07T08:32:44+01:00</lastuse>
+      <lastconfirm>2025-11-07T07:32:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17620774135</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-07T05:50:13+01:00</create>
-      <lastuse>2025-11-07T09:27:13+01:00</lastuse>
-      <lastconfirm>2025-11-07T07:27:13+01:00</lastconfirm>
+      <lastuse>2025-11-07T09:32:52+01:00</lastuse>
+      <lastconfirm>2025-11-07T07:32:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-11-07T06:09:50+01:00</create>
-      <lastuse>2025-11-07T09:24:44+01:00</lastuse>
-      <lastconfirm>2025-11-07T07:24:45+01:00</lastconfirm>
+      <lastuse>2025-11-07T09:30:38+01:00</lastuse>
+      <lastconfirm>2025-11-07T07:30:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-11-07T06:26:11+01:00</create>
-      <lastuse>2025-11-07T08:43:57+01:00</lastuse>
-      <lastconfirm>2025-11-07T07:13:57+01:00</lastconfirm>
+      <lastuse>2025-11-07T09:30:03+01:00</lastuse>
+      <lastconfirm>2025-11-07T07:30:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-11-09T06:03:26+01:00</lastuse>
-      <lastconfirm>2025-11-07T06:03:27+01:00</lastconfirm>
+      <lastuse>2025-11-09T07:29:12+01:00</lastuse>
+      <lastconfirm>2025-11-07T07:29:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
