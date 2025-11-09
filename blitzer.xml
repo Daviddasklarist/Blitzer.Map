@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17636989304</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416416</latitude>
+        <longitude>10.846330</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-09T09:51:42+01:00</create>
+      <lastuse>2025-11-09T11:27:09+01:00</lastuse>
+      <lastconfirm>2025-11-09T09:57:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17636994460</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417220</latitude>
+        <longitude>10.836413</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-09T09:53:46+01:00</create>
+      <lastuse>2025-11-09T11:58:46+01:00</lastuse>
+      <lastconfirm>2025-11-09T09:58:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17610659043</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +92,8 @@
     </location>
     <date>
       <create>2025-11-08T10:19:16+01:00</create>
-      <lastuse>2025-11-09T17:51:00+01:00</lastuse>
-      <lastconfirm>2025-11-09T09:51:01+01:00</lastconfirm>
+      <lastuse>2025-11-09T17:55:12+01:00</lastuse>
+      <lastconfirm>2025-11-09T09:55:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
