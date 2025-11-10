@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17643003942</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Donauwörther Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378846</latitude>
+        <longitude>10.882233</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-10T05:58:20+01:00</create>
+      <lastuse>2025-11-10T08:14:14+01:00</lastuse>
+      <lastconfirm>2025-11-10T06:14:15+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17610659043</id>
     <type>7</type>
     <speed>50</speed>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2025-09-05T07:19:37+02:00</create>
-      <lastuse>2025-11-12T05:54:55+01:00</lastuse>
-      <lastconfirm>2025-11-10T05:54:56+01:00</lastconfirm>
+      <lastuse>2025-11-11T21:54:55+01:00</lastuse>
+      <lastconfirm>2025-09-05T07:19:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2025-10-16T08:47:45+02:00</create>
-      <lastuse>2025-11-11T23:45:56+01:00</lastuse>
-      <lastconfirm>2025-11-09T23:45:57+01:00</lastconfirm>
+      <lastuse>2025-11-12T06:11:08+01:00</lastuse>
+      <lastconfirm>2025-11-10T06:11:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1108,7 +1132,7 @@
     <id>17616272267</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86850</zip>
       <city>Fischach</city>
@@ -1124,7 +1148,7 @@
     </location>
     <date>
       <create>2025-11-06T15:49:31+01:00</create>
-      <lastuse>2025-11-11T08:49:45+01:00</lastuse>
+      <lastuse>2025-11-11T00:49:45+01:00</lastuse>
       <lastconfirm>2025-11-06T15:49:31+01:00</lastconfirm>
     </date>
   </event>
