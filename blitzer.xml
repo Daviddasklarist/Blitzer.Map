@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17650680622</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bergheimer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.314308</latitude>
+        <longitude>10.850355</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-11T06:10:07+01:00</create>
+      <lastuse>2025-11-11T08:14:27+01:00</lastuse>
+      <lastconfirm>2025-11-11T06:14:27+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17610659043</id>
     <type>7</type>
     <speed>50</speed>
@@ -860,8 +884,8 @@
     </location>
     <date>
       <create>2025-10-29T15:29:11+01:00</create>
-      <lastuse>2025-11-12T17:13:25+01:00</lastuse>
-      <lastconfirm>2025-11-10T17:13:26+01:00</lastconfirm>
+      <lastuse>2025-11-13T06:13:11+01:00</lastuse>
+      <lastconfirm>2025-11-11T06:13:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
