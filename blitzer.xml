@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2025-11-12T06:06:40+01:00</create>
-      <lastuse>2025-11-12T11:02:51+01:00</lastuse>
+      <lastuse>2025-11-12T10:32:51+01:00</lastuse>
       <lastconfirm>2025-11-12T09:32:52+01:00</lastconfirm>
     </date>
   </event>
@@ -213,7 +213,7 @@
     <date>
       <create>2025-11-12T09:11:18+01:00</create>
       <lastuse>2025-11-12T13:11:18+01:00</lastuse>
-      <lastconfirm>2025-11-12T10:02:52+01:00</lastconfirm>
+      <lastconfirm>2025-11-12T10:06:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-11-08T10:19:16+01:00</create>
-      <lastuse>2025-11-12T18:02:07+01:00</lastuse>
-      <lastconfirm>2025-11-12T10:02:08+01:00</lastconfirm>
+      <lastuse>2025-11-12T18:06:08+01:00</lastuse>
+      <lastconfirm>2025-11-12T10:06:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -262,30 +262,6 @@
       <create>2025-11-12T09:19:00+01:00</create>
       <lastuse>2025-11-12T10:32:54+01:00</lastuse>
       <lastconfirm>2025-11-12T10:02:55+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17659119314</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Stuttgarter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.399137</latitude>
-        <longitude>10.869684</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-12T08:32:22+01:00</create>
-      <lastuse>2025-11-12T10:08:14+01:00</lastuse>
-      <lastconfirm>2025-11-12T09:48:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1441,34 +1417,10 @@
     </date>
   </event>
   <event>
-    <id>17659249670</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.475075</latitude>
-        <longitude>10.874363</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-12T08:50:46+01:00</create>
-      <lastuse>2025-11-12T11:16:17+01:00</lastuse>
-      <lastconfirm>2025-11-12T08:50:46+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17659429542</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -1484,8 +1436,8 @@
     </location>
     <date>
       <create>2025-11-12T09:20:53+01:00</create>
-      <lastuse>2025-11-12T17:54:21+01:00</lastuse>
-      <lastconfirm>2025-11-12T09:54:21+01:00</lastconfirm>
+      <lastuse>2025-11-12T18:03:58+01:00</lastuse>
+      <lastconfirm>2025-11-12T10:03:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1508,15 +1460,15 @@
     </location>
     <date>
       <create>2025-11-12T09:21:23+01:00</create>
-      <lastuse>2025-11-12T17:55:02+01:00</lastuse>
-      <lastconfirm>2025-11-12T09:55:03+01:00</lastconfirm>
+      <lastuse>2025-11-12T18:03:16+01:00</lastuse>
+      <lastconfirm>2025-11-12T10:03:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17659429556</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -1532,8 +1484,32 @@
     </location>
     <date>
       <create>2025-11-12T09:24:24+01:00</create>
-      <lastuse>2025-11-12T17:51:16+01:00</lastuse>
-      <lastconfirm>2025-11-12T09:51:17+01:00</lastconfirm>
+      <lastuse>2025-11-12T18:03:47+01:00</lastuse>
+      <lastconfirm>2025-11-12T10:03:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17659608742</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.487648</latitude>
+        <longitude>10.861822</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-12T09:54:16+01:00</create>
+      <lastuse>2025-11-12T18:03:04+01:00</lastuse>
+      <lastconfirm>2025-11-12T10:03:05+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
