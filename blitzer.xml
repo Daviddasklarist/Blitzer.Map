@@ -4,7 +4,7 @@
     <id>17658297837</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-11-12T05:55:18+01:00</create>
-      <lastuse>2025-11-12T08:24:00+01:00</lastuse>
-      <lastconfirm>2025-11-12T06:24:00+01:00</lastconfirm>
+      <lastuse>2025-11-12T08:36:02+01:00</lastuse>
+      <lastconfirm>2025-11-12T06:36:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-11-08T10:19:16+01:00</create>
-      <lastuse>2025-11-12T14:29:59+01:00</lastuse>
-      <lastconfirm>2025-11-12T06:29:59+01:00</lastconfirm>
+      <lastuse>2025-11-12T14:37:43+01:00</lastuse>
+      <lastconfirm>2025-11-12T06:37:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +524,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-11-14T05:42:53+01:00</lastuse>
-      <lastconfirm>2025-11-12T05:42:53+01:00</lastconfirm>
+      <lastuse>2025-11-14T06:30:12+01:00</lastuse>
+      <lastconfirm>2025-11-12T06:30:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1225,10 +1225,34 @@
     </date>
   </event>
   <event>
+    <id>17652701846</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Hermann-Köhl-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.334109</latitude>
+        <longitude>10.904790</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-11T12:10:28+01:00</create>
+      <lastuse>2025-11-14T06:32:48+01:00</lastuse>
+      <lastconfirm>2025-11-12T06:32:49+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17656252330</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -1244,8 +1268,8 @@
     </location>
     <date>
       <create>2025-11-11T22:32:34+01:00</create>
-      <lastuse>2025-11-12T14:26:39+01:00</lastuse>
-      <lastconfirm>2025-11-12T06:26:40+01:00</lastconfirm>
+      <lastuse>2025-11-12T10:26:39+01:00</lastuse>
+      <lastconfirm>2025-11-11T22:32:34+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
