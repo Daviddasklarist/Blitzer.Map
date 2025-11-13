@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-08T10:19:16+01:00</create>
-      <lastuse>2025-11-13T19:43:47+01:00</lastuse>
-      <lastconfirm>2025-11-13T11:43:49+01:00</lastconfirm>
+      <lastuse>2025-11-13T19:46:55+01:00</lastuse>
+      <lastconfirm>2025-11-13T11:46:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2025-11-13T11:06:36+01:00</create>
-      <lastuse>2025-11-13T12:22:05+01:00</lastuse>
+      <lastuse>2025-11-13T12:02:05+01:00</lastuse>
       <lastconfirm>2025-11-13T11:42:05+01:00</lastconfirm>
     </date>
   </event>
@@ -380,8 +380,8 @@
     </location>
     <date>
       <create>2025-09-09T15:59:25+02:00</create>
-      <lastuse>2025-11-14T22:15:41+01:00</lastuse>
-      <lastconfirm>2025-11-12T22:15:41+01:00</lastconfirm>
+      <lastuse>2025-11-15T11:44:54+01:00</lastuse>
+      <lastconfirm>2025-11-13T11:44:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -892,7 +892,7 @@
     <id>17604506655</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86154</zip>
       <city>Augsburg</city>
@@ -908,8 +908,8 @@
     </location>
     <date>
       <create>2025-11-05T04:55:02+01:00</create>
-      <lastuse>2025-11-15T10:26:21+01:00</lastuse>
-      <lastconfirm>2025-11-13T10:26:23+01:00</lastconfirm>
+      <lastuse>2025-11-15T11:44:27+01:00</lastuse>
+      <lastconfirm>2025-11-13T11:44:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1100,8 @@
     </location>
     <date>
       <create>2025-11-11T07:14:33+01:00</create>
-      <lastuse>2025-11-15T02:01:34+01:00</lastuse>
-      <lastconfirm>2025-11-11T07:14:33+01:00</lastconfirm>
+      <lastuse>2025-11-15T11:42:15+01:00</lastuse>
+      <lastconfirm>2025-11-13T11:42:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1196,8 +1196,8 @@
     </location>
     <date>
       <create>2025-11-13T07:27:21+01:00</create>
-      <lastuse>2025-11-15T11:08:43+01:00</lastuse>
-      <lastconfirm>2025-11-13T11:08:45+01:00</lastconfirm>
+      <lastuse>2025-11-15T11:41:52+01:00</lastuse>
+      <lastconfirm>2025-11-13T11:41:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1222,6 +1222,30 @@
       <create>2025-11-13T08:03:41+01:00</create>
       <lastuse>2025-11-13T19:16:13+01:00</lastuse>
       <lastconfirm>2025-11-13T11:16:14+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17667883279</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Mertingen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.638693</latitude>
+        <longitude>10.835534</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-13T11:20:05+01:00</create>
+      <lastuse>2025-11-13T19:40:30+01:00</lastuse>
+      <lastconfirm>2025-11-13T11:40:32+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
