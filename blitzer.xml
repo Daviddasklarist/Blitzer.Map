@@ -25,30 +25,6 @@
     </date>
   </event>
   <event>
-    <id>17673759438</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Adelzhausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.356287</latitude>
-        <longitude>11.130869</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-14T05:03:10+01:00</create>
-      <lastuse>2025-11-14T05:47:54+01:00</lastuse>
-      <lastconfirm>2025-11-14T05:27:56+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -284,8 +260,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-11-16T04:37:22+01:00</lastuse>
-      <lastconfirm>2025-11-14T04:37:23+01:00</lastconfirm>
+      <lastuse>2025-11-16T05:40:19+01:00</lastuse>
+      <lastconfirm>2025-11-14T05:40:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-11-16T02:50:14+01:00</lastuse>
-      <lastconfirm>2025-11-14T02:50:14+01:00</lastconfirm>
+      <lastuse>2025-11-16T05:41:29+01:00</lastuse>
+      <lastconfirm>2025-11-14T05:41:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +812,8 @@
     </location>
     <date>
       <create>2025-11-03T08:28:21+01:00</create>
-      <lastuse>2025-11-16T02:53:38+01:00</lastuse>
-      <lastconfirm>2025-11-14T02:53:40+01:00</lastconfirm>
+      <lastuse>2025-11-16T05:43:33+01:00</lastuse>
+      <lastconfirm>2025-11-14T05:43:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1198,6 +1174,30 @@
       <create>2025-11-13T17:17:42+01:00</create>
       <lastuse>2025-11-14T13:11:38+01:00</lastuse>
       <lastconfirm>2025-11-14T05:11:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17671921819</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.340676</latitude>
+        <longitude>10.889365</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-13T22:38:45+01:00</create>
+      <lastuse>2025-11-16T05:40:43+01:00</lastuse>
+      <lastconfirm>2025-11-14T05:40:44+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
