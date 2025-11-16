@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17689983319</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410306</latitude>
+        <longitude>10.617400</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-16T08:26:44+01:00</create>
+      <lastuse>2025-11-16T16:52:49+01:00</lastuse>
+      <lastconfirm>2025-11-16T15:22:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17690483216</id>
     <type>1</type>
     <speed>80</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-16T10:12:59+01:00</create>
-      <lastuse>2025-11-16T16:44:35+01:00</lastuse>
-      <lastconfirm>2025-11-16T15:14:36+01:00</lastconfirm>
+      <lastuse>2025-11-16T17:23:05+01:00</lastuse>
+      <lastconfirm>2025-11-16T15:23:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-11-16T10:32:55+01:00</create>
-      <lastuse>2025-11-16T17:17:08+01:00</lastuse>
-      <lastconfirm>2025-11-16T15:17:08+01:00</lastconfirm>
+      <lastuse>2025-11-16T17:23:31+01:00</lastuse>
+      <lastconfirm>2025-11-16T15:23:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-11-16T13:48:11+01:00</create>
-      <lastuse>2025-11-16T15:44:14+01:00</lastuse>
-      <lastconfirm>2025-11-16T15:14:15+01:00</lastconfirm>
+      <lastuse>2025-11-16T15:53:37+01:00</lastuse>
+      <lastconfirm>2025-11-16T15:23:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-11-18T15:04:48+01:00</lastuse>
-      <lastconfirm>2025-11-16T15:04:49+01:00</lastconfirm>
+      <lastuse>2025-11-18T15:16:07+01:00</lastuse>
+      <lastconfirm>2025-11-16T15:16:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +980,8 @@
     </location>
     <date>
       <create>2025-11-10T11:53:53+01:00</create>
-      <lastuse>2025-11-18T13:45:29+01:00</lastuse>
-      <lastconfirm>2025-11-16T13:45:29+01:00</lastconfirm>
+      <lastuse>2025-11-18T15:19:54+01:00</lastuse>
+      <lastconfirm>2025-11-16T15:19:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1028,8 @@
     </location>
     <date>
       <create>2025-11-10T16:37:23+01:00</create>
-      <lastuse>2025-11-18T15:08:53+01:00</lastuse>
-      <lastconfirm>2025-11-16T15:08:54+01:00</lastconfirm>
+      <lastuse>2025-11-18T15:15:11+01:00</lastuse>
+      <lastconfirm>2025-11-16T15:15:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1150,6 +1174,30 @@
       <create>2025-11-13T22:52:47+01:00</create>
       <lastuse>2025-11-18T11:15:52+01:00</lastuse>
       <lastconfirm>2025-11-16T11:15:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17685392367</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86850</zip>
+      <city>Fischach</city>
+      <state>DE-HH</state>
+      <street>Neufnachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.290042</latitude>
+        <longitude>10.649727</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-15T16:57:48+01:00</create>
+      <lastuse>2025-11-18T15:18:48+01:00</lastuse>
+      <lastconfirm>2025-11-16T15:18:49+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
