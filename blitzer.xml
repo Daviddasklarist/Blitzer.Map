@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-11-17T09:17:02+01:00</create>
-      <lastuse>2025-11-17T14:08:35+01:00</lastuse>
-      <lastconfirm>2025-11-17T12:08:35+01:00</lastconfirm>
+      <lastuse>2025-11-17T14:17:38+01:00</lastuse>
+      <lastconfirm>2025-11-17T12:17:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2025-11-17T11:48:08+01:00</create>
-      <lastuse>2025-11-17T14:09:06+01:00</lastuse>
-      <lastconfirm>2025-11-17T12:09:06+01:00</lastconfirm>
+      <lastuse>2025-11-17T14:16:50+01:00</lastuse>
+      <lastconfirm>2025-11-17T12:16:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,7 +188,7 @@
     </location>
     <date>
       <create>2025-11-17T07:35:16+01:00</create>
-      <lastuse>2025-11-17T19:42:11+01:00</lastuse>
+      <lastuse>2025-11-17T18:42:11+01:00</lastuse>
       <lastconfirm>2025-11-17T11:42:11+01:00</lastconfirm>
     </date>
   </event>
@@ -206,14 +206,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.417381</latitude>
-        <longitude>10.714952</longitude>
+        <latitude>48.417623</latitude>
+        <longitude>10.711619</longitude>
       </point>
     </location>
     <date>
       <create>2025-11-17T11:58:02+01:00</create>
-      <lastuse>2025-11-17T12:18:00+01:00</lastuse>
+      <lastuse>2025-11-17T12:23:00+01:00</lastuse>
       <lastconfirm>2025-11-17T11:58:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17698538945</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Adelsried</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417970</latitude>
+        <longitude>10.707043</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-17T12:05:09+01:00</create>
+      <lastuse>2025-11-17T12:29:20+01:00</lastuse>
+      <lastconfirm>2025-11-17T12:14:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-11-19T00:53:50+01:00</lastuse>
-      <lastconfirm>2025-09-01T13:08:14+02:00</lastconfirm>
+      <lastuse>2025-11-19T12:10:27+01:00</lastuse>
+      <lastconfirm>2025-11-17T12:10:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-10-02T10:55:23+02:00</create>
-      <lastuse>2025-11-19T08:53:12+01:00</lastuse>
-      <lastconfirm>2025-11-17T08:53:12+01:00</lastconfirm>
+      <lastuse>2025-11-19T00:53:12+01:00</lastuse>
+      <lastconfirm>2025-10-02T10:55:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1318,30 +1342,6 @@
       <create>2025-11-15T16:57:48+01:00</create>
       <lastuse>2025-11-18T23:14:26+01:00</lastuse>
       <lastconfirm>2025-11-15T16:57:48+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17698231902</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.545626</latitude>
-        <longitude>10.842963</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-17T11:11:36+01:00</create>
-      <lastuse>2025-11-17T13:20:40+01:00</lastuse>
-      <lastconfirm>2025-11-17T11:11:36+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
