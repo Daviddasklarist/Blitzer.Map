@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-11-17T11:39:52+01:00</create>
-      <lastuse>2025-11-17T17:11:22+01:00</lastuse>
+      <lastuse>2025-11-17T16:41:22+01:00</lastuse>
       <lastconfirm>2025-11-17T15:41:22+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-11-17T11:54:14+01:00</create>
-      <lastuse>2025-11-17T18:21:31+01:00</lastuse>
-      <lastconfirm>2025-11-17T16:21:31+01:00</lastconfirm>
+      <lastuse>2025-11-17T18:24:55+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:24:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -124,7 +124,7 @@
     <id>17699791894</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86495</zip>
       <city>Eurasburg</city>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-11-17T15:35:11+01:00</create>
-      <lastuse>2025-11-17T18:16:16+01:00</lastuse>
-      <lastconfirm>2025-11-17T16:16:17+01:00</lastconfirm>
+      <lastuse>2025-11-17T18:27:34+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:27:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,6 +193,30 @@
     </date>
   </event>
   <event>
+    <id>17699960269</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416226</latitude>
+        <longitude>10.849801</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-17T16:04:09+01:00</create>
+      <lastuse>2025-11-17T17:26:24+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:26:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17700009856</id>
     <type>29</type>
     <speed></speed>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-11-17T16:11:30+01:00</create>
-      <lastuse>2025-11-17T16:51:43+01:00</lastuse>
-      <lastconfirm>2025-11-17T16:21:45+01:00</lastconfirm>
+      <lastuse>2025-11-17T16:57:45+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:27:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-11-17T16:05:36+01:00</create>
-      <lastuse>2025-11-17T16:57:31+01:00</lastuse>
-      <lastconfirm>2025-11-17T16:17:32+01:00</lastconfirm>
+      <lastuse>2025-11-17T17:25:49+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:25:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -254,14 +278,62 @@
     </address>
     <location>
       <point>
-        <latitude>48.414766</latitude>
-        <longitude>10.868568</longitude>
+        <latitude>48.414700</latitude>
+        <longitude>10.871814</longitude>
       </point>
     </location>
     <date>
       <create>2025-11-17T16:14:03+01:00</create>
-      <lastuse>2025-11-17T16:27:00+01:00</lastuse>
+      <lastuse>2025-11-17T16:32:00+01:00</lastuse>
       <lastconfirm>2025-11-17T16:14:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17700044506</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.348341</latitude>
+        <longitude>10.869837</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-17T16:16:39+01:00</create>
+      <lastuse>2025-11-17T17:25:30+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:25:31+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17700069307</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.436087</latitude>
+        <longitude>10.869926</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-17T16:20:55+01:00</create>
+      <lastuse>2025-11-17T17:26:57+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:26:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +404,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-11-19T15:45:43+01:00</lastuse>
-      <lastconfirm>2025-11-17T15:45:44+01:00</lastconfirm>
+      <lastuse>2025-11-19T16:23:15+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:23:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +572,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-11-19T16:18:05+01:00</lastuse>
-      <lastconfirm>2025-11-17T16:18:07+01:00</lastconfirm>
+      <lastuse>2025-11-19T16:20:50+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:20:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +740,8 @@
     </location>
     <date>
       <create>2025-09-27T10:50:18+02:00</create>
-      <lastuse>2025-11-19T15:50:00+01:00</lastuse>
-      <lastconfirm>2025-11-17T15:50:00+01:00</lastconfirm>
+      <lastuse>2025-11-19T16:22:28+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:22:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1220,8 +1292,8 @@
     </location>
     <date>
       <create>2025-11-13T07:27:21+01:00</create>
-      <lastuse>2025-11-19T16:19:51+01:00</lastuse>
-      <lastconfirm>2025-11-17T16:19:52+01:00</lastconfirm>
+      <lastuse>2025-11-19T16:23:51+01:00</lastuse>
+      <lastconfirm>2025-11-17T16:23:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
