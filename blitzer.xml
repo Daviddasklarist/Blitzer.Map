@@ -44,15 +44,15 @@
     </location>
     <date>
       <create>2025-11-18T10:05:44+01:00</create>
-      <lastuse>2025-11-18T16:32:43+01:00</lastuse>
-      <lastconfirm>2025-11-18T15:02:44+01:00</lastconfirm>
+      <lastuse>2025-11-18T16:37:30+01:00</lastuse>
+      <lastconfirm>2025-11-18T15:07:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17706162530</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -68,32 +68,8 @@
     </location>
     <date>
       <create>2025-11-18T11:28:00+01:00</create>
-      <lastuse>2025-11-18T15:38:39+01:00</lastuse>
+      <lastuse>2025-11-18T15:28:00+01:00</lastuse>
       <lastconfirm>2025-11-18T14:38:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17706279098</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86672</zip>
-      <city>Thierhaupten</city>
-      <state>DE-BY</state>
-      <street>Meitinger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.569923</latitude>
-        <longitude>10.904283</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-18T11:46:28+01:00</create>
-      <lastuse>2025-11-18T15:46:28+01:00</lastuse>
-      <lastconfirm>2025-11-18T14:17:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-11-18T10:55:41+01:00</create>
-      <lastuse>2025-11-18T15:33:36+01:00</lastuse>
-      <lastconfirm>2025-11-18T15:03:37+01:00</lastconfirm>
+      <lastuse>2025-11-18T15:36:23+01:00</lastuse>
+      <lastconfirm>2025-11-18T15:06:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +356,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-11-20T13:24:25+01:00</lastuse>
-      <lastconfirm>2025-11-18T13:24:25+01:00</lastconfirm>
+      <lastuse>2025-11-20T15:03:38+01:00</lastuse>
+      <lastconfirm>2025-11-18T15:03:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1124,8 +1100,8 @@
     </location>
     <date>
       <create>2025-11-13T06:58:18+01:00</create>
-      <lastuse>2025-11-20T14:59:20+01:00</lastuse>
-      <lastconfirm>2025-11-18T14:59:22+01:00</lastconfirm>
+      <lastuse>2025-11-20T15:00:35+01:00</lastuse>
+      <lastconfirm>2025-11-18T15:00:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1222,6 +1198,30 @@
       <create>2025-11-18T08:12:55+01:00</create>
       <lastuse>2025-11-20T14:19:29+01:00</lastuse>
       <lastconfirm>2025-11-18T14:19:29+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17707362535</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Adelzhausen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.357515</latitude>
+        <longitude>11.129822</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-18T14:46:42+01:00</create>
+      <lastuse>2025-11-18T23:02:36+01:00</lastuse>
+      <lastconfirm>2025-11-18T15:02:36+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
