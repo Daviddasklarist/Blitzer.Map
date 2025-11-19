@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17712438458</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86510</zip>
-      <city>Ried</city>
-      <state>DE-BY</state>
-      <street>St 2052</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.292479</latitude>
-        <longitude>11.071066</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-19T07:11:41+01:00</create>
-      <lastuse>2025-11-19T14:10:45+01:00</lastuse>
-      <lastconfirm>2025-11-19T13:10:46+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17713401737</id>
     <type>1</type>
     <speed>50</speed>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-11-18T16:10:06+01:00</create>
-      <lastuse>2025-11-19T21:47:26+01:00</lastuse>
-      <lastconfirm>2025-11-19T13:47:26+01:00</lastconfirm>
+      <lastuse>2025-11-19T20:54:19+01:00</lastuse>
+      <lastconfirm>2025-11-19T13:54:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +764,8 @@
     </location>
     <date>
       <create>2025-11-03T08:28:21+01:00</create>
-      <lastuse>2025-11-21T12:34:14+01:00</lastuse>
-      <lastconfirm>2025-11-19T12:34:14+01:00</lastconfirm>
+      <lastuse>2025-11-21T13:50:12+01:00</lastuse>
+      <lastconfirm>2025-11-19T13:50:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1126,6 +1102,30 @@
       <create>2025-11-19T13:19:23+01:00</create>
       <lastuse>2025-11-19T21:47:48+01:00</lastuse>
       <lastconfirm>2025-11-19T13:47:48+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17714716064</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396264</latitude>
+        <longitude>11.043584</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-19T13:44:42+01:00</create>
+      <lastuse>2025-11-19T21:54:05+01:00</lastuse>
+      <lastconfirm>2025-11-19T13:54:06+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
