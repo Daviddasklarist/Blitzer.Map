@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17709837429</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86551</zip>
-      <city>Aichach</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.435302</latitude>
-        <longitude>11.127022</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-18T21:54:47+01:00</create>
-      <lastuse>2025-11-19T08:42:06+01:00</lastuse>
-      <lastconfirm>2025-11-19T07:12:06+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17712064995</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-11-19T05:54:06+01:00</create>
-      <lastuse>2025-11-19T09:06:44+01:00</lastuse>
-      <lastconfirm>2025-11-19T07:06:45+01:00</lastconfirm>
+      <lastuse>2025-11-19T09:16:52+01:00</lastuse>
+      <lastconfirm>2025-11-19T07:16:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,6 +73,54 @@
     </date>
   </event>
   <event>
+    <id>17712319029</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400665</latitude>
+        <longitude>10.912531</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-19T06:48:36+01:00</create>
+      <lastuse>2025-11-19T09:14:34+01:00</lastuse>
+      <lastconfirm>2025-11-19T07:14:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17712365712</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86554</zip>
+      <city>Pöttmes</city>
+      <state>DE-BY</state>
+      <street>Schrobenhausener Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.582929</latitude>
+        <longitude>11.102947</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-19T06:57:54+01:00</create>
+      <lastuse>2025-11-19T09:17:42+01:00</lastuse>
+      <lastconfirm>2025-11-19T07:17:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17707865970</id>
     <type>7</type>
     <speed>100</speed>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-11-18T16:10:06+01:00</create>
-      <lastuse>2025-11-19T15:10:26+01:00</lastuse>
-      <lastconfirm>2025-11-19T07:10:27+01:00</lastconfirm>
+      <lastuse>2025-11-19T15:16:49+01:00</lastuse>
+      <lastconfirm>2025-11-19T07:16:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2025-10-02T10:55:23+02:00</create>
-      <lastuse>2025-11-21T06:30:10+01:00</lastuse>
-      <lastconfirm>2025-11-19T06:30:10+01:00</lastconfirm>
+      <lastuse>2025-11-20T22:30:10+01:00</lastuse>
+      <lastconfirm>2025-10-02T10:55:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2025-10-16T20:28:48+02:00</create>
-      <lastuse>2025-11-21T06:43:11+01:00</lastuse>
-      <lastconfirm>2025-11-19T06:43:13+01:00</lastconfirm>
+      <lastuse>2025-11-21T07:12:40+01:00</lastuse>
+      <lastconfirm>2025-11-19T07:12:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1100,8 @@
     </location>
     <date>
       <create>2025-11-13T07:27:21+01:00</create>
-      <lastuse>2025-11-21T06:39:20+01:00</lastuse>
-      <lastconfirm>2025-11-19T06:39:21+01:00</lastconfirm>
+      <lastuse>2025-11-21T07:13:31+01:00</lastuse>
+      <lastconfirm>2025-11-19T07:13:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
