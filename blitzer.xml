@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17730026938</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.610292</latitude>
+        <longitude>10.838090</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-21T12:29:48+01:00</create>
+      <lastuse>2025-11-21T16:29:48+01:00</lastuse>
+      <lastconfirm>2025-11-21T12:39:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17707865970</id>
     <type>7</type>
     <speed>100</speed>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-11-23T08:17:13+01:00</lastuse>
-      <lastconfirm>2025-11-21T08:17:14+01:00</lastconfirm>
+      <lastuse>2025-11-23T12:37:41+01:00</lastuse>
+      <lastconfirm>2025-11-21T12:37:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-10-27T18:42:17+01:00</create>
-      <lastuse>2025-11-22T10:57:57+01:00</lastuse>
-      <lastconfirm>2025-10-27T18:42:17+01:00</lastconfirm>
+      <lastuse>2025-11-23T12:38:19+01:00</lastuse>
+      <lastconfirm>2025-11-21T12:38:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +644,8 @@
     </location>
     <date>
       <create>2025-11-03T08:28:21+01:00</create>
-      <lastuse>2025-11-23T04:26:10+01:00</lastuse>
-      <lastconfirm>2025-11-03T08:28:21+01:00</lastconfirm>
+      <lastuse>2025-11-23T12:38:08+01:00</lastuse>
+      <lastconfirm>2025-11-21T12:38:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +716,8 @@
     </location>
     <date>
       <create>2025-11-05T15:34:38+01:00</create>
-      <lastuse>2025-11-23T10:37:10+01:00</lastuse>
-      <lastconfirm>2025-11-21T10:37:10+01:00</lastconfirm>
+      <lastuse>2025-11-23T02:37:10+01:00</lastuse>
+      <lastconfirm>2025-11-05T15:34:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +1004,8 @@
     </location>
     <date>
       <create>2025-11-21T07:41:55+01:00</create>
-      <lastuse>2025-11-21T19:22:19+01:00</lastuse>
-      <lastconfirm>2025-11-21T11:22:21+01:00</lastconfirm>
+      <lastuse>2025-11-21T17:22:19+01:00</lastuse>
+      <lastconfirm>2025-11-21T07:41:55+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
