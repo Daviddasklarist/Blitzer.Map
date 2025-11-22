@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17732600804</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.363027</latitude>
-        <longitude>10.853280</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-21T19:27:23+01:00</create>
-      <lastuse>2025-11-22T06:05:04+01:00</lastuse>
-      <lastconfirm>2025-11-22T04:35:05+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17707865970</id>
     <type>7</type>
     <speed>100</speed>
@@ -44,8 +20,32 @@
     </location>
     <date>
       <create>2025-11-18T16:10:06+01:00</create>
-      <lastuse>2025-11-22T12:22:15+01:00</lastuse>
-      <lastconfirm>2025-11-22T04:22:16+01:00</lastconfirm>
+      <lastuse>2025-11-22T12:47:35+01:00</lastuse>
+      <lastconfirm>2025-11-22T04:47:36+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17735350973</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.407755</latitude>
+        <longitude>10.932252</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-22T04:32:56+01:00</create>
+      <lastuse>2025-11-22T05:02:12+01:00</lastuse>
+      <lastconfirm>2025-11-22T04:42:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
