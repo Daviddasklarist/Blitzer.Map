@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17744167778</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.357455</latitude>
+        <longitude>10.850855</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-23T10:01:50+01:00</create>
+      <lastuse>2025-11-23T18:51:33+01:00</lastuse>
+      <lastconfirm>2025-11-23T16:51:33+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17744918564</id>
     <type>1</type>
     <speed>30</speed>
@@ -49,6 +73,30 @@
     </date>
   </event>
   <event>
+    <id>17746212498</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.354203</latitude>
+        <longitude>10.853402</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-23T16:42:12+01:00</create>
+      <lastuse>2025-11-23T20:42:12+01:00</lastuse>
+      <lastconfirm>2025-11-23T16:51:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17707865970</id>
     <type>7</type>
     <speed>100</speed>
@@ -68,7 +116,7 @@
     </location>
     <date>
       <create>2025-11-18T16:10:06+01:00</create>
-      <lastuse>2025-11-24T00:43:34+01:00</lastuse>
+      <lastuse>2025-11-23T23:43:34+01:00</lastuse>
       <lastconfirm>2025-11-23T16:43:36+01:00</lastconfirm>
     </date>
   </event>
@@ -596,8 +644,8 @@
     </location>
     <date>
       <create>2025-10-27T18:42:17+01:00</create>
-      <lastuse>2025-11-25T04:06:13+01:00</lastuse>
-      <lastconfirm>2025-10-27T18:42:17+01:00</lastconfirm>
+      <lastuse>2025-11-25T16:48:15+01:00</lastuse>
+      <lastconfirm>2025-11-23T16:48:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
