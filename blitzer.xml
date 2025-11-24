@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17750165465</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370486</latitude>
+        <longitude>10.876611</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-24T06:04:01+01:00</create>
+      <lastuse>2025-11-24T08:27:54+01:00</lastuse>
+      <lastconfirm>2025-11-24T06:27:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17707865970</id>
     <type>7</type>
     <speed>100</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-18T16:10:06+01:00</create>
-      <lastuse>2025-11-24T14:22:56+01:00</lastuse>
-      <lastconfirm>2025-11-24T06:22:56+01:00</lastconfirm>
+      <lastuse>2025-11-24T14:26:17+01:00</lastuse>
+      <lastconfirm>2025-11-24T06:26:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-11-25T21:34:34+01:00</lastuse>
-      <lastconfirm>2025-11-23T21:34:36+01:00</lastconfirm>
+      <lastuse>2025-11-26T06:22:13+01:00</lastuse>
+      <lastconfirm>2025-11-24T06:22:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +932,8 @@
     </location>
     <date>
       <create>2025-11-23T13:11:52+01:00</create>
-      <lastuse>2025-11-26T05:51:31+01:00</lastuse>
-      <lastconfirm>2025-11-24T05:51:31+01:00</lastconfirm>
+      <lastuse>2025-11-26T06:23:03+01:00</lastuse>
+      <lastconfirm>2025-11-24T06:23:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -934,6 +958,30 @@
       <create>2025-11-23T14:30:27+01:00</create>
       <lastuse>2025-11-26T05:52:30+01:00</lastuse>
       <lastconfirm>2025-11-24T05:52:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17750074608</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86850</zip>
+      <city>Gessertshausen</city>
+      <state>DE-HH</state>
+      <street>St 2026</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.303329</latitude>
+        <longitude>10.690450</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-24T05:40:12+01:00</create>
+      <lastuse>2025-11-26T06:23:17+01:00</lastuse>
+      <lastconfirm>2025-11-24T06:23:17+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
