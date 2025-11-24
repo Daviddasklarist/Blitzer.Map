@@ -145,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>17752964341</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.254117</latitude>
+        <longitude>10.867502</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-24T14:22:51+01:00</create>
+      <lastuse>2025-11-24T16:33:44+01:00</lastuse>
+      <lastconfirm>2025-11-24T14:33:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17707865970</id>
     <type>7</type>
     <speed>100</speed>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-11-18T16:10:06+01:00</create>
-      <lastuse>2025-11-24T22:26:58+01:00</lastuse>
-      <lastconfirm>2025-11-24T14:26:58+01:00</lastconfirm>
+      <lastuse>2025-11-24T22:32:57+01:00</lastuse>
+      <lastconfirm>2025-11-24T14:32:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-07-07T07:31:31+02:00</create>
-      <lastuse>2025-11-26T14:00:16+01:00</lastuse>
-      <lastconfirm>2025-11-24T14:00:18+01:00</lastconfirm>
+      <lastuse>2025-11-26T14:25:10+01:00</lastuse>
+      <lastconfirm>2025-11-24T14:25:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +980,8 @@
     </location>
     <date>
       <create>2025-11-21T07:20:53+01:00</create>
-      <lastuse>2025-11-26T13:53:42+01:00</lastuse>
-      <lastconfirm>2025-11-24T13:53:42+01:00</lastconfirm>
+      <lastuse>2025-11-26T14:25:45+01:00</lastuse>
+      <lastconfirm>2025-11-24T14:25:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1148,8 +1172,32 @@
     </location>
     <date>
       <create>2025-11-24T07:53:50+01:00</create>
-      <lastuse>2025-11-24T21:59:15+01:00</lastuse>
-      <lastconfirm>2025-11-24T13:59:16+01:00</lastconfirm>
+      <lastuse>2025-11-24T22:28:07+01:00</lastuse>
+      <lastconfirm>2025-11-24T14:28:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17752862602</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.397450</latitude>
+        <longitude>10.920679</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-24T14:04:22+01:00</create>
+      <lastuse>2025-11-24T22:29:13+01:00</lastuse>
+      <lastconfirm>2025-11-24T14:29:15+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
