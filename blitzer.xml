@@ -76,7 +76,7 @@
     <id>17758405810</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-11-25T08:28:23+01:00</create>
-      <lastuse>2025-11-25T12:02:05+01:00</lastuse>
-      <lastconfirm>2025-11-25T11:02:06+01:00</lastconfirm>
+      <lastuse>2025-11-25T13:17:19+01:00</lastuse>
+      <lastconfirm>2025-11-25T11:17:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -141,7 +141,7 @@
     <date>
       <create>2025-11-25T09:51:28+01:00</create>
       <lastuse>2025-11-25T13:51:28+01:00</lastuse>
-      <lastconfirm>2025-11-25T11:12:30+01:00</lastconfirm>
+      <lastconfirm>2025-11-25T11:19:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-11-27T09:57:27+01:00</lastuse>
-      <lastconfirm>2025-11-25T09:57:28+01:00</lastconfirm>
+      <lastuse>2025-11-27T11:12:53+01:00</lastuse>
+      <lastconfirm>2025-11-25T11:12:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1054,6 +1054,30 @@
       <create>2025-11-24T07:53:50+01:00</create>
       <lastuse>2025-11-27T08:55:21+01:00</lastuse>
       <lastconfirm>2025-11-25T08:55:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17757848337</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>Bahnhofstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.424363</latitude>
+        <longitude>10.868264</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-25T06:44:42+01:00</create>
+      <lastuse>2025-11-27T11:10:20+01:00</lastuse>
+      <lastconfirm>2025-11-25T11:10:21+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
