@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17763553472</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Mickhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.247162</latitude>
+        <longitude>10.690041</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-25T11:31:34+01:00</create>
+      <lastuse>2025-11-26T13:58:52+01:00</lastuse>
+      <lastconfirm>2025-11-26T05:58:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>15856218440</id>
     <type>26</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2024-12-09T13:01:11+01:00</create>
-      <lastuse>2025-11-27T16:49:51+01:00</lastuse>
-      <lastconfirm>2025-11-25T16:49:52+01:00</lastconfirm>
+      <lastuse>2025-11-28T05:58:10+01:00</lastuse>
+      <lastconfirm>2025-11-26T05:58:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
