@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17774418332</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86450</zip>
-      <city>Altenmünster</city>
-      <state>DE-BY</state>
-      <street>St 2027</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.475093</latitude>
-        <longitude>10.587081</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-27T10:18:09+01:00</create>
-      <lastuse>2025-11-27T14:18:09+01:00</lastuse>
-      <lastconfirm>2025-11-27T13:14:22+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17774827888</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-11-27T11:32:18+01:00</create>
-      <lastuse>2025-11-27T15:42:24+01:00</lastuse>
-      <lastconfirm>2025-11-27T13:42:25+01:00</lastconfirm>
+      <lastuse>2025-11-27T15:47:39+01:00</lastuse>
+      <lastconfirm>2025-11-27T13:47:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-11-27T11:49:13+01:00</create>
-      <lastuse>2025-11-27T13:49:13+01:00</lastuse>
-      <lastconfirm>2025-11-27T13:11:25+01:00</lastconfirm>
+      <lastuse>2025-11-27T15:45:13+01:00</lastuse>
+      <lastconfirm>2025-11-27T13:45:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,32 @@
     </location>
     <date>
       <create>2025-11-27T06:54:01+01:00</create>
-      <lastuse>2025-11-27T17:42:28+01:00</lastuse>
-      <lastconfirm>2025-11-27T13:42:28+01:00</lastconfirm>
+      <lastuse>2025-11-27T17:46:38+01:00</lastuse>
+      <lastconfirm>2025-11-27T13:46:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17775575204</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417850</latitude>
+        <longitude>10.830442</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-27T13:35:18+01:00</create>
+      <lastuse>2025-11-27T14:05:14+01:00</lastuse>
+      <lastconfirm>2025-11-27T13:45:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +476,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-11-29T13:39:36+01:00</lastuse>
-      <lastconfirm>2025-11-27T13:39:37+01:00</lastconfirm>
+      <lastuse>2025-11-29T13:41:48+01:00</lastuse>
+      <lastconfirm>2025-11-27T13:41:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
