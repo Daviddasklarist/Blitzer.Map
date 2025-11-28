@@ -28,7 +28,7 @@
     <id>17785459629</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -44,32 +44,8 @@
     </location>
     <date>
       <create>2025-11-28T20:08:02+01:00</create>
-      <lastuse>2025-11-28T23:23:59+01:00</lastuse>
+      <lastuse>2025-11-28T22:53:59+01:00</lastuse>
       <lastconfirm>2025-11-28T21:54:00+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17785459630</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberer Graben</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.368101</latitude>
-        <longitude>10.902653</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-28T20:08:03+01:00</create>
-      <lastuse>2025-11-29T00:44:03+01:00</lastuse>
-      <lastconfirm>2025-11-28T22:44:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-11-28T22:14:00+01:00</create>
-      <lastuse>2025-11-29T00:22:28+01:00</lastuse>
-      <lastconfirm>2025-11-28T22:52:29+01:00</lastconfirm>
+      <lastuse>2025-11-29T00:31:09+01:00</lastuse>
+      <lastconfirm>2025-11-28T23:01:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -124,7 +100,7 @@
     <id>17773330804</id>
     <type>7</type>
     <speed>0</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2025-11-27T06:54:01+01:00</create>
-      <lastuse>2025-11-29T02:55:57+01:00</lastuse>
-      <lastconfirm>2025-11-28T22:55:58+01:00</lastconfirm>
+      <lastuse>2025-11-29T02:30:29+01:00</lastuse>
+      <lastconfirm>2025-11-28T23:00:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-11-30T21:26:03+01:00</lastuse>
-      <lastconfirm>2025-11-28T21:26:04+01:00</lastconfirm>
+      <lastuse>2025-11-30T22:56:59+01:00</lastuse>
+      <lastconfirm>2025-11-28T22:57:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1052,32 @@
     </location>
     <date>
       <create>2025-11-27T18:18:33+01:00</create>
-      <lastuse>2025-11-30T10:09:32+01:00</lastuse>
-      <lastconfirm>2025-11-27T18:18:33+01:00</lastconfirm>
+      <lastuse>2025-11-30T22:55:57+01:00</lastuse>
+      <lastconfirm>2025-11-28T22:55:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17778289051</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Leonhardsberg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370688</latitude>
+        <longitude>10.899987</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-27T21:24:01+01:00</create>
+      <lastuse>2025-11-30T22:55:49+01:00</lastuse>
+      <lastconfirm>2025-11-28T22:55:49+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
