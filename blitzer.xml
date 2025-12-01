@@ -4,7 +4,7 @@
     <id>17803408335</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86551</zip>
       <city>Aichach</city>
@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2025-12-01T09:05:46+01:00</create>
-      <lastuse>2025-12-01T16:47:49+01:00</lastuse>
+      <lastuse>2025-12-01T16:17:49+01:00</lastuse>
       <lastconfirm>2025-12-01T14:47:50+01:00</lastconfirm>
     </date>
   </event>
@@ -164,7 +164,7 @@
     </location>
     <date>
       <create>2025-12-01T13:05:37+01:00</create>
-      <lastuse>2025-12-01T16:41:34+01:00</lastuse>
+      <lastuse>2025-12-01T16:11:34+01:00</lastuse>
       <lastconfirm>2025-12-01T14:41:35+01:00</lastconfirm>
     </date>
   </event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-11-27T06:54:01+01:00</create>
-      <lastuse>2025-12-01T18:47:44+01:00</lastuse>
-      <lastconfirm>2025-12-01T14:47:44+01:00</lastconfirm>
+      <lastuse>2025-12-01T18:22:25+01:00</lastuse>
+      <lastconfirm>2025-12-01T14:52:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +428,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-12-03T13:44:50+01:00</lastuse>
-      <lastconfirm>2025-12-01T13:44:50+01:00</lastconfirm>
+      <lastuse>2025-12-03T14:48:31+01:00</lastuse>
+      <lastconfirm>2025-12-01T14:48:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-12-03T14:26:07+01:00</lastuse>
-      <lastconfirm>2025-12-01T14:26:07+01:00</lastconfirm>
+      <lastuse>2025-12-03T14:48:05+01:00</lastuse>
+      <lastconfirm>2025-12-01T14:48:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1174,6 +1174,30 @@
       <create>2025-12-01T09:38:42+01:00</create>
       <lastuse>2025-12-01T22:27:46+01:00</lastuse>
       <lastconfirm>2025-12-01T14:27:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17804580695</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-HH</state>
+      <street>Königsbrunner Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.264958</latitude>
+        <longitude>10.838168</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-01T12:28:41+01:00</create>
+      <lastuse>2025-12-01T22:46:54+01:00</lastuse>
+      <lastconfirm>2025-12-01T14:46:54+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
