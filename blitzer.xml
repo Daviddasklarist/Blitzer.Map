@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17817782966</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Ulmer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.380036</latitude>
-        <longitude>10.856382</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-03T06:35:16+01:00</create>
-      <lastuse>2025-12-03T12:23:57+01:00</lastuse>
-      <lastconfirm>2025-12-03T11:23:58+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17818096132</id>
     <type>1</type>
     <speed>70</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-03T07:39:42+01:00</create>
-      <lastuse>2025-12-03T14:17:41+01:00</lastuse>
-      <lastconfirm>2025-12-03T12:17:41+01:00</lastconfirm>
+      <lastuse>2025-12-03T14:20:54+01:00</lastuse>
+      <lastconfirm>2025-12-03T12:20:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,15 +44,15 @@
     </location>
     <date>
       <create>2025-12-03T09:29:16+01:00</create>
-      <lastuse>2025-12-03T13:17:10+01:00</lastuse>
-      <lastconfirm>2025-12-03T11:17:10+01:00</lastconfirm>
+      <lastuse>2025-12-03T14:20:09+01:00</lastuse>
+      <lastconfirm>2025-12-03T12:20:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17819026327</id>
     <type>1</type>
     <speed>70</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -92,7 +68,7 @@
     </location>
     <date>
       <create>2025-12-03T10:21:55+01:00</create>
-      <lastuse>2025-12-03T14:17:51+01:00</lastuse>
+      <lastuse>2025-12-03T13:47:51+01:00</lastuse>
       <lastconfirm>2025-12-03T12:17:52+01:00</lastconfirm>
     </date>
   </event>
@@ -121,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>17819585335</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370561</latitude>
+        <longitude>10.805102</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-03T11:59:18+01:00</create>
+      <lastuse>2025-12-03T14:59:18+01:00</lastuse>
+      <lastconfirm>2025-12-03T12:18:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17773330804</id>
     <type>7</type>
     <speed>0</speed>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-11-27T06:54:01+01:00</create>
-      <lastuse>2025-12-03T16:16:36+01:00</lastuse>
-      <lastconfirm>2025-12-03T12:16:36+01:00</lastconfirm>
+      <lastuse>2025-12-03T16:21:42+01:00</lastuse>
+      <lastconfirm>2025-12-03T12:21:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,56 +188,8 @@
     </location>
     <date>
       <create>2025-12-03T11:26:07+01:00</create>
-      <lastuse>2025-12-03T12:47:02+01:00</lastuse>
+      <lastuse>2025-12-03T12:27:02+01:00</lastuse>
       <lastconfirm>2025-12-03T12:17:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17819402684</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.419460</latitude>
-        <longitude>10.689064</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-03T11:27:23+01:00</create>
-      <lastuse>2025-12-03T12:50:10+01:00</lastuse>
-      <lastconfirm>2025-12-03T12:10:12+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17819614066</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Adelzhausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.363103</latitude>
-        <longitude>11.123493</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-03T12:04:19+01:00</create>
-      <lastuse>2025-12-03T12:46:24+01:00</lastuse>
-      <lastconfirm>2025-12-03T12:16:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +836,8 @@
     </location>
     <date>
       <create>2025-11-21T07:41:55+01:00</create>
-      <lastuse>2025-12-05T12:10:35+01:00</lastuse>
-      <lastconfirm>2025-12-03T12:10:36+01:00</lastconfirm>
+      <lastuse>2025-12-05T12:17:15+01:00</lastuse>
+      <lastconfirm>2025-12-03T12:17:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1004,8 @@
     </location>
     <date>
       <create>2025-12-03T10:15:20+01:00</create>
-      <lastuse>2025-12-03T20:14:33+01:00</lastuse>
-      <lastconfirm>2025-12-03T12:14:34+01:00</lastconfirm>
+      <lastuse>2025-12-03T18:15:50+01:00</lastuse>
+      <lastconfirm>2025-12-03T10:15:20+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
