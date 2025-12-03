@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17817141881</id>
-    <type>1</type>
-    <speed>20</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>Dieselstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.430160</latitude>
-        <longitude>10.865415</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-03T04:13:20+01:00</create>
-      <lastuse>2025-12-03T06:20:36+01:00</lastuse>
-      <lastconfirm>2025-12-03T04:50:37+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17773330804</id>
     <type>7</type>
     <speed>0</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-11-27T06:54:01+01:00</create>
-      <lastuse>2025-12-03T09:46:57+01:00</lastuse>
-      <lastconfirm>2025-12-03T05:46:57+01:00</lastconfirm>
+      <lastuse>2025-12-03T09:52:42+01:00</lastuse>
+      <lastconfirm>2025-12-03T05:52:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -70,6 +46,30 @@
       <create>2025-12-02T10:13:45+01:00</create>
       <lastuse>2025-12-03T06:55:04+01:00</lastuse>
       <lastconfirm>2025-12-02T22:55:04+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17817492996</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86444</zip>
+      <city>Affing</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.441062</latitude>
+        <longitude>10.935527</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-03T05:32:54+01:00</create>
+      <lastuse>2025-12-03T13:52:48+01:00</lastuse>
+      <lastconfirm>2025-12-03T05:52:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +860,8 @@
     </location>
     <date>
       <create>2025-11-27T18:18:33+01:00</create>
-      <lastuse>2025-12-05T00:04:34+01:00</lastuse>
-      <lastconfirm>2025-12-03T00:04:35+01:00</lastconfirm>
+      <lastuse>2025-12-05T05:45:35+01:00</lastuse>
+      <lastconfirm>2025-12-03T05:45:36+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
