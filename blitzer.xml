@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17819643414</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Unterer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372725</latitude>
+        <longitude>10.901268</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-03T12:09:29+01:00</create>
+      <lastuse>2025-12-03T16:57:17+01:00</lastuse>
+      <lastconfirm>2025-12-03T14:57:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17819802058</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Berliner Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372423</latitude>
+        <longitude>10.920216</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-03T12:35:14+01:00</create>
+      <lastuse>2025-12-03T16:55:10+01:00</lastuse>
+      <lastconfirm>2025-12-03T14:55:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17820012780</id>
     <type>6</type>
     <speed></speed>
@@ -21,7 +69,7 @@
     <date>
       <create>2025-12-03T13:12:46+01:00</create>
       <lastuse>2025-12-03T17:12:46+01:00</lastuse>
-      <lastconfirm>2025-12-03T14:52:13+01:00</lastconfirm>
+      <lastconfirm>2025-12-03T14:56:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +116,8 @@
     </location>
     <date>
       <create>2025-11-27T06:54:01+01:00</create>
-      <lastuse>2025-12-03T18:52:34+01:00</lastuse>
-      <lastconfirm>2025-12-03T14:52:34+01:00</lastconfirm>
+      <lastuse>2025-12-03T18:57:50+01:00</lastuse>
+      <lastconfirm>2025-12-03T14:57:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -148,7 +196,7 @@
     <id>17820450898</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -164,8 +212,8 @@
     </location>
     <date>
       <create>2025-12-03T14:26:34+01:00</create>
-      <lastuse>2025-12-03T15:37:22+01:00</lastuse>
-      <lastconfirm>2025-12-03T14:37:22+01:00</lastconfirm>
+      <lastuse>2025-12-03T15:54:28+01:00</lastuse>
+      <lastconfirm>2025-12-03T14:54:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +236,8 @@
     </location>
     <date>
       <create>2025-12-03T14:27:49+01:00</create>
-      <lastuse>2025-12-03T15:51:21+01:00</lastuse>
-      <lastconfirm>2025-12-03T14:51:21+01:00</lastconfirm>
+      <lastuse>2025-12-03T15:56:16+01:00</lastuse>
+      <lastconfirm>2025-12-03T14:56:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +380,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2025-12-05T12:24:31+01:00</lastuse>
-      <lastconfirm>2025-12-03T12:24:31+01:00</lastconfirm>
+      <lastuse>2025-12-05T04:24:31+01:00</lastuse>
+      <lastconfirm>2025-07-08T11:03:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
