@@ -4,7 +4,7 @@
     <id>17825799854</id>
     <type>1</type>
     <speed>100</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2025-12-04T07:37:28+01:00</create>
-      <lastuse>2025-12-04T15:02:27+01:00</lastuse>
+      <lastuse>2025-12-04T14:32:27+01:00</lastuse>
       <lastconfirm>2025-12-04T13:32:27+01:00</lastconfirm>
     </date>
   </event>
@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-12-04T10:05:55+01:00</create>
-      <lastuse>2025-12-04T14:52:34+01:00</lastuse>
+      <lastuse>2025-12-04T14:22:34+01:00</lastuse>
       <lastconfirm>2025-12-04T13:22:34+01:00</lastconfirm>
     </date>
   </event>
@@ -76,7 +76,7 @@
     <id>17827316090</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86161</zip>
       <city>Augsburg</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-04T11:55:52+01:00</create>
-      <lastuse>2025-12-11T13:43:07+01:00</lastuse>
-      <lastconfirm>2025-12-04T13:26:54+01:00</lastconfirm>
+      <lastuse>2025-12-04T15:55:52+01:00</lastuse>
+      <lastconfirm>2025-12-04T13:51:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-12-04T11:55:52+01:00</create>
-      <lastuse>2025-12-04T15:40:29+01:00</lastuse>
-      <lastconfirm>2025-12-04T13:40:29+01:00</lastconfirm>
+      <lastuse>2025-12-04T15:48:18+01:00</lastuse>
+      <lastconfirm>2025-12-04T13:48:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,56 @@
     </location>
     <date>
       <create>2025-12-04T12:57:07+01:00</create>
-      <lastuse>2025-12-04T15:29:49+01:00</lastuse>
+      <lastuse>2025-12-04T14:59:49+01:00</lastuse>
       <lastconfirm>2025-12-04T13:29:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17827783007</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>Hauptstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.546544</latitude>
+        <longitude>10.852620</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-04T13:12:11+01:00</create>
+      <lastuse>2025-12-04T15:48:55+01:00</lastuse>
+      <lastconfirm>2025-12-04T13:48:56+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17773330804</id>
+    <type>7</type>
+    <speed>0</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409301</latitude>
+        <longitude>10.923821</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-27T06:54:01+01:00</create>
+      <lastuse>2025-12-04T17:52:27+01:00</lastuse>
+      <lastconfirm>2025-12-04T13:52:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
