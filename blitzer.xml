@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17827349046</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Firnhaberstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.347057</latitude>
-        <longitude>10.894805</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-04T12:01:00+01:00</create>
-      <lastuse>2025-12-04T18:01:59+01:00</lastuse>
-      <lastconfirm>2025-12-04T16:31:59+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17828459226</id>
     <type>1</type>
     <speed>70</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-04T15:03:40+01:00</create>
-      <lastuse>2025-12-04T19:27:44+01:00</lastuse>
-      <lastconfirm>2025-12-04T17:27:44+01:00</lastconfirm>
+      <lastuse>2025-12-04T19:28:41+01:00</lastuse>
+      <lastconfirm>2025-12-04T17:28:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2025-12-04T16:49:32+01:00</create>
-      <lastuse>2025-12-04T18:23:09+01:00</lastuse>
-      <lastconfirm>2025-12-04T17:23:09+01:00</lastconfirm>
+      <lastuse>2025-12-04T18:32:57+01:00</lastuse>
+      <lastconfirm>2025-12-04T17:32:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -241,30 +217,6 @@
     </date>
   </event>
   <event>
-    <id>17829278314</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.413998</latitude>
-        <longitude>10.893342</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-04T17:11:54+01:00</create>
-      <lastuse>2025-12-04T17:40:13+01:00</lastuse>
-      <lastconfirm>2025-12-04T17:25:13+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17829378560</id>
     <type>20</type>
     <speed></speed>
@@ -278,13 +230,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.413157</latitude>
-        <longitude>10.900529</longitude>
+        <latitude>48.412894</latitude>
+        <longitude>10.902224</longitude>
       </point>
     </location>
     <date>
       <create>2025-12-04T17:27:02+01:00</create>
-      <lastuse>2025-12-04T17:32:00+01:00</lastuse>
+      <lastuse>2025-12-04T17:37:00+01:00</lastuse>
       <lastconfirm>2025-12-04T17:27:02+01:00</lastconfirm>
     </date>
   </event>
