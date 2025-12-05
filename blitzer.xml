@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17835507761</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86676</zip>
-      <city>Ehekirchen</city>
-      <state>DE-BY</state>
-      <street>Seiboldsdorfer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.640261</latitude>
-        <longitude>11.110086</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-05T12:55:39+01:00</create>
-      <lastuse>2025-12-05T17:06:32+01:00</lastuse>
-      <lastconfirm>2025-12-05T15:06:33+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17836052154</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-05T14:26:18+01:00</create>
-      <lastuse>2025-12-05T18:51:32+01:00</lastuse>
-      <lastconfirm>2025-12-05T16:51:32+01:00</lastconfirm>
+      <lastuse>2025-12-05T19:08:18+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:08:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,6 +73,54 @@
     </date>
   </event>
   <event>
+    <id>17836948482</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352942</latitude>
+        <longitude>10.855757</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-05T16:52:14+01:00</create>
+      <lastuse>2025-12-05T17:35:53+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:05:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17837001988</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.415227</latitude>
+        <longitude>10.860084</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-05T17:00:50+01:00</create>
+      <lastuse>2025-12-05T17:37:01+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:07:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17836325747</id>
     <type>20</type>
     <speed></speed>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-12-05T15:10:14+01:00</create>
-      <lastuse>2025-12-05T18:02:59+01:00</lastuse>
-      <lastconfirm>2025-12-05T17:03:00+01:00</lastconfirm>
+      <lastuse>2025-12-05T18:07:19+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:07:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-12-05T15:17:33+01:00</create>
-      <lastuse>2025-12-05T18:00:59+01:00</lastuse>
-      <lastconfirm>2025-12-05T17:01:00+01:00</lastconfirm>
+      <lastuse>2025-12-05T18:07:40+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:07:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-12-05T15:50:26+01:00</create>
-      <lastuse>2025-12-05T17:59:31+01:00</lastuse>
-      <lastconfirm>2025-12-05T16:59:31+01:00</lastconfirm>
+      <lastuse>2025-12-05T18:08:36+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:08:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-12-05T16:05:19+01:00</create>
-      <lastuse>2025-12-05T18:01:24+01:00</lastuse>
-      <lastconfirm>2025-12-05T17:01:25+01:00</lastconfirm>
+      <lastuse>2025-12-05T18:08:56+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:08:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-12-07T16:51:36+01:00</lastuse>
-      <lastconfirm>2025-12-05T16:51:37+01:00</lastconfirm>
+      <lastuse>2025-12-07T17:01:47+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:01:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +740,8 @@
     </location>
     <date>
       <create>2025-11-19T18:16:43+01:00</create>
-      <lastuse>2025-12-07T16:56:04+01:00</lastuse>
-      <lastconfirm>2025-12-05T16:56:04+01:00</lastconfirm>
+      <lastuse>2025-12-07T17:02:23+01:00</lastuse>
+      <lastconfirm>2025-12-05T17:02:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
