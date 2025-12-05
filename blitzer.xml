@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17833601155</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-BY</state>
-      <street>Ulmer Landstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.370554</latitude>
-        <longitude>10.809525</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-05T07:16:12+01:00</create>
-      <lastuse>2025-12-05T15:23:10+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:53:10+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17833819594</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,7 +44,7 @@
     </location>
     <date>
       <create>2025-12-05T09:52:55+01:00</create>
-      <lastuse>2025-12-05T15:09:34+01:00</lastuse>
+      <lastuse>2025-12-05T14:39:34+01:00</lastuse>
       <lastconfirm>2025-12-05T13:39:35+01:00</lastconfirm>
     </date>
   </event>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-05T11:24:21+01:00</create>
-      <lastuse>2025-12-05T15:56:41+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:56:42+01:00</lastconfirm>
+      <lastuse>2025-12-05T16:03:31+01:00</lastuse>
+      <lastconfirm>2025-12-05T14:03:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,15 +116,15 @@
     </location>
     <date>
       <create>2025-12-05T11:51:40+01:00</create>
-      <lastuse>2025-12-05T15:51:40+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:20:38+01:00</lastconfirm>
+      <lastuse>2025-12-05T16:01:31+01:00</lastuse>
+      <lastconfirm>2025-12-05T14:01:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17835359173</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86179</zip>
       <city>Augsburg</city>
@@ -165,7 +141,7 @@
     <date>
       <create>2025-12-05T12:30:05+01:00</create>
       <lastuse>2025-12-05T16:30:05+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:54:25+01:00</lastconfirm>
+      <lastconfirm>2025-12-05T14:01:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,6 +169,30 @@
     </date>
   </event>
   <event>
+    <id>17835507761</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86676</zip>
+      <city>Ehekirchen</city>
+      <state>DE-BY</state>
+      <street>Seiboldsdorfer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.640325</latitude>
+        <longitude>11.111813</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-05T12:55:39+01:00</create>
+      <lastuse>2025-12-05T16:01:26+01:00</lastuse>
+      <lastconfirm>2025-12-05T14:01:27+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17811689618</id>
     <type>7</type>
     <speed>50</speed>
@@ -217,58 +217,10 @@
     </date>
   </event>
   <event>
-    <id>17835340702</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.378523</latitude>
-        <longitude>10.857352</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-05T12:28:06+01:00</create>
-      <lastuse>2025-12-05T14:03:02+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:43:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17835401217</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.378377</latitude>
-        <longitude>10.857418</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-05T12:38:10+01:00</create>
-      <lastuse>2025-12-05T14:00:51+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:40:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17835641424</id>
     <type>21</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -284,8 +236,8 @@
     </location>
     <date>
       <create>2025-12-05T13:19:49+01:00</create>
-      <lastuse>2025-12-05T14:33:14+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:53:15+01:00</lastconfirm>
+      <lastuse>2025-12-05T15:03:09+01:00</lastuse>
+      <lastconfirm>2025-12-05T14:03:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +260,8 @@
     </location>
     <date>
       <create>2025-12-05T13:45:34+01:00</create>
-      <lastuse>2025-12-05T14:26:13+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:56:13+01:00</lastconfirm>
+      <lastuse>2025-12-05T14:18:24+01:00</lastuse>
+      <lastconfirm>2025-12-05T13:58:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,32 +284,8 @@
     </location>
     <date>
       <create>2025-12-05T12:34:40+01:00</create>
-      <lastuse>2025-12-05T14:32:31+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:52:31+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17835396409</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.379035</latitude>
-        <longitude>10.857675</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-05T12:37:25+01:00</create>
-      <lastuse>2025-12-05T14:05:39+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:45:40+01:00</lastconfirm>
+      <lastuse>2025-12-05T14:38:07+01:00</lastuse>
+      <lastconfirm>2025-12-05T13:58:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +308,8 @@
     </location>
     <date>
       <create>2025-12-05T12:43:41+01:00</create>
-      <lastuse>2025-12-05T14:57:31+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:57:31+01:00</lastconfirm>
+      <lastuse>2025-12-05T15:03:59+01:00</lastuse>
+      <lastconfirm>2025-12-05T14:04:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -409,30 +337,6 @@
     </date>
   </event>
   <event>
-    <id>17835626126</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373727</latitude>
-        <longitude>10.856224</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-05T13:16:01+01:00</create>
-      <lastuse>2025-12-05T14:04:21+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:44:21+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17835663805</id>
     <type>20</type>
     <speed></speed>
@@ -452,8 +356,8 @@
     </location>
     <date>
       <create>2025-12-05T13:22:47+01:00</create>
-      <lastuse>2025-12-05T14:30:56+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:50:57+01:00</lastconfirm>
+      <lastuse>2025-12-05T14:39:54+01:00</lastuse>
+      <lastconfirm>2025-12-05T13:59:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +380,8 @@
     </location>
     <date>
       <create>2025-12-05T13:23:32+01:00</create>
-      <lastuse>2025-12-05T14:56:22+01:00</lastuse>
-      <lastconfirm>2025-12-05T13:56:23+01:00</lastconfirm>
+      <lastuse>2025-12-05T15:02:24+01:00</lastuse>
+      <lastconfirm>2025-12-05T14:02:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +740,8 @@
     </location>
     <date>
       <create>2025-10-15T14:00:16+02:00</create>
-      <lastuse>2025-12-07T00:21:40+01:00</lastuse>
-      <lastconfirm>2025-10-15T14:00:16+02:00</lastconfirm>
+      <lastuse>2025-12-07T13:56:35+01:00</lastuse>
+      <lastconfirm>2025-12-05T13:56:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
