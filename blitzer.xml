@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17843789939</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417005</latitude>
+        <longitude>10.838933</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-06T14:55:00+01:00</create>
+      <lastuse>2025-12-06T20:32:57+01:00</lastuse>
+      <lastconfirm>2025-12-06T18:47:57+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17811689618</id>
     <type>7</type>
     <speed>50</speed>
@@ -25,8 +49,8 @@
     </date>
   </event>
   <event>
-    <id>17844871638</id>
-    <type>20</type>
+    <id>17844979191</id>
+    <type>21</type>
     <speed></speed>
     <quality>3</quality>
     <address>
@@ -38,14 +62,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.333931</latitude>
-        <longitude>10.887838</longitude>
+        <latitude>48.339633</latitude>
+        <longitude>10.889655</longitude>
       </point>
     </location>
     <date>
-      <create>2025-12-06T18:12:39+01:00</create>
-      <lastuse>2025-12-06T18:49:27+01:00</lastuse>
-      <lastconfirm>2025-12-06T18:29:28+01:00</lastconfirm>
+      <create>2025-12-06T18:32:38+01:00</create>
+      <lastuse>2025-12-06T19:44:39+01:00</lastuse>
+      <lastconfirm>2025-12-06T18:44:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
