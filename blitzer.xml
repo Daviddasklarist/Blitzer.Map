@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17842296652</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369726</latitude>
+        <longitude>10.829180</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-06T10:15:51+01:00</create>
+      <lastuse>2025-12-06T19:58:33+01:00</lastuse>
+      <lastconfirm>2025-12-06T17:58:33+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17843642398</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-06T14:55:00+01:00</create>
-      <lastuse>2025-12-06T19:51:28+01:00</lastuse>
-      <lastconfirm>2025-12-06T17:51:28+01:00</lastconfirm>
+      <lastuse>2025-12-06T19:58:15+01:00</lastuse>
+      <lastconfirm>2025-12-06T17:58:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2025-12-08T15:40:26+01:00</lastuse>
-      <lastconfirm>2025-12-06T15:40:26+01:00</lastconfirm>
+      <lastuse>2025-12-08T17:54:30+01:00</lastuse>
+      <lastconfirm>2025-12-06T17:54:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
