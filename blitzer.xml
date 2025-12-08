@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17855642415</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bobinger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.315443</latitude>
+        <longitude>10.859623</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-08T06:35:19+01:00</create>
+      <lastuse>2025-12-08T09:08:32+01:00</lastuse>
+      <lastconfirm>2025-12-08T07:08:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17811689618</id>
     <type>7</type>
     <speed>50</speed>
@@ -28,7 +52,7 @@
     <id>17855729374</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86507</zip>
       <city>Oberottmarshausen</city>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2025-12-08T06:54:01+01:00</create>
-      <lastuse>2025-12-08T07:31:44+01:00</lastuse>
+      <lastuse>2025-12-08T07:11:44+01:00</lastuse>
       <lastconfirm>2025-12-08T07:01:44+01:00</lastconfirm>
     </date>
   </event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2025-11-21T07:41:55+01:00</create>
-      <lastuse>2025-12-09T21:22:54+01:00</lastuse>
-      <lastconfirm>2025-12-07T21:22:55+01:00</lastconfirm>
+      <lastuse>2025-12-10T07:04:16+01:00</lastuse>
+      <lastconfirm>2025-12-08T07:04:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
