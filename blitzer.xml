@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-08T06:20:49+01:00</create>
-      <lastuse>2025-12-08T12:51:01+01:00</lastuse>
-      <lastconfirm>2025-12-08T11:21:02+01:00</lastconfirm>
+      <lastuse>2025-12-08T13:35:33+01:00</lastuse>
+      <lastconfirm>2025-12-08T11:35:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-12-08T07:34:21+01:00</create>
-      <lastuse>2025-12-08T13:31:55+01:00</lastuse>
-      <lastconfirm>2025-12-08T11:31:55+01:00</lastconfirm>
+      <lastuse>2025-12-08T13:38:56+01:00</lastuse>
+      <lastconfirm>2025-12-08T11:38:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +76,7 @@
     <id>17856374978</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86154</zip>
       <city>Augsburg</city>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2025-12-08T08:49:04+01:00</create>
-      <lastuse>2025-12-08T13:31:10+01:00</lastuse>
+      <lastuse>2025-12-08T12:31:10+01:00</lastuse>
       <lastconfirm>2025-12-08T11:31:10+01:00</lastconfirm>
     </date>
   </event>
@@ -117,7 +117,7 @@
     <date>
       <create>2025-12-08T10:36:34+01:00</create>
       <lastuse>2025-12-08T14:36:34+01:00</lastuse>
-      <lastconfirm>2025-12-08T11:32:29+01:00</lastconfirm>
+      <lastconfirm>2025-12-08T11:38:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-06-12T11:39:25+02:00</create>
-      <lastuse>2025-12-10T10:39:35+01:00</lastuse>
-      <lastconfirm>2025-12-08T10:39:35+01:00</lastconfirm>
+      <lastuse>2025-12-10T02:39:35+01:00</lastuse>
+      <lastconfirm>2025-06-12T11:39:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +836,32 @@
     </location>
     <date>
       <create>2025-12-08T10:43:02+01:00</create>
-      <lastuse>2025-12-08T19:21:10+01:00</lastuse>
-      <lastconfirm>2025-12-08T11:21:11+01:00</lastconfirm>
+      <lastuse>2025-12-08T19:34:34+01:00</lastuse>
+      <lastconfirm>2025-12-08T11:34:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17857239828</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.243269</latitude>
+        <longitude>10.869769</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-08T11:19:54+01:00</create>
+      <lastuse>2025-12-08T19:34:49+01:00</lastuse>
+      <lastconfirm>2025-12-08T11:34:49+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
