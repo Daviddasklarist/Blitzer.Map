@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17855938652</id>
-    <type>1</type>
-    <speed>0</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.416975</latitude>
-        <longitude>10.839612</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-08T07:34:21+01:00</create>
-      <lastuse>2025-12-08T14:42:34+01:00</lastuse>
-      <lastconfirm>2025-12-08T12:57:34+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17856374978</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-08T08:49:04+01:00</create>
-      <lastuse>2025-12-15T12:50:37+01:00</lastuse>
-      <lastconfirm>2025-12-08T12:34:02+01:00</lastconfirm>
+      <lastuse>2025-12-08T15:00:04+01:00</lastuse>
+      <lastconfirm>2025-12-08T13:00:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -69,7 +45,7 @@
     <date>
       <create>2025-12-08T10:36:34+01:00</create>
       <lastuse>2025-12-08T14:36:34+01:00</lastuse>
-      <lastconfirm>2025-12-08T12:56:57+01:00</lastconfirm>
+      <lastconfirm>2025-12-08T13:02:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,6 +70,30 @@
       <create>2025-12-08T10:49:23+01:00</create>
       <lastuse>2025-12-08T14:17:13+01:00</lastuse>
       <lastconfirm>2025-12-08T12:17:13+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17857221512</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86504</zip>
+      <city>Merching</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.245008</latitude>
+        <longitude>10.993890</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-08T11:15:54+01:00</create>
+      <lastuse>2025-12-08T14:59:05+01:00</lastuse>
+      <lastconfirm>2025-12-08T12:59:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -189,7 +189,7 @@
     <date>
       <create>2025-12-08T12:38:36+01:00</create>
       <lastuse>2025-12-08T16:38:36+01:00</lastuse>
-      <lastconfirm>2025-12-08T12:57:56+01:00</lastconfirm>
+      <lastconfirm>2025-12-08T12:59:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-12-08T11:47:55+01:00</create>
-      <lastuse>2025-12-08T13:16:44+01:00</lastuse>
-      <lastconfirm>2025-12-08T12:56:44+01:00</lastconfirm>
+      <lastuse>2025-12-08T13:31:16+01:00</lastuse>
+      <lastconfirm>2025-12-08T13:01:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
