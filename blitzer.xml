@@ -4,7 +4,7 @@
     <id>17856374978</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86154</zip>
       <city>Augsburg</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-08T08:49:04+01:00</create>
-      <lastuse>2025-12-08T18:11:53+01:00</lastuse>
-      <lastconfirm>2025-12-08T16:11:53+01:00</lastconfirm>
+      <lastuse>2025-12-08T18:35:01+01:00</lastuse>
+      <lastconfirm>2025-12-08T16:35:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>17858957652</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409768</latitude>
+        <longitude>10.606427</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-08T16:14:29+01:00</create>
+      <lastuse>2025-12-08T16:54:24+01:00</lastuse>
+      <lastconfirm>2025-12-08T16:34:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17208612517</id>
     <type>26</type>
     <speed></speed>
@@ -190,30 +214,6 @@
       <create>2025-03-08T09:54:17+01:00</create>
       <lastuse>2025-12-10T16:07:48+01:00</lastuse>
       <lastconfirm>2025-12-08T16:07:48+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>16317641392</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>89420</zip>
-      <city>Höchstädt an der Donau</city>
-      <state>DE-HH</state>
-      <street>B16</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.641210</latitude>
-        <longitude>10.613145</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-06-07T13:24:47+02:00</create>
-      <lastuse>2025-12-09T12:07:22+01:00</lastuse>
-      <lastconfirm>2025-06-07T13:24:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +380,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-12-10T16:18:00+01:00</lastuse>
-      <lastconfirm>2025-12-08T16:18:01+01:00</lastconfirm>
+      <lastuse>2025-12-10T16:34:33+01:00</lastuse>
+      <lastconfirm>2025-12-08T16:34:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -772,7 +772,7 @@
     <id>17857038894</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -788,8 +788,8 @@
     </location>
     <date>
       <create>2025-12-08T10:43:02+01:00</create>
-      <lastuse>2025-12-08T22:21:42+01:00</lastuse>
-      <lastconfirm>2025-12-08T10:43:02+01:00</lastconfirm>
+      <lastuse>2025-12-09T00:33:32+01:00</lastuse>
+      <lastconfirm>2025-12-08T16:33:32+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
