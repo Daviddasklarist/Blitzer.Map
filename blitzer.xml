@@ -25,30 +25,6 @@
     </date>
   </event>
   <event>
-    <id>17855698115</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-BY</state>
-      <street>Konrad-Kopp-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.378166</latitude>
-        <longitude>10.823247</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-08T06:47:08+01:00</create>
-      <lastuse>2025-12-08T10:48:28+01:00</lastuse>
-      <lastconfirm>2025-12-08T09:18:29+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17855770884</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-08T07:34:21+01:00</create>
-      <lastuse>2025-12-08T12:31:47+01:00</lastuse>
-      <lastconfirm>2025-12-08T10:46:47+01:00</lastconfirm>
+      <lastuse>2025-12-08T12:52:10+01:00</lastuse>
+      <lastconfirm>2025-12-08T10:52:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -189,7 +165,7 @@
     <date>
       <create>2025-12-08T10:36:34+01:00</create>
       <lastuse>2025-12-08T14:36:34+01:00</lastuse>
-      <lastconfirm>2025-12-08T10:46:44+01:00</lastconfirm>
+      <lastconfirm>2025-12-08T10:52:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -862,6 +838,30 @@
       <create>2025-12-04T15:42:58+01:00</create>
       <lastuse>2025-12-10T09:14:08+01:00</lastuse>
       <lastconfirm>2025-12-08T09:14:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17857038894</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.388097</latitude>
+        <longitude>11.075261</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-08T10:43:02+01:00</create>
+      <lastuse>2025-12-08T18:49:35+01:00</lastuse>
+      <lastconfirm>2025-12-08T10:49:36+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
