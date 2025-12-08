@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17856374978</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Donauwörther Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.383829</latitude>
-        <longitude>10.880410</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-08T08:49:04+01:00</create>
-      <lastuse>2025-12-08T20:56:08+01:00</lastuse>
-      <lastconfirm>2025-12-08T19:56:09+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17860049774</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.401115</latitude>
-        <longitude>10.992115</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-08T19:20:53+01:00</create>
-      <lastuse>2025-12-08T20:24:38+01:00</lastuse>
-      <lastconfirm>2025-12-08T20:04:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17208612517</id>
     <type>26</type>
     <speed></speed>
