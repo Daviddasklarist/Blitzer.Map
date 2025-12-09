@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17867369739</id>
+    <type>1</type>
+    <speed>40</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Stuttgarter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.398122</latitude>
+        <longitude>10.870803</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-09T18:22:53+01:00</create>
+      <lastuse>2025-12-09T20:48:25+01:00</lastuse>
+      <lastconfirm>2025-12-09T18:48:26+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17866193141</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-12-09T15:09:58+01:00</create>
-      <lastuse>2025-12-09T19:39:14+01:00</lastuse>
+      <lastuse>2025-12-09T18:59:14+01:00</lastuse>
       <lastconfirm>2025-12-09T18:39:15+01:00</lastconfirm>
     </date>
   </event>
@@ -622,30 +646,6 @@
       <create>2025-12-09T15:22:04+01:00</create>
       <lastuse>2025-12-10T01:52:59+01:00</lastuse>
       <lastconfirm>2025-12-09T17:52:59+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17866774375</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.409780</latitude>
-        <longitude>10.608636</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-09T16:44:12+01:00</create>
-      <lastuse>2025-12-09T19:42:50+01:00</lastuse>
-      <lastconfirm>2025-12-09T16:44:12+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
