@@ -28,7 +28,7 @@
     <id>17863376943</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2025-12-09T07:07:00+01:00</create>
-      <lastuse>2025-12-09T11:47:45+01:00</lastuse>
-      <lastconfirm>2025-12-09T09:47:46+01:00</lastconfirm>
+      <lastuse>2025-12-09T11:52:39+01:00</lastuse>
+      <lastconfirm>2025-12-09T09:52:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-09T07:18:47+01:00</create>
-      <lastuse>2025-12-09T11:30:40+01:00</lastuse>
-      <lastconfirm>2025-12-09T09:30:41+01:00</lastconfirm>
+      <lastuse>2025-12-09T11:51:09+01:00</lastuse>
+      <lastconfirm>2025-12-09T09:51:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,32 @@
     </location>
     <date>
       <create>2025-12-09T08:43:46+01:00</create>
-      <lastuse>2025-12-09T11:45:48+01:00</lastuse>
-      <lastconfirm>2025-12-09T09:45:49+01:00</lastconfirm>
+      <lastuse>2025-12-09T11:52:47+01:00</lastuse>
+      <lastconfirm>2025-12-09T09:52:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17864046482</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370218</latitude>
+        <longitude>10.802002</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-09T09:05:59+01:00</create>
+      <lastuse>2025-12-09T12:05:59+01:00</lastuse>
+      <lastconfirm>2025-12-09T09:50:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,32 +188,8 @@
     </location>
     <date>
       <create>2025-12-09T08:15:42+01:00</create>
-      <lastuse>2025-12-09T17:12:29+01:00</lastuse>
-      <lastconfirm>2025-12-09T09:12:30+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17864032215</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.408499</latitude>
-        <longitude>10.580445</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-09T09:04:20+01:00</create>
-      <lastuse>2025-12-09T09:53:15+01:00</lastuse>
-      <lastconfirm>2025-12-09T09:43:16+01:00</lastconfirm>
+      <lastuse>2025-12-09T17:50:29+01:00</lastuse>
+      <lastconfirm>2025-12-09T09:50:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +788,8 @@
     </location>
     <date>
       <create>2025-12-09T08:37:53+01:00</create>
-      <lastuse>2025-12-09T17:43:56+01:00</lastuse>
-      <lastconfirm>2025-12-09T09:43:56+01:00</lastconfirm>
+      <lastuse>2025-12-09T15:43:56+01:00</lastuse>
+      <lastconfirm>2025-12-09T08:37:53+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
