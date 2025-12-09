@@ -27,7 +27,7 @@
   <event>
     <id>17863140312</id>
     <type>1</type>
-    <speed>50</speed>
+    <speed>60</speed>
     <quality>2</quality>
     <address>
       <zip>86167</zip>
@@ -38,14 +38,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.393196</latitude>
-        <longitude>10.914531</longitude>
+        <latitude>48.391401</latitude>
+        <longitude>10.912235</longitude>
       </point>
     </location>
     <date>
       <create>2025-12-09T06:17:04+01:00</create>
-      <lastuse>2025-12-09T09:17:04+01:00</lastuse>
-      <lastconfirm>2025-12-09T07:16:28+01:00</lastconfirm>
+      <lastuse>2025-12-09T09:23:08+01:00</lastuse>
+      <lastconfirm>2025-12-09T07:23:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,32 @@
     </location>
     <date>
       <create>2025-12-09T06:53:31+01:00</create>
-      <lastuse>2025-12-09T09:22:21+01:00</lastuse>
+      <lastuse>2025-12-09T08:22:21+01:00</lastuse>
       <lastconfirm>2025-12-09T07:22:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17863329928</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Aretinstraße / Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.345427</latitude>
+        <longitude>11.054873</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-09T06:57:06+01:00</create>
+      <lastuse>2025-12-09T09:27:10+01:00</lastuse>
+      <lastconfirm>2025-12-09T07:27:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-12-09T06:26:02+01:00</create>
-      <lastuse>2025-12-09T07:52:09+01:00</lastuse>
-      <lastconfirm>2025-12-09T07:22:09+01:00</lastconfirm>
+      <lastuse>2025-12-09T07:56:57+01:00</lastuse>
+      <lastconfirm>2025-12-09T07:26:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -166,6 +190,30 @@
       <create>2025-12-09T07:11:00+01:00</create>
       <lastuse>2025-12-09T07:58:49+01:00</lastuse>
       <lastconfirm>2025-12-09T07:18:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17863479330</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.464127</latitude>
+        <longitude>10.879763</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-09T07:15:46+01:00</create>
+      <lastuse>2025-12-09T08:25:21+01:00</lastuse>
+      <lastconfirm>2025-12-09T07:25:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,7 +524,7 @@
     </location>
     <date>
       <create>2025-11-10T18:00:29+01:00</create>
-      <lastuse>2025-12-10T05:45:49+01:00</lastuse>
+      <lastuse>2025-12-09T21:45:49+01:00</lastuse>
       <lastconfirm>2025-11-10T18:00:29+01:00</lastconfirm>
     </date>
   </event>
