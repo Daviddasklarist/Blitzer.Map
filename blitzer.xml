@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-09T10:30:36+01:00</create>
-      <lastuse>2025-12-09T17:17:51+01:00</lastuse>
-      <lastconfirm>2025-12-09T15:17:51+01:00</lastconfirm>
+      <lastuse>2025-12-09T16:51:11+01:00</lastuse>
+      <lastconfirm>2025-12-09T15:21:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +100,7 @@
     <id>17866210793</id>
     <type>23</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86695</zip>
       <city>Allmannshofen</city>
@@ -116,8 +116,32 @@
     </location>
     <date>
       <create>2025-12-09T15:11:13+01:00</create>
-      <lastuse>2025-12-09T15:48:23+01:00</lastuse>
+      <lastuse>2025-12-09T15:38:23+01:00</lastuse>
       <lastconfirm>2025-12-09T15:18:23+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17866193141</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418162</latitude>
+        <longitude>10.869359</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-09T15:09:58+01:00</create>
+      <lastuse>2025-12-09T16:18:50+01:00</lastuse>
+      <lastconfirm>2025-12-09T15:18:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-12-11T06:06:14+01:00</lastuse>
-      <lastconfirm>2025-08-29T12:08:52+02:00</lastconfirm>
+      <lastuse>2025-12-11T15:15:17+01:00</lastuse>
+      <lastconfirm>2025-12-09T15:15:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -769,54 +793,6 @@
     </date>
   </event>
   <event>
-    <id>17865717903</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410397</latitude>
-        <longitude>10.620919</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-09T13:45:51+01:00</create>
-      <lastuse>2025-12-09T23:07:08+01:00</lastuse>
-      <lastconfirm>2025-12-09T15:07:08+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17865809030</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86836</zip>
-      <city>Graben</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.196871</latitude>
-        <longitude>10.852121</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-09T14:04:39+01:00</create>
-      <lastuse>2025-12-09T16:42:53+01:00</lastuse>
-      <lastconfirm>2025-12-09T14:04:39+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17866166952</id>
     <type>22</type>
     <speed></speed>
@@ -836,8 +812,8 @@
     </location>
     <date>
       <create>2025-12-09T15:03:02+01:00</create>
-      <lastuse>2025-12-09T23:14:27+01:00</lastuse>
-      <lastconfirm>2025-12-09T15:14:27+01:00</lastconfirm>
+      <lastuse>2025-12-09T23:17:49+01:00</lastuse>
+      <lastconfirm>2025-12-09T15:17:49+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
