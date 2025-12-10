@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17870805829</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378363</latitude>
+        <longitude>10.884351</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-10T06:26:57+01:00</create>
+      <lastuse>2025-12-10T08:35:45+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:35:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17869975025</id>
     <type>21</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-12-10T03:19:57+01:00</create>
-      <lastuse>2025-12-10T07:30:27+01:00</lastuse>
-      <lastconfirm>2025-12-10T06:30:27+01:00</lastconfirm>
+      <lastuse>2025-12-10T07:37:05+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:37:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -73,7 +97,7 @@
     </date>
   </event>
   <event>
-    <id>17870831568</id>
+    <id>17870852819</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -91,9 +115,9 @@
       </point>
     </location>
     <date>
-      <create>2025-12-10T06:32:02+01:00</create>
-      <lastuse>2025-12-10T06:37:00+01:00</lastuse>
-      <lastconfirm>2025-12-10T06:32:02+01:00</lastconfirm>
+      <create>2025-12-10T06:36:02+01:00</create>
+      <lastuse>2025-12-10T06:42:00+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:36:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -388,7 +412,7 @@
     <id>17610768422</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86165</zip>
       <city>Augsburg</city>
@@ -404,7 +428,7 @@
     </location>
     <date>
       <create>2025-11-05T22:49:54+01:00</create>
-      <lastuse>2025-12-11T01:01:22+01:00</lastuse>
+      <lastuse>2025-12-10T17:01:22+01:00</lastuse>
       <lastconfirm>2025-11-05T22:49:54+01:00</lastconfirm>
     </date>
   </event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2025-11-21T07:41:55+01:00</create>
-      <lastuse>2025-12-11T22:14:08+01:00</lastuse>
-      <lastconfirm>2025-12-09T22:14:08+01:00</lastconfirm>
+      <lastuse>2025-12-12T06:33:10+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:33:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2025-11-23T13:11:52+01:00</create>
-      <lastuse>2025-12-12T05:49:46+01:00</lastuse>
-      <lastconfirm>2025-12-10T05:49:47+01:00</lastconfirm>
+      <lastuse>2025-12-11T21:49:46+01:00</lastuse>
+      <lastconfirm>2025-11-23T13:11:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
