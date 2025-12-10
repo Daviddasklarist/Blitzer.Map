@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17871928623</id>
-    <type>1</type>
-    <speed>20</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Wohlfarth-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.269121</latitude>
-        <longitude>10.887735</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-10T09:51:53+01:00</create>
-      <lastuse>2025-12-10T23:50:23+01:00</lastuse>
-      <lastconfirm>2025-12-10T21:50:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17875078457</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,32 +20,32 @@
     </location>
     <date>
       <create>2025-12-10T18:34:27+01:00</create>
-      <lastuse>2025-12-10T22:30:12+01:00</lastuse>
-      <lastconfirm>2025-12-10T21:30:12+01:00</lastconfirm>
+      <lastuse>2025-12-10T23:55:01+01:00</lastuse>
+      <lastconfirm>2025-12-10T21:55:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17875443637</id>
-    <type>1</type>
-    <speed>50</speed>
+    <id>17876166572</id>
+    <type>7</type>
+    <speed>20</speed>
     <quality>3</quality>
     <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
       <state>DE-BY</state>
-      <street>Gabelsbergerstraße</street>
+      <street>Bürgermeister-Wohlfarth-Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.353286</latitude>
-        <longitude>10.873085</longitude>
+        <latitude>48.269121</latitude>
+        <longitude>10.887735</longitude>
       </point>
     </location>
     <date>
-      <create>2025-12-10T19:38:23+01:00</create>
-      <lastuse>2025-12-10T21:57:59+01:00</lastuse>
-      <lastconfirm>2025-12-10T20:58:00+01:00</lastconfirm>
+      <create>2025-12-10T09:51:53+01:00</create>
+      <lastuse>2025-12-11T07:50:23+01:00</lastuse>
+      <lastconfirm>2025-12-10T21:50:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-12-12T19:39:47+01:00</lastuse>
-      <lastconfirm>2025-12-10T19:39:48+01:00</lastconfirm>
+      <lastuse>2025-12-12T21:52:59+01:00</lastuse>
+      <lastconfirm>2025-12-10T21:53:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
