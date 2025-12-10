@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17870805825</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.371034</latitude>
+        <longitude>10.874408</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-10T06:26:33+01:00</create>
+      <lastuse>2025-12-10T08:47:32+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:47:33+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17870805829</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-10T03:19:57+01:00</create>
-      <lastuse>2025-12-10T07:42:28+01:00</lastuse>
-      <lastconfirm>2025-12-10T06:42:28+01:00</lastconfirm>
+      <lastuse>2025-12-10T07:47:49+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:47:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-10T06:04:32+01:00</create>
-      <lastuse>2025-12-10T07:39:24+01:00</lastuse>
-      <lastconfirm>2025-12-10T06:39:25+01:00</lastconfirm>
+      <lastuse>2025-12-10T07:48:11+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:48:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-12-10T06:15:18+01:00</create>
-      <lastuse>2025-12-10T07:21:43+01:00</lastuse>
-      <lastconfirm>2025-12-10T06:41:45+01:00</lastconfirm>
+      <lastuse>2025-12-10T07:47:17+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:47:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,7 +164,7 @@
     </location>
     <date>
       <create>2025-12-10T06:36:02+01:00</create>
-      <lastuse>2025-12-10T06:48:00+01:00</lastuse>
+      <lastuse>2025-12-10T06:53:00+01:00</lastuse>
       <lastconfirm>2025-12-10T06:36:02+01:00</lastconfirm>
     </date>
   </event>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2025-11-05T15:34:38+01:00</create>
-      <lastuse>2025-12-11T15:43:38+01:00</lastuse>
-      <lastconfirm>2025-12-09T15:43:40+01:00</lastconfirm>
+      <lastuse>2025-12-12T06:42:13+01:00</lastuse>
+      <lastconfirm>2025-12-10T06:42:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
