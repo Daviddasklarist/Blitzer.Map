@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17876166572</id>
+    <type>7</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Wohlfarth-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.269121</latitude>
+        <longitude>10.887735</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-10T09:51:53+01:00</create>
+      <lastuse>2025-12-11T06:20:53+01:00</lastuse>
+      <lastconfirm>2025-12-10T22:20:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17876200185</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409435</latitude>
+        <longitude>10.923354</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-10T22:04:35+01:00</create>
+      <lastuse>2025-12-10T22:51:16+01:00</lastuse>
+      <lastconfirm>2025-12-10T22:21:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17208612517</id>
     <type>26</type>
     <speed></speed>
