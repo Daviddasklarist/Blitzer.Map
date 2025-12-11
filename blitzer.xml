@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17880089130</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Lohwaldstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400544</latitude>
+        <longitude>10.822696</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-11T11:08:14+01:00</create>
+      <lastuse>2025-12-11T17:53:25+01:00</lastuse>
+      <lastconfirm>2025-12-11T15:53:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17881159755</id>
     <type>1</type>
     <speed>50</speed>
@@ -140,15 +164,15 @@
     </location>
     <date>
       <create>2025-12-11T15:30:03+01:00</create>
-      <lastuse>2025-12-11T16:11:13+01:00</lastuse>
-      <lastconfirm>2025-12-11T15:51:13+01:00</lastconfirm>
+      <lastuse>2025-12-11T16:28:37+01:00</lastuse>
+      <lastconfirm>2025-12-11T15:58:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17881638882</id>
     <type>23</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-12-11T15:32:49+01:00</create>
-      <lastuse>2025-12-11T16:11:38+01:00</lastuse>
-      <lastconfirm>2025-12-11T15:51:39+01:00</lastconfirm>
+      <lastuse>2025-12-11T16:28:29+01:00</lastuse>
+      <lastconfirm>2025-12-11T15:58:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-12-11T14:21:42+01:00</create>
-      <lastuse>2025-12-11T16:49:57+01:00</lastuse>
-      <lastconfirm>2025-12-11T15:49:57+01:00</lastconfirm>
+      <lastuse>2025-12-11T16:53:37+01:00</lastuse>
+      <lastconfirm>2025-12-11T15:53:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,32 +236,8 @@
     </location>
     <date>
       <create>2025-12-11T15:21:41+01:00</create>
-      <lastuse>2025-12-11T16:52:16+01:00</lastuse>
-      <lastconfirm>2025-12-11T15:52:16+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17881608296</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.298323</latitude>
-        <longitude>10.878688</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-11T15:26:13+01:00</create>
-      <lastuse>2025-12-11T16:23:50+01:00</lastuse>
-      <lastconfirm>2025-12-11T15:43:51+01:00</lastconfirm>
+      <lastuse>2025-12-11T16:55:43+01:00</lastuse>
+      <lastconfirm>2025-12-11T15:55:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-12-11T15:32:14+01:00</create>
-      <lastuse>2025-12-11T16:50:42+01:00</lastuse>
-      <lastconfirm>2025-12-11T15:50:42+01:00</lastconfirm>
+      <lastuse>2025-12-11T16:57:37+01:00</lastuse>
+      <lastconfirm>2025-12-11T15:57:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2025-12-13T15:38:12+01:00</lastuse>
-      <lastconfirm>2025-12-11T15:38:12+01:00</lastconfirm>
+      <lastuse>2025-12-13T15:53:58+01:00</lastuse>
+      <lastconfirm>2025-12-11T15:53:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
