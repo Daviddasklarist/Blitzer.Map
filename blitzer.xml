@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17878845368</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370559</latitude>
+        <longitude>10.809476</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-11T07:31:20+01:00</create>
+      <lastuse>2025-12-11T15:44:32+01:00</lastuse>
+      <lastconfirm>2025-12-11T13:44:33+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17880089130</id>
     <type>1</type>
     <speed>20</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2025-12-11T11:08:14+01:00</create>
-      <lastuse>2025-12-11T15:06:57+01:00</lastuse>
+      <lastuse>2025-12-11T14:36:57+01:00</lastuse>
       <lastconfirm>2025-12-11T13:36:57+01:00</lastconfirm>
     </date>
   </event>
@@ -45,7 +69,7 @@
     <date>
       <create>2025-12-11T11:23:37+01:00</create>
       <lastuse>2025-12-11T15:23:37+01:00</lastuse>
-      <lastconfirm>2025-12-11T13:42:43+01:00</lastconfirm>
+      <lastconfirm>2025-12-11T13:47:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-12-11T13:19:26+01:00</create>
-      <lastuse>2025-12-11T13:53:37+01:00</lastuse>
-      <lastconfirm>2025-12-11T13:33:37+01:00</lastconfirm>
+      <lastuse>2025-12-11T14:17:19+01:00</lastuse>
+      <lastconfirm>2025-12-11T13:47:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-12-13T13:10:06+01:00</lastuse>
-      <lastconfirm>2025-12-11T13:10:06+01:00</lastconfirm>
+      <lastuse>2025-12-13T13:40:56+01:00</lastuse>
+      <lastconfirm>2025-12-11T13:40:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-12-13T13:09:51+01:00</lastuse>
-      <lastconfirm>2025-12-11T13:09:51+01:00</lastconfirm>
+      <lastuse>2025-12-13T13:43:19+01:00</lastuse>
+      <lastconfirm>2025-12-11T13:43:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-12-13T05:33:43+01:00</lastuse>
-      <lastconfirm>2025-09-25T16:21:27+02:00</lastconfirm>
+      <lastuse>2025-12-13T13:40:42+01:00</lastuse>
+      <lastconfirm>2025-12-11T13:40:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-12-12T21:13:15+01:00</lastuse>
-      <lastconfirm>2025-09-27T10:49:33+02:00</lastconfirm>
+      <lastuse>2025-12-13T13:42:51+01:00</lastuse>
+      <lastconfirm>2025-12-11T13:42:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2025-11-05T15:34:38+01:00</create>
-      <lastuse>2025-12-13T13:28:29+01:00</lastuse>
-      <lastconfirm>2025-12-11T13:28:30+01:00</lastconfirm>
+      <lastuse>2025-12-13T13:40:07+01:00</lastuse>
+      <lastconfirm>2025-12-11T13:40:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +644,8 @@
     </location>
     <date>
       <create>2025-11-25T15:54:36+01:00</create>
-      <lastuse>2025-12-13T13:13:14+01:00</lastuse>
-      <lastconfirm>2025-12-11T13:13:15+01:00</lastconfirm>
+      <lastuse>2025-12-13T13:42:38+01:00</lastuse>
+      <lastconfirm>2025-12-11T13:42:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
