@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17886297713</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416947</latitude>
+        <longitude>10.839180</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-12T06:57:06+01:00</create>
+      <lastuse>2025-12-12T15:42:18+01:00</lastuse>
+      <lastconfirm>2025-12-12T13:57:20+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17886392979</id>
     <type>1</type>
     <speed>70</speed>
@@ -22,30 +46,6 @@
       <create>2025-12-12T07:17:06+01:00</create>
       <lastuse>2025-12-12T15:39:26+01:00</lastuse>
       <lastconfirm>2025-12-12T13:39:27+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17886794164</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-BY</state>
-      <street>A29</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.526592</latitude>
-        <longitude>10.859075</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-12T08:36:42+01:00</create>
-      <lastuse>2025-12-12T13:57:53+01:00</lastuse>
-      <lastconfirm>2025-12-12T13:27:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -124,7 +124,7 @@
     <id>17888269276</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-12-12T13:02:14+01:00</create>
-      <lastuse>2025-12-12T15:52:52+01:00</lastuse>
-      <lastconfirm>2025-12-12T13:52:52+01:00</lastconfirm>
+      <lastuse>2025-12-12T15:57:23+01:00</lastuse>
+      <lastconfirm>2025-12-12T13:57:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,15 +212,15 @@
     </location>
     <date>
       <create>2025-12-12T13:05:56+01:00</create>
-      <lastuse>2025-12-12T14:53:45+01:00</lastuse>
-      <lastconfirm>2025-12-12T13:53:45+01:00</lastconfirm>
+      <lastuse>2025-12-12T14:56:40+01:00</lastuse>
+      <lastconfirm>2025-12-12T13:56:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17888522379</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-12-12T13:45:12+01:00</create>
-      <lastuse>2025-12-12T14:53:01+01:00</lastuse>
-      <lastconfirm>2025-12-12T13:53:02+01:00</lastconfirm>
+      <lastuse>2025-12-12T14:57:55+01:00</lastuse>
+      <lastconfirm>2025-12-12T13:57:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2025-08-23T15:50:12+02:00</create>
-      <lastuse>2025-12-14T13:45:18+01:00</lastuse>
-      <lastconfirm>2025-12-12T13:45:18+01:00</lastconfirm>
+      <lastuse>2025-12-14T13:51:48+01:00</lastuse>
+      <lastconfirm>2025-12-12T13:51:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +404,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2025-12-14T13:32:24+01:00</lastuse>
-      <lastconfirm>2025-12-12T13:32:24+01:00</lastconfirm>
+      <lastuse>2025-12-14T13:51:04+01:00</lastuse>
+      <lastconfirm>2025-12-12T13:51:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +524,8 @@
     </location>
     <date>
       <create>2025-11-05T15:34:38+01:00</create>
-      <lastuse>2025-12-14T12:49:06+01:00</lastuse>
-      <lastconfirm>2025-12-12T12:49:07+01:00</lastconfirm>
+      <lastuse>2025-12-14T13:50:31+01:00</lastuse>
+      <lastconfirm>2025-12-12T13:50:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +644,8 @@
     </location>
     <date>
       <create>2025-11-23T13:11:52+01:00</create>
-      <lastuse>2025-12-14T13:19:15+01:00</lastuse>
-      <lastconfirm>2025-12-12T13:19:15+01:00</lastconfirm>
+      <lastuse>2025-12-14T13:54:11+01:00</lastuse>
+      <lastconfirm>2025-12-12T13:54:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
