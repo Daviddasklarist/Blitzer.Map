@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17894742407</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362364</latitude>
+        <longitude>10.852973</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-13T10:00:14+01:00</create>
+      <lastuse>2025-12-13T13:00:14+01:00</lastuse>
+      <lastconfirm>2025-12-13T10:09:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17876166572</id>
     <type>7</type>
     <speed>20</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-11T15:33:41+01:00</create>
-      <lastuse>2025-12-13T17:58:58+01:00</lastuse>
-      <lastconfirm>2025-12-13T09:58:59+01:00</lastconfirm>
+      <lastuse>2025-12-13T18:08:04+01:00</lastuse>
+      <lastconfirm>2025-12-13T10:08:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-13T07:41:55+01:00</create>
-      <lastuse>2025-12-13T10:31:34+01:00</lastuse>
-      <lastconfirm>2025-12-13T10:01:36+01:00</lastconfirm>
+      <lastuse>2025-12-13T10:38:05+01:00</lastuse>
+      <lastconfirm>2025-12-13T10:08:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
