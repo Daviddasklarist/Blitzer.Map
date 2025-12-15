@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17907873144</id>
+    <type>1</type>
+    <speed>0</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416991</latitude>
+        <longitude>10.839714</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-15T07:26:47+01:00</create>
+      <lastuse>2025-12-15T14:47:55+01:00</lastuse>
+      <lastconfirm>2025-12-15T13:02:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17908717859</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-15T10:11:54+01:00</create>
-      <lastuse>2025-12-15T14:56:33+01:00</lastuse>
-      <lastconfirm>2025-12-15T12:56:33+01:00</lastconfirm>
+      <lastuse>2025-12-15T14:29:06+01:00</lastuse>
+      <lastconfirm>2025-12-15T12:59:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -73,27 +97,27 @@
     </date>
   </event>
   <event>
-    <id>17909162647</id>
+    <id>17909600187</id>
     <type>1</type>
-    <speed>60</speed>
+    <speed>50</speed>
     <quality>3</quality>
     <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
       <state>DE-BY</state>
-      <street>Bürgermeister-Ackermann-Straße</street>
+      <street>Donauwörther Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.373478</latitude>
-        <longitude>10.855406</longitude>
+        <latitude>48.464096</latitude>
+        <longitude>10.867678</longitude>
       </point>
     </location>
     <date>
-      <create>2025-12-15T11:22:44+01:00</create>
-      <lastuse>2025-12-15T14:21:22+01:00</lastuse>
-      <lastconfirm>2025-12-15T12:51:22+01:00</lastconfirm>
+      <create>2025-12-15T12:40:32+01:00</create>
+      <lastuse>2025-12-15T15:02:02+01:00</lastuse>
+      <lastconfirm>2025-12-15T13:02:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,32 +164,8 @@
     </location>
     <date>
       <create>2025-12-11T15:33:41+01:00</create>
-      <lastuse>2025-12-15T20:57:54+01:00</lastuse>
-      <lastconfirm>2025-12-15T12:57:55+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17909412630</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86695</zip>
-      <city>Mertingen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.637909</latitude>
-        <longitude>10.835414</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-15T12:07:23+01:00</create>
-      <lastuse>2025-12-15T13:08:08+01:00</lastuse>
-      <lastconfirm>2025-12-15T12:38:10+01:00</lastconfirm>
+      <lastuse>2025-12-15T21:00:42+01:00</lastuse>
+      <lastconfirm>2025-12-15T13:00:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +524,8 @@
     </location>
     <date>
       <create>2025-11-21T07:41:55+01:00</create>
-      <lastuse>2025-12-17T09:09:08+01:00</lastuse>
-      <lastconfirm>2025-12-15T09:09:08+01:00</lastconfirm>
+      <lastuse>2025-12-17T12:55:49+01:00</lastuse>
+      <lastconfirm>2025-12-15T12:55:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
