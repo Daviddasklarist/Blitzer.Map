@@ -62,8 +62,8 @@
     </address>
     <location>
       <point>
-        <latitude>48.525568</latitude>
-        <longitude>11.032977</longitude>
+        <latitude>48.524403</latitude>
+        <longitude>11.031604</longitude>
       </point>
     </location>
     <date>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-12-16T11:47:06+01:00</create>
-      <lastuse>2025-12-16T15:50:37+01:00</lastuse>
-      <lastconfirm>2025-12-16T13:50:38+01:00</lastconfirm>
+      <lastuse>2025-12-16T15:56:33+01:00</lastuse>
+      <lastconfirm>2025-12-16T13:56:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -217,6 +217,30 @@
     </date>
   </event>
   <event>
+    <id>17917213718</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hohenstaufenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.310159</latitude>
+        <longitude>10.877891</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-16T13:38:22+01:00</create>
+      <lastuse>2025-12-16T16:38:22+01:00</lastuse>
+      <lastconfirm>2025-12-16T13:56:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17876166572</id>
     <type>7</type>
     <speed>20</speed>
@@ -289,30 +313,6 @@
     </date>
   </event>
   <event>
-    <id>17917267339</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.369725</latitude>
-        <longitude>11.104193</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-16T13:47:01+01:00</create>
-      <lastuse>2025-12-16T13:57:00+01:00</lastuse>
-      <lastconfirm>2025-12-16T13:47:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17917267350</id>
     <type>20</type>
     <speed></speed>
@@ -332,7 +332,7 @@
     </location>
     <date>
       <create>2025-12-16T13:47:01+01:00</create>
-      <lastuse>2025-12-16T13:57:00+01:00</lastuse>
+      <lastuse>2025-12-16T14:02:00+01:00</lastuse>
       <lastconfirm>2025-12-16T13:47:01+01:00</lastconfirm>
     </date>
   </event>
@@ -356,8 +356,32 @@
     </location>
     <date>
       <create>2025-12-16T13:52:02+01:00</create>
-      <lastuse>2025-12-16T13:57:00+01:00</lastuse>
+      <lastuse>2025-12-16T14:02:00+01:00</lastuse>
       <lastconfirm>2025-12-16T13:52:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17917301141</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372788</latitude>
+        <longitude>11.098639</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-16T13:53:01+01:00</create>
+      <lastuse>2025-12-16T14:02:00+01:00</lastuse>
+      <lastconfirm>2025-12-16T13:53:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,8 +884,8 @@
     </location>
     <date>
       <create>2025-12-16T06:17:35+01:00</create>
-      <lastuse>2025-12-16T21:48:43+01:00</lastuse>
-      <lastconfirm>2025-12-16T13:48:44+01:00</lastconfirm>
+      <lastuse>2025-12-16T21:51:16+01:00</lastuse>
+      <lastconfirm>2025-12-16T13:51:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -886,30 +910,6 @@
       <create>2025-12-16T08:20:28+01:00</create>
       <lastuse>2025-12-16T21:32:16+01:00</lastuse>
       <lastconfirm>2025-12-16T13:32:17+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17916876271</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Dasing</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396519</latitude>
-        <longitude>11.054839</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-16T12:35:12+01:00</create>
-      <lastuse>2025-12-16T19:44:17+01:00</lastuse>
-      <lastconfirm>2025-12-16T12:35:12+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
