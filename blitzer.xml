@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17919021108</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Riedingerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385717</latitude>
+        <longitude>10.885801</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-16T18:49:17+01:00</create>
+      <lastuse>2025-12-16T20:34:52+01:00</lastuse>
+      <lastconfirm>2025-12-16T19:04:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17881644843</id>
     <type>7</type>
     <speed>50</speed>
@@ -46,30 +70,6 @@
       <create>2025-12-16T11:28:37+01:00</create>
       <lastuse>2025-12-17T02:48:13+01:00</lastuse>
       <lastconfirm>2025-12-16T18:48:14+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17918695459</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>82278</zip>
-      <city>Merching</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.232901</latitude>
-        <longitude>11.037403</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-16T17:50:28+01:00</create>
-      <lastuse>2025-12-16T19:15:25+01:00</lastuse>
-      <lastconfirm>2025-12-16T18:15:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-12-18T17:15:05+01:00</lastuse>
-      <lastconfirm>2025-12-16T17:15:06+01:00</lastconfirm>
+      <lastuse>2025-12-18T09:15:05+01:00</lastuse>
+      <lastconfirm>2025-08-29T12:08:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-12-18T18:37:28+01:00</lastuse>
-      <lastconfirm>2025-12-16T18:37:28+01:00</lastconfirm>
+      <lastuse>2025-12-18T19:01:55+01:00</lastuse>
+      <lastconfirm>2025-12-16T19:01:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
