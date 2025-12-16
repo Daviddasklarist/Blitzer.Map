@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17915008421</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417145</latitude>
+        <longitude>10.837404</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-16T07:00:50+01:00</create>
+      <lastuse>2025-12-16T11:00:50+01:00</lastuse>
+      <lastconfirm>2025-12-16T07:12:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17876166572</id>
     <type>7</type>
     <speed>20</speed>
@@ -44,8 +68,32 @@
     </location>
     <date>
       <create>2025-12-11T15:33:41+01:00</create>
-      <lastuse>2025-12-16T15:02:48+01:00</lastuse>
-      <lastconfirm>2025-12-16T07:02:49+01:00</lastconfirm>
+      <lastuse>2025-12-16T15:11:35+01:00</lastuse>
+      <lastconfirm>2025-12-16T07:11:36+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17915035344</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.431938</latitude>
+        <longitude>10.867825</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-16T07:06:39+01:00</create>
+      <lastuse>2025-12-16T08:11:44+01:00</lastuse>
+      <lastconfirm>2025-12-16T07:11:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +308,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-12-18T07:01:06+01:00</lastuse>
-      <lastconfirm>2025-12-16T07:01:06+01:00</lastconfirm>
+      <lastuse>2025-12-18T07:07:39+01:00</lastuse>
+      <lastconfirm>2025-12-16T07:07:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
