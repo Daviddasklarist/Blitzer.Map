@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-16T07:00:50+01:00</create>
-      <lastuse>2025-12-16T13:46:30+01:00</lastuse>
-      <lastconfirm>2025-12-16T11:46:31+01:00</lastconfirm>
+      <lastuse>2025-12-16T13:53:48+01:00</lastuse>
+      <lastconfirm>2025-12-16T11:53:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +76,7 @@
     <id>17915604318</id>
     <type>1</type>
     <speed>40</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2025-12-16T08:54:47+01:00</create>
-      <lastuse>2025-12-16T13:33:29+01:00</lastuse>
+      <lastuse>2025-12-16T13:03:29+01:00</lastuse>
       <lastconfirm>2025-12-16T11:33:30+01:00</lastconfirm>
     </date>
   </event>
@@ -134,45 +134,21 @@
     </address>
     <location>
       <point>
-        <latitude>48.527451</latitude>
-        <longitude>11.035133</longitude>
+        <latitude>48.525568</latitude>
+        <longitude>11.032977</longitude>
       </point>
     </location>
     <date>
       <create>2025-12-16T10:43:59+01:00</create>
-      <lastuse>2025-12-16T13:44:04+01:00</lastuse>
+      <lastuse>2025-12-23T11:52:52+01:00</lastuse>
       <lastconfirm>2025-12-16T11:44:04+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17916213895</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86574</zip>
-      <city>Petersdorf</city>
-      <state>DE-BY</state>
-      <street>St 2047</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.524175</latitude>
-        <longitude>11.031550</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-16T10:44:30+01:00</create>
-      <lastuse>2025-12-16T13:28:46+01:00</lastuse>
-      <lastconfirm>2025-12-16T11:28:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17916515033</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2025-12-16T11:36:55+01:00</create>
-      <lastuse>2025-12-16T13:45:57+01:00</lastuse>
-      <lastconfirm>2025-12-16T11:45:57+01:00</lastconfirm>
+      <lastuse>2025-12-16T13:53:05+01:00</lastuse>
+      <lastconfirm>2025-12-16T11:53:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -241,6 +217,30 @@
     </date>
   </event>
   <event>
+    <id>17916466787</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Paartalstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.335769</latitude>
+        <longitude>11.002821</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-16T11:28:37+01:00</create>
+      <lastuse>2025-12-16T19:52:05+01:00</lastuse>
+      <lastconfirm>2025-12-16T11:52:06+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17916070158</id>
     <type>20</type>
     <speed></speed>
@@ -265,30 +265,6 @@
     </date>
   </event>
   <event>
-    <id>17916266040</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.351211</latitude>
-        <longitude>10.860022</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-16T10:53:01+01:00</create>
-      <lastuse>2025-12-16T12:46:50+01:00</lastuse>
-      <lastconfirm>2025-12-16T11:46:50+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17916516202</id>
     <type>20</type>
     <speed></speed>
@@ -308,7 +284,7 @@
     </location>
     <date>
       <create>2025-12-16T11:36:01+01:00</create>
-      <lastuse>2025-12-16T11:53:00+01:00</lastuse>
+      <lastuse>2025-12-16T11:58:00+01:00</lastuse>
       <lastconfirm>2025-12-16T11:36:01+01:00</lastconfirm>
     </date>
   </event>
@@ -524,8 +500,8 @@
     </location>
     <date>
       <create>2025-09-25T16:21:27+02:00</create>
-      <lastuse>2025-12-18T11:32:20+01:00</lastuse>
-      <lastconfirm>2025-12-16T11:32:20+01:00</lastconfirm>
+      <lastuse>2025-12-18T11:48:45+01:00</lastuse>
+      <lastconfirm>2025-12-16T11:48:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
