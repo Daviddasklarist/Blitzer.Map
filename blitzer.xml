@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17922089962</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>Rudolf-Diesel-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.553942</latitude>
+        <longitude>10.858596</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-17T05:46:51+01:00</create>
+      <lastuse>2025-12-17T07:53:15+01:00</lastuse>
+      <lastconfirm>2025-12-17T05:53:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17922097640</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedrich-Ebert-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337793</latitude>
+        <longitude>10.887715</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-17T05:49:28+01:00</create>
+      <lastuse>2025-12-17T07:54:31+01:00</lastuse>
+      <lastconfirm>2025-12-17T05:54:33+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17881644843</id>
     <type>7</type>
     <speed>50</speed>
