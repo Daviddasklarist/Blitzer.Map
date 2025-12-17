@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17926833315</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Lechstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.278916</latitude>
+        <longitude>10.900442</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-17T20:35:39+01:00</create>
+      <lastuse>2025-12-17T23:16:36+01:00</lastuse>
+      <lastconfirm>2025-12-17T21:16:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17881644843</id>
     <type>7</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-12-11T15:33:41+01:00</create>
-      <lastuse>2025-12-18T04:32:44+01:00</lastuse>
-      <lastconfirm>2025-12-17T20:32:44+01:00</lastconfirm>
+      <lastuse>2025-12-18T05:16:24+01:00</lastuse>
+      <lastconfirm>2025-12-17T21:16:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
