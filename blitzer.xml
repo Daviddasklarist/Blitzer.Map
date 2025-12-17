@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17923063959</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>Otto-Hahn-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.414275</latitude>
-        <longitude>10.867138</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-17T09:04:12+01:00</create>
-      <lastuse>2025-12-17T16:20:51+01:00</lastuse>
-      <lastconfirm>2025-12-17T15:20:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17924412398</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-17T13:06:57+01:00</create>
-      <lastuse>2025-12-17T17:06:57+01:00</lastuse>
-      <lastconfirm>2025-12-17T15:16:29+01:00</lastconfirm>
+      <lastuse>2025-12-17T17:08:25+01:00</lastuse>
+      <lastconfirm>2025-12-17T15:38:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-17T15:04:26+01:00</create>
-      <lastuse>2025-12-17T17:35:44+01:00</lastuse>
-      <lastconfirm>2025-12-17T15:35:44+01:00</lastconfirm>
+      <lastuse>2025-12-17T17:41:58+01:00</lastuse>
+      <lastconfirm>2025-12-17T15:41:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-11T15:33:41+01:00</create>
-      <lastuse>2025-12-17T23:34:55+01:00</lastuse>
-      <lastconfirm>2025-12-17T15:34:55+01:00</lastconfirm>
+      <lastuse>2025-12-17T23:42:49+01:00</lastuse>
+      <lastconfirm>2025-12-17T15:42:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,32 +116,8 @@
     </location>
     <date>
       <create>2025-12-16T11:28:37+01:00</create>
-      <lastuse>2025-12-17T22:46:47+01:00</lastuse>
-      <lastconfirm>2025-12-17T14:46:47+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17924658136</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.414846</latitude>
-        <longitude>10.864532</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-17T13:50:02+01:00</create>
-      <lastuse>2025-12-17T15:42:00+01:00</lastuse>
-      <lastconfirm>2025-12-17T13:50:02+01:00</lastconfirm>
+      <lastuse>2025-12-17T23:40:15+01:00</lastuse>
+      <lastconfirm>2025-12-17T15:40:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +140,32 @@
     </location>
     <date>
       <create>2025-12-17T14:43:13+01:00</create>
-      <lastuse>2025-12-17T16:10:36+01:00</lastuse>
+      <lastuse>2025-12-17T15:50:36+01:00</lastuse>
       <lastconfirm>2025-12-17T15:30:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17925252305</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414745</latitude>
+        <longitude>10.866142</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-17T15:39:02+01:00</create>
+      <lastuse>2025-12-17T15:48:00+01:00</lastuse>
+      <lastconfirm>2025-12-17T15:39:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +284,8 @@
     </location>
     <date>
       <create>2025-08-29T12:08:52+02:00</create>
-      <lastuse>2025-12-19T14:11:21+01:00</lastuse>
-      <lastconfirm>2025-12-17T14:11:22+01:00</lastconfirm>
+      <lastuse>2025-12-19T15:38:25+01:00</lastuse>
+      <lastconfirm>2025-12-17T15:38:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +644,8 @@
     </location>
     <date>
       <create>2025-12-17T12:37:50+01:00</create>
-      <lastuse>2025-12-17T23:30:26+01:00</lastuse>
-      <lastconfirm>2025-12-17T15:30:27+01:00</lastconfirm>
+      <lastuse>2025-12-17T23:38:21+01:00</lastuse>
+      <lastconfirm>2025-12-17T15:38:21+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
