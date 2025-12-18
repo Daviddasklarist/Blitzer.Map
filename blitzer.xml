@@ -25,30 +25,6 @@
     </date>
   </event>
   <event>
-    <id>17929346413</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Wellenburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.338259</latitude>
-        <longitude>10.858454</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-18T06:09:59+01:00</create>
-      <lastuse>2025-12-18T11:00:18+01:00</lastuse>
-      <lastconfirm>2025-12-18T10:00:19+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17929430260</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-18T07:13:49+01:00</create>
-      <lastuse>2025-12-18T11:13:49+01:00</lastuse>
-      <lastconfirm>2025-12-18T10:11:11+01:00</lastconfirm>
+      <lastuse>2025-12-18T12:49:48+01:00</lastuse>
+      <lastconfirm>2025-12-18T10:49:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -262,6 +238,30 @@
       <create>2025-12-18T09:07:26+01:00</create>
       <lastuse>2025-12-18T11:46:51+01:00</lastuse>
       <lastconfirm>2025-12-18T10:46:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17930714973</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.330925</latitude>
+        <longitude>10.886756</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-18T10:45:18+01:00</create>
+      <lastuse>2025-12-18T11:51:11+01:00</lastuse>
+      <lastconfirm>2025-12-18T10:51:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +524,8 @@
     </location>
     <date>
       <create>2025-11-18T12:30:03+01:00</create>
-      <lastuse>2025-12-19T12:12:57+01:00</lastuse>
-      <lastconfirm>2025-12-17T12:12:58+01:00</lastconfirm>
+      <lastuse>2025-12-20T10:49:43+01:00</lastuse>
+      <lastconfirm>2025-12-18T10:49:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +764,8 @@
     </location>
     <date>
       <create>2025-12-18T09:04:24+01:00</create>
-      <lastuse>2025-12-18T18:34:33+01:00</lastuse>
-      <lastconfirm>2025-12-18T10:34:35+01:00</lastconfirm>
+      <lastuse>2025-12-18T16:46:27+01:00</lastuse>
+      <lastconfirm>2025-12-18T09:04:24+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
