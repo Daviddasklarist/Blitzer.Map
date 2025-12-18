@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17932638943</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86399</zip>
-      <city>Bobingen</city>
-      <state>DE-BY</state>
-      <street>Wertachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.278481</latitude>
-        <longitude>10.837961</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-18T16:33:14+01:00</create>
-      <lastuse>2025-12-18T20:33:14+01:00</lastuse>
-      <lastconfirm>2025-12-18T17:44:31+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17933415023</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -44,15 +20,15 @@
     </location>
     <date>
       <create>2025-12-18T18:54:33+01:00</create>
-      <lastuse>2025-12-18T21:11:33+01:00</lastuse>
-      <lastconfirm>2025-12-18T19:41:33+01:00</lastconfirm>
+      <lastuse>2025-12-18T22:00:49+01:00</lastuse>
+      <lastconfirm>2025-12-18T20:00:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17933488976</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2025-12-18T19:08:18+01:00</create>
-      <lastuse>2025-12-18T21:26:09+01:00</lastuse>
-      <lastconfirm>2025-12-18T19:56:10+01:00</lastconfirm>
+      <lastuse>2025-12-18T20:29:25+01:00</lastuse>
+      <lastconfirm>2025-12-18T19:59:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-18T17:40:29+01:00</create>
-      <lastuse>2025-12-18T20:24:49+01:00</lastuse>
-      <lastconfirm>2025-12-18T19:54:50+01:00</lastconfirm>
+      <lastuse>2025-12-18T20:30:49+01:00</lastuse>
+      <lastconfirm>2025-12-18T20:00:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
