@@ -73,6 +73,30 @@
     </date>
   </event>
   <event>
+    <id>17929430265</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Roggenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.304974</latitude>
+        <longitude>10.894263</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-18T06:28:57+01:00</create>
+      <lastuse>2025-12-18T10:44:25+01:00</lastuse>
+      <lastconfirm>2025-12-18T08:44:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17929631975</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-12-18T07:13:49+01:00</create>
-      <lastuse>2025-12-18T10:41:11+01:00</lastuse>
-      <lastconfirm>2025-12-18T08:41:11+01:00</lastconfirm>
+      <lastuse>2025-12-18T10:43:40+01:00</lastuse>
+      <lastconfirm>2025-12-18T08:43:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -166,54 +190,6 @@
       <create>2025-12-18T07:49:28+01:00</create>
       <lastuse>2025-12-18T08:50:20+01:00</lastuse>
       <lastconfirm>2025-12-18T08:40:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17929817668</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Adelsried</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417310</latitude>
-        <longitude>10.716511</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-18T07:52:29+01:00</create>
-      <lastuse>2025-12-18T09:21:23+01:00</lastuse>
-      <lastconfirm>2025-12-18T08:41:24+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17930011072</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.395914</latitude>
-        <longitude>11.058904</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-18T08:30:06+01:00</create>
-      <lastuse>2025-12-18T08:57:45+01:00</lastuse>
-      <lastconfirm>2025-12-18T08:42:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +668,8 @@
     </location>
     <date>
       <create>2025-12-18T01:33:41+01:00</create>
-      <lastuse>2025-12-20T08:27:41+01:00</lastuse>
-      <lastconfirm>2025-12-18T08:27:41+01:00</lastconfirm>
+      <lastuse>2025-12-20T08:43:12+01:00</lastuse>
+      <lastconfirm>2025-12-18T08:43:14+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
