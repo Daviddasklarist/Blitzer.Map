@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17936371102</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Meraner Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.386514</latitude>
-        <longitude>10.938178</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-19T05:54:16+01:00</create>
-      <lastuse>2025-12-19T12:42:27+01:00</lastuse>
-      <lastconfirm>2025-12-19T11:42:27+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17937277095</id>
     <type>1</type>
     <speed>30</speed>
@@ -52,7 +28,7 @@
     <id>17937500154</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -68,7 +44,7 @@
     </location>
     <date>
       <create>2025-12-19T09:57:50+01:00</create>
-      <lastuse>2025-12-19T13:14:45+01:00</lastuse>
+      <lastuse>2025-12-19T12:57:50+01:00</lastuse>
       <lastconfirm>2025-12-19T11:44:45+01:00</lastconfirm>
     </date>
   </event>
@@ -118,6 +94,30 @@
       <create>2025-12-16T11:28:37+01:00</create>
       <lastuse>2025-12-19T19:53:07+01:00</lastuse>
       <lastconfirm>2025-12-19T11:53:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17938118162</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414566</latitude>
+        <longitude>10.866395</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-19T11:57:49+01:00</create>
+      <lastuse>2025-12-19T12:32:55+01:00</lastuse>
+      <lastconfirm>2025-12-19T12:02:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -292,7 +292,7 @@
     <id>17304402373</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -308,8 +308,8 @@
     </location>
     <date>
       <create>2025-09-27T10:49:33+02:00</create>
-      <lastuse>2025-12-21T11:31:12+01:00</lastuse>
-      <lastconfirm>2025-12-19T11:31:13+01:00</lastconfirm>
+      <lastuse>2025-12-21T11:58:45+01:00</lastuse>
+      <lastconfirm>2025-12-19T11:58:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -481,12 +481,12 @@
     </date>
   </event>
   <event>
-    <id>17937435014</id>
+    <id>17937918949</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
-      <zip>86179</zip>
+      <zip>86199</zip>
       <city>Augsburg</city>
       <state>DE-HH</state>
       <street>B17</street>
@@ -494,14 +494,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.319948</latitude>
-        <longitude>10.887653</longitude>
+        <latitude>48.324672</latitude>
+        <longitude>10.887652</longitude>
       </point>
     </location>
     <date>
-      <create>2025-12-19T09:41:35+01:00</create>
-      <lastuse>2025-12-19T17:43:26+01:00</lastuse>
-      <lastconfirm>2025-12-19T09:41:35+01:00</lastconfirm>
+      <create>2025-12-19T11:17:29+01:00</create>
+      <lastuse>2025-12-19T19:59:49+01:00</lastuse>
+      <lastconfirm>2025-12-19T11:59:50+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
