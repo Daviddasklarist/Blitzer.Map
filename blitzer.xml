@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17948426970</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Gabelsbergerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.353208</latitude>
+        <longitude>10.873106</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-20T22:51:33+01:00</create>
+      <lastuse>2025-12-21T01:06:58+01:00</lastuse>
+      <lastconfirm>2025-12-20T23:06:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17916466787</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-20T10:42:57+01:00</create>
-      <lastuse>2025-12-21T06:53:25+01:00</lastuse>
-      <lastconfirm>2025-12-20T22:53:25+01:00</lastconfirm>
+      <lastuse>2025-12-21T07:04:23+01:00</lastuse>
+      <lastconfirm>2025-12-20T23:04:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-12-20T21:42:47+01:00</create>
-      <lastuse>2025-12-20T23:31:39+01:00</lastuse>
-      <lastconfirm>2025-12-20T23:01:39+01:00</lastconfirm>
+      <lastuse>2025-12-20T23:38:44+01:00</lastuse>
+      <lastconfirm>2025-12-20T23:08:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
