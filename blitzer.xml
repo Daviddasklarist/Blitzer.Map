@@ -28,7 +28,7 @@
     <id>17951406027</id>
     <type>1</type>
     <speed>0</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,15 +44,15 @@
     </location>
     <date>
       <create>2025-12-21T10:16:25+01:00</create>
-      <lastuse>2025-12-21T18:46:00+01:00</lastuse>
-      <lastconfirm>2025-12-21T17:16:01+01:00</lastconfirm>
+      <lastuse>2025-12-21T19:22:34+01:00</lastuse>
+      <lastconfirm>2025-12-21T17:22:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17952994379</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2025-12-21T15:49:39+01:00</create>
-      <lastuse>2025-12-21T19:09:53+01:00</lastuse>
+      <lastuse>2025-12-21T18:39:53+01:00</lastuse>
       <lastconfirm>2025-12-21T17:09:53+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-21T16:32:26+01:00</create>
-      <lastuse>2025-12-21T19:13:36+01:00</lastuse>
-      <lastconfirm>2025-12-21T17:13:37+01:00</lastconfirm>
+      <lastuse>2025-12-21T19:18:37+01:00</lastuse>
+      <lastconfirm>2025-12-21T17:18:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2025-12-20T10:42:57+01:00</create>
-      <lastuse>2025-12-22T01:11:57+01:00</lastuse>
-      <lastconfirm>2025-12-21T17:11:58+01:00</lastconfirm>
+      <lastuse>2025-12-22T01:21:24+01:00</lastuse>
+      <lastconfirm>2025-12-21T17:21:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -430,6 +430,30 @@
       <create>2025-12-15T13:38:05+01:00</create>
       <lastuse>2025-12-23T15:48:09+01:00</lastuse>
       <lastconfirm>2025-12-21T15:48:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17917192261</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Eichleitnerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352937</latitude>
+        <longitude>10.886012</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-16T13:30:50+01:00</create>
+      <lastuse>2025-12-23T17:15:50+01:00</lastuse>
+      <lastconfirm>2025-12-21T17:15:51+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
