@@ -1,51 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17951386542</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>2</quality>
+    <id>17951406027</id>
+    <type>1</type>
+    <speed>0</speed>
+    <quality>3</quality>
     <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.410406</latitude>
-        <longitude>10.617664</longitude>
+        <latitude>48.416993</latitude>
+        <longitude>10.839241</longitude>
       </point>
     </location>
     <date>
-      <create>2025-12-21T10:12:15+01:00</create>
-      <lastuse>2025-12-21T19:22:19+01:00</lastuse>
-      <lastconfirm>2025-12-21T18:07:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17952994379</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Wohlfarth-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.273453</latitude>
-        <longitude>10.889601</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-21T15:49:39+01:00</create>
-      <lastuse>2025-12-21T17:49:39+01:00</lastuse>
-      <lastconfirm>2025-12-21T17:09:53+01:00</lastconfirm>
+      <create>2025-12-21T10:16:25+01:00</create>
+      <lastuse>2025-12-21T20:13:06+01:00</lastuse>
+      <lastconfirm>2025-12-21T18:13:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
