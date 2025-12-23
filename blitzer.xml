@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17963305442</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Nagahama-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365904</latitude>
+        <longitude>10.913811</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-23T06:34:50+01:00</create>
+      <lastuse>2025-12-23T12:30:34+01:00</lastuse>
+      <lastconfirm>2025-12-23T10:30:35+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17963415541</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-20T10:42:57+01:00</create>
-      <lastuse>2025-12-23T18:27:48+01:00</lastuse>
-      <lastconfirm>2025-12-23T10:27:48+01:00</lastconfirm>
+      <lastuse>2025-12-23T18:33:57+01:00</lastuse>
+      <lastconfirm>2025-12-23T10:33:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-12-25T10:09:18+01:00</lastuse>
-      <lastconfirm>2025-12-23T10:09:19+01:00</lastconfirm>
+      <lastuse>2025-12-25T10:26:11+01:00</lastuse>
+      <lastconfirm>2025-12-23T10:26:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
