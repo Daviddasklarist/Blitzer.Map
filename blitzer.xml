@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-12-23T07:01:02+01:00</create>
-      <lastuse>2025-12-23T12:09:42+01:00</lastuse>
+      <lastuse>2025-12-30T10:20:15+01:00</lastuse>
       <lastconfirm>2025-12-23T10:09:43+01:00</lastconfirm>
     </date>
   </event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-20T10:42:57+01:00</create>
-      <lastuse>2025-12-23T18:16:42+01:00</lastuse>
-      <lastconfirm>2025-12-23T10:16:43+01:00</lastconfirm>
+      <lastuse>2025-12-23T18:22:50+01:00</lastuse>
+      <lastconfirm>2025-12-23T10:22:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -358,6 +358,30 @@
       <create>2025-12-22T14:39:42+01:00</create>
       <lastuse>2025-12-25T07:13:20+01:00</lastuse>
       <lastconfirm>2025-12-23T07:13:20+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17964105100</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Mertingen</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.643136</latitude>
+        <longitude>10.835392</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-23T09:46:29+01:00</create>
+      <lastuse>2025-12-23T16:15:01+01:00</lastuse>
+      <lastconfirm>2025-12-23T09:46:29+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
