@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>17981420564</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.358939</latitude>
+        <longitude>10.851143</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-26T09:53:51+01:00</create>
+      <lastuse>2025-12-26T12:05:02+01:00</lastuse>
+      <lastconfirm>2025-12-26T10:05:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17981423126</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.361237</latitude>
+        <longitude>10.852343</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-26T09:54:50+01:00</create>
+      <lastuse>2025-12-26T12:06:56+01:00</lastuse>
+      <lastconfirm>2025-12-26T10:06:56+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17981434658</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>General-Cramer-Weg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.357364</latitude>
+        <longitude>10.850808</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-26T09:56:29+01:00</create>
+      <lastuse>2025-12-26T12:04:54+01:00</lastuse>
+      <lastconfirm>2025-12-26T10:04:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17944734501</id>
     <type>7</type>
     <speed>70</speed>
@@ -20,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-20T10:42:57+01:00</create>
-      <lastuse>2025-12-26T17:56:06+01:00</lastuse>
-      <lastconfirm>2025-12-26T09:56:08+01:00</lastconfirm>
+      <lastuse>2025-12-26T18:06:31+01:00</lastuse>
+      <lastconfirm>2025-12-26T10:06:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
