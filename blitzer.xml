@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17995151648</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Adelsried</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.418269</latitude>
-        <longitude>10.702945</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-28T17:13:23+01:00</create>
-      <lastuse>2025-12-28T18:59:05+01:00</lastuse>
-      <lastconfirm>2025-12-28T18:39:06+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17995177451</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Adelsried</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417825</latitude>
-        <longitude>10.709591</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-28T17:19:56+01:00</create>
-      <lastuse>2025-12-28T19:38:43+01:00</lastuse>
-      <lastconfirm>2025-12-28T18:38:43+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17995462816</id>
     <type>21</type>
     <speed></speed>
@@ -68,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-28T18:22:18+01:00</create>
-      <lastuse>2025-12-28T19:42:25+01:00</lastuse>
-      <lastconfirm>2025-12-28T18:42:26+01:00</lastconfirm>
+      <lastuse>2025-12-28T19:50:03+01:00</lastuse>
+      <lastconfirm>2025-12-28T18:50:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -86,18 +38,42 @@
     </address>
     <location>
       <point>
-        <latitude>48.405707</latitude>
-        <longitude>10.566981</longitude>
+        <latitude>48.404485</latitude>
+        <longitude>10.562161</longitude>
       </point>
     </location>
     <date>
       <create>2025-12-28T18:13:01+01:00</create>
-      <lastuse>2025-12-28T18:52:00+01:00</lastuse>
+      <lastuse>2025-12-28T18:58:00+01:00</lastuse>
       <lastconfirm>2025-12-28T18:13:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17995569872</id>
+    <id>17995569875</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417875</latitude>
+        <longitude>10.708287</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-28T18:46:01+01:00</create>
+      <lastuse>2025-12-28T18:58:00+01:00</lastuse>
+      <lastconfirm>2025-12-28T18:46:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17995576077</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -115,18 +91,18 @@
       </point>
     </location>
     <date>
-      <create>2025-12-28T18:46:01+01:00</create>
-      <lastuse>2025-12-28T18:52:00+01:00</lastuse>
-      <lastconfirm>2025-12-28T18:46:01+01:00</lastconfirm>
+      <create>2025-12-28T18:48:01+01:00</create>
+      <lastuse>2025-12-28T18:58:00+01:00</lastuse>
+      <lastconfirm>2025-12-28T18:48:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>17995569875</id>
+    <id>17995598035</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86477</zip>
+      <zip>86441</zip>
       <city>Landkreis Augsburg</city>
       <state>DE-BY</state>
       <street>A8</street>
@@ -134,14 +110,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.417986</latitude>
-        <longitude>10.706620</longitude>
+        <latitude>48.419781</latitude>
+        <longitude>10.684980</longitude>
       </point>
     </location>
     <date>
-      <create>2025-12-28T18:46:01+01:00</create>
-      <lastuse>2025-12-28T18:52:00+01:00</lastuse>
-      <lastconfirm>2025-12-28T18:46:01+01:00</lastconfirm>
+      <create>2025-12-28T18:53:02+01:00</create>
+      <lastuse>2025-12-28T18:58:00+01:00</lastuse>
+      <lastconfirm>2025-12-28T18:53:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +260,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2025-12-30T18:14:36+01:00</lastuse>
-      <lastconfirm>2025-12-28T18:14:36+01:00</lastconfirm>
+      <lastuse>2025-12-30T18:47:21+01:00</lastuse>
+      <lastconfirm>2025-12-28T18:47:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
