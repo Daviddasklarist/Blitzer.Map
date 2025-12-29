@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>18101597329</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.348109</latitude>
+        <longitude>10.871164</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-29T16:04:27+01:00</create>
+      <lastuse>2025-12-29T18:04:27+01:00</lastuse>
+      <lastconfirm>2025-12-29T16:09:13+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18101296780</id>
     <type>7</type>
     <speed>0</speed>
@@ -68,32 +92,8 @@
     </location>
     <date>
       <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2025-12-29T20:08:35+01:00</lastuse>
-      <lastconfirm>2025-12-29T16:08:35+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18100157617</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.329859</latitude>
-        <longitude>10.886832</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-29T10:41:25+01:00</create>
-      <lastuse>2025-12-29T16:25:24+01:00</lastuse>
-      <lastconfirm>2025-12-29T16:05:25+01:00</lastconfirm>
+      <lastuse>2025-12-29T20:12:48+01:00</lastuse>
+      <lastconfirm>2025-12-29T16:12:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -388,7 +388,7 @@
     <id>17999088869</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -404,7 +404,7 @@
     </location>
     <date>
       <create>2025-12-29T09:47:25+01:00</create>
-      <lastuse>2025-12-29T21:51:31+01:00</lastuse>
+      <lastuse>2025-12-29T17:51:31+01:00</lastuse>
       <lastconfirm>2025-12-29T09:47:25+01:00</lastconfirm>
     </date>
   </event>
