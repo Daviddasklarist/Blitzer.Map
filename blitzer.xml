@@ -49,30 +49,6 @@
     </date>
   </event>
   <event>
-    <id>18102259644</id>
-    <type>1</type>
-    <speed>20</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Gabelsbergerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.347417</latitude>
-        <longitude>10.871642</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-29T18:31:36+01:00</create>
-      <lastuse>2025-12-29T20:31:36+01:00</lastuse>
-      <lastconfirm>2025-12-29T18:49:52+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18102309551</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2025-12-29T23:27:29+01:00</lastuse>
-      <lastconfirm>2025-12-29T19:27:30+01:00</lastconfirm>
+      <lastuse>2025-12-29T23:31:45+01:00</lastuse>
+      <lastconfirm>2025-12-29T19:31:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2025-12-31T18:42:52+01:00</lastuse>
-      <lastconfirm>2025-12-29T18:42:52+01:00</lastconfirm>
+      <lastuse>2025-12-31T10:42:52+01:00</lastuse>
+      <lastconfirm>2025-03-08T09:54:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -454,6 +430,30 @@
       <create>2025-12-22T11:52:13+01:00</create>
       <lastuse>2025-12-30T15:53:08+01:00</lastuse>
       <lastconfirm>2025-12-28T15:53:08+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18102337118</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-HH</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.360504</latitude>
+        <longitude>10.851882</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-29T18:49:25+01:00</create>
+      <lastuse>2025-12-30T03:27:33+01:00</lastuse>
+      <lastconfirm>2025-12-29T19:27:33+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
