@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18100400846</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Südtiroler Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.383632</latitude>
-        <longitude>10.946138</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-29T11:38:21+01:00</create>
-      <lastuse>2025-12-29T20:22:45+01:00</lastuse>
-      <lastconfirm>2025-12-29T19:52:45+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18101498266</id>
     <type>1</type>
     <speed>50</speed>
@@ -46,6 +22,30 @@
       <create>2025-12-29T15:41:16+01:00</create>
       <lastuse>2025-12-29T21:07:11+01:00</lastuse>
       <lastconfirm>2025-12-29T19:07:11+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18102259644</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Gabelsbergerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.347417</latitude>
+        <longitude>10.871642</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-29T18:31:36+01:00</create>
+      <lastuse>2025-12-29T22:19:02+01:00</lastuse>
+      <lastconfirm>2025-12-29T20:19:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -73,27 +73,27 @@
     </date>
   </event>
   <event>
-    <id>18102321849</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
+    <id>18101296780</id>
+    <type>7</type>
+    <speed>0</speed>
+    <quality>3</quality>
     <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
+      <zip>86169</zip>
+      <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>B17</street>
+      <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.367592</latitude>
-        <longitude>10.854500</longitude>
+        <latitude>48.409677</latitude>
+        <longitude>10.921547</longitude>
       </point>
     </location>
     <date>
-      <create>2025-12-29T18:45:09+01:00</create>
-      <lastuse>2025-12-29T21:14:21+01:00</lastuse>
-      <lastconfirm>2025-12-29T20:14:21+01:00</lastconfirm>
+      <create>2025-12-29T14:56:35+01:00</create>
+      <lastuse>2025-12-29T23:51:24+01:00</lastuse>
+      <lastconfirm>2025-12-29T20:21:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +404,8 @@
     </location>
     <date>
       <create>2025-12-29T18:49:25+01:00</create>
-      <lastuse>2025-12-30T03:31:06+01:00</lastuse>
-      <lastconfirm>2025-12-29T19:31:07+01:00</lastconfirm>
+      <lastuse>2025-12-30T01:31:06+01:00</lastuse>
+      <lastconfirm>2025-12-29T18:49:25+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
