@@ -20,15 +20,15 @@
     </location>
     <date>
       <create>2025-12-29T06:01:08+01:00</create>
-      <lastuse>2025-12-29T14:46:12+01:00</lastuse>
-      <lastconfirm>2025-12-29T12:46:13+01:00</lastconfirm>
+      <lastuse>2025-12-29T14:48:43+01:00</lastuse>
+      <lastconfirm>2025-12-29T12:48:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>17998488395</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2025-12-29T07:14:14+01:00</create>
-      <lastuse>2025-12-29T14:44:12+01:00</lastuse>
+      <lastuse>2025-12-29T13:44:12+01:00</lastuse>
       <lastconfirm>2025-12-29T12:44:12+01:00</lastconfirm>
     </date>
   </event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-29T07:43:13+01:00</create>
-      <lastuse>2025-12-29T14:30:31+01:00</lastuse>
-      <lastconfirm>2025-12-29T12:30:33+01:00</lastconfirm>
+      <lastuse>2025-12-29T14:50:26+01:00</lastuse>
+      <lastconfirm>2025-12-29T12:50:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,32 @@
     </location>
     <date>
       <create>2025-12-29T09:48:01+01:00</create>
-      <lastuse>2025-12-29T14:45:38+01:00</lastuse>
-      <lastconfirm>2025-12-29T12:45:39+01:00</lastconfirm>
+      <lastuse>2025-12-29T14:52:40+01:00</lastuse>
+      <lastconfirm>2025-12-29T12:52:40+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18100269655</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Friedberger Berg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.354995</latitude>
+        <longitude>10.977139</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-29T11:08:15+01:00</create>
+      <lastuse>2025-12-29T14:49:01+01:00</lastuse>
+      <lastconfirm>2025-12-29T12:49:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,30 +169,6 @@
     </date>
   </event>
   <event>
-    <id>18100616617</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Adelzhausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.362050</latitude>
-        <longitude>11.124634</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-29T12:26:47+01:00</create>
-      <lastuse>2025-12-29T12:55:08+01:00</lastuse>
-      <lastconfirm>2025-12-29T12:45:09+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18100157617</id>
     <type>20</type>
     <speed></speed>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-12-29T10:41:25+01:00</create>
-      <lastuse>2025-12-29T13:47:46+01:00</lastuse>
-      <lastconfirm>2025-12-29T12:47:46+01:00</lastconfirm>
+      <lastuse>2025-12-29T13:53:54+01:00</lastuse>
+      <lastconfirm>2025-12-29T12:53:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +500,8 @@
     </location>
     <date>
       <create>2025-12-29T09:47:25+01:00</create>
-      <lastuse>2025-12-29T20:44:49+01:00</lastuse>
-      <lastconfirm>2025-12-29T12:44:49+01:00</lastconfirm>
+      <lastuse>2025-12-29T20:48:12+01:00</lastuse>
+      <lastconfirm>2025-12-29T12:48:14+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
