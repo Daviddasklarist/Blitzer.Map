@@ -28,7 +28,7 @@
     <id>18106987223</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2025-12-30T20:12:12+01:00</lastuse>
-      <lastconfirm>2025-12-30T16:12:13+01:00</lastconfirm>
+      <lastuse>2025-12-30T20:17:06+01:00</lastuse>
+      <lastconfirm>2025-12-30T16:17:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,32 @@
     </location>
     <date>
       <create>2025-12-30T16:09:01+01:00</create>
-      <lastuse>2025-12-30T16:17:00+01:00</lastuse>
+      <lastuse>2025-12-30T16:22:00+01:00</lastuse>
       <lastconfirm>2025-12-30T16:09:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18107515750</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.394870</latitude>
+        <longitude>11.062319</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-30T16:17:01+01:00</create>
+      <lastuse>2025-12-30T16:22:00+01:00</lastuse>
+      <lastconfirm>2025-12-30T16:17:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2025-11-25T14:52:27+01:00</create>
-      <lastuse>2026-01-01T15:25:27+01:00</lastuse>
-      <lastconfirm>2025-12-30T15:25:27+01:00</lastconfirm>
+      <lastuse>2026-01-01T16:11:16+01:00</lastuse>
+      <lastconfirm>2025-12-30T16:11:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -484,7 +508,7 @@
     <id>18105985234</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86154</zip>
       <city>Augsburg</city>
@@ -500,56 +524,8 @@
     </location>
     <date>
       <create>2025-12-30T10:32:52+01:00</create>
-      <lastuse>2025-12-31T00:08:34+01:00</lastuse>
-      <lastconfirm>2025-12-30T16:08:35+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18106641404</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.397175</latitude>
-        <longitude>10.867758</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-30T13:02:44+01:00</create>
-      <lastuse>2025-12-30T22:08:20+01:00</lastuse>
-      <lastconfirm>2025-12-30T13:02:44+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18106798789</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.389898</latitude>
-        <longitude>10.861540</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-30T13:39:02+01:00</create>
-      <lastuse>2025-12-30T22:08:27+01:00</lastuse>
-      <lastconfirm>2025-12-30T13:39:02+01:00</lastconfirm>
+      <lastuse>2025-12-30T18:08:34+01:00</lastuse>
+      <lastconfirm>2025-12-30T10:32:52+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
