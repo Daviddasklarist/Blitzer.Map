@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-30T10:26:48+01:00</create>
-      <lastuse>2025-12-30T18:02:54+01:00</lastuse>
-      <lastconfirm>2025-12-30T16:02:54+01:00</lastconfirm>
+      <lastuse>2025-12-30T18:22:50+01:00</lastuse>
+      <lastconfirm>2025-12-30T16:22:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,32 @@
     </location>
     <date>
       <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2025-12-30T20:17:06+01:00</lastuse>
-      <lastconfirm>2025-12-30T16:17:06+01:00</lastconfirm>
+      <lastuse>2025-12-30T20:22:45+01:00</lastuse>
+      <lastconfirm>2025-12-30T16:22:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18107305347</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.357650</latitude>
+        <longitude>10.910487</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-30T15:30:35+01:00</create>
+      <lastuse>2025-12-30T17:19:41+01:00</lastuse>
+      <lastconfirm>2025-12-30T16:19:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,32 +188,8 @@
     </location>
     <date>
       <create>2025-12-30T16:09:01+01:00</create>
-      <lastuse>2025-12-30T16:22:00+01:00</lastuse>
+      <lastuse>2025-12-30T16:28:00+01:00</lastuse>
       <lastconfirm>2025-12-30T16:09:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18107515750</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.394870</latitude>
-        <longitude>11.062319</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-30T16:17:01+01:00</create>
-      <lastuse>2025-12-30T16:22:00+01:00</lastuse>
-      <lastconfirm>2025-12-30T16:17:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -502,30 +502,6 @@
       <create>2025-12-30T09:56:05+01:00</create>
       <lastuse>2026-01-01T15:56:11+01:00</lastuse>
       <lastconfirm>2025-12-30T15:56:11+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18105985234</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.397968</latitude>
-        <longitude>10.869060</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-30T10:32:52+01:00</create>
-      <lastuse>2025-12-30T18:08:34+01:00</lastuse>
-      <lastconfirm>2025-12-30T10:32:52+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
