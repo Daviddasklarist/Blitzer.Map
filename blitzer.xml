@@ -69,7 +69,7 @@
     <date>
       <create>2025-12-30T10:17:25+01:00</create>
       <lastuse>2025-12-30T14:17:25+01:00</lastuse>
-      <lastconfirm>2025-12-30T11:06:57+01:00</lastconfirm>
+      <lastconfirm>2025-12-30T11:12:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -100,7 +100,7 @@
     <id>18101296780</id>
     <type>7</type>
     <speed>0</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2025-12-30T15:07:35+01:00</lastuse>
-      <lastconfirm>2025-12-30T11:07:35+01:00</lastconfirm>
+      <lastuse>2025-12-30T14:12:53+01:00</lastuse>
+      <lastconfirm>2025-12-30T11:12:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -142,6 +142,30 @@
       <create>2025-12-30T10:16:50+01:00</create>
       <lastuse>2025-12-30T11:38:31+01:00</lastuse>
       <lastconfirm>2025-12-30T10:58:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18106122246</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.354332</latitude>
+        <longitude>10.853233</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-30T11:06:39+01:00</create>
+      <lastuse>2025-12-30T12:11:23+01:00</lastuse>
+      <lastconfirm>2025-12-30T11:11:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2025-12-30T10:32:52+01:00</create>
-      <lastuse>2025-12-30T19:01:17+01:00</lastuse>
-      <lastconfirm>2025-12-30T11:01:17+01:00</lastconfirm>
+      <lastuse>2025-12-30T19:05:40+01:00</lastuse>
+      <lastconfirm>2025-12-30T11:05:41+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
