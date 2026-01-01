@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18120044994</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kurt-Schumacher-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.375598</latitude>
+        <longitude>10.928582</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-01T23:48:53+01:00</create>
+      <lastuse>2026-01-02T02:49:23+01:00</lastuse>
+      <lastconfirm>2026-01-02T00:49:24+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18101296780</id>
     <type>7</type>
     <speed>0</speed>
