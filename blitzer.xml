@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18123471692</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Südtiroler Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383300</latitude>
+        <longitude>10.944708</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-02T14:41:43+01:00</create>
+      <lastuse>2026-01-02T16:49:00+01:00</lastuse>
+      <lastconfirm>2026-01-02T14:49:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18101296780</id>
+    <type>7</type>
+    <speed>0</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409307</latitude>
+        <longitude>10.923843</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-29T14:56:35+01:00</create>
+      <lastuse>2026-01-02T18:17:31+01:00</lastuse>
+      <lastconfirm>2026-01-02T14:47:31+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18123119972</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86477</zip>
       <city>Adelsried</city>
@@ -20,15 +68,15 @@
     </location>
     <date>
       <create>2026-01-02T13:25:48+01:00</create>
-      <lastuse>2026-01-02T15:12:20+01:00</lastuse>
-      <lastconfirm>2026-01-02T14:42:20+01:00</lastconfirm>
+      <lastuse>2026-01-02T14:54:21+01:00</lastuse>
+      <lastconfirm>2026-01-02T14:44:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18123424410</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -44,8 +92,32 @@
     </location>
     <date>
       <create>2026-01-02T14:31:17+01:00</create>
-      <lastuse>2026-01-02T15:12:49+01:00</lastuse>
-      <lastconfirm>2026-01-02T14:42:49+01:00</lastconfirm>
+      <lastuse>2026-01-02T15:05:08+01:00</lastuse>
+      <lastconfirm>2026-01-02T14:45:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18123431278</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.476984</latitude>
+        <longitude>10.869232</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-02T14:33:49+01:00</create>
+      <lastuse>2026-01-02T15:05:02+01:00</lastuse>
+      <lastconfirm>2026-01-02T14:45:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +140,8 @@
     </location>
     <date>
       <create>2026-01-02T13:50:51+01:00</create>
-      <lastuse>2026-01-02T15:39:11+01:00</lastuse>
-      <lastconfirm>2026-01-02T14:39:12+01:00</lastconfirm>
+      <lastuse>2026-01-02T15:27:19+01:00</lastuse>
+      <lastconfirm>2026-01-02T14:47:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +260,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2026-01-04T13:20:52+01:00</lastuse>
-      <lastconfirm>2026-01-02T13:20:53+01:00</lastconfirm>
+      <lastuse>2026-01-04T14:42:31+01:00</lastuse>
+      <lastconfirm>2026-01-02T14:42:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +452,8 @@
     </location>
     <date>
       <create>2025-12-30T09:56:05+01:00</create>
-      <lastuse>2026-01-03T22:27:07+01:00</lastuse>
-      <lastconfirm>2026-01-01T22:27:08+01:00</lastconfirm>
+      <lastuse>2026-01-04T14:42:16+01:00</lastuse>
+      <lastconfirm>2026-01-02T14:42:16+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
