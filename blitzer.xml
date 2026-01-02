@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18121356760</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Reinöhlstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.381067</latitude>
+        <longitude>10.870394</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-02T06:01:38+01:00</create>
+      <lastuse>2026-01-02T08:53:12+01:00</lastuse>
+      <lastconfirm>2026-01-02T06:53:13+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18101296780</id>
     <type>7</type>
     <speed>0</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2026-01-02T10:48:56+01:00</lastuse>
-      <lastconfirm>2026-01-02T06:48:56+01:00</lastconfirm>
+      <lastuse>2026-01-02T10:55:58+01:00</lastuse>
+      <lastconfirm>2026-01-02T06:55:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
