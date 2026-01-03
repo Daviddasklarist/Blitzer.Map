@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18129913464</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>St 2027</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417004</latitude>
+        <longitude>10.598763</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-03T15:22:14+01:00</create>
+      <lastuse>2026-01-03T18:00:21+01:00</lastuse>
+      <lastconfirm>2026-01-03T16:00:21+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18129930344</id>
     <type>29</type>
     <speed></speed>
@@ -20,8 +44,32 @@
     </location>
     <date>
       <create>2026-01-03T15:25:03+01:00</create>
-      <lastuse>2026-01-03T16:26:30+01:00</lastuse>
-      <lastconfirm>2026-01-03T15:56:31+01:00</lastconfirm>
+      <lastuse>2026-01-03T16:29:40+01:00</lastuse>
+      <lastconfirm>2026-01-03T15:59:41+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18130055189</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.242609</latitude>
+        <longitude>10.869949</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-03T15:51:05+01:00</create>
+      <lastuse>2026-01-03T16:32:50+01:00</lastuse>
+      <lastconfirm>2026-01-03T16:02:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +164,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2026-01-05T04:38:37+01:00</lastuse>
-      <lastconfirm>2025-07-08T11:03:12+02:00</lastconfirm>
+      <lastuse>2026-01-05T15:57:25+01:00</lastuse>
+      <lastconfirm>2026-01-03T15:57:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
