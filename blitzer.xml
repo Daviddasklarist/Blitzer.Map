@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18101296780</id>
+    <type>7</type>
+    <speed>0</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409307</latitude>
+        <longitude>10.923843</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-29T14:56:35+01:00</create>
+      <lastuse>2026-01-03T17:28:16+01:00</lastuse>
+      <lastconfirm>2026-01-03T13:28:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18128797209</id>
     <type>7</type>
     <speed>120</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-03T11:26:08+01:00</create>
-      <lastuse>2026-01-03T17:22:11+01:00</lastuse>
-      <lastconfirm>2026-01-03T13:22:11+01:00</lastconfirm>
+      <lastuse>2026-01-03T16:58:08+01:00</lastuse>
+      <lastconfirm>2026-01-03T13:28:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -31,45 +55,45 @@
     <quality>3</quality>
     <address>
       <zip>86169</zip>
-      <city>Augsburg</city>
+      <city>Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.408560</latitude>
-        <longitude>10.928397</longitude>
+        <latitude>48.408298</latitude>
+        <longitude>10.929963</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-03T13:10:02+01:00</create>
-      <lastuse>2026-01-03T13:27:00+01:00</lastuse>
+      <lastuse>2026-01-03T13:33:00+01:00</lastuse>
       <lastconfirm>2026-01-03T13:10:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18129337484</id>
+    <id>18129341029</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
       <zip>86316</zip>
-      <city>Landkreis Aichach-Friedberg</city>
+      <city>Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.401724</latitude>
-        <longitude>10.980232</longitude>
+        <latitude>48.401497</latitude>
+        <longitude>10.988164</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-03T13:22:02+01:00</create>
-      <lastuse>2026-01-03T13:27:00+01:00</lastuse>
-      <lastconfirm>2026-01-03T13:22:02+01:00</lastconfirm>
+      <create>2026-01-03T13:23:03+01:00</create>
+      <lastuse>2026-01-03T13:33:00+01:00</lastuse>
+      <lastconfirm>2026-01-03T13:23:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
