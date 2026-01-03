@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18129821811</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86163</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Zugspitzstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.357001</latitude>
-        <longitude>10.942980</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-03T15:03:35+01:00</create>
-      <lastuse>2026-01-03T18:38:46+01:00</lastuse>
-      <lastconfirm>2026-01-03T17:38:46+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18129913465</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>St 2027</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.418844</latitude>
-        <longitude>10.598706</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-03T15:22:26+01:00</create>
-      <lastuse>2026-01-03T18:22:26+01:00</lastuse>
-      <lastconfirm>2026-01-03T16:13:44+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18130530883</id>
     <type>1</type>
     <speed>30</speed>
@@ -70,30 +22,6 @@
       <create>2026-01-03T17:29:57+01:00</create>
       <lastuse>2026-01-03T19:59:47+01:00</lastuse>
       <lastconfirm>2026-01-03T17:59:47+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18130407336</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Alter Postweg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.338429</latitude>
-        <longitude>10.899279</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-03T17:04:55+01:00</create>
-      <lastuse>2026-01-03T18:23:49+01:00</lastuse>
-      <lastconfirm>2026-01-03T17:53:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
