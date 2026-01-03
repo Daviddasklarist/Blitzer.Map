@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18129411882</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>AIC 25</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370752</latitude>
+        <longitude>10.960120</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-03T13:38:33+01:00</create>
+      <lastuse>2026-01-03T15:57:58+01:00</lastuse>
+      <lastconfirm>2026-01-03T13:57:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18101296780</id>
     <type>7</type>
     <speed>0</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2026-01-03T13:47:42+01:00</lastuse>
-      <lastconfirm>2026-01-03T13:52:44+01:00</lastconfirm>
+      <lastuse>2026-01-03T17:57:54+01:00</lastuse>
+      <lastconfirm>2026-01-03T13:57:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2026-01-03T13:26:59+01:00</create>
-      <lastuse>2026-01-03T14:17:01+01:00</lastuse>
+      <lastuse>2026-01-03T14:07:01+01:00</lastuse>
       <lastconfirm>2026-01-03T13:47:01+01:00</lastconfirm>
     </date>
   </event>
@@ -62,13 +86,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.401856</latitude>
-        <longitude>10.969129</longitude>
+        <latitude>48.401717</latitude>
+        <longitude>10.970710</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-03T13:53:02+01:00</create>
-      <lastuse>2026-01-03T13:58:00+01:00</lastuse>
+      <lastuse>2026-01-03T14:02:00+01:00</lastuse>
       <lastconfirm>2026-01-03T13:53:02+01:00</lastconfirm>
     </date>
   </event>
