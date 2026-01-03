@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18101296780</id>
-    <type>7</type>
-    <speed>0</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.409307</latitude>
-        <longitude>10.923843</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2026-01-03T15:50:32+01:00</lastuse>
-      <lastconfirm>2026-01-03T12:20:33+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18128797209</id>
     <type>7</type>
     <speed>120</speed>
@@ -44,8 +20,32 @@
     </location>
     <date>
       <create>2026-01-03T11:26:08+01:00</create>
-      <lastuse>2026-01-03T16:22:25+01:00</lastuse>
-      <lastconfirm>2026-01-03T12:22:25+01:00</lastconfirm>
+      <lastuse>2026-01-03T16:26:09+01:00</lastuse>
+      <lastconfirm>2026-01-03T12:26:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18129070831</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.408042</latitude>
+        <longitude>10.931530</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-03T12:26:02+01:00</create>
+      <lastuse>2026-01-03T12:32:00+01:00</lastuse>
+      <lastconfirm>2026-01-03T12:26:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-11-10T18:00:29+01:00</create>
-      <lastuse>2026-01-04T01:41:21+01:00</lastuse>
-      <lastconfirm>2025-11-10T18:00:29+01:00</lastconfirm>
+      <lastuse>2026-01-05T12:24:33+01:00</lastuse>
+      <lastconfirm>2026-01-03T12:24:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
