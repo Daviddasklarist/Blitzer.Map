@@ -4,7 +4,7 @@
     <id>18101296780</id>
     <type>7</type>
     <speed>0</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2025-12-29T14:56:35+01:00</create>
-      <lastuse>2026-01-03T17:28:16+01:00</lastuse>
-      <lastconfirm>2026-01-03T13:28:17+01:00</lastconfirm>
+      <lastuse>2026-01-03T17:01:56+01:00</lastuse>
+      <lastconfirm>2026-01-03T13:31:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,32 +44,8 @@
     </location>
     <date>
       <create>2026-01-03T11:26:08+01:00</create>
-      <lastuse>2026-01-03T16:58:08+01:00</lastuse>
-      <lastconfirm>2026-01-03T13:28:09+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18129284494</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.408298</latitude>
-        <longitude>10.929963</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-03T13:10:02+01:00</create>
-      <lastuse>2026-01-03T13:33:00+01:00</lastuse>
-      <lastconfirm>2026-01-03T13:10:02+01:00</lastconfirm>
+      <lastuse>2026-01-03T17:32:27+01:00</lastuse>
+      <lastconfirm>2026-01-03T13:32:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -79,21 +55,45 @@
     <quality>3</quality>
     <address>
       <zip>86316</zip>
-      <city>Friedberg</city>
+      <city>Landkreis Aichach-Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.401497</latitude>
-        <longitude>10.988164</longitude>
+        <latitude>48.401182</latitude>
+        <longitude>10.992917</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-03T13:23:03+01:00</create>
-      <lastuse>2026-01-03T13:33:00+01:00</lastuse>
+      <lastuse>2026-01-03T13:37:00+01:00</lastuse>
       <lastconfirm>2026-01-03T13:23:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18129387573</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401724</latitude>
+        <longitude>10.980232</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-03T13:32:02+01:00</create>
+      <lastuse>2026-01-03T13:37:00+01:00</lastuse>
+      <lastconfirm>2026-01-03T13:32:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
