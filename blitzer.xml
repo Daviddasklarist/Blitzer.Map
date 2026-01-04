@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18137287033</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Nordendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.586723</latitude>
+        <longitude>10.840400</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-04T19:59:01+01:00</create>
+      <lastuse>2026-01-04T20:57:08+01:00</lastuse>
+      <lastconfirm>2026-01-04T20:27:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17208612517</id>
     <type>26</type>
     <speed></speed>
