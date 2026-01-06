@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18145892635</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413751</latitude>
+        <longitude>10.894733</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-06T08:49:59+01:00</create>
+      <lastuse>2026-01-06T14:53:32+01:00</lastuse>
+      <lastconfirm>2026-01-06T13:23:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18146986945</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.361720</latitude>
+        <longitude>10.852768</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-06T13:14:51+01:00</create>
+      <lastuse>2026-01-06T17:14:51+01:00</lastuse>
+      <lastconfirm>2026-01-06T13:21:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18146996058</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Oberottmarshausen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.229324</latitude>
+        <longitude>10.866776</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-06T13:15:49+01:00</create>
+      <lastuse>2026-01-06T17:15:49+01:00</lastuse>
+      <lastconfirm>2026-01-06T13:22:42+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18146245822</id>
     <type>7</type>
     <speed>120</speed>
@@ -20,7 +92,7 @@
     </location>
     <date>
       <create>2026-01-06T10:17:29+01:00</create>
-      <lastuse>2026-01-06T21:18:15+01:00</lastuse>
+      <lastuse>2026-01-06T19:18:15+01:00</lastuse>
       <lastconfirm>2026-01-06T13:18:15+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +236,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-01-08T11:51:12+01:00</lastuse>
-      <lastconfirm>2026-01-06T11:51:14+01:00</lastconfirm>
+      <lastuse>2026-01-08T13:16:05+01:00</lastuse>
+      <lastconfirm>2026-01-06T13:16:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
