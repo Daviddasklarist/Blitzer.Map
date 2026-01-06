@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18145892635</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413751</latitude>
+        <longitude>10.894733</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-06T08:49:59+01:00</create>
+      <lastuse>2026-01-06T12:49:59+01:00</lastuse>
+      <lastconfirm>2026-01-06T09:01:41+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17208612517</id>
     <type>26</type>
     <speed></speed>
