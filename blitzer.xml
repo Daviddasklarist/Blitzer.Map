@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18150901195</id>
+    <id>18150901194</id>
     <type>1</type>
     <speed>50</speed>
     <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.336624</latitude>
+        <longitude>10.907925</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-07T05:56:35+01:00</create>
+      <lastuse>2026-01-07T08:25:43+01:00</lastuse>
+      <lastconfirm>2026-01-07T06:25:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18150901195</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
     <address>
       <zip>86161</zip>
       <city>Augsburg</city>
@@ -20,8 +44,56 @@
     </location>
     <date>
       <create>2026-01-07T05:56:35+01:00</create>
-      <lastuse>2026-01-07T08:22:58+01:00</lastuse>
-      <lastconfirm>2026-01-07T06:22:58+01:00</lastconfirm>
+      <lastuse>2026-01-07T08:25:28+01:00</lastuse>
+      <lastconfirm>2026-01-07T06:25:28+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18150916199</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Alter Postweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.342432</latitude>
+        <longitude>10.900206</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-07T06:00:34+01:00</create>
+      <lastuse>2026-01-07T08:25:27+01:00</lastuse>
+      <lastconfirm>2026-01-07T06:25:28+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18150916200</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Alter Postweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.343769</latitude>
+        <longitude>10.900143</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-07T06:00:47+01:00</create>
+      <lastuse>2026-01-07T09:00:47+01:00</lastuse>
+      <lastconfirm>2026-01-07T06:25:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +236,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-01-09T05:54:20+01:00</lastuse>
-      <lastconfirm>2026-01-07T05:54:21+01:00</lastconfirm>
+      <lastuse>2026-01-09T06:21:45+01:00</lastuse>
+      <lastconfirm>2026-01-07T06:21:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
