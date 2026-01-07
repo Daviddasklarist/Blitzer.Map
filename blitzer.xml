@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18150901194</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Haunstetter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.336624</latitude>
-        <longitude>10.907925</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-07T05:56:35+01:00</create>
-      <lastuse>2026-01-07T09:02:26+01:00</lastuse>
-      <lastconfirm>2026-01-07T07:02:26+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18150901195</id>
     <type>1</type>
     <speed>50</speed>
@@ -38,13 +14,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.334969</latitude>
-        <longitude>10.907797</longitude>
+        <latitude>48.335169</latitude>
+        <longitude>10.907840</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-07T05:56:35+01:00</create>
-      <lastuse>2026-01-07T09:02:14+01:00</lastuse>
+      <lastuse>2026-01-14T07:12:43+01:00</lastuse>
       <lastconfirm>2026-01-07T07:02:14+01:00</lastconfirm>
     </date>
   </event>
@@ -68,32 +44,32 @@
     </location>
     <date>
       <create>2026-01-07T06:00:34+01:00</create>
-      <lastuse>2026-01-07T08:50:52+01:00</lastuse>
+      <lastuse>2026-01-14T07:12:51+01:00</lastuse>
       <lastconfirm>2026-01-07T06:50:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18150916200</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
+    <id>18151111268</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
     <address>
-      <zip>86159</zip>
+      <zip>86156</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Alter Postweg</street>
+      <street>Kobelweg</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.343769</latitude>
-        <longitude>10.900143</longitude>
+        <latitude>48.384945</latitude>
+        <longitude>10.858457</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-07T06:00:47+01:00</create>
-      <lastuse>2026-01-07T09:00:47+01:00</lastuse>
-      <lastconfirm>2026-01-07T06:50:33+01:00</lastconfirm>
+      <create>2026-01-07T06:55:17+01:00</create>
+      <lastuse>2026-01-07T07:40:06+01:00</lastuse>
+      <lastconfirm>2026-01-07T07:10:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
