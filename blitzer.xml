@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>17536081352</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bürgermeister-Widmeier-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.314019</latitude>
-        <longitude>10.910509</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-07-06T11:27:02+02:00</create>
-      <lastuse>2026-01-08T17:33:12+01:00</lastuse>
-      <lastconfirm>2026-01-06T17:33:13+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17706559160</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bürgermeister-Ulrich-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.326971</latitude>
-        <longitude>10.879087</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-18T12:30:03+01:00</create>
-      <lastuse>2026-01-08T20:51:12+01:00</lastuse>
-      <lastconfirm>2026-01-06T20:51:13+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17208612517</id>
     <type>26</type>
     <speed></speed>
@@ -70,6 +22,54 @@
       <create>2025-02-05T14:47:28+01:00</create>
       <lastuse>2026-01-08T15:55:21+01:00</lastuse>
       <lastconfirm>2026-01-06T15:55:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>15595992108</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Rosenaustraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.363907</latitude>
+        <longitude>10.882507</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-03-08T09:54:17+01:00</create>
+      <lastuse>2026-01-08T23:08:55+01:00</lastuse>
+      <lastconfirm>2026-01-06T23:08:57+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17536081352</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bürgermeister-Widmeier-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.314019</latitude>
+        <longitude>10.910509</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-07-06T11:27:02+02:00</create>
+      <lastuse>2026-01-08T17:33:12+01:00</lastuse>
+      <lastconfirm>2026-01-06T17:33:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,54 +121,6 @@
     </date>
   </event>
   <event>
-    <id>15595992108</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86150</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Rosenaustraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.363907</latitude>
-        <longitude>10.882507</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2026-01-08T23:08:55+01:00</lastuse>
-      <lastconfirm>2026-01-06T23:08:57+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17902172705</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Stephansgasse</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.376923</latitude>
-        <longitude>10.898282</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-12-14T11:32:17+01:00</create>
-      <lastuse>2026-01-08T20:16:24+01:00</lastuse>
-      <lastconfirm>2026-01-06T20:16:24+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>17181045078</id>
     <type>26</type>
     <speed></speed>
@@ -190,54 +142,6 @@
       <create>2025-09-11T18:04:33+02:00</create>
       <lastuse>2026-01-08T12:46:30+01:00</lastuse>
       <lastconfirm>2025-09-11T18:04:33+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17761006717</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-HH</state>
-      <street>Von-Rehlingen-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.386366</latitude>
-        <longitude>10.817415</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-25T15:54:36+01:00</create>
-      <lastuse>2026-01-09T02:50:02+01:00</lastuse>
-      <lastconfirm>2026-01-07T02:50:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>17760647495</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-HH</state>
-      <street>Von-Rehlingen-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.386568</latitude>
-        <longitude>10.817643</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-11-25T14:52:27+01:00</create>
-      <lastuse>2026-01-09T02:48:12+01:00</lastuse>
-      <lastconfirm>2026-01-07T02:48:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -265,7 +169,31 @@
     </date>
   </event>
   <event>
-    <id>18105840585</id>
+    <id>17706559160</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bürgermeister-Ulrich-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.326971</latitude>
+        <longitude>10.879087</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-18T12:30:03+01:00</create>
+      <lastuse>2026-01-08T20:51:12+01:00</lastuse>
+      <lastconfirm>2026-01-06T20:51:13+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17760647495</id>
     <type>26</type>
     <speed></speed>
     <quality>3</quality>
@@ -273,19 +201,67 @@
       <zip>86356</zip>
       <city>Neusäß</city>
       <state>DE-HH</state>
-      <street>Pallerstraße</street>
+      <street>Von-Rehlingen-Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.394109</latitude>
-        <longitude>10.836348</longitude>
+        <latitude>48.386568</latitude>
+        <longitude>10.817643</longitude>
       </point>
     </location>
     <date>
-      <create>2025-12-30T09:56:05+01:00</create>
-      <lastuse>2026-01-08T21:51:00+01:00</lastuse>
-      <lastconfirm>2026-01-06T21:51:00+01:00</lastconfirm>
+      <create>2025-11-25T14:52:27+01:00</create>
+      <lastuse>2026-01-09T02:48:12+01:00</lastuse>
+      <lastconfirm>2026-01-07T02:48:13+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17761006717</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-HH</state>
+      <street>Von-Rehlingen-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.386366</latitude>
+        <longitude>10.817415</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-11-25T15:54:36+01:00</create>
+      <lastuse>2026-01-09T02:50:02+01:00</lastuse>
+      <lastconfirm>2026-01-07T02:50:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>17902172705</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Stephansgasse</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.376923</latitude>
+        <longitude>10.898282</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-14T11:32:17+01:00</create>
+      <lastuse>2026-01-08T20:16:24+01:00</lastuse>
+      <lastconfirm>2026-01-06T20:16:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -310,6 +286,30 @@
       <create>2025-12-22T11:52:13+01:00</create>
       <lastuse>2026-01-07T13:42:18+01:00</lastuse>
       <lastconfirm>2026-01-05T13:42:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18105840585</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-HH</state>
+      <street>Pallerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.394109</latitude>
+        <longitude>10.836348</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2025-12-30T09:56:05+01:00</create>
+      <lastuse>2026-01-08T21:51:00+01:00</lastuse>
+      <lastconfirm>2026-01-06T21:51:00+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
