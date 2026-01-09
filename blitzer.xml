@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18162826156</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Königsbrunner Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.301459</latitude>
+        <longitude>10.901979</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-09T06:47:37+01:00</create>
+      <lastuse>2026-01-09T09:07:27+01:00</lastuse>
+      <lastconfirm>2026-01-09T07:07:28+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18152511989</id>
     <type>7</type>
     <speed>20</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-09T06:50:34+01:00</create>
-      <lastuse>2026-01-09T07:31:28+01:00</lastuse>
-      <lastconfirm>2026-01-09T07:01:29+01:00</lastconfirm>
+      <lastuse>2026-01-09T07:35:22+01:00</lastuse>
+      <lastconfirm>2026-01-09T07:05:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
