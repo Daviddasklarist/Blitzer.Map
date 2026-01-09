@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18163769938</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Mertingen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.636177</latitude>
+        <longitude>10.835403</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-09T10:30:58+01:00</create>
+      <lastuse>2026-01-09T19:49:44+01:00</lastuse>
+      <lastconfirm>2026-01-09T17:49:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18164300516</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +116,32 @@
     </location>
     <date>
       <create>2026-01-07T12:28:19+01:00</create>
-      <lastuse>2026-01-10T01:42:14+01:00</lastuse>
-      <lastconfirm>2026-01-09T17:42:15+01:00</lastconfirm>
+      <lastuse>2026-01-10T01:50:43+01:00</lastuse>
+      <lastconfirm>2026-01-09T17:50:44+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18165740743</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.284789</latitude>
+        <longitude>10.872975</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-09T17:41:48+01:00</create>
+      <lastuse>2026-01-09T18:21:00+01:00</lastuse>
+      <lastconfirm>2026-01-09T17:51:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +284,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-01-11T15:01:23+01:00</lastuse>
-      <lastconfirm>2026-01-09T15:01:23+01:00</lastconfirm>
+      <lastuse>2026-01-11T17:47:52+01:00</lastuse>
+      <lastconfirm>2026-01-09T17:47:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
