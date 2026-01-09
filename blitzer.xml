@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18163769938</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86695</zip>
-      <city>Mertingen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.636177</latitude>
-        <longitude>10.835403</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-09T10:30:58+01:00</create>
-      <lastuse>2026-01-09T17:53:32+01:00</lastuse>
-      <lastconfirm>2026-01-09T16:53:32+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18164065233</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86150</zip>
       <city>Augsburg</city>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2026-01-09T11:36:50+01:00</create>
-      <lastuse>2026-01-09T18:17:48+01:00</lastuse>
+      <lastuse>2026-01-09T17:47:48+01:00</lastuse>
       <lastconfirm>2026-01-09T16:47:48+01:00</lastconfirm>
     </date>
   </event>
@@ -94,30 +70,6 @@
       <create>2026-01-09T14:33:41+01:00</create>
       <lastuse>2026-01-09T18:55:03+01:00</lastuse>
       <lastconfirm>2026-01-09T16:55:04+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18165023117</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Gabelsbergerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.345538</latitude>
-        <longitude>10.869976</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-09T15:05:13+01:00</create>
-      <lastuse>2026-01-09T18:02:39+01:00</lastuse>
-      <lastconfirm>2026-01-09T16:32:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2026-01-11T14:21:42+01:00</lastuse>
-      <lastconfirm>2026-01-09T14:21:43+01:00</lastconfirm>
+      <lastuse>2026-01-11T16:56:15+01:00</lastuse>
+      <lastconfirm>2026-01-09T16:56:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
