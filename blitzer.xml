@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18169163308</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417137</latitude>
-        <longitude>10.837539</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-10T08:12:36+01:00</create>
-      <lastuse>2026-01-10T19:10:32+01:00</lastuse>
-      <lastconfirm>2026-01-10T17:40:33+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18170708079</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2026-01-10T14:31:01+01:00</create>
-      <lastuse>2026-01-10T17:47:21+01:00</lastuse>
-      <lastconfirm>2026-01-10T15:47:22+01:00</lastconfirm>
+      <lastuse>2026-01-10T19:43:46+01:00</lastuse>
+      <lastconfirm>2026-01-10T17:43:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +52,7 @@
     <id>18171279114</id>
     <type>21</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86485</zip>
       <city>Meitingen</city>
@@ -92,7 +68,7 @@
     </location>
     <date>
       <create>2026-01-10T16:48:32+01:00</create>
-      <lastuse>2026-01-10T18:42:07+01:00</lastuse>
+      <lastuse>2026-01-10T18:02:07+01:00</lastuse>
       <lastconfirm>2026-01-10T17:42:09+01:00</lastconfirm>
     </date>
   </event>
@@ -116,8 +92,32 @@
     </location>
     <date>
       <create>2026-01-10T16:49:32+01:00</create>
-      <lastuse>2026-01-10T18:29:12+01:00</lastuse>
-      <lastconfirm>2026-01-10T17:29:12+01:00</lastconfirm>
+      <lastuse>2026-01-10T18:45:03+01:00</lastuse>
+      <lastconfirm>2026-01-10T17:45:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18171424383</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.521084</latitude>
+        <longitude>10.836682</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-10T17:24:18+01:00</create>
+      <lastuse>2026-01-10T18:44:52+01:00</lastuse>
+      <lastconfirm>2026-01-10T17:44:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +332,8 @@
     </location>
     <date>
       <create>2025-11-25T15:54:36+01:00</create>
-      <lastuse>2026-01-12T15:40:07+01:00</lastuse>
-      <lastconfirm>2026-01-10T15:40:07+01:00</lastconfirm>
+      <lastuse>2026-01-12T17:41:28+01:00</lastuse>
+      <lastconfirm>2026-01-10T17:41:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
