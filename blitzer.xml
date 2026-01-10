@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18171601162</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schmiedberg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370736</latitude>
+        <longitude>10.900098</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-10T18:07:07+01:00</create>
+      <lastuse>2026-01-10T22:44:34+01:00</lastuse>
+      <lastconfirm>2026-01-10T20:44:35+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18152511989</id>
     <type>7</type>
     <speed>20</speed>
@@ -28,7 +52,7 @@
     <id>18172116378</id>
     <type>7</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,32 +68,32 @@
     </location>
     <date>
       <create>2026-01-10T08:12:36+01:00</create>
-      <lastuse>2026-01-11T00:07:41+01:00</lastuse>
-      <lastconfirm>2026-01-10T20:37:42+01:00</lastconfirm>
+      <lastuse>2026-01-11T00:46:00+01:00</lastuse>
+      <lastconfirm>2026-01-10T20:46:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18172202705</id>
-    <type>20</type>
+    <id>18172197658</id>
+    <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
-      <zip>86441</zip>
-      <city>Landkreis Augsburg</city>
+      <zip>86169</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.414779</latitude>
-        <longitude>10.664205</longitude>
+        <latitude>48.414137</latitude>
+        <longitude>10.888769</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-10T20:39:01+01:00</create>
-      <lastuse>2026-01-10T20:48:00+01:00</lastuse>
-      <lastconfirm>2026-01-10T20:39:01+01:00</lastconfirm>
+      <create>2026-01-10T20:37:10+01:00</create>
+      <lastuse>2026-01-10T21:16:32+01:00</lastuse>
+      <lastconfirm>2026-01-10T20:46:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2026-01-12T19:01:10+01:00</lastuse>
-      <lastconfirm>2026-01-10T19:01:10+01:00</lastconfirm>
+      <lastuse>2026-01-12T20:43:31+01:00</lastuse>
+      <lastconfirm>2026-01-10T20:43:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
