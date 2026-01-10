@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18171601162</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Schmiedberg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.370736</latitude>
-        <longitude>10.900098</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-10T18:07:07+01:00</create>
-      <lastuse>2026-01-10T21:57:47+01:00</lastuse>
-      <lastconfirm>2026-01-10T20:27:47+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18152511989</id>
     <type>7</type>
     <speed>20</speed>
@@ -49,36 +25,36 @@
     </date>
   </event>
   <event>
-    <id>18172138136</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
+    <id>18172116378</id>
+    <type>7</type>
+    <speed>120</speed>
+    <quality>2</quality>
     <address>
-      <zip>86441</zip>
-      <city>Landkreis Augsburg</city>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.409841</latitude>
-        <longitude>10.593161</longitude>
+        <latitude>48.417137</latitude>
+        <longitude>10.837539</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-10T20:23:01+01:00</create>
-      <lastuse>2026-01-10T20:38:00+01:00</lastuse>
-      <lastconfirm>2026-01-10T20:23:01+01:00</lastconfirm>
+      <create>2026-01-10T08:12:36+01:00</create>
+      <lastuse>2026-01-11T00:37:41+01:00</lastuse>
+      <lastconfirm>2026-01-10T20:37:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18172172047</id>
+    <id>18172200223</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86441</zip>
+      <zip>86477</zip>
       <city>Landkreis Augsburg</city>
       <state>DE-BY</state>
       <street>A8</street>
@@ -86,14 +62,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.409556</latitude>
-        <longitude>10.634569</longitude>
+        <latitude>48.417986</latitude>
+        <longitude>10.706620</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-10T20:31:01+01:00</create>
-      <lastuse>2026-01-10T20:38:00+01:00</lastuse>
-      <lastconfirm>2026-01-10T20:31:01+01:00</lastconfirm>
+      <create>2026-01-10T20:38:01+01:00</create>
+      <lastuse>2026-01-10T20:43:00+01:00</lastuse>
+      <lastconfirm>2026-01-10T20:38:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
