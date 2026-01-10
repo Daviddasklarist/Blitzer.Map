@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>18172116378</id>
+    <type>7</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417137</latitude>
+        <longitude>10.837539</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-10T08:12:36+01:00</create>
+      <lastuse>2026-01-11T01:08:27+01:00</lastuse>
+      <lastconfirm>2026-01-10T21:08:28+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18172174790</id>
     <type>21</type>
     <speed></speed>
@@ -92,32 +116,8 @@
     </location>
     <date>
       <create>2026-01-10T20:37:10+01:00</create>
-      <lastuse>2026-01-10T21:26:48+01:00</lastuse>
-      <lastconfirm>2026-01-10T20:56:48+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18172256478</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396529</latitude>
-        <longitude>11.051671</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-10T20:52:02+01:00</create>
-      <lastuse>2026-01-10T21:08:00+01:00</lastuse>
-      <lastconfirm>2026-01-10T20:52:02+01:00</lastconfirm>
+      <lastuse>2026-01-10T21:35:49+01:00</lastuse>
+      <lastconfirm>2026-01-10T21:05:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,32 @@
     </location>
     <date>
       <create>2026-01-10T21:01:02+01:00</create>
-      <lastuse>2026-01-10T21:08:00+01:00</lastuse>
+      <lastuse>2026-01-10T21:13:00+01:00</lastuse>
       <lastconfirm>2026-01-10T21:01:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18172318654</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396470</latitude>
+        <longitude>11.053215</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-10T21:08:02+01:00</create>
+      <lastuse>2026-01-10T21:13:00+01:00</lastuse>
+      <lastconfirm>2026-01-10T21:08:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
