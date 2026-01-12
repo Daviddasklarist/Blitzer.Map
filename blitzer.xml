@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18182338296</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Donauwörther Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396211</latitude>
+        <longitude>10.881862</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-12T17:23:00+01:00</create>
+      <lastuse>2026-01-12T21:40:53+01:00</lastuse>
+      <lastconfirm>2026-01-12T20:10:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18182951290</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.405553</latitude>
+        <longitude>10.564794</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-12T19:48:31+01:00</create>
+      <lastuse>2026-01-12T20:39:24+01:00</lastuse>
+      <lastconfirm>2026-01-12T20:09:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17208612517</id>
     <type>26</type>
     <speed></speed>
