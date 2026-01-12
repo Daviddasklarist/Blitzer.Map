@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18179911927</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86485</zip>
-      <city>Biberbach</city>
-      <state>DE-BY</state>
-      <street>St 2033</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.524548</latitude>
-        <longitude>10.811620</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-12T07:50:15+01:00</create>
-      <lastuse>2026-01-12T13:43:11+01:00</lastuse>
-      <lastconfirm>2026-01-12T12:43:11+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18180709465</id>
     <type>1</type>
     <speed>100</speed>
@@ -68,7 +44,7 @@
     </location>
     <date>
       <create>2026-01-12T11:29:53+01:00</create>
-      <lastuse>2026-01-12T15:34:44+01:00</lastuse>
+      <lastuse>2026-01-12T15:04:44+01:00</lastuse>
       <lastconfirm>2026-01-12T13:34:45+01:00</lastconfirm>
     </date>
   </event>
@@ -97,34 +73,10 @@
     </date>
   </event>
   <event>
-    <id>18180883838</id>
-    <type>1</type>
-    <speed>10</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Haunstetter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.334524</latitude>
-        <longitude>10.907821</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-12T11:45:42+01:00</create>
-      <lastuse>2026-01-12T14:45:42+01:00</lastuse>
-      <lastconfirm>2026-01-12T13:33:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18181030617</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86836</zip>
       <city>Graben</city>
@@ -140,8 +92,8 @@
     </location>
     <date>
       <create>2026-01-12T12:20:05+01:00</create>
-      <lastuse>2026-01-12T14:32:00+01:00</lastuse>
-      <lastconfirm>2026-01-12T12:32:00+01:00</lastconfirm>
+      <lastuse>2026-01-12T15:43:10+01:00</lastuse>
+      <lastconfirm>2026-01-12T13:43:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +116,8 @@
     </location>
     <date>
       <create>2026-01-12T12:44:50+01:00</create>
-      <lastuse>2026-01-12T15:41:34+01:00</lastuse>
-      <lastconfirm>2026-01-12T13:41:34+01:00</lastconfirm>
+      <lastuse>2026-01-12T15:48:59+01:00</lastuse>
+      <lastconfirm>2026-01-12T13:49:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -190,6 +142,54 @@
       <create>2026-01-07T12:28:19+01:00</create>
       <lastuse>2026-01-12T21:40:55+01:00</lastuse>
       <lastconfirm>2026-01-12T13:40:56+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18181367702</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411959</latitude>
+        <longitude>10.907712</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-12T13:40:52+01:00</create>
+      <lastuse>2026-01-12T14:45:25+01:00</lastuse>
+      <lastconfirm>2026-01-12T13:45:26+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18181389317</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410171</latitude>
+        <longitude>10.918667</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-12T13:45:02+01:00</create>
+      <lastuse>2026-01-12T13:54:00+01:00</lastuse>
+      <lastconfirm>2026-01-12T13:45:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
