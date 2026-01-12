@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18179541501</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Von-Cobres-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.344293</latitude>
+        <longitude>10.870045</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-12T06:14:54+01:00</create>
+      <lastuse>2026-01-12T08:35:44+01:00</lastuse>
+      <lastconfirm>2026-01-12T06:35:44+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18152511989</id>
     <type>7</type>
     <speed>20</speed>
@@ -28,7 +52,7 @@
     <id>18179332964</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-12T05:14:44+01:00</create>
-      <lastuse>2026-01-12T07:03:04+01:00</lastuse>
-      <lastconfirm>2026-01-12T06:33:04+01:00</lastconfirm>
+      <lastuse>2026-01-12T06:57:33+01:00</lastuse>
+      <lastconfirm>2026-01-12T06:37:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2026-01-12T05:40:23+01:00</create>
-      <lastuse>2026-01-12T06:57:27+01:00</lastuse>
-      <lastconfirm>2026-01-12T06:27:28+01:00</lastconfirm>
+      <lastuse>2026-01-12T07:05:48+01:00</lastuse>
+      <lastconfirm>2026-01-12T06:35:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
