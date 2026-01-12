@@ -14,13 +14,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.344293</latitude>
-        <longitude>10.870045</longitude>
+        <latitude>48.343541</latitude>
+        <longitude>10.869825</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-12T06:14:54+01:00</create>
-      <lastuse>2026-01-12T09:07:10+01:00</lastuse>
+      <lastuse>2026-01-19T07:15:44+01:00</lastuse>
       <lastconfirm>2026-01-12T07:07:11+01:00</lastconfirm>
     </date>
   </event>
@@ -28,7 +28,7 @@
     <id>18179626831</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -44,8 +44,32 @@
     </location>
     <date>
       <create>2026-01-12T06:37:44+01:00</create>
-      <lastuse>2026-01-12T09:06:14+01:00</lastuse>
-      <lastconfirm>2026-01-12T07:06:15+01:00</lastconfirm>
+      <lastuse>2026-01-12T09:15:18+01:00</lastuse>
+      <lastconfirm>2026-01-12T07:15:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18179706443</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86485</zip>
+      <city>Biberbach</city>
+      <state>DE-BY</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.524548</latitude>
+        <longitude>10.810859</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-12T06:59:18+01:00</create>
+      <lastuse>2026-01-12T09:13:45+01:00</lastuse>
+      <lastconfirm>2026-01-12T07:13:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,34 +169,10 @@
     </date>
   </event>
   <event>
-    <id>18179736695</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.397132</latitude>
-        <longitude>11.024712</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-12T07:06:34+01:00</create>
-      <lastuse>2026-01-12T07:42:50+01:00</lastuse>
-      <lastconfirm>2026-01-12T07:12:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18179714621</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2026-01-12T07:00:47+01:00</create>
-      <lastuse>2026-01-12T08:11:06+01:00</lastuse>
-      <lastconfirm>2026-01-12T07:11:06+01:00</lastconfirm>
+      <lastuse>2026-01-12T08:17:34+01:00</lastuse>
+      <lastconfirm>2026-01-12T07:17:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
