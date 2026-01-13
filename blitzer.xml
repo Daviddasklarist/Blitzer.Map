@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18185173127</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401950</latitude>
+        <longitude>10.911326</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-13T06:22:39+01:00</create>
+      <lastuse>2026-01-13T08:47:59+01:00</lastuse>
+      <lastconfirm>2026-01-13T06:48:00+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18185032837</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Adelzhausen</city>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2026-01-13T05:40:42+01:00</create>
-      <lastuse>2026-01-13T07:12:40+01:00</lastuse>
+      <lastuse>2026-01-13T06:52:40+01:00</lastuse>
       <lastconfirm>2026-01-13T06:42:41+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-01-14T19:35:43+01:00</lastuse>
-      <lastconfirm>2026-01-12T19:35:43+01:00</lastconfirm>
+      <lastuse>2026-01-15T06:41:47+01:00</lastuse>
+      <lastconfirm>2026-01-13T06:41:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
