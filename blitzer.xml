@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18194816259</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Unterer Talweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.310010</latitude>
+        <longitude>10.889889</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-14T20:01:19+01:00</create>
+      <lastuse>2026-01-14T23:32:55+01:00</lastuse>
+      <lastconfirm>2026-01-14T21:32:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18186345769</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-14T17:43:35+01:00</create>
-      <lastuse>2026-01-14T21:43:21+01:00</lastuse>
-      <lastconfirm>2026-01-14T21:23:22+01:00</lastconfirm>
+      <lastuse>2026-01-14T22:32:48+01:00</lastuse>
+      <lastconfirm>2026-01-14T21:32:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2025-11-25T14:52:27+01:00</create>
-      <lastuse>2026-01-16T20:14:11+01:00</lastuse>
-      <lastconfirm>2026-01-14T20:14:12+01:00</lastconfirm>
+      <lastuse>2026-01-16T21:28:38+01:00</lastuse>
+      <lastconfirm>2026-01-14T21:28:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
