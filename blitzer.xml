@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18192583875</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Fichtelbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.367560</latitude>
+        <longitude>10.914680</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-14T12:18:00+01:00</create>
+      <lastuse>2026-01-14T18:07:35+01:00</lastuse>
+      <lastconfirm>2026-01-14T16:07:35+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18192852579</id>
     <type>1</type>
     <speed>50</speed>
@@ -92,7 +116,7 @@
     </location>
     <date>
       <create>2026-01-14T15:25:34+01:00</create>
-      <lastuse>2026-01-14T16:31:39+01:00</lastuse>
+      <lastuse>2026-01-14T16:21:39+01:00</lastuse>
       <lastconfirm>2026-01-14T16:01:40+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2026-01-14T15:41:00+01:00</create>
-      <lastuse>2026-01-14T17:03:04+01:00</lastuse>
-      <lastconfirm>2026-01-14T16:03:05+01:00</lastconfirm>
+      <lastuse>2026-01-14T17:08:56+01:00</lastuse>
+      <lastconfirm>2026-01-14T16:08:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2026-01-08T13:08:29+01:00</create>
-      <lastuse>2026-01-16T06:49:00+01:00</lastuse>
-      <lastconfirm>2026-01-14T06:49:00+01:00</lastconfirm>
+      <lastuse>2026-01-16T16:03:29+01:00</lastuse>
+      <lastconfirm>2026-01-14T16:03:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +524,32 @@
     </location>
     <date>
       <create>2026-01-14T13:24:16+01:00</create>
-      <lastuse>2026-01-14T23:32:17+01:00</lastuse>
-      <lastconfirm>2026-01-14T15:32:18+01:00</lastconfirm>
+      <lastuse>2026-01-15T00:01:03+01:00</lastuse>
+      <lastconfirm>2026-01-14T16:01:04+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18193530455</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Westendorf</city>
+      <state>DE-HH</state>
+      <street>Bundesstr.</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.568974</latitude>
+        <longitude>10.847353</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-14T15:31:58+01:00</create>
+      <lastuse>2026-01-15T00:02:34+01:00</lastuse>
+      <lastconfirm>2026-01-14T16:02:35+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
