@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18191250385</id>
-    <type>1</type>
-    <speed>80</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Ulmer Landstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.370110</latitude>
-        <longitude>10.830115</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-14T07:26:54+01:00</create>
-      <lastuse>2026-01-14T14:51:45+01:00</lastuse>
-      <lastconfirm>2026-01-14T13:21:45+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18191309354</id>
     <type>1</type>
     <speed>50</speed>
@@ -97,27 +73,27 @@
     </date>
   </event>
   <event>
-    <id>18192254504</id>
-    <type>1</type>
-    <speed>50</speed>
+    <id>18191809628</id>
+    <type>6</type>
+    <speed></speed>
     <quality>2</quality>
     <address>
-      <zip>89420</zip>
-      <city>Höchstädt an der Donau</city>
+      <zip>86169</zip>
+      <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Karl-Mengele-Straße</street>
+      <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.621075</latitude>
-        <longitude>10.573403</longitude>
+        <latitude>48.413763</latitude>
+        <longitude>10.894556</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-14T11:07:37+01:00</create>
-      <lastuse>2026-01-14T14:24:10+01:00</lastuse>
-      <lastconfirm>2026-01-14T12:54:10+01:00</lastconfirm>
+      <create>2026-01-14T09:31:00+01:00</create>
+      <lastuse>2026-01-14T14:19:46+01:00</lastuse>
+      <lastconfirm>2026-01-14T13:34:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2026-01-14T11:34:13+01:00</create>
-      <lastuse>2026-01-14T15:34:13+01:00</lastuse>
-      <lastconfirm>2026-01-14T13:18:17+01:00</lastconfirm>
+      <lastuse>2026-01-14T15:34:57+01:00</lastuse>
+      <lastconfirm>2026-01-14T13:34:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +332,8 @@
     </location>
     <date>
       <create>2026-01-14T13:19:12+01:00</create>
-      <lastuse>2026-01-14T14:02:42+01:00</lastuse>
-      <lastconfirm>2026-01-14T13:32:43+01:00</lastconfirm>
+      <lastuse>2026-01-14T14:07:32+01:00</lastuse>
+      <lastconfirm>2026-01-14T13:37:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +356,8 @@
     </location>
     <date>
       <create>2026-01-14T11:25:04+01:00</create>
-      <lastuse>2026-01-14T14:16:46+01:00</lastuse>
-      <lastconfirm>2026-01-14T13:16:46+01:00</lastconfirm>
+      <lastuse>2026-01-14T14:34:58+01:00</lastuse>
+      <lastconfirm>2026-01-14T13:34:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +380,8 @@
     </location>
     <date>
       <create>2026-01-14T12:04:21+01:00</create>
-      <lastuse>2026-01-14T14:31:54+01:00</lastuse>
-      <lastconfirm>2026-01-14T13:31:55+01:00</lastconfirm>
+      <lastuse>2026-01-14T14:36:15+01:00</lastuse>
+      <lastconfirm>2026-01-14T13:36:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +404,8 @@
     </location>
     <date>
       <create>2026-01-14T12:37:52+01:00</create>
-      <lastuse>2026-01-14T14:20:37+01:00</lastuse>
-      <lastconfirm>2026-01-14T13:20:39+01:00</lastconfirm>
+      <lastuse>2026-01-14T14:35:42+01:00</lastuse>
+      <lastconfirm>2026-01-14T13:35:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +764,32 @@
     </location>
     <date>
       <create>2026-01-14T11:53:07+01:00</create>
-      <lastuse>2026-01-14T21:05:13+01:00</lastuse>
-      <lastconfirm>2026-01-14T13:05:14+01:00</lastconfirm>
+      <lastuse>2026-01-14T21:30:05+01:00</lastuse>
+      <lastconfirm>2026-01-14T13:30:06+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18192901455</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Westendorf</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.556673</latitude>
+        <longitude>10.849239</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-14T13:24:16+01:00</create>
+      <lastuse>2026-01-14T21:32:12+01:00</lastuse>
+      <lastconfirm>2026-01-14T13:32:13+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
