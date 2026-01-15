@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18197130500</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Senkelbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374779</latitude>
-        <longitude>10.886382</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-15T06:29:30+01:00</create>
-      <lastuse>2026-01-15T10:51:03+01:00</lastuse>
-      <lastconfirm>2026-01-15T09:21:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18197143930</id>
     <type>1</type>
     <speed>30</speed>
@@ -76,7 +52,7 @@
     <id>18197422104</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Gersthofen</city>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-15T07:42:57+01:00</create>
-      <lastuse>2026-01-15T13:03:48+01:00</lastuse>
-      <lastconfirm>2026-01-15T11:03:50+01:00</lastconfirm>
+      <lastuse>2026-01-15T13:07:39+01:00</lastuse>
+      <lastconfirm>2026-01-15T11:07:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,7 +500,7 @@
     </location>
     <date>
       <create>2026-01-15T08:56:29+01:00</create>
-      <lastuse>2026-01-15T16:44:29+01:00</lastuse>
+      <lastuse>2026-01-15T14:44:29+01:00</lastuse>
       <lastconfirm>2026-01-15T08:56:29+01:00</lastconfirm>
     </date>
   </event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2026-01-15T10:32:57+01:00</create>
-      <lastuse>2026-01-15T18:57:25+01:00</lastuse>
-      <lastconfirm>2026-01-15T10:57:27+01:00</lastconfirm>
+      <lastuse>2026-01-15T19:02:51+01:00</lastuse>
+      <lastconfirm>2026-01-15T11:02:52+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
