@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18199931559</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86150</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Konrad-Adenauer-Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.362119</latitude>
-        <longitude>10.896706</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-15T16:21:25+01:00</create>
-      <lastuse>2026-01-15T20:21:25+01:00</lastuse>
-      <lastconfirm>2026-01-15T18:46:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18200520324</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-15T18:38:37+01:00</create>
-      <lastuse>2026-01-15T20:38:37+01:00</lastuse>
-      <lastconfirm>2026-01-15T18:50:11+01:00</lastconfirm>
+      <lastuse>2026-01-15T20:57:12+01:00</lastuse>
+      <lastconfirm>2026-01-15T18:57:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,15 +92,15 @@
     </location>
     <date>
       <create>2026-01-15T17:16:27+01:00</create>
-      <lastuse>2026-01-15T19:08:50+01:00</lastuse>
-      <lastconfirm>2026-01-15T18:38:50+01:00</lastconfirm>
+      <lastuse>2026-01-15T19:03:29+01:00</lastuse>
+      <lastconfirm>2026-01-15T18:53:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18200007982</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -140,7 +116,7 @@
     </location>
     <date>
       <create>2026-01-15T16:36:30+01:00</create>
-      <lastuse>2026-01-15T19:29:59+01:00</lastuse>
+      <lastuse>2026-01-15T19:09:59+01:00</lastuse>
       <lastconfirm>2026-01-15T18:49:59+01:00</lastconfirm>
     </date>
   </event>
@@ -452,8 +428,8 @@
     </location>
     <date>
       <create>2026-01-15T10:32:57+01:00</create>
-      <lastuse>2026-01-16T02:38:08+01:00</lastuse>
-      <lastconfirm>2026-01-15T18:38:09+01:00</lastconfirm>
+      <lastuse>2026-01-16T02:53:49+01:00</lastuse>
+      <lastconfirm>2026-01-15T18:53:49+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
