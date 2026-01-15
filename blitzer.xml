@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18197032786</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Meraner Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.386871</latitude>
+        <longitude>10.938088</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-15T06:01:14+01:00</create>
+      <lastuse>2026-01-15T08:11:42+01:00</lastuse>
+      <lastconfirm>2026-01-15T06:11:42+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18186345769</id>
     <type>7</type>
     <speed>50</speed>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-01-17T05:43:41+01:00</lastuse>
-      <lastconfirm>2026-01-15T05:43:41+01:00</lastconfirm>
+      <lastuse>2026-01-17T06:05:00+01:00</lastuse>
+      <lastconfirm>2026-01-15T06:05:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
