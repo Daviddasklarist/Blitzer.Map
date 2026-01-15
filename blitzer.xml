@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18200520324</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Siedlung des Volkes</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.327195</latitude>
-        <longitude>10.908481</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-15T18:19:47+01:00</create>
-      <lastuse>2026-01-15T19:58:49+01:00</lastuse>
-      <lastconfirm>2026-01-15T18:58:50+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18186345769</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,32 +44,8 @@
     </location>
     <date>
       <create>2026-01-15T17:16:27+01:00</create>
-      <lastuse>2026-01-15T19:36:58+01:00</lastuse>
-      <lastconfirm>2026-01-15T19:06:59+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18200007982</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.381891</latitude>
-        <longitude>10.857884</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-15T16:36:30+01:00</create>
-      <lastuse>2026-01-15T19:31:20+01:00</lastuse>
-      <lastconfirm>2026-01-15T19:11:21+01:00</lastconfirm>
+      <lastuse>2026-01-15T19:52:34+01:00</lastuse>
+      <lastconfirm>2026-01-15T19:22:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +356,8 @@
     </location>
     <date>
       <create>2026-01-15T10:32:57+01:00</create>
-      <lastuse>2026-01-16T01:10:22+01:00</lastuse>
-      <lastconfirm>2026-01-15T10:32:57+01:00</lastconfirm>
+      <lastuse>2026-01-16T03:18:59+01:00</lastuse>
+      <lastconfirm>2026-01-15T19:18:59+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
