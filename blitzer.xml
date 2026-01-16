@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18206642445</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Amagasaki-Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.371428</latitude>
-        <longitude>10.924171</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-16T18:23:24+01:00</create>
-      <lastuse>2026-01-16T20:23:24+01:00</lastuse>
-      <lastconfirm>2026-01-16T18:53:13+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18206827057</id>
     <type>1</type>
     <speed>60</speed>
@@ -69,7 +45,7 @@
     <date>
       <create>2026-01-16T19:03:52+01:00</create>
       <lastuse>2026-01-16T22:03:52+01:00</lastuse>
-      <lastconfirm>2026-01-16T19:13:42+01:00</lastconfirm>
+      <lastconfirm>2026-01-16T19:17:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,6 +70,30 @@
       <create>2026-01-13T10:57:12+01:00</create>
       <lastuse>2026-01-17T02:47:44+01:00</lastuse>
       <lastconfirm>2026-01-16T18:47:44+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18206784500</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mühlhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.399171</latitude>
+        <longitude>10.920859</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-16T18:54:53+01:00</create>
+      <lastuse>2026-01-16T19:22:12+01:00</lastuse>
+      <lastconfirm>2026-01-16T19:02:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +332,8 @@
     </location>
     <date>
       <create>2025-12-14T11:32:17+01:00</create>
-      <lastuse>2026-01-18T15:38:02+01:00</lastuse>
-      <lastconfirm>2026-01-16T15:38:03+01:00</lastconfirm>
+      <lastuse>2026-01-18T19:10:43+01:00</lastuse>
+      <lastconfirm>2026-01-16T19:10:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +428,8 @@
     </location>
     <date>
       <create>2026-01-16T07:13:32+01:00</create>
-      <lastuse>2026-01-17T02:32:57+01:00</lastuse>
-      <lastconfirm>2026-01-16T18:32:58+01:00</lastconfirm>
+      <lastuse>2026-01-17T03:14:25+01:00</lastuse>
+      <lastconfirm>2026-01-16T19:14:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
