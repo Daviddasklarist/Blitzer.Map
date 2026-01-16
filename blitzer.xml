@@ -69,7 +69,31 @@
     <date>
       <create>2026-01-16T07:09:17+01:00</create>
       <lastuse>2026-01-16T11:09:17+01:00</lastuse>
-      <lastconfirm>2026-01-16T07:47:25+01:00</lastconfirm>
+      <lastconfirm>2026-01-16T07:55:18+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18203556657</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Karlsruher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403288</latitude>
+        <longitude>10.863895</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-16T07:35:15+01:00</create>
+      <lastuse>2026-01-23T07:55:41+01:00</lastuse>
+      <lastconfirm>2026-01-16T07:53:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,32 @@
     </location>
     <date>
       <create>2026-01-13T10:57:12+01:00</create>
-      <lastuse>2026-01-16T15:22:36+01:00</lastuse>
-      <lastconfirm>2026-01-16T07:22:38+01:00</lastconfirm>
+      <lastuse>2026-01-16T15:56:22+01:00</lastuse>
+      <lastconfirm>2026-01-16T07:56:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18203622077</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.368963</latitude>
+        <longitude>10.854570</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-16T07:51:56+01:00</create>
+      <lastuse>2026-01-16T08:55:04+01:00</lastuse>
+      <lastconfirm>2026-01-16T07:55:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -406,6 +454,30 @@
       <create>2026-01-15T18:05:40+01:00</create>
       <lastuse>2026-01-18T06:55:06+01:00</lastuse>
       <lastconfirm>2026-01-16T06:55:06+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18203470744</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Aindlinger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.395399</latitude>
+        <longitude>10.931118</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-16T07:13:32+01:00</create>
+      <lastuse>2026-01-16T15:53:41+01:00</lastuse>
+      <lastconfirm>2026-01-16T07:53:42+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
