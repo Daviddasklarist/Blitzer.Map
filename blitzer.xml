@@ -4,7 +4,7 @@
     <id>18205739983</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86399</zip>
       <city>Bobingen</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-01-16T15:20:06+01:00</create>
-      <lastuse>2026-01-16T18:04:10+01:00</lastuse>
-      <lastconfirm>2026-01-16T16:04:10+01:00</lastconfirm>
+      <lastuse>2026-01-16T18:36:25+01:00</lastuse>
+      <lastconfirm>2026-01-16T16:36:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -46,54 +46,6 @@
       <create>2026-01-13T10:57:12+01:00</create>
       <lastuse>2026-01-16T23:48:23+01:00</lastuse>
       <lastconfirm>2026-01-16T15:48:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18205056085</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.344502</latitude>
-        <longitude>10.884562</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-16T13:04:59+01:00</create>
-      <lastuse>2026-01-16T17:09:35+01:00</lastuse>
-      <lastconfirm>2026-01-16T16:29:36+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18205950818</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.348289</latitude>
-        <longitude>10.870203</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-16T16:02:48+01:00</create>
-      <lastuse>2026-01-16T17:08:56+01:00</lastuse>
-      <lastconfirm>2026-01-16T16:28:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -430,30 +382,6 @@
       <create>2026-01-16T07:13:32+01:00</create>
       <lastuse>2026-01-16T23:36:38+01:00</lastuse>
       <lastconfirm>2026-01-16T15:36:38+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18204624390</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.345021</latitude>
-        <longitude>10.883085</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-16T11:31:11+01:00</create>
-      <lastuse>2026-01-18T16:29:55+01:00</lastuse>
-      <lastconfirm>2026-01-16T16:29:56+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
