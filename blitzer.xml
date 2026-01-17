@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18212263980</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86438</zip>
+      <city>Kissing</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.289370</latitude>
+        <longitude>10.966714</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-17T17:45:49+01:00</create>
+      <lastuse>2026-01-17T20:00:44+01:00</lastuse>
+      <lastconfirm>2026-01-17T18:00:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18186345769</id>
     <type>7</type>
     <speed>50</speed>
