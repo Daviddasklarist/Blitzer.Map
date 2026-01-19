@@ -28,7 +28,7 @@
     <id>18222020791</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -44,32 +44,8 @@
     </location>
     <date>
       <create>2026-01-19T11:34:56+01:00</create>
-      <lastuse>2026-01-19T15:56:24+01:00</lastuse>
-      <lastconfirm>2026-01-19T14:56:24+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18222093507</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86399</zip>
-      <city>Bobingen</city>
-      <state>DE-BY</state>
-      <street>Frieda-Forster-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.272525</latitude>
-        <longitude>10.785180</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-19T11:49:10+01:00</create>
-      <lastuse>2026-01-19T16:41:30+01:00</lastuse>
-      <lastconfirm>2026-01-19T15:11:30+01:00</lastconfirm>
+      <lastuse>2026-01-19T17:31:10+01:00</lastuse>
+      <lastconfirm>2026-01-19T15:31:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -142,6 +118,30 @@
       <create>2026-01-13T10:57:12+01:00</create>
       <lastuse>2026-01-19T23:28:02+01:00</lastuse>
       <lastconfirm>2026-01-19T15:28:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18223055276</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.181310</latitude>
+        <longitude>10.843741</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-19T15:10:04+01:00</create>
+      <lastuse>2026-01-19T16:01:36+01:00</lastuse>
+      <lastconfirm>2026-01-19T15:31:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
