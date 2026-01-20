@@ -68,56 +68,8 @@
     </location>
     <date>
       <create>2026-01-20T11:44:29+01:00</create>
-      <lastuse>2026-01-20T15:50:37+01:00</lastuse>
+      <lastuse>2026-01-20T15:44:29+01:00</lastuse>
       <lastconfirm>2026-01-20T14:20:38+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18228216983</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Unterer Graben</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373203</latitude>
-        <longitude>10.901383</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-20T11:51:50+01:00</create>
-      <lastuse>2026-01-20T15:51:50+01:00</lastuse>
-      <lastconfirm>2026-01-20T14:19:36+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18228325825</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Alter Postweg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.342522</latitude>
-        <longitude>10.900209</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-20T12:13:42+01:00</create>
-      <lastuse>2026-01-20T17:00:14+01:00</lastuse>
-      <lastconfirm>2026-01-20T15:00:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -148,7 +100,7 @@
     <id>18229090788</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86637</zip>
       <city>Wertingen</city>
@@ -165,7 +117,7 @@
     <date>
       <create>2026-01-20T14:48:08+01:00</create>
       <lastuse>2026-01-20T17:48:08+01:00</lastuse>
-      <lastconfirm>2026-01-20T14:57:22+01:00</lastconfirm>
+      <lastconfirm>2026-01-20T15:11:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -190,6 +142,30 @@
       <create>2026-01-20T12:04:12+01:00</create>
       <lastuse>2026-01-27T15:06:03+01:00</lastuse>
       <lastconfirm>2026-01-20T14:49:57+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18229141675</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86507</zip>
+      <city>Kleinaitingen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.218111</latitude>
+        <longitude>10.862701</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-20T14:59:50+01:00</create>
+      <lastuse>2026-01-20T15:43:35+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:13:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +260,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2026-01-22T14:51:37+01:00</lastuse>
-      <lastconfirm>2026-01-20T14:51:38+01:00</lastconfirm>
+      <lastuse>2026-01-22T15:09:22+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:09:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +500,8 @@
     </location>
     <date>
       <create>2026-01-20T10:17:51+01:00</create>
-      <lastuse>2026-01-20T23:03:30+01:00</lastuse>
-      <lastconfirm>2026-01-20T15:03:30+01:00</lastconfirm>
+      <lastuse>2026-01-20T23:09:09+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:09:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2026-01-20T13:33:31+01:00</create>
-      <lastuse>2026-01-20T22:50:16+01:00</lastuse>
-      <lastconfirm>2026-01-20T14:50:16+01:00</lastconfirm>
+      <lastuse>2026-01-20T23:09:26+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:09:26+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
