@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-20T11:26:44+01:00</create>
-      <lastuse>2026-01-20T15:47:54+01:00</lastuse>
-      <lastconfirm>2026-01-20T13:47:55+01:00</lastconfirm>
+      <lastuse>2026-01-20T15:50:29+01:00</lastuse>
+      <lastconfirm>2026-01-20T13:50:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -141,7 +141,31 @@
     <date>
       <create>2026-01-20T12:13:42+01:00</create>
       <lastuse>2026-01-20T16:13:42+01:00</lastuse>
-      <lastconfirm>2026-01-20T13:46:38+01:00</lastconfirm>
+      <lastconfirm>2026-01-20T13:50:30+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18228420111</id>
+    <type>1</type>
+    <speed>90</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>St 2379</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.324359</latitude>
+        <longitude>11.028978</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-20T12:32:35+01:00</create>
+      <lastuse>2026-01-20T15:53:38+01:00</lastuse>
+      <lastconfirm>2026-01-20T13:53:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2026-01-20T10:59:15+01:00</create>
-      <lastuse>2026-01-20T14:39:25+01:00</lastuse>
-      <lastconfirm>2026-01-20T13:39:25+01:00</lastconfirm>
+      <lastuse>2026-01-20T14:48:40+01:00</lastuse>
+      <lastconfirm>2026-01-20T13:48:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2026-01-20T11:02:45+01:00</create>
-      <lastuse>2026-01-20T14:41:31+01:00</lastuse>
-      <lastconfirm>2026-01-20T13:41:31+01:00</lastconfirm>
+      <lastuse>2026-01-20T14:48:09+01:00</lastuse>
+      <lastconfirm>2026-01-20T13:48:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2026-01-20T11:44:18+01:00</create>
-      <lastuse>2026-01-20T14:34:23+01:00</lastuse>
-      <lastconfirm>2026-01-20T13:34:24+01:00</lastconfirm>
+      <lastuse>2026-01-20T14:49:56+01:00</lastuse>
+      <lastconfirm>2026-01-20T13:49:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -598,6 +622,30 @@
       <create>2026-01-20T10:17:51+01:00</create>
       <lastuse>2026-01-20T21:42:30+01:00</lastuse>
       <lastconfirm>2026-01-20T13:42:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18228727861</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378906</latitude>
+        <longitude>10.857607</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-20T13:33:31+01:00</create>
+      <lastuse>2026-01-20T21:49:02+01:00</lastuse>
+      <lastconfirm>2026-01-20T13:49:02+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
