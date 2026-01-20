@@ -73,6 +73,30 @@
     </date>
   </event>
   <event>
+    <id>18228325825</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Alter Postweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.342522</latitude>
+        <longitude>10.900209</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-20T12:13:42+01:00</create>
+      <lastuse>2026-01-20T17:20:53+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:20:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18228420111</id>
     <type>1</type>
     <speed>90</speed>
@@ -140,7 +164,7 @@
     </location>
     <date>
       <create>2026-01-20T15:06:01+01:00</create>
-      <lastuse>2026-01-20T17:14:10+01:00</lastuse>
+      <lastuse>2026-01-20T16:44:10+01:00</lastuse>
       <lastconfirm>2026-01-20T15:14:10+01:00</lastconfirm>
     </date>
   </event>
@@ -172,7 +196,7 @@
     <id>18229141675</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86507</zip>
       <city>Kleinaitingen</city>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2026-01-20T14:59:50+01:00</create>
-      <lastuse>2026-01-20T15:47:48+01:00</lastuse>
-      <lastconfirm>2026-01-20T15:17:49+01:00</lastconfirm>
+      <lastuse>2026-01-20T15:48:28+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:18:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +524,8 @@
     </location>
     <date>
       <create>2026-01-16T07:13:32+01:00</create>
-      <lastuse>2026-01-22T14:57:19+01:00</lastuse>
-      <lastconfirm>2026-01-20T14:57:19+01:00</lastconfirm>
+      <lastuse>2026-01-22T15:17:43+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:17:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2026-01-20T10:17:51+01:00</create>
-      <lastuse>2026-01-20T23:11:53+01:00</lastuse>
-      <lastconfirm>2026-01-20T15:11:53+01:00</lastconfirm>
+      <lastuse>2026-01-20T23:18:11+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:18:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2026-01-20T13:33:31+01:00</create>
-      <lastuse>2026-01-20T23:09:26+01:00</lastuse>
-      <lastconfirm>2026-01-20T15:09:26+01:00</lastconfirm>
+      <lastuse>2026-01-20T23:17:39+01:00</lastuse>
+      <lastconfirm>2026-01-20T15:17:39+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
