@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18226730224</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86163</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Münchner Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.344595</latitude>
-        <longitude>10.947525</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-20T06:31:39+01:00</create>
-      <lastuse>2026-01-20T14:24:23+01:00</lastuse>
-      <lastconfirm>2026-01-20T12:54:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18227421130</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-20T11:26:44+01:00</create>
-      <lastuse>2026-01-20T16:11:41+01:00</lastuse>
-      <lastconfirm>2026-01-20T14:11:43+01:00</lastconfirm>
+      <lastuse>2026-01-20T16:26:48+01:00</lastuse>
+      <lastconfirm>2026-01-20T14:26:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +92,7 @@
     </location>
     <date>
       <create>2026-01-20T11:51:50+01:00</create>
-      <lastuse>2026-01-20T16:19:35+01:00</lastuse>
+      <lastuse>2026-01-20T15:51:50+01:00</lastuse>
       <lastconfirm>2026-01-20T14:19:36+01:00</lastconfirm>
     </date>
   </event>
@@ -140,7 +116,7 @@
     </location>
     <date>
       <create>2026-01-20T12:13:42+01:00</create>
-      <lastuse>2026-01-20T16:18:48+01:00</lastuse>
+      <lastuse>2026-01-20T16:13:42+01:00</lastuse>
       <lastconfirm>2026-01-20T14:18:49+01:00</lastconfirm>
     </date>
   </event>
@@ -190,30 +166,6 @@
       <create>2026-01-20T12:36:00+01:00</create>
       <lastuse>2026-01-20T14:36:20+01:00</lastuse>
       <lastconfirm>2026-01-20T13:06:22+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18228178432</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.368942</latitude>
-        <longitude>10.854696</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-20T11:44:18+01:00</create>
-      <lastuse>2026-01-20T14:36:31+01:00</lastuse>
-      <lastconfirm>2026-01-20T14:16:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
