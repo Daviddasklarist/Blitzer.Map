@@ -73,6 +73,30 @@
     </date>
   </event>
   <event>
+    <id>18228216983</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Unterer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.373203</latitude>
+        <longitude>10.901383</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-20T11:51:50+01:00</create>
+      <lastuse>2026-01-20T14:11:59+01:00</lastuse>
+      <lastconfirm>2026-01-20T12:11:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18226972037</id>
     <type>29</type>
     <speed></speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2026-01-20T07:32:29+01:00</create>
-      <lastuse>2026-01-20T12:32:48+01:00</lastuse>
-      <lastconfirm>2026-01-20T12:02:49+01:00</lastconfirm>
+      <lastuse>2026-01-20T12:39:35+01:00</lastuse>
+      <lastconfirm>2026-01-20T12:09:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,7 +164,7 @@
     </location>
     <date>
       <create>2026-01-20T10:59:15+01:00</create>
-      <lastuse>2026-01-20T13:05:31+01:00</lastuse>
+      <lastuse>2026-01-20T12:45:31+01:00</lastuse>
       <lastconfirm>2026-01-20T12:05:32+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +188,32 @@
     </location>
     <date>
       <create>2026-01-20T11:02:45+01:00</create>
-      <lastuse>2026-01-20T12:51:28+01:00</lastuse>
-      <lastconfirm>2026-01-20T11:51:30+01:00</lastconfirm>
+      <lastuse>2026-01-20T13:08:38+01:00</lastuse>
+      <lastconfirm>2026-01-20T12:08:39+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18228178432</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.368942</latitude>
+        <longitude>10.854696</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-20T11:44:18+01:00</create>
+      <lastuse>2026-01-20T13:10:23+01:00</lastuse>
+      <lastconfirm>2026-01-20T12:10:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +548,8 @@
     </location>
     <date>
       <create>2026-01-20T10:17:51+01:00</create>
-      <lastuse>2026-01-20T19:35:07+01:00</lastuse>
-      <lastconfirm>2026-01-20T11:35:09+01:00</lastconfirm>
+      <lastuse>2026-01-20T20:06:31+01:00</lastuse>
+      <lastconfirm>2026-01-20T12:06:32+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
