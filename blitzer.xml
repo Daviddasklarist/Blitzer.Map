@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18233084826</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Haunstetter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.285014</latitude>
-        <longitude>10.894716</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-21T06:41:49+01:00</create>
-      <lastuse>2026-01-21T11:57:11+01:00</lastuse>
-      <lastconfirm>2026-01-21T10:57:12+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18233253077</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-21T09:21:17+01:00</create>
-      <lastuse>2026-01-21T13:21:17+01:00</lastuse>
-      <lastconfirm>2026-01-21T11:46:34+01:00</lastconfirm>
+      <lastuse>2026-01-21T13:22:05+01:00</lastuse>
+      <lastconfirm>2026-01-21T11:52:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +92,56 @@
     </location>
     <date>
       <create>2026-01-21T09:34:42+01:00</create>
-      <lastuse>2026-01-21T13:34:42+01:00</lastuse>
-      <lastconfirm>2026-01-21T11:11:39+01:00</lastconfirm>
+      <lastuse>2026-01-21T13:51:32+01:00</lastuse>
+      <lastconfirm>2026-01-21T11:51:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18234406968</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Amagasaki-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372670</latitude>
+        <longitude>10.925658</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-21T11:26:08+01:00</create>
+      <lastuse>2026-01-21T14:26:08+01:00</lastuse>
+      <lastconfirm>2026-01-21T11:51:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18234488091</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.281408</latitude>
+        <longitude>10.889156</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-21T11:44:44+01:00</create>
+      <lastuse>2026-01-21T13:50:08+01:00</lastuse>
+      <lastconfirm>2026-01-21T11:50:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2026-01-20T12:04:12+01:00</create>
-      <lastuse>2026-01-21T18:07:28+01:00</lastuse>
-      <lastconfirm>2026-01-21T10:07:30+01:00</lastconfirm>
+      <lastuse>2026-01-21T19:52:13+01:00</lastuse>
+      <lastconfirm>2026-01-21T11:52:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2026-01-21T09:47:42+01:00</create>
-      <lastuse>2026-01-21T12:16:06+01:00</lastuse>
-      <lastconfirm>2026-01-21T11:46:06+01:00</lastconfirm>
+      <lastuse>2026-01-21T12:21:54+01:00</lastuse>
+      <lastconfirm>2026-01-21T11:51:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
