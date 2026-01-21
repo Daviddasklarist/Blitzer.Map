@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18234897738</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86399</zip>
-      <city>Bobingen</city>
-      <state>DE-BY</state>
-      <street>Dr.-Kämpf-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.271986</latitude>
-        <longitude>10.790495</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-21T13:12:24+01:00</create>
-      <lastuse>2026-01-21T17:12:24+01:00</lastuse>
-      <lastconfirm>2026-01-21T15:56:14+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18235553720</id>
     <type>1</type>
     <speed>30</speed>
@@ -69,7 +45,7 @@
     <date>
       <create>2026-01-21T15:59:52+01:00</create>
       <lastuse>2026-01-21T19:59:52+01:00</lastuse>
-      <lastconfirm>2026-01-21T17:08:22+01:00</lastconfirm>
+      <lastconfirm>2026-01-21T17:13:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2026-01-21T16:13:29+01:00</create>
-      <lastuse>2026-01-21T18:05:24+01:00</lastuse>
-      <lastconfirm>2026-01-21T17:05:24+01:00</lastconfirm>
+      <lastuse>2026-01-21T18:13:11+01:00</lastuse>
+      <lastconfirm>2026-01-21T17:13:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,7 +164,7 @@
     </location>
     <date>
       <create>2026-01-21T16:50:54+01:00</create>
-      <lastuse>2026-01-21T18:05:29+01:00</lastuse>
+      <lastuse>2026-01-21T17:45:29+01:00</lastuse>
       <lastconfirm>2026-01-21T17:05:30+01:00</lastconfirm>
     </date>
   </event>
@@ -478,30 +454,6 @@
       <create>2026-01-08T13:08:29+01:00</create>
       <lastuse>2026-01-23T16:12:35+01:00</lastuse>
       <lastconfirm>2026-01-21T16:12:35+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18203470744</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86167</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Aindlinger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.395399</latitude>
-        <longitude>10.931118</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-16T07:13:32+01:00</create>
-      <lastuse>2026-01-22T23:11:58+01:00</lastuse>
-      <lastconfirm>2026-01-16T07:13:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
