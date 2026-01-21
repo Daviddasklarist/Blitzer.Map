@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18234019362</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86551</zip>
-      <city>Aichach</city>
-      <state>DE-BY</state>
-      <street>Mitterweg</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.443424</latitude>
-        <longitude>11.127840</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-21T10:04:58+01:00</create>
-      <lastuse>2026-01-21T15:03:04+01:00</lastuse>
-      <lastconfirm>2026-01-21T13:03:04+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18234488091</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,7 +20,7 @@
     </location>
     <date>
       <create>2026-01-21T11:44:44+01:00</create>
-      <lastuse>2026-01-21T16:41:07+01:00</lastuse>
+      <lastuse>2026-01-21T15:44:44+01:00</lastuse>
       <lastconfirm>2026-01-21T14:41:07+01:00</lastconfirm>
     </date>
   </event>
@@ -68,7 +44,7 @@
     </location>
     <date>
       <create>2026-01-21T12:11:02+01:00</create>
-      <lastuse>2026-01-21T16:51:27+01:00</lastuse>
+      <lastuse>2026-01-21T16:21:27+01:00</lastuse>
       <lastconfirm>2026-01-21T14:51:27+01:00</lastconfirm>
     </date>
   </event>
@@ -92,56 +68,8 @@
     </location>
     <date>
       <create>2026-01-21T13:12:24+01:00</create>
-      <lastuse>2026-01-21T16:51:13+01:00</lastuse>
+      <lastuse>2026-01-28T15:00:35+01:00</lastuse>
       <lastconfirm>2026-01-21T14:51:14+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18234944083</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Miehle-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.336008</latitude>
-        <longitude>10.879115</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-21T13:22:59+01:00</create>
-      <lastuse>2026-01-21T17:22:59+01:00</lastuse>
-      <lastconfirm>2026-01-21T14:17:14+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18235172636</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Berliner Allee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.377278</latitude>
-        <longitude>10.909356</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-21T14:11:48+01:00</create>
-      <lastuse>2026-01-21T16:11:48+01:00</lastuse>
-      <lastconfirm>2026-01-21T14:27:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +188,8 @@
     </location>
     <date>
       <create>2025-07-08T11:03:12+02:00</create>
-      <lastuse>2026-01-23T14:23:32+01:00</lastuse>
-      <lastconfirm>2026-01-21T14:23:33+01:00</lastconfirm>
+      <lastuse>2026-01-23T14:58:35+01:00</lastuse>
+      <lastconfirm>2026-01-21T14:58:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -526,30 +454,6 @@
       <create>2026-01-21T10:11:01+01:00</create>
       <lastuse>2026-01-21T22:44:27+01:00</lastuse>
       <lastconfirm>2026-01-21T14:44:28+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18234860974</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.386136</latitude>
-        <longitude>10.859718</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-21T13:04:42+01:00</create>
-      <lastuse>2026-01-21T18:43:04+01:00</lastuse>
-      <lastconfirm>2026-01-21T13:04:42+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
