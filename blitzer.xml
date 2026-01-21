@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-01-21T05:56:16+01:00</create>
-      <lastuse>2026-01-21T10:46:30+01:00</lastuse>
-      <lastconfirm>2026-01-21T09:16:30+01:00</lastconfirm>
+      <lastuse>2026-01-21T11:24:36+01:00</lastuse>
+      <lastconfirm>2026-01-21T09:24:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-21T06:37:04+01:00</create>
-      <lastuse>2026-01-21T11:22:05+01:00</lastuse>
-      <lastconfirm>2026-01-21T09:22:05+01:00</lastconfirm>
+      <lastuse>2026-01-21T11:27:56+01:00</lastuse>
+      <lastconfirm>2026-01-21T09:27:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2026-01-21T07:08:06+01:00</create>
-      <lastuse>2026-01-21T11:19:40+01:00</lastuse>
-      <lastconfirm>2026-01-21T09:19:40+01:00</lastconfirm>
+      <lastuse>2026-01-21T11:24:06+01:00</lastuse>
+      <lastconfirm>2026-01-21T09:24:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -169,6 +169,30 @@
     </date>
   </event>
   <event>
+    <id>18233814265</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413763</latitude>
+        <longitude>10.894691</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-21T09:21:17+01:00</create>
+      <lastuse>2026-01-21T13:21:17+01:00</lastuse>
+      <lastconfirm>2026-01-21T09:28:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18228277652</id>
     <type>7</type>
     <speed>30</speed>
@@ -212,32 +236,8 @@
     </location>
     <date>
       <create>2026-01-21T05:44:58+01:00</create>
-      <lastuse>2026-01-21T09:52:40+01:00</lastuse>
-      <lastconfirm>2026-01-21T09:22:41+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18233331120</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.434111</latitude>
-        <longitude>10.868782</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-21T07:40:28+01:00</create>
-      <lastuse>2026-01-21T09:24:34+01:00</lastuse>
-      <lastconfirm>2026-01-21T09:14:35+01:00</lastconfirm>
+      <lastuse>2026-01-21T09:56:50+01:00</lastuse>
+      <lastconfirm>2026-01-21T09:26:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2026-01-21T07:49:20+01:00</create>
-      <lastuse>2026-01-21T09:57:29+01:00</lastuse>
-      <lastconfirm>2026-01-21T09:17:29+01:00</lastconfirm>
+      <lastuse>2026-01-21T09:44:54+01:00</lastuse>
+      <lastconfirm>2026-01-21T09:24:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +572,32 @@
     </location>
     <date>
       <create>2026-01-16T07:13:32+01:00</create>
-      <lastuse>2026-01-23T00:57:21+01:00</lastuse>
+      <lastuse>2026-01-22T16:57:21+01:00</lastuse>
       <lastconfirm>2026-01-16T07:13:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18233731747</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-HH</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370525</latitude>
+        <longitude>10.809383</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-21T09:03:51+01:00</create>
+      <lastuse>2026-01-21T17:20:01+01:00</lastuse>
+      <lastconfirm>2026-01-21T09:20:01+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
