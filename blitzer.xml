@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18239001059</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86163</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Peterhofstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.353672</latitude>
-        <longitude>10.948799</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-22T06:35:42+01:00</create>
-      <lastuse>2026-01-29T08:07:17+01:00</lastuse>
-      <lastconfirm>2026-01-22T07:19:07+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18239173991</id>
     <type>1</type>
     <speed>70</speed>
@@ -97,6 +73,30 @@
     </date>
   </event>
   <event>
+    <id>18239641422</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>A29</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.536235</latitude>
+        <longitude>10.857275</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-22T09:09:30+01:00</create>
+      <lastuse>2026-01-22T13:21:57+01:00</lastuse>
+      <lastconfirm>2026-01-22T11:21:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18239652892</id>
     <type>1</type>
     <speed>120</speed>
@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2026-01-22T09:10:40+01:00</create>
-      <lastuse>2026-01-22T13:15:32+01:00</lastuse>
+      <lastuse>2026-01-22T13:10:40+01:00</lastuse>
       <lastconfirm>2026-01-22T11:15:33+01:00</lastconfirm>
     </date>
   </event>
@@ -189,7 +189,7 @@
     <date>
       <create>2026-01-22T10:59:16+01:00</create>
       <lastuse>2026-01-22T14:59:16+01:00</lastuse>
-      <lastconfirm>2026-01-22T11:16:17+01:00</lastconfirm>
+      <lastconfirm>2026-01-22T11:20:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2026-01-20T12:04:12+01:00</create>
-      <lastuse>2026-01-22T18:06:14+01:00</lastuse>
-      <lastconfirm>2026-01-22T10:06:14+01:00</lastconfirm>
+      <lastuse>2026-01-22T19:22:17+01:00</lastuse>
+      <lastconfirm>2026-01-22T11:22:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2026-01-22T08:18:25+01:00</create>
-      <lastuse>2026-01-22T18:55:46+01:00</lastuse>
-      <lastconfirm>2026-01-22T10:55:46+01:00</lastconfirm>
+      <lastuse>2026-01-22T19:21:16+01:00</lastuse>
+      <lastconfirm>2026-01-22T11:21:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,32 +260,8 @@
     </location>
     <date>
       <create>2026-01-22T10:47:15+01:00</create>
-      <lastuse>2026-01-22T11:48:36+01:00</lastuse>
-      <lastconfirm>2026-01-22T11:18:37+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18240135255</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86707</zip>
-      <city>Westendorf</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.565493</latitude>
-        <longitude>10.847788</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-22T10:56:48+01:00</create>
-      <lastuse>2026-01-22T11:41:48+01:00</lastuse>
-      <lastconfirm>2026-01-22T11:11:48+01:00</lastconfirm>
+      <lastuse>2026-01-22T11:51:15+01:00</lastuse>
+      <lastconfirm>2026-01-22T11:21:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
