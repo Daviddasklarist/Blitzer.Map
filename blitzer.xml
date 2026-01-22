@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18239450430</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86637</zip>
+      <city>Wertingen</city>
+      <state>DE-BY</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.540555</latitude>
+        <longitude>10.735640</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-22T08:26:03+01:00</create>
+      <lastuse>2026-01-22T15:08:57+01:00</lastuse>
+      <lastconfirm>2026-01-22T13:38:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18239641422</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-22T09:09:30+01:00</create>
-      <lastuse>2026-01-22T14:57:33+01:00</lastuse>
-      <lastconfirm>2026-01-22T13:27:33+01:00</lastconfirm>
+      <lastuse>2026-01-22T15:41:18+01:00</lastuse>
+      <lastconfirm>2026-01-22T13:41:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,7 +68,7 @@
     </location>
     <date>
       <create>2026-01-22T09:50:35+01:00</create>
-      <lastuse>2026-01-22T15:23:08+01:00</lastuse>
+      <lastuse>2026-01-22T14:53:08+01:00</lastuse>
       <lastconfirm>2026-01-22T13:23:08+01:00</lastconfirm>
     </date>
   </event>
@@ -121,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>18240851876</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>Römerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.539731</latitude>
+        <longitude>10.856047</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-22T13:27:38+01:00</create>
+      <lastuse>2026-01-22T16:27:38+01:00</lastuse>
+      <lastconfirm>2026-01-22T13:40:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18228277652</id>
     <type>7</type>
     <speed>30</speed>
@@ -188,8 +236,8 @@
     </location>
     <date>
       <create>2026-01-22T12:33:12+01:00</create>
-      <lastuse>2026-01-22T14:37:23+01:00</lastuse>
-      <lastconfirm>2026-01-22T13:37:23+01:00</lastconfirm>
+      <lastuse>2026-01-22T14:41:20+01:00</lastuse>
+      <lastconfirm>2026-01-22T13:41:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +620,8 @@
     </location>
     <date>
       <create>2026-01-22T12:08:37+01:00</create>
-      <lastuse>2026-01-22T21:11:41+01:00</lastuse>
-      <lastconfirm>2026-01-22T13:11:42+01:00</lastconfirm>
+      <lastuse>2026-01-22T21:35:00+01:00</lastuse>
+      <lastconfirm>2026-01-22T13:35:01+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
