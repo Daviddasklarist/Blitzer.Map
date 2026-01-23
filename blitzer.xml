@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18245159517</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberer Graben</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.367370</latitude>
-        <longitude>10.902972</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-23T06:54:09+01:00</create>
-      <lastuse>2026-01-23T12:09:47+01:00</lastuse>
-      <lastconfirm>2026-01-23T11:39:48+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18245248251</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2026-01-23T07:16:55+01:00</create>
-      <lastuse>2026-01-23T13:34:38+01:00</lastuse>
-      <lastconfirm>2026-01-23T12:04:40+01:00</lastconfirm>
+      <lastuse>2026-01-23T13:38:17+01:00</lastuse>
+      <lastconfirm>2026-01-23T12:08:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,30 +73,6 @@
     </date>
   </event>
   <event>
-    <id>18245333750</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Aurnhammer-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337490</latitude>
-        <longitude>10.867931</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-23T07:38:15+01:00</create>
-      <lastuse>2026-01-23T12:27:35+01:00</lastuse>
-      <lastconfirm>2026-01-23T11:27:36+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18245970883</id>
     <type>1</type>
     <speed>30</speed>
@@ -165,7 +117,7 @@
     <date>
       <create>2026-01-23T10:47:42+01:00</create>
       <lastuse>2026-01-23T14:47:42+01:00</lastuse>
-      <lastconfirm>2026-01-23T12:04:14+01:00</lastconfirm>
+      <lastconfirm>2026-01-23T12:10:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -217,6 +169,30 @@
     </date>
   </event>
   <event>
+    <id>18246517504</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.305378</latitude>
+        <longitude>10.881711</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-23T12:01:24+01:00</create>
+      <lastuse>2026-01-23T12:42:16+01:00</lastuse>
+      <lastconfirm>2026-01-23T12:12:18+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>17208612517</id>
     <type>26</type>
     <speed></speed>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2026-01-25T09:43:15+01:00</lastuse>
-      <lastconfirm>2026-01-23T09:43:15+01:00</lastconfirm>
+      <lastuse>2026-01-25T12:05:47+01:00</lastuse>
+      <lastconfirm>2026-01-23T12:05:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2025-12-22T11:52:13+01:00</create>
-      <lastuse>2026-01-23T12:46:38+01:00</lastuse>
-      <lastconfirm>2026-01-21T12:46:38+01:00</lastconfirm>
+      <lastuse>2026-01-23T20:46:38+01:00</lastuse>
+      <lastconfirm>2026-01-23T12:05:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2026-01-23T10:00:03+01:00</create>
-      <lastuse>2026-01-23T17:53:02+01:00</lastuse>
-      <lastconfirm>2026-01-23T10:00:03+01:00</lastconfirm>
+      <lastuse>2026-01-23T20:09:59+01:00</lastuse>
+      <lastconfirm>2026-01-23T12:10:00+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
