@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18248462301</id>
+    <type>2</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382258</latitude>
+        <longitude>10.903846</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-23T18:43:11+01:00</create>
+      <lastuse>2026-01-23T21:45:16+01:00</lastuse>
+      <lastconfirm>2026-01-23T19:45:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18248713112</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384724</latitude>
+        <longitude>10.858968</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-23T19:38:49+01:00</create>
+      <lastuse>2026-01-23T21:47:57+01:00</lastuse>
+      <lastconfirm>2026-01-23T19:47:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18228277652</id>
     <type>7</type>
     <speed>30</speed>
@@ -68,8 +116,8 @@
     </location>
     <date>
       <create>2026-01-23T18:39:25+01:00</create>
-      <lastuse>2026-01-23T20:08:24+01:00</lastuse>
-      <lastconfirm>2026-01-23T19:38:25+01:00</lastconfirm>
+      <lastuse>2026-01-23T20:13:39+01:00</lastuse>
+      <lastconfirm>2026-01-23T19:43:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +140,8 @@
     </location>
     <date>
       <create>2026-01-23T18:58:31+01:00</create>
-      <lastuse>2026-01-23T20:10:52+01:00</lastuse>
-      <lastconfirm>2026-01-23T19:40:53+01:00</lastconfirm>
+      <lastuse>2026-01-23T20:16:03+01:00</lastuse>
+      <lastconfirm>2026-01-23T19:46:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
