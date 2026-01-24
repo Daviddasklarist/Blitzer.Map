@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18251414752</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.287216</latitude>
+        <longitude>10.895711</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-24T07:29:37+01:00</create>
+      <lastuse>2026-01-24T09:54:55+01:00</lastuse>
+      <lastconfirm>2026-01-24T07:54:56+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18228277652</id>
     <type>7</type>
     <speed>30</speed>
