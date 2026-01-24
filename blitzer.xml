@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18251414752</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Haunstetter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.287216</latitude>
-        <longitude>10.895711</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-24T07:29:37+01:00</create>
-      <lastuse>2026-01-24T11:06:12+01:00</lastuse>
-      <lastconfirm>2026-01-24T10:06:12+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18251927153</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Wiedemannstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.284895</latitude>
-        <longitude>10.894599</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-24T09:45:23+01:00</create>
-      <lastuse>2026-01-24T11:41:41+01:00</lastuse>
-      <lastconfirm>2026-01-24T10:11:42+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18251966782</id>
     <type>1</type>
     <speed>60</speed>
@@ -68,8 +20,8 @@
     </location>
     <date>
       <create>2026-01-24T09:55:29+01:00</create>
-      <lastuse>2026-01-24T12:55:29+01:00</lastuse>
-      <lastconfirm>2026-01-24T10:52:04+01:00</lastconfirm>
+      <lastuse>2026-01-24T12:57:33+01:00</lastuse>
+      <lastconfirm>2026-01-24T10:57:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +45,7 @@
     <date>
       <create>2026-01-24T09:55:29+01:00</create>
       <lastuse>2026-01-24T12:55:29+01:00</lastuse>
-      <lastconfirm>2026-01-24T10:51:45+01:00</lastconfirm>
+      <lastconfirm>2026-01-24T10:57:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +380,8 @@
     </location>
     <date>
       <create>2026-01-08T13:08:29+01:00</create>
-      <lastuse>2026-01-26T09:19:00+01:00</lastuse>
-      <lastconfirm>2026-01-24T09:19:00+01:00</lastconfirm>
+      <lastuse>2026-01-26T10:53:17+01:00</lastuse>
+      <lastconfirm>2026-01-24T10:53:18+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
