@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-22T08:18:25+01:00</create>
-      <lastuse>2026-01-26T05:05:44+01:00</lastuse>
-      <lastconfirm>2026-01-25T21:05:44+01:00</lastconfirm>
+      <lastuse>2026-01-26T05:18:15+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:18:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>18260353216</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.415982</latitude>
+        <longitude>10.852980</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-25T21:02:11+01:00</create>
+      <lastuse>2026-01-25T22:16:32+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:16:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18260223190</id>
     <type>20</type>
     <speed></speed>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2026-01-25T20:30:04+01:00</create>
-      <lastuse>2026-01-25T21:17:00+01:00</lastuse>
+      <lastuse>2026-01-25T21:23:00+01:00</lastuse>
       <lastconfirm>2026-01-25T20:30:04+01:00</lastconfirm>
     </date>
   </event>
@@ -140,80 +164,8 @@
     </location>
     <date>
       <create>2026-01-25T21:01:03+01:00</create>
-      <lastuse>2026-01-25T21:17:00+01:00</lastuse>
+      <lastuse>2026-01-25T21:23:00+01:00</lastuse>
       <lastconfirm>2026-01-25T21:01:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18260368219</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Landkreis Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410014</latitude>
-        <longitude>10.600794</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-25T21:05:03+01:00</create>
-      <lastuse>2026-01-25T21:17:00+01:00</lastuse>
-      <lastconfirm>2026-01-25T21:05:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18260377479</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.404976</latitude>
-        <longitude>10.949103</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-25T21:08:03+01:00</create>
-      <lastuse>2026-01-25T21:17:00+01:00</lastuse>
-      <lastconfirm>2026-01-25T21:08:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18260389171</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Landkreis Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.419560</latitude>
-        <longitude>10.688612</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-25T21:10:03+01:00</create>
-      <lastuse>2026-01-25T21:17:00+01:00</lastuse>
-      <lastconfirm>2026-01-25T21:10:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +188,104 @@
     </location>
     <date>
       <create>2026-01-25T21:11:04+01:00</create>
-      <lastuse>2026-01-25T21:17:00+01:00</lastuse>
+      <lastuse>2026-01-25T21:23:00+01:00</lastuse>
       <lastconfirm>2026-01-25T21:11:04+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18260398086</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.404703</latitude>
+        <longitude>10.950749</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-25T21:13:03+01:00</create>
+      <lastuse>2026-01-25T21:23:00+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:13:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18260412981</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409926</latitude>
+        <longitude>10.610798</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-25T21:16:03+01:00</create>
+      <lastuse>2026-01-25T21:23:00+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:16:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18260415808</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418617</latitude>
+        <longitude>10.700259</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-25T21:17:03+01:00</create>
+      <lastuse>2026-01-25T21:23:00+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:17:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18260418225</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.398154</latitude>
+        <longitude>11.021044</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-25T21:18:03+01:00</create>
+      <lastuse>2026-01-25T21:23:00+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:18:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +572,8 @@
     </location>
     <date>
       <create>2026-01-08T13:08:29+01:00</create>
-      <lastuse>2026-01-27T09:59:24+01:00</lastuse>
-      <lastconfirm>2026-01-25T09:59:24+01:00</lastconfirm>
+      <lastuse>2026-01-27T21:10:27+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:10:28+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
