@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-25T20:15:38+01:00</create>
-      <lastuse>2026-01-25T21:42:20+01:00</lastuse>
-      <lastconfirm>2026-01-25T21:12:21+01:00</lastconfirm>
+      <lastuse>2026-01-25T21:56:39+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:26:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2026-01-25T21:02:11+01:00</create>
-      <lastuse>2026-01-25T22:16:32+01:00</lastuse>
-      <lastconfirm>2026-01-25T21:16:34+01:00</lastconfirm>
+      <lastuse>2026-01-25T22:26:18+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:26:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,7 +140,7 @@
     </location>
     <date>
       <create>2026-01-25T21:11:04+01:00</create>
-      <lastuse>2026-01-25T21:28:00+01:00</lastuse>
+      <lastuse>2026-01-25T21:33:00+01:00</lastuse>
       <lastconfirm>2026-01-25T21:11:04+01:00</lastconfirm>
     </date>
   </event>
@@ -164,7 +164,7 @@
     </location>
     <date>
       <create>2026-01-25T21:13:03+01:00</create>
-      <lastuse>2026-01-25T21:28:00+01:00</lastuse>
+      <lastuse>2026-01-25T21:33:00+01:00</lastuse>
       <lastconfirm>2026-01-25T21:13:03+01:00</lastconfirm>
     </date>
   </event>
@@ -182,62 +182,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.410050</latitude>
-        <longitude>10.597459</longitude>
+        <latitude>48.410060</latitude>
+        <longitude>10.595791</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-25T21:19:03+01:00</create>
-      <lastuse>2026-01-25T21:28:00+01:00</lastuse>
+      <lastuse>2026-01-25T21:33:00+01:00</lastuse>
       <lastconfirm>2026-01-25T21:19:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18260421471</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Landkreis Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.412792</latitude>
-        <longitude>10.656501</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-25T21:19:03+01:00</create>
-      <lastuse>2026-01-25T21:28:00+01:00</lastuse>
-      <lastconfirm>2026-01-25T21:19:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18260430315</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Landkreis Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.409904</latitude>
-        <longitude>10.637906</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-25T21:20:03+01:00</create>
-      <lastuse>2026-01-25T21:28:00+01:00</lastuse>
-      <lastconfirm>2026-01-25T21:20:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +212,80 @@
     </location>
     <date>
       <create>2026-01-25T21:23:03+01:00</create>
-      <lastuse>2026-01-25T21:28:00+01:00</lastuse>
+      <lastuse>2026-01-25T21:33:00+01:00</lastuse>
       <lastconfirm>2026-01-25T21:23:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18260442096</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413612</latitude>
+        <longitude>10.897131</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-25T21:24:04+01:00</create>
+      <lastuse>2026-01-25T21:33:00+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:24:04+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18260451369</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410882</latitude>
+        <longitude>10.644596</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-25T21:25:03+01:00</create>
+      <lastuse>2026-01-25T21:33:00+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:25:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18260459635</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411470</latitude>
+        <longitude>10.909878</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-25T21:28:04+01:00</create>
+      <lastuse>2026-01-25T21:33:00+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:28:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2025-07-06T11:27:02+02:00</create>
-      <lastuse>2026-01-27T13:50:40+01:00</lastuse>
-      <lastconfirm>2026-01-25T13:50:41+01:00</lastconfirm>
+      <lastuse>2026-01-27T21:20:03+01:00</lastuse>
+      <lastconfirm>2026-01-25T21:20:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
