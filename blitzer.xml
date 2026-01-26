@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18263877962</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86672</zip>
-      <city>Thierhaupten</city>
-      <state>DE-BY</state>
-      <street>Meitinger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.566214</latitude>
-        <longitude>10.896450</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-26T10:51:18+01:00</create>
-      <lastuse>2026-01-26T15:28:37+01:00</lastuse>
-      <lastconfirm>2026-01-26T14:28:37+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18264073919</id>
     <type>1</type>
     <speed>30</speed>
@@ -121,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>18264938004</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Nordendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.598613</latitude>
+        <longitude>10.839740</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-26T14:34:09+01:00</create>
+      <lastuse>2026-01-26T17:34:09+01:00</lastuse>
+      <lastconfirm>2026-01-26T14:46:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18228277652</id>
     <type>7</type>
     <speed>30</speed>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2026-01-26T04:02:11+01:00</create>
-      <lastuse>2026-01-26T15:40:42+01:00</lastuse>
-      <lastconfirm>2026-01-26T14:40:42+01:00</lastconfirm>
+      <lastuse>2026-01-26T15:47:09+01:00</lastuse>
+      <lastconfirm>2026-01-26T14:47:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2026-01-26T14:20:51+01:00</create>
-      <lastuse>2026-01-26T15:10:37+01:00</lastuse>
-      <lastconfirm>2026-01-26T14:40:38+01:00</lastconfirm>
+      <lastuse>2026-01-26T15:17:18+01:00</lastuse>
+      <lastconfirm>2026-01-26T14:47:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
