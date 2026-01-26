@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18228277652</id>
-    <type>7</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86399</zip>
-      <city>Bobingen</city>
-      <state>DE-BY</state>
-      <street>Krumbacher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.269254</latitude>
-        <longitude>10.823233</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-20T12:04:12+01:00</create>
-      <lastuse>2026-01-27T00:03:49+01:00</lastuse>
-      <lastconfirm>2026-01-26T18:03:49+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18239412723</id>
     <type>7</type>
     <speed>50</speed>
@@ -70,6 +46,30 @@
       <create>2026-01-26T04:02:11+01:00</create>
       <lastuse>2026-01-26T19:27:35+01:00</lastuse>
       <lastconfirm>2026-01-26T18:27:35+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18266178225</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401502</latitude>
+        <longitude>10.972664</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-26T18:55:50+01:00</create>
+      <lastuse>2026-01-26T19:47:26+01:00</lastuse>
+      <lastconfirm>2026-01-26T19:17:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
