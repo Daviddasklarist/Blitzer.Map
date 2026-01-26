@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18264073919</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86157</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Lutzstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.363950</latitude>
-        <longitude>10.877932</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-26T11:32:43+01:00</create>
-      <lastuse>2026-01-26T15:32:43+01:00</lastuse>
-      <lastconfirm>2026-01-26T13:46:24+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18264144585</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-20T12:04:12+01:00</create>
-      <lastuse>2026-01-26T22:31:17+01:00</lastuse>
-      <lastconfirm>2026-01-26T14:31:18+01:00</lastconfirm>
+      <lastuse>2026-01-26T23:26:55+01:00</lastuse>
+      <lastconfirm>2026-01-26T15:26:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -142,30 +118,6 @@
       <create>2026-01-26T04:02:11+01:00</create>
       <lastuse>2026-01-26T16:18:53+01:00</lastuse>
       <lastconfirm>2026-01-26T15:18:53+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18264876757</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.415419</latitude>
-        <longitude>10.859382</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-26T14:20:51+01:00</create>
-      <lastuse>2026-01-26T15:27:08+01:00</lastuse>
-      <lastconfirm>2026-01-26T15:17:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
