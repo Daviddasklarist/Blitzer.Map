@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18266227695</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411983</latitude>
+        <longitude>10.879146</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-26T19:06:08+01:00</create>
+      <lastuse>2026-01-26T22:06:08+01:00</lastuse>
+      <lastconfirm>2026-01-26T19:28:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18239412723</id>
     <type>7</type>
     <speed>50</speed>
@@ -25,30 +49,6 @@
     </date>
   </event>
   <event>
-    <id>18262018463</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.367509</latitude>
-        <longitude>11.111362</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-26T04:02:11+01:00</create>
-      <lastuse>2026-01-26T19:27:35+01:00</lastuse>
-      <lastconfirm>2026-01-26T18:27:35+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18266178225</id>
     <type>29</type>
     <speed></speed>
@@ -68,8 +68,32 @@
     </location>
     <date>
       <create>2026-01-26T18:55:50+01:00</create>
-      <lastuse>2026-01-26T19:53:36+01:00</lastuse>
-      <lastconfirm>2026-01-26T19:23:37+01:00</lastconfirm>
+      <lastuse>2026-01-26T19:56:54+01:00</lastuse>
+      <lastconfirm>2026-01-26T19:26:56+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18265760270</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86559</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355369</latitude>
+        <longitude>11.131615</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-26T17:25:02+01:00</create>
+      <lastuse>2026-01-26T19:33:00+01:00</lastuse>
+      <lastconfirm>2026-01-26T17:25:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
