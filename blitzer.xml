@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18270301151</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Salomon-Idler-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.334694</latitude>
-        <longitude>10.902101</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T11:58:30+01:00</create>
-      <lastuse>2026-01-27T17:43:09+01:00</lastuse>
-      <lastconfirm>2026-01-27T16:43:09+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18270592466</id>
     <type>1</type>
     <speed>30</speed>
@@ -70,6 +46,30 @@
       <create>2026-01-27T14:17:38+01:00</create>
       <lastuse>2026-01-27T19:05:28+01:00</lastuse>
       <lastconfirm>2026-01-27T17:05:29+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18271508375</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86647</zip>
+      <city>Buttenwiesen</city>
+      <state>DE-BY</state>
+      <street>Burgstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.595056</latitude>
+        <longitude>10.706133</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-27T16:15:32+01:00</create>
+      <lastuse>2026-01-27T19:19:37+01:00</lastuse>
+      <lastconfirm>2026-01-27T17:19:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -148,7 +148,7 @@
     <id>18271591684</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -164,7 +164,7 @@
     </location>
     <date>
       <create>2026-01-27T16:33:06+01:00</create>
-      <lastuse>2026-01-27T18:12:01+01:00</lastuse>
+      <lastuse>2026-01-27T17:32:01+01:00</lastuse>
       <lastconfirm>2026-01-27T17:12:01+01:00</lastconfirm>
     </date>
   </event>
@@ -220,7 +220,7 @@
     <id>18271713043</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2026-01-27T16:57:26+01:00</create>
-      <lastuse>2026-01-27T17:32:40+01:00</lastuse>
-      <lastconfirm>2026-01-27T17:12:41+01:00</lastconfirm>
+      <lastuse>2026-01-27T18:22:34+01:00</lastuse>
+      <lastconfirm>2026-01-27T17:22:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,32 @@
     </location>
     <date>
       <create>2026-01-27T17:04:42+01:00</create>
-      <lastuse>2026-01-27T18:16:28+01:00</lastuse>
-      <lastconfirm>2026-01-27T17:16:29+01:00</lastconfirm>
+      <lastuse>2026-01-27T18:22:20+01:00</lastuse>
+      <lastconfirm>2026-01-27T17:22:21+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18271781349</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.354700</latitude>
+        <longitude>10.852884</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-27T17:11:58+01:00</create>
+      <lastuse>2026-01-27T18:22:44+01:00</lastuse>
+      <lastconfirm>2026-01-27T17:22:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2026-01-27T09:59:28+01:00</create>
-      <lastuse>2026-01-28T01:13:42+01:00</lastuse>
-      <lastconfirm>2026-01-27T17:13:42+01:00</lastconfirm>
+      <lastuse>2026-01-28T01:15:56+01:00</lastuse>
+      <lastconfirm>2026-01-27T17:15:56+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
