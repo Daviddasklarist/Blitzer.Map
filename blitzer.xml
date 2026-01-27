@@ -4,7 +4,7 @@
     <id>18268764147</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-01-27T06:08:32+01:00</create>
-      <lastuse>2026-01-27T10:08:32+01:00</lastuse>
-      <lastconfirm>2026-01-27T09:03:25+01:00</lastconfirm>
+      <lastuse>2026-01-27T11:20:38+01:00</lastuse>
+      <lastconfirm>2026-01-27T09:20:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,6 +193,30 @@
     </date>
   </event>
   <event>
+    <id>18269487146</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ulrich-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.327623</latitude>
+        <longitude>10.907811</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-27T08:58:47+01:00</create>
+      <lastuse>2026-01-27T11:22:53+01:00</lastuse>
+      <lastconfirm>2026-01-27T09:22:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18239412723</id>
     <type>7</type>
     <speed>50</speed>
@@ -214,30 +238,6 @@
       <create>2026-01-22T08:18:25+01:00</create>
       <lastuse>2026-01-27T17:10:29+01:00</lastuse>
       <lastconfirm>2026-01-27T09:10:29+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18269305463</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Bahnstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337922</latitude>
-        <longitude>10.869540</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2026-02-03T03:53:40+01:00</lastuse>
-      <lastconfirm>2025-02-05T14:47:28+01:00</lastconfirm>
     </date>
   </event>
   <event>
