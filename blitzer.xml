@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18268798486</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Postillionstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.307217</latitude>
-        <longitude>10.893835</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T06:17:54+01:00</create>
-      <lastuse>2026-01-27T10:44:20+01:00</lastuse>
-      <lastconfirm>2026-01-27T09:44:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18268814628</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Blücherstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.372328</latitude>
-        <longitude>10.934611</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T06:21:37+01:00</create>
-      <lastuse>2026-01-27T10:47:53+01:00</lastuse>
-      <lastconfirm>2026-01-27T09:47:54+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18268875951</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +20,8 @@
     </location>
     <date>
       <create>2026-01-27T06:38:27+01:00</create>
-      <lastuse>2026-01-27T12:38:19+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:38:20+01:00</lastconfirm>
+      <lastuse>2026-01-27T12:47:47+01:00</lastuse>
+      <lastconfirm>2026-01-27T10:47:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,7 +44,7 @@
     </location>
     <date>
       <create>2026-01-27T06:47:38+01:00</create>
-      <lastuse>2026-01-27T12:33:13+01:00</lastuse>
+      <lastuse>2026-01-27T12:03:13+01:00</lastuse>
       <lastconfirm>2026-01-27T10:33:13+01:00</lastconfirm>
     </date>
   </event>
@@ -165,7 +117,7 @@
     <date>
       <create>2026-01-27T10:15:02+01:00</create>
       <lastuse>2026-01-27T14:15:02+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:41:42+01:00</lastconfirm>
+      <lastconfirm>2026-01-27T10:45:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,12 +164,12 @@
     </location>
     <date>
       <create>2026-01-27T10:17:31+01:00</create>
-      <lastuse>2026-01-27T11:38:33+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:38:33+01:00</lastconfirm>
+      <lastuse>2026-01-27T11:47:51+01:00</lastuse>
+      <lastconfirm>2026-01-27T10:47:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18269905774</id>
+    <id>18269981512</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -230,38 +182,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.367582</latitude>
-        <longitude>11.110417</longitude>
+        <latitude>48.378902</latitude>
+        <longitude>11.088639</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-27T10:30:02+01:00</create>
-      <lastuse>2026-01-27T10:47:00+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:30:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18269937896</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373103</latitude>
-        <longitude>11.097764</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T10:39:01+01:00</create>
-      <lastuse>2026-01-27T10:47:00+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:39:01+01:00</lastconfirm>
+      <create>2026-01-27T10:48:01+01:00</create>
+      <lastuse>2026-01-27T10:54:00+01:00</lastuse>
+      <lastconfirm>2026-01-27T10:48:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
