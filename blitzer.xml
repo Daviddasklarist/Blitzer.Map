@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-27T06:47:38+01:00</create>
-      <lastuse>2026-01-27T13:46:48+01:00</lastuse>
-      <lastconfirm>2026-01-27T11:46:49+01:00</lastconfirm>
+      <lastuse>2026-01-27T14:03:03+01:00</lastuse>
+      <lastconfirm>2026-01-27T12:03:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -117,7 +117,7 @@
     <date>
       <create>2026-01-27T10:15:02+01:00</create>
       <lastuse>2026-01-27T14:15:02+01:00</lastuse>
-      <lastconfirm>2026-01-27T12:02:00+01:00</lastconfirm>
+      <lastconfirm>2026-01-27T12:07:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -169,30 +169,6 @@
     </date>
   </event>
   <event>
-    <id>18270274786</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.374751</latitude>
-        <longitude>11.095151</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T11:52:01+01:00</create>
-      <lastuse>2026-01-27T12:07:00+01:00</lastuse>
-      <lastconfirm>2026-01-27T11:52:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18270305419</id>
     <type>20</type>
     <speed></speed>
@@ -206,14 +182,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.400480</latitude>
-        <longitude>11.001149</longitude>
+        <latitude>48.400587</latitude>
+        <longitude>10.999608</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-27T11:59:02+01:00</create>
-      <lastuse>2026-01-27T12:07:00+01:00</lastuse>
+      <lastuse>2026-01-27T12:13:00+01:00</lastuse>
       <lastconfirm>2026-01-27T11:59:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18270317153</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.418757</latitude>
+        <longitude>10.869031</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-27T12:01:53+01:00</create>
+      <lastuse>2026-01-27T13:08:48+01:00</lastuse>
+      <lastconfirm>2026-01-27T12:08:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +524,8 @@
     </location>
     <date>
       <create>2026-01-27T10:48:48+01:00</create>
-      <lastuse>2026-01-27T19:54:29+01:00</lastuse>
-      <lastconfirm>2026-01-27T11:54:29+01:00</lastconfirm>
+      <lastuse>2026-01-27T20:04:04+01:00</lastuse>
+      <lastconfirm>2026-01-27T12:04:04+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
