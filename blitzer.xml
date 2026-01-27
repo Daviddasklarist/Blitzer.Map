@@ -97,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>18269649695</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Römerallee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.264757</latitude>
+        <longitude>10.882265</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-27T09:34:49+01:00</create>
+      <lastuse>2026-01-27T13:09:53+01:00</lastuse>
+      <lastconfirm>2026-01-27T11:09:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269837430</id>
     <type>6</type>
     <speed></speed>
@@ -117,7 +141,7 @@
     <date>
       <create>2026-01-27T10:15:02+01:00</create>
       <lastuse>2026-01-27T14:15:02+01:00</lastuse>
-      <lastconfirm>2026-01-27T11:06:03+01:00</lastconfirm>
+      <lastconfirm>2026-01-27T11:12:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,32 +188,8 @@
     </location>
     <date>
       <create>2026-01-27T10:17:31+01:00</create>
-      <lastuse>2026-01-27T12:06:41+01:00</lastuse>
+      <lastuse>2026-01-27T11:26:41+01:00</lastuse>
       <lastconfirm>2026-01-27T11:06:41+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18270027884</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396185</latitude>
-        <longitude>11.056290</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T10:58:02+01:00</create>
-      <lastuse>2026-01-27T11:12:00+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:58:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,12 +212,12 @@
     </location>
     <date>
       <create>2026-01-27T11:03:02+01:00</create>
-      <lastuse>2026-01-27T11:12:00+01:00</lastuse>
+      <lastuse>2026-01-27T11:18:00+01:00</lastuse>
       <lastconfirm>2026-01-27T11:03:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18270065715</id>
+    <id>18270075109</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -235,9 +235,9 @@
       </point>
     </location>
     <date>
-      <create>2026-01-27T11:07:01+01:00</create>
-      <lastuse>2026-01-27T11:12:00+01:00</lastuse>
-      <lastconfirm>2026-01-27T11:07:01+01:00</lastconfirm>
+      <create>2026-01-27T11:09:02+01:00</create>
+      <lastuse>2026-01-27T11:18:00+01:00</lastuse>
+      <lastconfirm>2026-01-27T11:09:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +524,8 @@
     </location>
     <date>
       <create>2026-01-27T09:59:28+01:00</create>
-      <lastuse>2026-01-27T18:57:40+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:57:41+01:00</lastconfirm>
+      <lastuse>2026-01-27T19:07:39+01:00</lastuse>
+      <lastconfirm>2026-01-27T11:07:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2026-01-27T10:48:48+01:00</create>
-      <lastuse>2026-01-27T19:03:53+01:00</lastuse>
-      <lastconfirm>2026-01-27T11:03:53+01:00</lastconfirm>
+      <lastuse>2026-01-27T19:08:39+01:00</lastuse>
+      <lastconfirm>2026-01-27T11:08:40+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
