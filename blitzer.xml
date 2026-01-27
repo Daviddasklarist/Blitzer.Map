@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18268764147</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Rumplerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.337429</latitude>
-        <longitude>10.902909</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T06:08:32+01:00</create>
-      <lastuse>2026-01-27T10:43:05+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:13:06+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18268798486</id>
     <type>1</type>
     <speed>30</speed>
@@ -169,30 +145,6 @@
     </date>
   </event>
   <event>
-    <id>18269275992</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Pilgerhausstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.370384</latitude>
-        <longitude>10.903153</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T08:13:24+01:00</create>
-      <lastuse>2026-01-27T12:13:24+01:00</lastuse>
-      <lastconfirm>2026-01-27T09:35:26+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18269487146</id>
     <type>1</type>
     <speed>50</speed>
@@ -220,7 +172,7 @@
     <id>18269837430</id>
     <type>6</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -237,7 +189,7 @@
     <date>
       <create>2026-01-27T10:15:02+01:00</create>
       <lastuse>2026-01-27T14:15:02+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:23:05+01:00</lastconfirm>
+      <lastconfirm>2026-01-27T10:27:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -262,6 +214,54 @@
       <create>2026-01-22T08:18:25+01:00</create>
       <lastuse>2026-01-27T18:17:35+01:00</lastuse>
       <lastconfirm>2026-01-27T10:17:36+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18269843762</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Adelzhausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.359118</latitude>
+        <longitude>11.128475</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-27T10:17:31+01:00</create>
+      <lastuse>2026-01-27T11:28:21+01:00</lastuse>
+      <lastconfirm>2026-01-27T10:28:21+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18269883371</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.363642</latitude>
+        <longitude>11.122082</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-27T10:25:02+01:00</create>
+      <lastuse>2026-01-27T10:33:00+01:00</lastuse>
+      <lastconfirm>2026-01-27T10:25:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2026-01-27T09:59:28+01:00</create>
-      <lastuse>2026-01-27T18:14:40+01:00</lastuse>
-      <lastconfirm>2026-01-27T10:14:41+01:00</lastconfirm>
+      <lastuse>2026-01-27T18:21:04+01:00</lastuse>
+      <lastconfirm>2026-01-27T10:21:05+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
