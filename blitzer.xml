@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18270592466</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86167</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Klausstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.383751</latitude>
-        <longitude>10.919168</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T13:00:59+01:00</create>
-      <lastuse>2026-01-27T19:52:46+01:00</lastuse>
-      <lastconfirm>2026-01-27T17:52:48+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18239412723</id>
     <type>7</type>
     <speed>50</speed>
@@ -70,30 +46,6 @@
       <create>2026-01-27T12:20:20+01:00</create>
       <lastuse>2026-01-28T02:22:29+01:00</lastuse>
       <lastconfirm>2026-01-27T18:22:30+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18272294169</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.419505</latitude>
-        <longitude>10.688713</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-27T19:02:42+01:00</create>
-      <lastuse>2026-01-27T20:03:36+01:00</lastuse>
-      <lastconfirm>2026-01-27T19:33:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
