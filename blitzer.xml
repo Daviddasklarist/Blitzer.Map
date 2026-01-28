@@ -20,32 +20,8 @@
     </location>
     <date>
       <create>2026-01-28T09:02:34+01:00</create>
-      <lastuse>2026-01-28T17:57:23+01:00</lastuse>
-      <lastconfirm>2026-01-28T15:57:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18276321335</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86157</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Bohl-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.358124</latitude>
-        <longitude>10.861643</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-28T12:01:45+01:00</create>
-      <lastuse>2026-01-28T16:01:45+01:00</lastuse>
-      <lastconfirm>2026-01-28T13:58:03+01:00</lastconfirm>
+      <lastuse>2026-01-28T18:02:36+01:00</lastuse>
+      <lastconfirm>2026-01-28T16:02:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -70,30 +46,6 @@
       <create>2026-01-28T12:09:09+01:00</create>
       <lastuse>2026-01-28T17:44:54+01:00</lastuse>
       <lastconfirm>2026-01-28T15:44:54+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18276434790</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.281315</latitude>
-        <longitude>10.889928</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-28T12:25:17+01:00</create>
-      <lastuse>2026-01-28T17:51:35+01:00</lastuse>
-      <lastconfirm>2026-01-28T15:51:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -148,7 +100,7 @@
     <id>18276521421</id>
     <type>7</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86152</zip>
       <city>Augsburg</city>
@@ -164,8 +116,32 @@
     </location>
     <date>
       <create>2026-01-28T12:44:26+01:00</create>
-      <lastuse>2026-01-28T23:49:47+01:00</lastuse>
+      <lastuse>2026-01-28T22:49:47+01:00</lastuse>
       <lastconfirm>2026-01-28T15:49:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18277425850</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.347529</latitude>
+        <longitude>10.872951</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-28T15:52:42+01:00</create>
+      <lastuse>2026-01-28T17:02:16+01:00</lastuse>
+      <lastconfirm>2026-01-28T16:02:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2026-01-27T09:59:28+01:00</create>
-      <lastuse>2026-01-30T15:53:16+01:00</lastuse>
-      <lastconfirm>2026-01-28T15:53:17+01:00</lastconfirm>
+      <lastuse>2026-01-30T07:58:17+01:00</lastuse>
+      <lastconfirm>2026-01-27T09:59:28+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
