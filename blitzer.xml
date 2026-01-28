@@ -121,6 +121,30 @@
     </date>
   </event>
   <event>
+    <id>18277902234</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413800</latitude>
+        <longitude>10.895427</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-28T17:27:01+01:00</create>
+      <lastuse>2026-01-28T17:32:00+01:00</lastuse>
+      <lastconfirm>2026-01-28T17:27:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2026-01-27T09:59:28+01:00</create>
-      <lastuse>2026-01-30T09:08:45+01:00</lastuse>
-      <lastconfirm>2026-01-27T09:59:28+01:00</lastconfirm>
+      <lastuse>2026-01-30T17:24:03+01:00</lastuse>
+      <lastconfirm>2026-01-28T17:24:05+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
