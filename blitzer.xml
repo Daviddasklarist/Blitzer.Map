@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>18277721549</id>
+    <type>1</type>
+    <speed>130</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.482479</latitude>
+        <longitude>10.863250</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-28T16:50:29+01:00</create>
+      <lastuse>2026-01-28T18:53:31+01:00</lastuse>
+      <lastconfirm>2026-01-28T16:53:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18270407774</id>
     <type>7</type>
     <speed>50</speed>
@@ -97,34 +121,10 @@
     </date>
   </event>
   <event>
-    <id>18277500754</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.345070</latitude>
-        <longitude>10.883246</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-28T16:06:29+01:00</create>
-      <lastuse>2026-01-28T17:10:14+01:00</lastuse>
-      <lastconfirm>2026-01-28T16:30:15+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18277585028</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86157</zip>
       <city>Augsburg</city>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2026-01-28T16:14:16+01:00</create>
-      <lastuse>2026-01-28T17:25:02+01:00</lastuse>
-      <lastconfirm>2026-01-28T16:45:03+01:00</lastconfirm>
+      <lastuse>2026-01-28T17:53:03+01:00</lastuse>
+      <lastconfirm>2026-01-28T16:53:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2026-01-27T09:59:28+01:00</create>
-      <lastuse>2026-01-30T16:44:15+01:00</lastuse>
-      <lastconfirm>2026-01-28T16:44:15+01:00</lastconfirm>
+      <lastuse>2026-01-30T08:44:15+01:00</lastuse>
+      <lastconfirm>2026-01-27T09:59:28+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
