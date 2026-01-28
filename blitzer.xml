@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18274583054</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Nordendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.597533</latitude>
+        <longitude>10.839910</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-28T05:18:14+01:00</create>
+      <lastuse>2026-01-28T07:33:48+01:00</lastuse>
+      <lastconfirm>2026-01-28T05:33:49+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18239412723</id>
     <type>7</type>
     <speed>50</speed>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2026-01-27T09:59:28+01:00</create>
-      <lastuse>2026-01-28T12:41:00+01:00</lastuse>
-      <lastconfirm>2026-01-28T04:41:02+01:00</lastconfirm>
+      <lastuse>2026-01-28T13:28:03+01:00</lastuse>
+      <lastconfirm>2026-01-28T05:28:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2026-01-27T19:53:27+01:00</create>
-      <lastuse>2026-01-28T13:15:38+01:00</lastuse>
-      <lastconfirm>2026-01-28T05:15:38+01:00</lastconfirm>
+      <lastuse>2026-01-28T13:27:44+01:00</lastuse>
+      <lastconfirm>2026-01-28T05:27:44+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
