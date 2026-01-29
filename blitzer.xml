@@ -28,7 +28,7 @@
     <id>18280240212</id>
     <type>24</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -44,32 +44,8 @@
     </location>
     <date>
       <create>2026-01-29T03:03:25+01:00</create>
-      <lastuse>2026-01-29T05:34:34+01:00</lastuse>
+      <lastuse>2026-01-29T05:04:34+01:00</lastuse>
       <lastconfirm>2026-01-29T03:34:34+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18280415624</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86559</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.354312</latitude>
-        <longitude>11.132221</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-29T03:52:02+01:00</create>
-      <lastuse>2026-01-29T03:58:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T03:52:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -358,6 +334,30 @@
       <create>2026-01-08T13:08:29+01:00</create>
       <lastuse>2026-01-30T14:43:07+01:00</lastuse>
       <lastconfirm>2026-01-28T14:43:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18280333774</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.367139</latitude>
+        <longitude>11.112581</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-29T03:26:35+01:00</create>
+      <lastuse>2026-01-29T11:54:47+01:00</lastuse>
+      <lastconfirm>2026-01-29T03:54:48+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
