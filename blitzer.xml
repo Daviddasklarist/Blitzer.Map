@@ -28,7 +28,7 @@
     <id>18280240212</id>
     <type>24</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -44,36 +44,12 @@
     </location>
     <date>
       <create>2026-01-29T03:03:25+01:00</create>
-      <lastuse>2026-01-29T06:33:18+01:00</lastuse>
+      <lastuse>2026-01-29T06:03:18+01:00</lastuse>
       <lastconfirm>2026-01-29T04:33:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18280539322</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.383080</latitude>
-        <longitude>11.082607</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-29T04:27:02+01:00</create>
-      <lastuse>2026-01-29T04:38:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T04:27:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18280557163</id>
+    <id>18280576800</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -86,14 +62,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.401844</latitude>
-        <longitude>10.556078</longitude>
+        <latitude>48.408233</latitude>
+        <longitude>10.580000</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-29T04:32:01+01:00</create>
-      <lastuse>2026-01-29T04:38:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T04:32:01+01:00</lastconfirm>
+      <create>2026-01-29T04:38:02+01:00</create>
+      <lastuse>2026-01-29T04:44:00+01:00</lastuse>
+      <lastconfirm>2026-01-29T04:38:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18280576803</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.390227</latitude>
+        <longitude>11.072107</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-29T04:39:01+01:00</create>
+      <lastuse>2026-01-29T04:44:00+01:00</lastuse>
+      <lastconfirm>2026-01-29T04:39:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
