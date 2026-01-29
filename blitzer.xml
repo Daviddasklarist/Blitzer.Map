@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18282735668</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Wertachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.378491</latitude>
-        <longitude>10.883664</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-29T12:45:20+01:00</create>
-      <lastuse>2026-01-29T18:00:36+01:00</lastuse>
-      <lastconfirm>2026-01-29T16:30:36+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18270407774</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-29T15:31:36+01:00</create>
-      <lastuse>2026-02-05T16:47:38+01:00</lastuse>
-      <lastconfirm>2026-01-29T16:44:42+01:00</lastconfirm>
+      <lastuse>2026-01-30T00:50:51+01:00</lastuse>
+      <lastconfirm>2026-01-29T16:50:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +92,7 @@
     </location>
     <date>
       <create>2026-01-29T15:43:09+01:00</create>
-      <lastuse>2026-01-29T17:46:23+01:00</lastuse>
+      <lastuse>2026-01-29T17:26:23+01:00</lastuse>
       <lastconfirm>2026-01-29T16:46:24+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +140,32 @@
     </location>
     <date>
       <create>2026-01-29T16:04:44+01:00</create>
-      <lastuse>2026-01-29T17:25:19+01:00</lastuse>
-      <lastconfirm>2026-01-29T16:45:19+01:00</lastconfirm>
+      <lastuse>2026-01-29T17:48:50+01:00</lastuse>
+      <lastconfirm>2026-01-29T16:48:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18283900362</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.424246</latitude>
+        <longitude>10.867022</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-29T16:39:24+01:00</create>
+      <lastuse>2026-01-29T17:51:31+01:00</lastuse>
+      <lastconfirm>2026-01-29T16:51:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
