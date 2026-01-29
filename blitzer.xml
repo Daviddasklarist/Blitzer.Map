@@ -49,54 +49,6 @@
     </date>
   </event>
   <event>
-    <id>18280590043</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396047</latitude>
-        <longitude>11.033748</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-29T04:42:02+01:00</create>
-      <lastuse>2026-01-29T04:48:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T04:42:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18280594527</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Landkreis Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.409883</latitude>
-        <longitude>10.599796</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-29T04:43:01+01:00</create>
-      <lastuse>2026-01-29T04:48:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T04:43:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18280594529</id>
     <type>20</type>
     <speed></speed>
@@ -110,14 +62,62 @@
     </address>
     <location>
       <point>
-        <latitude>48.401073</latitude>
-        <longitude>10.994501</longitude>
+        <latitude>48.401392</latitude>
+        <longitude>10.989748</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-29T04:43:01+01:00</create>
-      <lastuse>2026-01-29T04:48:00+01:00</lastuse>
+      <lastuse>2026-01-29T04:53:00+01:00</lastuse>
       <lastconfirm>2026-01-29T04:43:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18280596958</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409850</latitude>
+        <longitude>10.603114</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-29T04:44:01+01:00</create>
+      <lastuse>2026-01-29T04:53:00+01:00</lastuse>
+      <lastconfirm>2026-01-29T04:44:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18280612144</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396107</latitude>
+        <longitude>11.032161</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-29T04:48:01+01:00</create>
+      <lastuse>2026-01-29T04:53:00+01:00</lastuse>
+      <lastconfirm>2026-01-29T04:48:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +428,8 @@
     </location>
     <date>
       <create>2026-01-29T03:26:35+01:00</create>
-      <lastuse>2026-01-29T12:27:28+01:00</lastuse>
-      <lastconfirm>2026-01-29T04:27:28+01:00</lastconfirm>
+      <lastuse>2026-01-29T12:44:11+01:00</lastuse>
+      <lastconfirm>2026-01-29T04:44:11+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
