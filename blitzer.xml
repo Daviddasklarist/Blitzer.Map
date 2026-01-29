@@ -73,6 +73,30 @@
     </date>
   </event>
   <event>
+    <id>18281217907</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Gabelsbergerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.346016</latitude>
+        <longitude>10.870330</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-29T07:27:38+01:00</create>
+      <lastuse>2026-01-29T11:27:38+01:00</lastuse>
+      <lastconfirm>2026-01-29T07:41:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18270407774</id>
     <type>7</type>
     <speed>50</speed>
@@ -116,7 +140,7 @@
     </location>
     <date>
       <create>2026-01-29T05:39:36+01:00</create>
-      <lastuse>2026-01-29T08:32:35+01:00</lastuse>
+      <lastuse>2026-01-29T08:12:35+01:00</lastuse>
       <lastconfirm>2026-01-29T07:32:37+01:00</lastconfirm>
     </date>
   </event>
@@ -140,7 +164,7 @@
     </location>
     <date>
       <create>2026-01-29T07:08:11+01:00</create>
-      <lastuse>2026-01-29T08:04:25+01:00</lastuse>
+      <lastuse>2026-01-29T07:54:25+01:00</lastuse>
       <lastconfirm>2026-01-29T07:34:25+01:00</lastconfirm>
     </date>
   </event>
@@ -164,56 +188,8 @@
     </location>
     <date>
       <create>2026-01-29T07:22:17+01:00</create>
-      <lastuse>2026-01-29T09:37:28+01:00</lastuse>
-      <lastconfirm>2026-01-29T07:37:30+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18280856627</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.483400</latitude>
-        <longitude>10.863140</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-29T05:55:17+01:00</create>
-      <lastuse>2026-01-29T08:32:04+01:00</lastuse>
-      <lastconfirm>2026-01-29T07:32:05+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18280856628</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86462</zip>
-      <city>Langweid am Lech</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.478022</latitude>
-        <longitude>10.867123</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-29T05:55:32+01:00</create>
-      <lastuse>2026-01-29T08:31:28+01:00</lastuse>
-      <lastconfirm>2026-01-29T07:31:28+01:00</lastconfirm>
+      <lastuse>2026-01-29T09:43:45+01:00</lastuse>
+      <lastconfirm>2026-01-29T07:43:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2026-01-29T06:24:05+01:00</create>
-      <lastuse>2026-01-29T08:36:01+01:00</lastuse>
-      <lastconfirm>2026-01-29T07:36:03+01:00</lastconfirm>
+      <lastuse>2026-01-29T08:42:21+01:00</lastuse>
+      <lastconfirm>2026-01-29T07:42:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -292,7 +268,7 @@
     <id>18281177904</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -308,8 +284,8 @@
     </location>
     <date>
       <create>2026-01-29T07:18:14+01:00</create>
-      <lastuse>2026-01-29T08:27:01+01:00</lastuse>
-      <lastconfirm>2026-01-29T07:27:02+01:00</lastconfirm>
+      <lastuse>2026-01-29T08:39:44+01:00</lastuse>
+      <lastconfirm>2026-01-29T07:39:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -337,27 +313,27 @@
     </date>
   </event>
   <event>
-    <id>18281236014</id>
+    <id>18281265891</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.396333</latitude>
-        <longitude>11.045497</longitude>
+        <latitude>48.406207</latitude>
+        <longitude>10.570261</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-29T07:30:02+01:00</create>
-      <lastuse>2026-01-29T07:42:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T07:30:02+01:00</lastconfirm>
+      <create>2026-01-29T07:38:02+01:00</create>
+      <lastuse>2026-01-29T07:48:00+01:00</lastuse>
+      <lastconfirm>2026-01-29T07:38:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
