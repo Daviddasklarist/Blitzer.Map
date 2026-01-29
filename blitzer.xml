@@ -28,7 +28,7 @@
     <id>18280793169</id>
     <type>21</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-29T05:39:36+01:00</create>
-      <lastuse>2026-01-29T06:52:40+01:00</lastuse>
-      <lastconfirm>2026-01-29T06:12:40+01:00</lastconfirm>
+      <lastuse>2026-01-29T07:15:44+01:00</lastuse>
+      <lastconfirm>2026-01-29T06:15:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-29T05:55:17+01:00</create>
-      <lastuse>2026-01-29T07:07:27+01:00</lastuse>
-      <lastconfirm>2026-01-29T06:07:28+01:00</lastconfirm>
+      <lastuse>2026-01-29T07:14:24+01:00</lastuse>
+      <lastconfirm>2026-01-29T06:14:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,30 +97,6 @@
     </date>
   </event>
   <event>
-    <id>18280900713</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410712</latitude>
-        <longitude>10.915402</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-29T06:08:01+01:00</create>
-      <lastuse>2026-01-29T06:18:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T06:08:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18280900715</id>
     <type>20</type>
     <speed></speed>
@@ -134,18 +110,18 @@
     </address>
     <location>
       <point>
-        <latitude>48.414596</latitude>
-        <longitude>10.869365</longitude>
+        <latitude>48.414644</latitude>
+        <longitude>10.867752</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-29T06:08:01+01:00</create>
-      <lastuse>2026-01-29T06:18:00+01:00</lastuse>
+      <lastuse>2026-01-29T06:23:00+01:00</lastuse>
       <lastconfirm>2026-01-29T06:08:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18280919534</id>
+    <id>18280921983</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -158,18 +134,18 @@
     </address>
     <location>
       <point>
-        <latitude>48.404369</latitude>
-        <longitude>10.561343</longitude>
+        <latitude>48.407445</latitude>
+        <longitude>10.576006</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-29T06:13:02+01:00</create>
-      <lastuse>2026-01-29T06:18:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T06:13:02+01:00</lastconfirm>
+      <create>2026-01-29T06:14:02+01:00</create>
+      <lastuse>2026-01-29T06:23:00+01:00</lastuse>
+      <lastconfirm>2026-01-29T06:14:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18280919538</id>
+    <id>18280933577</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -182,14 +158,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.411747</latitude>
-        <longitude>10.908269</longitude>
+        <latitude>48.412007</latitude>
+        <longitude>10.906657</longitude>
       </point>
     </location>
     <date>
-      <create>2026-01-29T06:13:02+01:00</create>
-      <lastuse>2026-01-29T06:18:00+01:00</lastuse>
-      <lastconfirm>2026-01-29T06:13:02+01:00</lastconfirm>
+      <create>2026-01-29T06:16:02+01:00</create>
+      <lastuse>2026-01-29T06:23:00+01:00</lastuse>
+      <lastconfirm>2026-01-29T06:16:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18280938525</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.412060</latitude>
+        <longitude>10.907238</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-29T06:18:02+01:00</create>
+      <lastuse>2026-01-29T06:23:00+01:00</lastuse>
+      <lastconfirm>2026-01-29T06:18:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
