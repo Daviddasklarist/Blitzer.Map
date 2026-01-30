@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18287662937</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-BY</state>
-      <street>Ulmer Landstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.370625</latitude>
-        <longitude>10.809347</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-30T07:22:17+01:00</create>
-      <lastuse>2026-01-30T15:36:22+01:00</lastuse>
-      <lastconfirm>2026-01-30T13:36:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18288936324</id>
     <type>1</type>
-    <speed>80</speed>
+    <speed>100</speed>
     <quality>3</quality>
     <address>
       <zip>86504</zip>
@@ -38,13 +14,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.239725</latitude>
-        <longitude>11.000551</longitude>
+        <latitude>48.238696</latitude>
+        <longitude>11.001989</longitude>
       </point>
     </location>
     <date>
       <create>2026-01-30T12:03:10+01:00</create>
-      <lastuse>2026-01-30T15:36:34+01:00</lastuse>
+      <lastuse>2026-02-06T13:40:29+01:00</lastuse>
       <lastconfirm>2026-01-30T13:36:35+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-30T13:11:30+01:00</create>
-      <lastuse>2026-01-30T14:04:18+01:00</lastuse>
-      <lastconfirm>2026-01-30T13:34:19+01:00</lastconfirm>
+      <lastuse>2026-01-30T14:11:23+01:00</lastuse>
+      <lastconfirm>2026-01-30T13:41:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2026-01-30T13:18:49+01:00</create>
-      <lastuse>2026-01-30T13:55:32+01:00</lastuse>
-      <lastconfirm>2026-01-30T13:35:34+01:00</lastconfirm>
+      <lastuse>2026-01-30T14:11:17+01:00</lastuse>
+      <lastconfirm>2026-01-30T13:41:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2026-01-30T13:01:12+01:00</create>
-      <lastuse>2026-01-30T14:37:41+01:00</lastuse>
-      <lastconfirm>2026-01-30T13:37:42+01:00</lastconfirm>
+      <lastuse>2026-01-30T14:41:12+01:00</lastuse>
+      <lastconfirm>2026-01-30T13:41:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2026-01-30T13:22:47+01:00</create>
-      <lastuse>2026-01-30T14:36:01+01:00</lastuse>
-      <lastconfirm>2026-01-30T13:36:01+01:00</lastconfirm>
+      <lastuse>2026-01-30T14:40:42+01:00</lastuse>
+      <lastconfirm>2026-01-30T13:40:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +236,32 @@
     </location>
     <date>
       <create>2026-01-30T13:24:18+01:00</create>
-      <lastuse>2026-01-30T14:37:49+01:00</lastuse>
-      <lastconfirm>2026-01-30T13:37:50+01:00</lastconfirm>
+      <lastuse>2026-01-30T14:38:09+01:00</lastuse>
+      <lastconfirm>2026-01-30T13:38:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18289353748</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.358008</latitude>
+        <longitude>10.850930</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-30T13:30:50+01:00</create>
+      <lastuse>2026-01-30T14:42:35+01:00</lastuse>
+      <lastconfirm>2026-01-30T13:42:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
