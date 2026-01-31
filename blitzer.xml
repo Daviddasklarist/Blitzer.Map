@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18294418991</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.361345</latitude>
+        <longitude>10.852667</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-31T09:57:13+01:00</create>
+      <lastuse>2026-01-31T14:00:36+01:00</lastuse>
+      <lastconfirm>2026-01-31T12:00:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18294421694</id>
     <type>1</type>
     <speed>60</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2026-01-31T09:58:25+01:00</create>
-      <lastuse>2026-01-31T13:56:13+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:56:14+01:00</lastconfirm>
+      <lastuse>2026-01-31T14:03:40+01:00</lastuse>
+      <lastconfirm>2026-01-31T12:03:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-31T10:35:14+01:00</create>
-      <lastuse>2026-01-31T13:57:46+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:57:47+01:00</lastconfirm>
+      <lastuse>2026-01-31T13:45:09+01:00</lastuse>
+      <lastconfirm>2026-01-31T12:00:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2026-01-31T10:35:48+01:00</create>
-      <lastuse>2026-01-31T13:26:53+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:56:53+01:00</lastconfirm>
+      <lastuse>2026-01-31T14:03:12+01:00</lastuse>
+      <lastconfirm>2026-01-31T12:03:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2025-11-18T12:30:03+01:00</create>
-      <lastuse>2026-02-02T11:50:58+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:50:58+01:00</lastconfirm>
+      <lastuse>2026-02-02T11:58:46+01:00</lastuse>
+      <lastconfirm>2026-01-31T11:58:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-11-25T15:54:36+01:00</create>
-      <lastuse>2026-02-02T11:40:23+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:40:24+01:00</lastconfirm>
+      <lastuse>2026-02-02T11:57:48+01:00</lastuse>
+      <lastconfirm>2026-01-31T11:57:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
