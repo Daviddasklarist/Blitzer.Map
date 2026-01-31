@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18294418991</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.361345</latitude>
-        <longitude>10.852667</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-31T09:57:13+01:00</create>
-      <lastuse>2026-01-31T12:36:26+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:06:27+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18294421694</id>
     <type>1</type>
     <speed>60</speed>
@@ -44,15 +20,15 @@
     </location>
     <date>
       <create>2026-01-31T09:58:25+01:00</create>
-      <lastuse>2026-01-31T13:38:42+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:38:43+01:00</lastconfirm>
+      <lastuse>2026-01-31T13:42:23+01:00</lastuse>
+      <lastconfirm>2026-01-31T11:42:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18294576094</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -68,7 +44,7 @@
     </location>
     <date>
       <create>2026-01-31T10:35:14+01:00</create>
-      <lastuse>2026-01-31T13:38:30+01:00</lastuse>
+      <lastuse>2026-01-31T13:08:30+01:00</lastuse>
       <lastconfirm>2026-01-31T11:38:31+01:00</lastconfirm>
     </date>
   </event>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2026-01-31T10:35:48+01:00</create>
-      <lastuse>2026-01-31T13:38:48+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:38:49+01:00</lastconfirm>
+      <lastuse>2026-01-31T13:43:36+01:00</lastuse>
+      <lastconfirm>2026-01-31T11:43:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -118,6 +94,30 @@
       <create>2026-01-27T12:20:20+01:00</create>
       <lastuse>2026-01-31T19:06:20+01:00</lastuse>
       <lastconfirm>2026-01-31T11:06:20+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18294725701</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Inninger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.309845</latitude>
+        <longitude>10.888571</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-31T11:11:23+01:00</create>
+      <lastuse>2026-01-31T12:39:55+01:00</lastuse>
+      <lastconfirm>2026-01-31T11:39:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-02T11:22:25+01:00</lastuse>
-      <lastconfirm>2026-01-31T11:22:26+01:00</lastconfirm>
+      <lastuse>2026-02-02T11:34:58+01:00</lastuse>
+      <lastconfirm>2026-01-31T11:35:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
