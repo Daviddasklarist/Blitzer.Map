@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18294418991</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.362251</latitude>
-        <longitude>10.852924</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-01-31T09:57:13+01:00</create>
-      <lastuse>2026-01-31T19:44:05+01:00</lastuse>
-      <lastconfirm>2026-01-31T18:14:05+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18294576095</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2026-01-31T10:35:48+01:00</create>
-      <lastuse>2026-01-31T19:43:54+01:00</lastuse>
-      <lastconfirm>2026-01-31T18:13:54+01:00</lastconfirm>
+      <lastuse>2026-01-31T20:06:00+01:00</lastuse>
+      <lastconfirm>2026-01-31T18:21:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2026-02-02T17:29:45+01:00</lastuse>
-      <lastconfirm>2026-01-31T17:29:46+01:00</lastconfirm>
+      <lastuse>2026-02-02T18:17:07+01:00</lastuse>
+      <lastconfirm>2026-01-31T18:17:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
