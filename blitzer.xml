@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18300020535</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Eichleitnerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.347758</latitude>
-        <longitude>10.885843</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-01T09:11:02+01:00</create>
-      <lastuse>2026-02-01T11:00:30+01:00</lastuse>
-      <lastconfirm>2026-02-01T09:30:30+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18300098518</id>
     <type>1</type>
     <speed>100</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2026-02-01T09:33:08+01:00</create>
-      <lastuse>2026-02-01T11:40:51+01:00</lastuse>
-      <lastconfirm>2026-02-01T09:40:51+01:00</lastconfirm>
+      <lastuse>2026-02-01T11:46:46+01:00</lastuse>
+      <lastconfirm>2026-02-01T09:46:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
