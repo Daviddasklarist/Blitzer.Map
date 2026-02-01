@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-02-01T10:06:08+01:00</create>
-      <lastuse>2026-02-01T12:28:30+01:00</lastuse>
-      <lastconfirm>2026-02-01T10:58:31+01:00</lastconfirm>
+      <lastuse>2026-02-01T12:37:33+01:00</lastuse>
+      <lastconfirm>2026-02-01T11:07:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -69,7 +69,7 @@
     <date>
       <create>2026-02-01T10:29:34+01:00</create>
       <lastuse>2026-02-01T13:29:34+01:00</lastuse>
-      <lastconfirm>2026-02-01T11:02:53+01:00</lastconfirm>
+      <lastconfirm>2026-02-01T11:07:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -358,6 +358,30 @@
       <create>2026-01-08T13:08:29+01:00</create>
       <lastuse>2026-02-01T23:12:34+01:00</lastuse>
       <lastconfirm>2026-01-08T13:08:29+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18297071079</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Stephingerberg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377077</latitude>
+        <longitude>10.899010</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-01-31T20:05:15+01:00</create>
+      <lastuse>2026-02-03T11:02:28+01:00</lastuse>
+      <lastconfirm>2026-02-01T11:02:28+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
