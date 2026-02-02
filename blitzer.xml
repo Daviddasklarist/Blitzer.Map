@@ -145,6 +145,30 @@
     </date>
   </event>
   <event>
+    <id>18305530439</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Lerchenweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.393258</latitude>
+        <longitude>10.856425</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-02T08:00:59+01:00</create>
+      <lastuse>2026-02-02T11:25:36+01:00</lastuse>
+      <lastconfirm>2026-02-02T09:25:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18270407774</id>
     <type>7</type>
     <speed>50</speed>
@@ -169,30 +193,6 @@
     </date>
   </event>
   <event>
-    <id>18305205797</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.340239</latitude>
-        <longitude>10.889590</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-02T06:50:00+01:00</create>
-      <lastuse>2026-02-02T09:25:50+01:00</lastuse>
-      <lastconfirm>2026-02-02T09:05:50+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18305564861</id>
     <type>29</type>
     <speed></speed>
@@ -212,56 +212,8 @@
     </location>
     <date>
       <create>2026-02-02T08:08:51+01:00</create>
-      <lastuse>2026-02-02T09:51:17+01:00</lastuse>
-      <lastconfirm>2026-02-02T09:21:18+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18305760602</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86507</zip>
-      <city>Oberottmarshausen</city>
-      <state>DE-BY</state>
-      <street>Straßenname unbekannt</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.233029</latitude>
-        <longitude>10.867576</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-02T08:47:14+01:00</create>
-      <lastuse>2026-02-02T09:37:53+01:00</lastuse>
-      <lastconfirm>2026-02-02T09:17:53+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18305485636</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Dayton-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.380926</latitude>
-        <longitude>10.857652</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-02T07:51:12+01:00</create>
-      <lastuse>2026-02-02T09:39:42+01:00</lastuse>
-      <lastconfirm>2026-02-02T09:19:43+01:00</lastconfirm>
+      <lastuse>2026-02-02T09:54:52+01:00</lastuse>
+      <lastconfirm>2026-02-02T09:24:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +500,8 @@
     </location>
     <date>
       <create>2026-02-02T09:01:02+01:00</create>
-      <lastuse>2026-02-02T17:15:26+01:00</lastuse>
-      <lastconfirm>2026-02-02T09:15:26+01:00</lastconfirm>
+      <lastuse>2026-02-02T17:22:41+01:00</lastuse>
+      <lastconfirm>2026-02-02T09:22:41+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
