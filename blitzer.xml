@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18305087472</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Meraner Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.387163</latitude>
-        <longitude>10.937782</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-02T06:19:42+01:00</create>
-      <lastuse>2026-02-02T10:54:12+01:00</lastuse>
-      <lastconfirm>2026-02-02T10:24:12+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18305238870</id>
     <type>1</type>
     <speed>50</speed>
@@ -214,30 +190,6 @@
       <create>2026-02-02T08:08:51+01:00</create>
       <lastuse>2026-02-02T11:07:18+01:00</lastuse>
       <lastconfirm>2026-02-02T10:37:18+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18306201177</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.424011</latitude>
-        <longitude>10.867093</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-02T10:16:08+01:00</create>
-      <lastuse>2026-02-02T11:00:49+01:00</lastuse>
-      <lastconfirm>2026-02-02T10:30:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +476,8 @@
     </location>
     <date>
       <create>2026-02-02T09:01:02+01:00</create>
-      <lastuse>2026-02-02T18:27:20+01:00</lastuse>
-      <lastconfirm>2026-02-02T10:27:21+01:00</lastconfirm>
+      <lastuse>2026-02-02T18:38:11+01:00</lastuse>
+      <lastconfirm>2026-02-02T10:38:12+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
