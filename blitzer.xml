@@ -21,7 +21,7 @@
     <date>
       <create>2026-02-03T06:07:29+01:00</create>
       <lastuse>2026-02-03T10:07:29+01:00</lastuse>
-      <lastconfirm>2026-02-03T07:42:03+01:00</lastconfirm>
+      <lastconfirm>2026-02-03T07:44:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>18311823183</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Südtiroler Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383136</latitude>
+        <longitude>10.943790</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-03T06:51:38+01:00</create>
+      <lastuse>2026-02-03T09:51:38+01:00</lastuse>
+      <lastconfirm>2026-02-03T07:47:42+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18311938470</id>
     <type>1</type>
     <speed>50</speed>
@@ -142,30 +166,6 @@
       <create>2026-02-03T07:28:53+01:00</create>
       <lastuse>2026-02-03T11:28:53+01:00</lastuse>
       <lastconfirm>2026-02-03T07:40:00+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18311958214</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>AIC 20</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.388119</latitude>
-        <longitude>11.075025</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-03T07:22:49+01:00</create>
-      <lastuse>2026-02-03T07:45:03+01:00</lastuse>
-      <lastconfirm>2026-02-03T07:35:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,32 @@
     </location>
     <date>
       <create>2026-02-03T07:01:16+01:00</create>
-      <lastuse>2026-02-03T08:42:29+01:00</lastuse>
-      <lastconfirm>2026-02-03T07:42:30+01:00</lastconfirm>
+      <lastuse>2026-02-03T08:46:44+01:00</lastuse>
+      <lastconfirm>2026-02-03T07:46:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18311980275</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.454134</latitude>
+        <longitude>10.872835</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-03T07:26:21+01:00</create>
+      <lastuse>2026-02-03T08:47:23+01:00</lastuse>
+      <lastconfirm>2026-02-03T07:47:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-05T07:24:07+01:00</lastuse>
-      <lastconfirm>2026-02-03T07:24:08+01:00</lastconfirm>
+      <lastuse>2026-02-05T07:43:21+01:00</lastuse>
+      <lastconfirm>2026-02-03T07:43:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
