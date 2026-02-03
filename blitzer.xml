@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18316793068</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Max-Fischer-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.265717</latitude>
+        <longitude>10.812884</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-03T09:54:34+01:00</create>
+      <lastuse>2026-02-04T07:54:54+01:00</lastuse>
+      <lastconfirm>2026-02-03T23:54:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
