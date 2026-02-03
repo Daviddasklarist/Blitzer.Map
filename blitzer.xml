@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18311763819</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-BY</state>
-      <street>Von-Rehlingen-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.385568</latitude>
-        <longitude>10.816543</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-03T06:37:18+01:00</create>
-      <lastuse>2026-02-03T10:48:07+01:00</lastuse>
-      <lastconfirm>2026-02-03T09:18:07+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18311823183</id>
     <type>1</type>
     <speed>50</speed>
@@ -76,7 +52,7 @@
     <id>18311938470</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86157</zip>
       <city>Augsburg</city>
@@ -124,7 +100,7 @@
     <id>18312724111</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86399</zip>
       <city>Bobingen</city>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2026-02-03T09:54:34+01:00</create>
-      <lastuse>2026-02-10T10:22:10+01:00</lastuse>
-      <lastconfirm>2026-02-03T10:08:35+01:00</lastconfirm>
+      <lastuse>2026-02-03T13:54:34+01:00</lastuse>
+      <lastconfirm>2026-02-03T10:52:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -165,7 +141,7 @@
     <date>
       <create>2026-02-03T10:07:17+01:00</create>
       <lastuse>2026-02-03T14:07:17+01:00</lastuse>
-      <lastconfirm>2026-02-03T10:44:04+01:00</lastconfirm>
+      <lastconfirm>2026-02-03T10:51:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +212,8 @@
     </location>
     <date>
       <create>2026-02-03T10:07:34+01:00</create>
-      <lastuse>2026-02-03T11:17:12+01:00</lastuse>
-      <lastconfirm>2026-02-03T10:47:13+01:00</lastconfirm>
+      <lastuse>2026-02-03T11:20:34+01:00</lastuse>
+      <lastconfirm>2026-02-03T10:50:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2026-02-03T10:23:39+01:00</create>
-      <lastuse>2026-02-03T11:16:11+01:00</lastuse>
-      <lastconfirm>2026-02-03T10:46:11+01:00</lastconfirm>
+      <lastuse>2026-02-03T11:22:24+01:00</lastuse>
+      <lastconfirm>2026-02-03T10:52:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2026-02-03T10:21:59+01:00</create>
-      <lastuse>2026-02-03T18:40:04+01:00</lastuse>
-      <lastconfirm>2026-02-03T10:40:05+01:00</lastconfirm>
+      <lastuse>2026-02-03T18:48:59+01:00</lastuse>
+      <lastconfirm>2026-02-03T10:49:00+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
