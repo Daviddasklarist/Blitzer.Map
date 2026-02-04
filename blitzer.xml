@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18319948605</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.413825</latitude>
-        <longitude>10.895161</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-04T10:14:59+01:00</create>
-      <lastuse>2026-02-04T15:22:17+01:00</lastuse>
-      <lastconfirm>2026-02-04T14:37:19+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18320073666</id>
     <type>1</type>
     <speed>120</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2026-02-04T10:38:16+01:00</create>
-      <lastuse>2026-02-04T16:32:34+01:00</lastuse>
-      <lastconfirm>2026-02-04T14:32:35+01:00</lastconfirm>
+      <lastuse>2026-02-04T16:41:53+01:00</lastuse>
+      <lastconfirm>2026-02-04T14:41:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>18321288762</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Mertingen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.641670</latitude>
+        <longitude>10.835586</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-04T14:34:20+01:00</create>
+      <lastuse>2026-02-04T18:34:20+01:00</lastuse>
+      <lastconfirm>2026-02-04T14:40:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2026-02-03T09:54:34+01:00</create>
-      <lastuse>2026-02-04T22:16:13+01:00</lastuse>
-      <lastconfirm>2026-02-04T14:16:13+01:00</lastconfirm>
+      <lastuse>2026-02-04T22:41:04+01:00</lastuse>
+      <lastconfirm>2026-02-04T14:41:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,56 @@
     </location>
     <date>
       <create>2026-02-04T13:59:46+01:00</create>
-      <lastuse>2026-02-04T22:34:01+01:00</lastuse>
-      <lastconfirm>2026-02-04T14:34:02+01:00</lastconfirm>
+      <lastuse>2026-02-04T22:39:14+01:00</lastuse>
+      <lastconfirm>2026-02-04T14:39:14+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18321240702</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.397774</latitude>
+        <longitude>10.868912</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-04T14:20:19+01:00</create>
+      <lastuse>2026-02-04T20:39:25+01:00</lastuse>
+      <lastconfirm>2026-02-04T14:20:19+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18321240708</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.419180</latitude>
+        <longitude>10.690582</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-04T14:23:34+01:00</create>
+      <lastuse>2026-02-04T22:37:23+01:00</lastuse>
+      <lastconfirm>2026-02-04T14:37:24+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
