@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18318861837</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hans-Böckler-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.385338</latitude>
+        <longitude>10.907421</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-04T06:32:09+01:00</create>
+      <lastuse>2026-02-04T08:42:51+01:00</lastuse>
+      <lastconfirm>2026-02-04T06:42:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +68,32 @@
     </location>
     <date>
       <create>2026-02-04T05:17:08+01:00</create>
-      <lastuse>2026-02-04T06:53:32+01:00</lastuse>
-      <lastconfirm>2026-02-04T06:33:33+01:00</lastconfirm>
+      <lastuse>2026-02-04T07:12:38+01:00</lastuse>
+      <lastconfirm>2026-02-04T06:42:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18318846357</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409825</latitude>
+        <longitude>10.603015</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-04T06:29:02+01:00</create>
+      <lastuse>2026-02-04T06:54:19+01:00</lastuse>
+      <lastconfirm>2026-02-04T06:34:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
