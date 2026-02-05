@@ -21,7 +21,7 @@
     <date>
       <create>2026-02-05T06:22:38+01:00</create>
       <lastuse>2026-02-05T10:22:38+01:00</lastuse>
-      <lastconfirm>2026-02-05T08:12:36+01:00</lastconfirm>
+      <lastconfirm>2026-02-05T08:17:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -45,7 +45,7 @@
     <date>
       <create>2026-02-05T06:44:18+01:00</create>
       <lastuse>2026-02-05T10:44:18+01:00</lastuse>
-      <lastconfirm>2026-02-05T08:11:44+01:00</lastconfirm>
+      <lastconfirm>2026-02-05T08:15:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -69,7 +69,7 @@
     <date>
       <create>2026-02-05T06:44:31+01:00</create>
       <lastuse>2026-02-05T10:44:31+01:00</lastuse>
-      <lastconfirm>2026-02-05T08:00:26+01:00</lastconfirm>
+      <lastconfirm>2026-02-05T08:13:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -93,7 +93,7 @@
     <date>
       <create>2026-02-05T06:53:07+01:00</create>
       <lastuse>2026-02-05T10:53:07+01:00</lastuse>
-      <lastconfirm>2026-02-05T08:07:23+01:00</lastconfirm>
+      <lastconfirm>2026-02-05T08:15:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -117,7 +117,7 @@
     <date>
       <create>2026-02-05T07:10:56+01:00</create>
       <lastuse>2026-02-05T11:10:56+01:00</lastuse>
-      <lastconfirm>2026-02-05T07:47:14+01:00</lastconfirm>
+      <lastconfirm>2026-02-05T08:17:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -165,7 +165,7 @@
     <date>
       <create>2026-02-05T07:36:02+01:00</create>
       <lastuse>2026-02-05T11:36:02+01:00</lastuse>
-      <lastconfirm>2026-02-05T08:11:42+01:00</lastconfirm>
+      <lastconfirm>2026-02-05T08:16:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,54 +193,6 @@
     </date>
   </event>
   <event>
-    <id>18323454206</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.287208</latitude>
-        <longitude>10.874019</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-05T07:37:17+01:00</create>
-      <lastuse>2026-02-05T08:36:28+01:00</lastuse>
-      <lastconfirm>2026-02-05T07:56:29+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18323458738</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.283663</latitude>
-        <longitude>10.872488</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-05T07:39:02+01:00</create>
-      <lastuse>2026-02-05T08:24:42+01:00</lastuse>
-      <lastconfirm>2026-02-05T08:04:42+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18323482323</id>
     <type>20</type>
     <speed></speed>
@@ -260,8 +212,8 @@
     </location>
     <date>
       <create>2026-02-05T07:44:19+01:00</create>
-      <lastuse>2026-02-05T09:04:26+01:00</lastuse>
-      <lastconfirm>2026-02-05T08:04:26+01:00</lastconfirm>
+      <lastuse>2026-02-05T09:16:11+01:00</lastuse>
+      <lastconfirm>2026-02-05T08:16:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -550,6 +502,30 @@
       <create>2026-02-03T05:56:32+01:00</create>
       <lastuse>2026-02-07T08:08:21+01:00</lastuse>
       <lastconfirm>2026-02-05T08:08:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18323347306</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86500</zip>
+      <city>Kutzenhausen</city>
+      <state>DE-HH</state>
+      <street>Oberdorf</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.361761</latitude>
+        <longitude>10.680204</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T07:11:04+01:00</create>
+      <lastuse>2026-02-05T16:14:39+01:00</lastuse>
+      <lastconfirm>2026-02-05T08:14:39+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
