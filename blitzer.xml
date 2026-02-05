@@ -1,6 +1,126 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18323250901</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378295</latitude>
+        <longitude>10.884846</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T06:23:57+01:00</create>
+      <lastuse>2026-02-05T08:58:24+01:00</lastuse>
+      <lastconfirm>2026-02-05T06:58:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18323250936</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Otto-Hahn-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.406121</latitude>
+        <longitude>10.869357</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T06:29:52+01:00</create>
+      <lastuse>2026-02-05T10:29:52+01:00</lastuse>
+      <lastconfirm>2026-02-05T07:02:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18323250981</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Amagasaki-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.373057</latitude>
+        <longitude>10.926045</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T06:38:01+01:00</create>
+      <lastuse>2026-02-05T10:38:01+01:00</lastuse>
+      <lastconfirm>2026-02-05T06:59:26+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18323250985</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Amagasaki-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372656</latitude>
+        <longitude>10.925668</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T06:38:49+01:00</create>
+      <lastuse>2026-02-05T10:38:49+01:00</lastuse>
+      <lastconfirm>2026-02-05T06:59:33+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18323251120</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Amagasaki-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372196</latitude>
+        <longitude>10.925074</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T06:53:22+01:00</create>
+      <lastuse>2026-02-05T10:53:22+01:00</lastuse>
+      <lastconfirm>2026-02-05T06:59:16+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
@@ -140,8 +260,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-07T06:42:29+01:00</lastuse>
-      <lastconfirm>2026-02-05T06:42:29+01:00</lastconfirm>
+      <lastuse>2026-02-07T06:58:41+01:00</lastuse>
+      <lastconfirm>2026-02-05T06:58:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
