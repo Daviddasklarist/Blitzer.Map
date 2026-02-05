@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18326957908</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370991</latitude>
+        <longitude>10.873911</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T18:56:44+01:00</create>
+      <lastuse>2026-02-05T21:05:56+01:00</lastuse>
+      <lastconfirm>2026-02-05T19:05:56+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2026-02-07T18:48:34+01:00</lastuse>
-      <lastconfirm>2026-02-05T18:48:35+01:00</lastconfirm>
+      <lastuse>2026-02-07T19:02:45+01:00</lastuse>
+      <lastconfirm>2026-02-05T19:02:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-07T17:49:15+01:00</lastuse>
-      <lastconfirm>2026-02-05T17:49:16+01:00</lastconfirm>
+      <lastuse>2026-02-07T19:02:38+01:00</lastuse>
+      <lastconfirm>2026-02-05T19:02:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
