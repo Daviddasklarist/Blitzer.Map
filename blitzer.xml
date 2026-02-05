@@ -4,7 +4,7 @@
     <id>18323251028</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2026-02-05T06:44:31+01:00</create>
-      <lastuse>2026-02-05T11:49:15+01:00</lastuse>
+      <lastuse>2026-02-05T11:19:15+01:00</lastuse>
       <lastconfirm>2026-02-05T10:19:15+01:00</lastconfirm>
     </date>
   </event>
@@ -76,7 +76,7 @@
     <id>18323331597</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2026-02-05T07:10:56+01:00</create>
-      <lastuse>2026-02-05T11:48:56+01:00</lastuse>
-      <lastconfirm>2026-02-05T10:18:57+01:00</lastconfirm>
+      <lastuse>2026-02-05T13:09:56+01:00</lastuse>
+      <lastconfirm>2026-02-05T11:09:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2026-02-05T07:12:35+01:00</create>
-      <lastuse>2026-02-05T12:54:21+01:00</lastuse>
-      <lastconfirm>2026-02-05T10:54:21+01:00</lastconfirm>
+      <lastuse>2026-02-05T13:11:03+01:00</lastuse>
+      <lastconfirm>2026-02-05T11:11:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -213,7 +213,7 @@
     <date>
       <create>2026-02-05T09:56:17+01:00</create>
       <lastuse>2026-02-05T13:56:17+01:00</lastuse>
-      <lastconfirm>2026-02-05T11:06:55+01:00</lastconfirm>
+      <lastconfirm>2026-02-05T11:13:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -238,6 +238,30 @@
       <create>2026-02-03T09:54:34+01:00</create>
       <lastuse>2026-02-05T19:00:46+01:00</lastuse>
       <lastconfirm>2026-02-05T11:00:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18324457074</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.356495</latitude>
+        <longitude>10.851333</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T10:59:11+01:00</create>
+      <lastuse>2026-02-05T11:43:40+01:00</lastuse>
+      <lastconfirm>2026-02-05T11:13:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2026-02-05T08:57:59+01:00</create>
-      <lastuse>2026-02-05T19:04:57+01:00</lastuse>
-      <lastconfirm>2026-02-05T11:04:57+01:00</lastconfirm>
+      <lastuse>2026-02-05T19:08:54+01:00</lastuse>
+      <lastconfirm>2026-02-05T11:08:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +620,8 @@
     </location>
     <date>
       <create>2026-02-05T09:14:32+01:00</create>
-      <lastuse>2026-02-05T19:03:12+01:00</lastuse>
-      <lastconfirm>2026-02-05T11:03:12+01:00</lastconfirm>
+      <lastuse>2026-02-05T19:08:24+01:00</lastuse>
+      <lastconfirm>2026-02-05T11:08:25+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
