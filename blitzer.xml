@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18324141760</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.413760</latitude>
-        <longitude>10.894599</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-05T09:56:17+01:00</create>
-      <lastuse>2026-02-05T18:08:08+01:00</lastuse>
-      <lastconfirm>2026-02-05T16:38:08+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18324504953</id>
     <type>1</type>
     <speed>50</speed>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2026-02-05T16:14:01+01:00</create>
-      <lastuse>2026-02-05T17:05:32+01:00</lastuse>
-      <lastconfirm>2026-02-05T16:35:33+01:00</lastconfirm>
+      <lastuse>2026-02-05T17:11:12+01:00</lastuse>
+      <lastconfirm>2026-02-05T16:41:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2026-02-05T16:17:56+01:00</create>
-      <lastuse>2026-02-05T17:38:03+01:00</lastuse>
-      <lastconfirm>2026-02-05T16:38:04+01:00</lastconfirm>
+      <lastuse>2026-02-05T17:42:06+01:00</lastuse>
+      <lastconfirm>2026-02-05T16:42:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,32 @@
     </location>
     <date>
       <create>2026-02-05T16:18:56+01:00</create>
-      <lastuse>2026-02-05T17:38:57+01:00</lastuse>
-      <lastconfirm>2026-02-05T16:38:57+01:00</lastconfirm>
+      <lastuse>2026-02-05T17:42:53+01:00</lastuse>
+      <lastconfirm>2026-02-05T16:42:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18326216637</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86179</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.306402</latitude>
+        <longitude>10.882163</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T16:36:00+01:00</create>
+      <lastuse>2026-02-05T17:42:46+01:00</lastuse>
+      <lastconfirm>2026-02-05T16:42:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +308,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-07T13:13:52+01:00</lastuse>
-      <lastconfirm>2026-02-05T13:13:53+01:00</lastconfirm>
+      <lastuse>2026-02-07T16:37:56+01:00</lastuse>
+      <lastconfirm>2026-02-05T16:37:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
