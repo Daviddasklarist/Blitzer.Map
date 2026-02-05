@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18323250888</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>Otto-Hahn-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.407737</latitude>
+        <longitude>10.869176</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T06:22:38+01:00</create>
+      <lastuse>2026-02-05T10:22:38+01:00</lastuse>
+      <lastconfirm>2026-02-05T07:27:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18323251027</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86165</zip>
       <city>Augsburg</city>
@@ -21,14 +45,14 @@
     <date>
       <create>2026-02-05T06:44:18+01:00</create>
       <lastuse>2026-02-05T10:44:18+01:00</lastuse>
-      <lastconfirm>2026-02-05T07:19:52+01:00</lastconfirm>
+      <lastconfirm>2026-02-05T07:26:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18323251116</id>
     <type>1</type>
     <speed>100</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86441</zip>
       <city>Zusmarshausen</city>
@@ -44,8 +68,32 @@
     </location>
     <date>
       <create>2026-02-05T06:53:07+01:00</create>
-      <lastuse>2026-02-05T09:22:55+01:00</lastuse>
-      <lastconfirm>2026-02-05T07:22:56+01:00</lastconfirm>
+      <lastuse>2026-02-05T09:27:31+01:00</lastuse>
+      <lastconfirm>2026-02-05T07:27:31+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18323331597</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedrich-Ebert-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337681</latitude>
+        <longitude>10.878227</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-05T07:10:56+01:00</create>
+      <lastuse>2026-02-05T09:26:11+01:00</lastuse>
+      <lastconfirm>2026-02-05T07:26:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
