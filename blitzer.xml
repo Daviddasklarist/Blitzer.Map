@@ -21,7 +21,7 @@
     <date>
       <create>2026-02-06T05:55:46+01:00</create>
       <lastuse>2026-02-06T09:55:46+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:12:37+01:00</lastconfirm>
+      <lastconfirm>2026-02-06T07:17:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -45,7 +45,55 @@
     <date>
       <create>2026-02-06T06:09:52+01:00</create>
       <lastuse>2026-02-06T10:09:52+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:12:15+01:00</lastconfirm>
+      <lastconfirm>2026-02-06T07:17:31+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18329853492</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377792</latitude>
+        <longitude>10.888192</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-06T06:24:16+01:00</create>
+      <lastuse>2026-02-06T09:18:05+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:18:05+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18329865275</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Reichenberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362395</latitude>
+        <longitude>10.923902</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-06T06:26:44+01:00</create>
+      <lastuse>2026-02-06T09:26:44+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:15:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +140,8 @@
     </location>
     <date>
       <create>2026-02-03T09:54:34+01:00</create>
-      <lastuse>2026-02-06T14:47:41+01:00</lastuse>
-      <lastconfirm>2026-02-06T06:47:42+01:00</lastconfirm>
+      <lastuse>2026-02-06T15:15:04+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:15:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +428,8 @@
     </location>
     <date>
       <create>2026-02-03T05:56:32+01:00</create>
-      <lastuse>2026-02-08T04:17:19+01:00</lastuse>
-      <lastconfirm>2026-02-06T04:17:20+01:00</lastconfirm>
+      <lastuse>2026-02-08T07:14:15+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:14:16+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
