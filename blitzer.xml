@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18329793538</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86165</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Meraner Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.386582</latitude>
-        <longitude>10.938194</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-06T06:09:52+01:00</create>
-      <lastuse>2026-02-06T12:15:26+01:00</lastuse>
-      <lastconfirm>2026-02-06T11:45:27+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18329853492</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2026-02-06T07:19:12+01:00</create>
-      <lastuse>2026-02-06T13:57:24+01:00</lastuse>
-      <lastconfirm>2026-02-06T11:57:25+01:00</lastconfirm>
+      <lastuse>2026-02-06T13:59:05+01:00</lastuse>
+      <lastconfirm>2026-02-06T11:59:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2026-02-06T08:27:11+01:00</create>
-      <lastuse>2026-02-06T13:55:59+01:00</lastuse>
-      <lastconfirm>2026-02-06T11:56:00+01:00</lastconfirm>
+      <lastuse>2026-02-06T14:02:39+01:00</lastuse>
+      <lastconfirm>2026-02-06T12:02:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2026-02-06T10:44:09+01:00</create>
-      <lastuse>2026-02-06T12:25:17+01:00</lastuse>
-      <lastconfirm>2026-02-06T11:55:17+01:00</lastconfirm>
+      <lastuse>2026-02-06T12:33:58+01:00</lastuse>
+      <lastconfirm>2026-02-06T12:03:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -508,7 +484,7 @@
     <id>18330958241</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86179</zip>
       <city>Augsburg</city>
@@ -524,8 +500,32 @@
     </location>
     <date>
       <create>2026-02-06T10:20:26+01:00</create>
-      <lastuse>2026-02-06T17:39:35+01:00</lastuse>
-      <lastconfirm>2026-02-06T10:20:26+01:00</lastconfirm>
+      <lastuse>2026-02-06T19:59:03+01:00</lastuse>
+      <lastconfirm>2026-02-06T11:59:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18331033534</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bürgermeister-Ackermann-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372055</latitude>
+        <longitude>10.869910</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-06T10:35:42+01:00</create>
+      <lastuse>2026-02-06T19:57:53+01:00</lastuse>
+      <lastconfirm>2026-02-06T11:57:53+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
