@@ -21,7 +21,7 @@
     <date>
       <create>2026-02-06T05:55:46+01:00</create>
       <lastuse>2026-02-06T09:55:46+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:42:14+01:00</lastconfirm>
+      <lastconfirm>2026-02-06T07:45:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -45,7 +45,7 @@
     <date>
       <create>2026-02-06T06:09:52+01:00</create>
       <lastuse>2026-02-06T10:09:52+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:43:53+01:00</lastconfirm>
+      <lastconfirm>2026-02-06T07:48:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -62,14 +62,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.377792</latitude>
-        <longitude>10.888192</longitude>
+        <latitude>48.378063</latitude>
+        <longitude>10.886390</longitude>
       </point>
     </location>
     <date>
       <create>2026-02-06T06:24:16+01:00</create>
-      <lastuse>2026-02-06T08:36:17+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:36:18+01:00</lastconfirm>
+      <lastuse>2026-02-06T10:24:16+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:48:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2026-02-06T06:26:44+01:00</create>
-      <lastuse>2026-02-06T09:26:44+01:00</lastuse>
+      <lastuse>2026-02-13T07:44:09+01:00</lastuse>
       <lastconfirm>2026-02-06T07:15:57+01:00</lastconfirm>
     </date>
   </event>
@@ -117,7 +117,31 @@
     <date>
       <create>2026-02-06T06:34:09+01:00</create>
       <lastuse>2026-02-06T10:34:09+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:42:55+01:00</lastconfirm>
+      <lastconfirm>2026-02-06T07:48:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18330049401</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.367689</latitude>
+        <longitude>10.902834</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-06T07:10:55+01:00</create>
+      <lastuse>2026-02-06T09:44:08+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:44:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2026-02-06T07:19:12+01:00</create>
-      <lastuse>2026-02-13T07:43:53+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:43:32+01:00</lastconfirm>
+      <lastuse>2026-02-06T11:19:12+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:49:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +188,80 @@
     </location>
     <date>
       <create>2026-02-03T09:54:34+01:00</create>
-      <lastuse>2026-02-06T15:38:27+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:38:28+01:00</lastconfirm>
+      <lastuse>2026-02-06T15:48:27+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:48:27+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18330143896</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Blücherstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.375028</latitude>
+        <longitude>10.928573</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-06T07:33:13+01:00</create>
+      <lastuse>2026-02-06T08:47:52+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:47:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18330166579</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.393221</latitude>
+        <longitude>10.862529</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-06T07:38:27+01:00</create>
+      <lastuse>2026-02-06T08:46:46+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:46:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18330188302</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.354692</latitude>
+        <longitude>10.852713</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-06T07:43:13+01:00</create>
+      <lastuse>2026-02-06T08:48:15+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:48:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +356,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2026-02-08T05:29:44+01:00</lastuse>
-      <lastconfirm>2026-02-06T05:29:45+01:00</lastconfirm>
+      <lastuse>2026-02-08T07:43:50+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:43:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +380,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-08T07:18:36+01:00</lastuse>
-      <lastconfirm>2026-02-06T07:18:37+01:00</lastconfirm>
+      <lastuse>2026-02-08T07:44:04+01:00</lastuse>
+      <lastconfirm>2026-02-06T07:44:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
