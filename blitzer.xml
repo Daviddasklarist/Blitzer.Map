@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18340376458</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Haunstetter Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.281912</latitude>
-        <longitude>10.893350</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-07T20:34:19+01:00</create>
-      <lastuse>2026-02-07T23:34:19+01:00</lastuse>
-      <lastconfirm>2026-02-07T22:04:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
@@ -70,6 +46,30 @@
       <create>2026-02-07T12:57:32+01:00</create>
       <lastuse>2026-02-08T04:17:06+01:00</lastuse>
       <lastconfirm>2026-02-07T20:17:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18340964479</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417689</latitude>
+        <longitude>10.752264</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-07T22:49:51+01:00</create>
+      <lastuse>2026-02-07T23:26:47+01:00</lastuse>
+      <lastconfirm>2026-02-07T22:56:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-09T21:57:54+01:00</lastuse>
-      <lastconfirm>2026-02-07T21:57:55+01:00</lastconfirm>
+      <lastuse>2026-02-09T22:51:24+01:00</lastuse>
+      <lastconfirm>2026-02-07T22:51:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
