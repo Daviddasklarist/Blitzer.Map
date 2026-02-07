@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18337405512</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.358758</latitude>
+        <longitude>10.851041</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-07T10:01:38+01:00</create>
+      <lastuse>2026-02-07T12:12:00+01:00</lastuse>
+      <lastconfirm>2026-02-07T10:12:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
