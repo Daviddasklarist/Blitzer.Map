@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18340376458</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.281912</latitude>
+        <longitude>10.893350</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-07T20:34:19+01:00</create>
+      <lastuse>2026-02-08T00:02:17+01:00</lastuse>
+      <lastconfirm>2026-02-07T22:02:18+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2026-02-07T21:17:09+01:00</create>
-      <lastuse>2026-02-07T22:19:50+01:00</lastuse>
-      <lastconfirm>2026-02-07T21:49:51+01:00</lastconfirm>
+      <lastuse>2026-02-07T22:31:16+01:00</lastuse>
+      <lastconfirm>2026-02-07T22:01:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-09T21:36:00+01:00</lastuse>
-      <lastconfirm>2026-02-07T21:36:01+01:00</lastconfirm>
+      <lastuse>2026-02-09T21:57:54+01:00</lastuse>
+      <lastconfirm>2026-02-07T21:57:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
