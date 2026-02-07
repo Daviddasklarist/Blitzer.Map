@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18339824760</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Senkelbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.374850</latitude>
+        <longitude>10.886196</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-07T18:33:59+01:00</create>
+      <lastuse>2026-02-07T21:59:10+01:00</lastuse>
+      <lastconfirm>2026-02-07T19:59:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
