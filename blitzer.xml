@@ -4,7 +4,7 @@
     <id>18343204737</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -20,15 +20,15 @@
     </location>
     <date>
       <create>2026-02-08T08:17:54+01:00</create>
-      <lastuse>2026-02-08T15:07:22+01:00</lastuse>
-      <lastconfirm>2026-02-08T13:07:22+01:00</lastconfirm>
+      <lastuse>2026-02-08T14:56:10+01:00</lastuse>
+      <lastconfirm>2026-02-08T13:11:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18343471486</id>
     <type>6</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86169</zip>
       <city>Augsburg</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-02-08T09:26:37+01:00</create>
-      <lastuse>2026-02-08T14:37:39+01:00</lastuse>
-      <lastconfirm>2026-02-08T13:07:40+01:00</lastconfirm>
+      <lastuse>2026-02-08T14:26:05+01:00</lastuse>
+      <lastconfirm>2026-02-08T13:11:05+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,56 @@
     </location>
     <date>
       <create>2026-02-08T10:36:52+01:00</create>
-      <lastuse>2026-02-08T15:06:58+01:00</lastuse>
-      <lastconfirm>2026-02-08T13:06:58+01:00</lastconfirm>
+      <lastuse>2026-02-08T15:13:25+01:00</lastuse>
+      <lastconfirm>2026-02-08T13:13:26+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18344381765</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416201</latitude>
+        <longitude>10.848599</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-08T13:05:37+01:00</create>
+      <lastuse>2026-02-08T15:13:49+01:00</lastuse>
+      <lastconfirm>2026-02-08T13:13:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18344384993</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416827</latitude>
+        <longitude>10.841414</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-08T13:06:26+01:00</create>
+      <lastuse>2026-02-08T15:13:56+01:00</lastuse>
+      <lastconfirm>2026-02-08T13:13:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -118,6 +166,30 @@
       <create>2026-02-03T09:54:34+01:00</create>
       <lastuse>2026-02-08T21:00:21+01:00</lastuse>
       <lastconfirm>2026-02-08T13:00:21+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18344406696</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.417849</latitude>
+        <longitude>10.761929</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-08T13:11:09+01:00</create>
+      <lastuse>2026-02-08T13:43:46+01:00</lastuse>
+      <lastconfirm>2026-02-08T13:13:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
