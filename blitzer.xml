@@ -45,7 +45,7 @@
     <date>
       <create>2026-02-09T06:06:09+01:00</create>
       <lastuse>2026-02-09T10:06:09+01:00</lastuse>
-      <lastconfirm>2026-02-09T07:52:49+01:00</lastconfirm>
+      <lastconfirm>2026-02-09T08:00:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -69,14 +69,14 @@
     <date>
       <create>2026-02-09T07:05:33+01:00</create>
       <lastuse>2026-02-09T11:05:33+01:00</lastuse>
-      <lastconfirm>2026-02-09T07:52:01+01:00</lastconfirm>
+      <lastconfirm>2026-02-09T08:00:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18349098015</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86692</zip>
       <city>Münster</city>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2026-02-09T07:43:02+01:00</create>
-      <lastuse>2026-02-09T09:55:52+01:00</lastuse>
-      <lastconfirm>2026-02-09T07:55:53+01:00</lastconfirm>
+      <lastuse>2026-02-09T09:59:49+01:00</lastuse>
+      <lastconfirm>2026-02-09T07:59:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2026-02-09T07:06:08+01:00</create>
-      <lastuse>2026-02-09T08:18:41+01:00</lastuse>
-      <lastconfirm>2026-02-09T07:58:41+01:00</lastconfirm>
+      <lastuse>2026-02-09T08:32:27+01:00</lastuse>
+      <lastconfirm>2026-02-09T08:02:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2026-02-09T07:43:27+01:00</create>
-      <lastuse>2026-02-09T08:27:48+01:00</lastuse>
-      <lastconfirm>2026-02-09T07:57:48+01:00</lastconfirm>
+      <lastuse>2026-02-09T08:31:02+01:00</lastuse>
+      <lastconfirm>2026-02-09T08:01:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -190,6 +190,54 @@
       <create>2026-02-09T07:30:50+01:00</create>
       <lastuse>2026-02-09T08:15:16+01:00</lastuse>
       <lastconfirm>2026-02-09T07:55:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18349145740</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382319</latitude>
+        <longitude>10.857953</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-09T07:53:10+01:00</create>
+      <lastuse>2026-02-09T09:00:59+01:00</lastuse>
+      <lastconfirm>2026-02-09T08:01:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18349159962</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410662</latitude>
+        <longitude>10.873200</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-09T07:55:25+01:00</create>
+      <lastuse>2026-02-09T08:40:00+01:00</lastuse>
+      <lastconfirm>2026-02-09T08:00:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
