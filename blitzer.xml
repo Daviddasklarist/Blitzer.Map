@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18348684270</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Meraner Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.387165</latitude>
+        <longitude>10.937739</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-09T06:06:09+01:00</create>
+      <lastuse>2026-02-09T08:16:28+01:00</lastuse>
+      <lastconfirm>2026-02-09T06:16:28+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18316793068</id>
     <type>7</type>
     <speed>50</speed>
@@ -20,32 +44,8 @@
     </location>
     <date>
       <create>2026-02-03T09:54:34+01:00</create>
-      <lastuse>2026-02-09T13:31:03+01:00</lastuse>
-      <lastconfirm>2026-02-09T05:31:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18348528134</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.279615</latitude>
-        <longitude>10.870987</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-09T05:26:47+01:00</create>
-      <lastuse>2026-02-09T06:20:14+01:00</lastuse>
-      <lastconfirm>2026-02-09T06:10:17+01:00</lastconfirm>
+      <lastuse>2026-02-09T14:16:30+01:00</lastuse>
+      <lastconfirm>2026-02-09T06:16:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-02-09T05:50:40+01:00</create>
-      <lastuse>2026-02-09T06:42:36+01:00</lastuse>
-      <lastconfirm>2026-02-09T06:12:37+01:00</lastconfirm>
+      <lastuse>2026-02-09T06:48:40+01:00</lastuse>
+      <lastconfirm>2026-02-09T06:18:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
