@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2026-02-09T11:34:50+01:00</create>
-      <lastuse>2026-02-09T16:14:15+01:00</lastuse>
+      <lastuse>2026-02-09T15:34:50+01:00</lastuse>
       <lastconfirm>2026-02-09T14:14:15+01:00</lastconfirm>
     </date>
   </event>
@@ -28,7 +28,7 @@
     <id>18350277057</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2026-02-09T09:11:07+01:00</create>
-      <lastuse>2026-02-09T15:13:52+01:00</lastuse>
-      <lastconfirm>2026-02-09T14:43:54+01:00</lastconfirm>
+      <lastuse>2026-02-09T15:14:12+01:00</lastuse>
+      <lastconfirm>2026-02-09T14:44:12+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -217,30 +217,6 @@
     </date>
   </event>
   <event>
-    <id>18350992066</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.403750</latitude>
-        <longitude>10.559750</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-09T13:58:00+01:00</create>
-      <lastuse>2026-02-09T15:13:12+01:00</lastuse>
-      <lastconfirm>2026-02-09T14:43:13+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18351096860</id>
     <type>20</type>
     <speed></speed>
@@ -260,8 +236,8 @@
     </location>
     <date>
       <create>2026-02-09T14:18:06+01:00</create>
-      <lastuse>2026-02-09T14:51:22+01:00</lastuse>
-      <lastconfirm>2026-02-09T14:31:23+01:00</lastconfirm>
+      <lastuse>2026-02-09T15:46:32+01:00</lastuse>
+      <lastconfirm>2026-02-09T14:46:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +428,8 @@
     </location>
     <date>
       <create>2025-11-25T14:52:27+01:00</create>
-      <lastuse>2026-02-11T13:14:57+01:00</lastuse>
-      <lastconfirm>2026-02-09T13:14:58+01:00</lastconfirm>
+      <lastuse>2026-02-11T14:41:43+01:00</lastuse>
+      <lastconfirm>2026-02-09T14:41:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +572,8 @@
     </location>
     <date>
       <create>2026-02-09T09:21:31+01:00</create>
-      <lastuse>2026-02-09T22:26:08+01:00</lastuse>
-      <lastconfirm>2026-02-09T14:26:10+01:00</lastconfirm>
+      <lastuse>2026-02-09T22:44:44+01:00</lastuse>
+      <lastconfirm>2026-02-09T14:44:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -646,6 +622,30 @@
       <create>2026-02-09T11:40:41+01:00</create>
       <lastuse>2026-02-09T22:36:05+01:00</lastuse>
       <lastconfirm>2026-02-09T14:36:06+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18351154437</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.482028</latitude>
+        <longitude>10.863414</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-09T14:26:56+01:00</create>
+      <lastuse>2026-02-09T22:43:39+01:00</lastuse>
+      <lastconfirm>2026-02-09T14:43:41+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
