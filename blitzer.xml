@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18348605760</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86465</zip>
+      <city>Heretsried</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.458852</latitude>
+        <longitude>10.740557</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-09T05:46:07+01:00</create>
+      <lastuse>2026-02-09T08:55:49+01:00</lastuse>
+      <lastconfirm>2026-02-09T06:55:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18348684270</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2026-02-09T06:06:09+01:00</create>
-      <lastuse>2026-02-09T08:44:14+01:00</lastuse>
-      <lastconfirm>2026-02-09T06:44:15+01:00</lastconfirm>
+      <lastuse>2026-02-09T08:57:09+01:00</lastuse>
+      <lastconfirm>2026-02-09T06:57:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
