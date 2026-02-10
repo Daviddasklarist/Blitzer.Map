@@ -28,7 +28,7 @@
     <id>18355242879</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86161</zip>
       <city>Augsburg</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-02-10T06:18:22+01:00</create>
-      <lastuse>2026-02-10T10:25:13+01:00</lastuse>
-      <lastconfirm>2026-02-10T09:25:14+01:00</lastconfirm>
+      <lastuse>2026-02-10T11:22:34+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:52:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-02-10T06:26:00+01:00</create>
-      <lastuse>2026-02-10T11:30:13+01:00</lastuse>
-      <lastconfirm>2026-02-10T09:30:13+01:00</lastconfirm>
+      <lastuse>2026-02-10T11:52:09+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:52:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,8 @@
     </location>
     <date>
       <create>2026-02-10T06:40:40+01:00</create>
-      <lastuse>2026-02-10T11:47:25+01:00</lastuse>
-      <lastconfirm>2026-02-10T09:47:26+01:00</lastconfirm>
+      <lastuse>2026-02-10T11:51:13+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:51:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2026-02-10T07:19:51+01:00</create>
-      <lastuse>2026-02-10T11:44:40+01:00</lastuse>
-      <lastconfirm>2026-02-10T09:44:43+01:00</lastconfirm>
+      <lastuse>2026-02-10T11:51:32+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:51:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -213,7 +213,7 @@
     <date>
       <create>2026-02-10T07:58:17+01:00</create>
       <lastuse>2026-02-10T11:58:17+01:00</lastuse>
-      <lastconfirm>2026-02-10T08:58:37+01:00</lastconfirm>
+      <lastconfirm>2026-02-10T09:51:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2026-02-10T09:42:21+01:00</create>
-      <lastuse>2026-02-10T11:17:19+01:00</lastuse>
-      <lastconfirm>2026-02-10T09:47:19+01:00</lastconfirm>
+      <lastuse>2026-02-10T13:42:21+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:52:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2026-02-10T09:40:42+01:00</create>
-      <lastuse>2026-02-10T10:14:16+01:00</lastuse>
-      <lastconfirm>2026-02-10T09:44:16+01:00</lastconfirm>
+      <lastuse>2026-02-10T10:21:03+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:51:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +476,8 @@
     </location>
     <date>
       <create>2025-12-14T11:32:17+01:00</create>
-      <lastuse>2026-02-12T07:54:44+01:00</lastuse>
-      <lastconfirm>2026-02-10T07:54:44+01:00</lastconfirm>
+      <lastuse>2026-02-12T09:46:49+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:46:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +572,32 @@
     </location>
     <date>
       <create>2026-02-10T08:26:39+01:00</create>
-      <lastuse>2026-02-10T17:42:09+01:00</lastuse>
-      <lastconfirm>2026-02-10T09:42:09+01:00</lastconfirm>
+      <lastuse>2026-02-10T17:49:14+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:49:15+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18355830818</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>89407</zip>
+      <city>Dillingen a.d.Donau</city>
+      <state>DE-HH</state>
+      <street>St 2030</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.571309</latitude>
+        <longitude>10.611817</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-10T08:29:25+01:00</create>
+      <lastuse>2026-02-10T17:48:02+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:48:02+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
