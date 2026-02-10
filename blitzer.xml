@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-02-10T05:26:20+01:00</create>
-      <lastuse>2026-02-10T06:37:16+01:00</lastuse>
-      <lastconfirm>2026-02-10T06:07:16+01:00</lastconfirm>
+      <lastuse>2026-02-10T06:46:04+01:00</lastuse>
+      <lastconfirm>2026-02-10T06:16:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,32 @@
     </location>
     <date>
       <create>2026-02-10T05:50:40+01:00</create>
-      <lastuse>2026-02-10T07:11:48+01:00</lastuse>
+      <lastuse>2026-02-10T06:51:48+01:00</lastuse>
       <lastconfirm>2026-02-10T06:11:49+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18355166222</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400538</latitude>
+        <longitude>11.002142</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-10T05:58:27+01:00</create>
+      <lastuse>2026-02-10T06:45:43+01:00</lastuse>
+      <lastconfirm>2026-02-10T06:15:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -334,30 +358,6 @@
       <create>2026-02-03T05:56:32+01:00</create>
       <lastuse>2026-02-12T05:52:08+01:00</lastuse>
       <lastconfirm>2026-02-10T05:52:08+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18351103879</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86157</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Stadtberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.365022</latitude>
-        <longitude>10.863814</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-09T14:15:40+01:00</create>
-      <lastuse>2026-02-10T06:11:53+01:00</lastuse>
-      <lastconfirm>2026-02-09T22:11:53+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
