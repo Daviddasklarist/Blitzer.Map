@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18355237943</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Alter Postweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.342103</latitude>
+        <longitude>10.900108</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-10T06:16:17+01:00</create>
+      <lastuse>2026-02-10T08:40:42+01:00</lastuse>
+      <lastconfirm>2026-02-10T06:40:43+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18355242879</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,32 +44,32 @@
     </location>
     <date>
       <create>2026-02-10T06:18:22+01:00</create>
-      <lastuse>2026-02-10T08:35:22+01:00</lastuse>
-      <lastconfirm>2026-02-10T06:35:24+01:00</lastconfirm>
+      <lastuse>2026-02-10T08:38:57+01:00</lastuse>
+      <lastconfirm>2026-02-10T06:38:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18355048174</id>
-    <type>29</type>
-    <speed></speed>
+    <id>18355274252</id>
+    <type>1</type>
+    <speed>50</speed>
     <quality>3</quality>
     <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
+      <zip>86179</zip>
+      <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>A8</street>
+      <street>Königsbrunner Straße</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.395723</latitude>
-        <longitude>11.058927</longitude>
+        <latitude>48.299834</latitude>
+        <longitude>10.901235</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-10T05:26:20+01:00</create>
-      <lastuse>2026-02-10T07:07:51+01:00</lastuse>
-      <lastconfirm>2026-02-10T06:37:52+01:00</lastconfirm>
+      <create>2026-02-10T06:25:25+01:00</create>
+      <lastuse>2026-02-10T08:25:25+01:00</lastuse>
+      <lastconfirm>2026-02-10T06:42:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
