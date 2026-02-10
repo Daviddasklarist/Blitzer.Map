@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2026-02-10T07:22:33+01:00</create>
-      <lastuse>2026-02-10T12:03:57+01:00</lastuse>
+      <lastuse>2026-02-10T11:33:57+01:00</lastuse>
       <lastconfirm>2026-02-10T10:03:58+01:00</lastconfirm>
     </date>
   </event>
@@ -213,7 +213,7 @@
     <date>
       <create>2026-02-10T09:42:21+01:00</create>
       <lastuse>2026-02-10T13:42:21+01:00</lastuse>
-      <lastconfirm>2026-02-10T10:22:33+01:00</lastconfirm>
+      <lastconfirm>2026-02-10T10:27:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,15 +236,15 @@
     </location>
     <date>
       <create>2026-02-10T09:40:42+01:00</create>
-      <lastuse>2026-02-10T10:41:13+01:00</lastuse>
-      <lastconfirm>2026-02-10T10:21:13+01:00</lastconfirm>
+      <lastuse>2026-02-10T10:58:06+01:00</lastuse>
+      <lastconfirm>2026-02-10T10:28:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18356325207</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2026-02-10T10:09:38+01:00</create>
-      <lastuse>2026-02-10T10:53:41+01:00</lastuse>
-      <lastconfirm>2026-02-10T10:23:42+01:00</lastconfirm>
+      <lastuse>2026-02-10T10:56:40+01:00</lastuse>
+      <lastconfirm>2026-02-10T10:26:41+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -598,6 +598,30 @@
       <create>2026-02-10T08:29:25+01:00</create>
       <lastuse>2026-02-10T17:48:02+01:00</lastuse>
       <lastconfirm>2026-02-10T09:48:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18356253189</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Westendorf</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.556717</latitude>
+        <longitude>10.849420</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-10T09:52:28+01:00</create>
+      <lastuse>2026-02-10T18:20:47+01:00</lastuse>
+      <lastconfirm>2026-02-10T10:20:47+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
