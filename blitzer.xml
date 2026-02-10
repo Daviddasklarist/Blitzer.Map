@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>18359076434</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Westendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.566378</latitude>
+        <longitude>10.847496</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-10T18:55:37+01:00</create>
+      <lastuse>2026-02-10T19:42:57+01:00</lastuse>
+      <lastconfirm>2026-02-10T19:12:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -332,8 +356,8 @@
     </location>
     <date>
       <create>2026-02-10T09:52:28+01:00</create>
-      <lastuse>2026-02-11T03:00:18+01:00</lastuse>
-      <lastconfirm>2026-02-10T19:00:19+01:00</lastconfirm>
+      <lastuse>2026-02-11T01:00:18+01:00</lastuse>
+      <lastconfirm>2026-02-10T09:52:28+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
