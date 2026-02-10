@@ -25,30 +25,6 @@
     </date>
   </event>
   <event>
-    <id>18358695740</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.280552</latitude>
-        <longitude>10.871237</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-10T17:41:52+01:00</create>
-      <lastuse>2026-02-10T18:55:14+01:00</lastuse>
-      <lastconfirm>2026-02-10T18:25:16+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -334,6 +310,30 @@
       <create>2026-02-03T05:56:32+01:00</create>
       <lastuse>2026-02-12T17:58:59+01:00</lastuse>
       <lastconfirm>2026-02-10T17:59:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18356253189</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Westendorf</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.556717</latitude>
+        <longitude>10.849420</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-10T09:52:28+01:00</create>
+      <lastuse>2026-02-11T02:28:46+01:00</lastuse>
+      <lastconfirm>2026-02-10T18:28:47+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
