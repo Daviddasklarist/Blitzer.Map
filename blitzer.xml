@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-02-11T09:29:24+01:00</create>
-      <lastuse>2026-02-11T17:17:45+01:00</lastuse>
-      <lastconfirm>2026-02-11T15:17:46+01:00</lastconfirm>
+      <lastuse>2026-02-11T17:23:46+01:00</lastuse>
+      <lastconfirm>2026-02-11T15:23:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -73,30 +73,6 @@
     </date>
   </event>
   <event>
-    <id>18363700360</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Leitershofer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.360124</latitude>
-        <longitude>10.842333</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-11T12:30:54+01:00</create>
-      <lastuse>2026-02-11T16:30:54+01:00</lastuse>
-      <lastconfirm>2026-02-11T14:44:11+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18364262652</id>
     <type>1</type>
     <speed>30</speed>
@@ -117,7 +93,55 @@
     <date>
       <create>2026-02-11T14:15:54+01:00</create>
       <lastuse>2026-02-11T18:15:54+01:00</lastuse>
-      <lastconfirm>2026-02-11T15:11:39+01:00</lastconfirm>
+      <lastconfirm>2026-02-11T15:21:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18364358225</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Luitpoldstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.351128</latitude>
+        <longitude>10.977950</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-11T14:34:21+01:00</create>
+      <lastuse>2026-02-18T15:22:35+01:00</lastuse>
+      <lastconfirm>2026-02-11T15:20:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18364377269</id>
+    <type>1</type>
+    <speed>0</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Krumbacher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.269099</latitude>
+        <longitude>10.823823</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-11T14:37:28+01:00</create>
+      <lastuse>2026-02-11T17:37:28+01:00</lastuse>
+      <lastconfirm>2026-02-11T15:23:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -145,10 +169,34 @@
     </date>
   </event>
   <event>
+    <id>18364532220</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Aichacher Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365835</latitude>
+        <longitude>10.992066</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-11T10:07:41+01:00</create>
+      <lastuse>2026-02-11T23:20:53+01:00</lastuse>
+      <lastconfirm>2026-02-11T15:20:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18364395576</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -164,8 +212,32 @@
     </location>
     <date>
       <create>2026-02-11T14:40:08+01:00</create>
-      <lastuse>2026-02-11T15:47:39+01:00</lastuse>
-      <lastconfirm>2026-02-11T15:17:39+01:00</lastconfirm>
+      <lastuse>2026-02-11T15:53:09+01:00</lastuse>
+      <lastconfirm>2026-02-11T15:23:10+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18364484518</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86707</zip>
+      <city>Westendorf</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.556017</latitude>
+        <longitude>10.849220</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-11T14:57:17+01:00</create>
+      <lastuse>2026-02-11T15:53:01+01:00</lastuse>
+      <lastconfirm>2026-02-11T15:23:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +644,8 @@
     </location>
     <date>
       <create>2026-02-11T11:44:18+01:00</create>
-      <lastuse>2026-02-11T23:10:18+01:00</lastuse>
-      <lastconfirm>2026-02-11T15:10:18+01:00</lastconfirm>
+      <lastuse>2026-02-11T21:10:18+01:00</lastuse>
+      <lastconfirm>2026-02-11T11:44:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
