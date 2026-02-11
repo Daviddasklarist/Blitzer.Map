@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18359728825</id>
+    <type>7</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Egerländer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.272437</latitude>
+        <longitude>10.894892</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-10T09:08:25+01:00</create>
+      <lastuse>2026-02-11T13:33:45+01:00</lastuse>
+      <lastconfirm>2026-02-11T05:33:45+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
