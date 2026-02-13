@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18375208302</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kobelweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384547</latitude>
+        <longitude>10.863210</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-13T06:52:18+01:00</create>
+      <lastuse>2026-02-13T14:27:30+01:00</lastuse>
+      <lastconfirm>2026-02-13T12:27:31+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18375308693</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,7 +92,7 @@
     </location>
     <date>
       <create>2026-02-13T09:03:45+01:00</create>
-      <lastuse>2026-02-13T14:19:45+01:00</lastuse>
+      <lastuse>2026-02-13T13:49:45+01:00</lastuse>
       <lastconfirm>2026-02-13T12:19:45+01:00</lastconfirm>
     </date>
   </event>
@@ -116,8 +140,32 @@
     </location>
     <date>
       <create>2026-02-13T10:25:50+01:00</create>
-      <lastuse>2026-02-13T14:25:50+01:00</lastuse>
-      <lastconfirm>2026-02-13T12:22:54+01:00</lastconfirm>
+      <lastuse>2026-02-13T14:27:12+01:00</lastuse>
+      <lastconfirm>2026-02-13T12:27:13+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18376382777</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86444</zip>
+      <city>Affing</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.440254</latitude>
+        <longitude>10.939255</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-13T11:10:04+01:00</create>
+      <lastuse>2026-02-20T12:25:34+01:00</lastuse>
+      <lastconfirm>2026-02-13T12:23:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +572,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-15T12:18:47+01:00</lastuse>
-      <lastconfirm>2026-02-13T12:18:47+01:00</lastconfirm>
+      <lastuse>2026-02-15T12:22:51+01:00</lastuse>
+      <lastconfirm>2026-02-13T12:22:52+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
