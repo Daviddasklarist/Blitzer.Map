@@ -28,7 +28,7 @@
     <id>18375087960</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -44,8 +44,32 @@
     </location>
     <date>
       <create>2026-02-13T06:20:40+01:00</create>
-      <lastuse>2026-02-13T08:28:40+01:00</lastuse>
-      <lastconfirm>2026-02-13T06:28:42+01:00</lastconfirm>
+      <lastuse>2026-02-13T08:41:14+01:00</lastuse>
+      <lastconfirm>2026-02-13T06:41:15+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18375114116</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86444</zip>
+      <city>Affing</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.439709</latitude>
+        <longitude>10.941862</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-13T06:28:09+01:00</create>
+      <lastuse>2026-02-13T08:43:24+01:00</lastuse>
+      <lastconfirm>2026-02-13T06:43:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2026-02-11T10:07:41+01:00</create>
-      <lastuse>2026-02-13T14:36:15+01:00</lastuse>
-      <lastconfirm>2026-02-13T06:36:15+01:00</lastconfirm>
+      <lastuse>2026-02-13T14:43:00+01:00</lastuse>
+      <lastconfirm>2026-02-13T06:43:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-02-15T06:34:57+01:00</lastuse>
-      <lastconfirm>2026-02-13T06:34:57+01:00</lastconfirm>
+      <lastuse>2026-02-15T06:36:40+01:00</lastuse>
+      <lastconfirm>2026-02-13T06:36:40+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
