@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18375208302</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kobelweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.384547</latitude>
+        <longitude>10.863210</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-13T06:52:18+01:00</create>
+      <lastuse>2026-02-13T14:08:46+01:00</lastuse>
+      <lastconfirm>2026-02-13T12:08:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18375308693</id>
     <type>1</type>
     <speed>30</speed>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2026-02-13T07:17:58+01:00</create>
-      <lastuse>2026-02-13T13:23:40+01:00</lastuse>
+      <lastuse>2026-02-13T12:53:40+01:00</lastuse>
       <lastconfirm>2026-02-13T11:53:42+01:00</lastconfirm>
     </date>
   </event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2026-02-13T09:03:45+01:00</create>
-      <lastuse>2026-02-13T13:51:31+01:00</lastuse>
-      <lastconfirm>2026-02-13T11:51:32+01:00</lastconfirm>
+      <lastuse>2026-02-13T14:07:31+01:00</lastuse>
+      <lastconfirm>2026-02-13T12:07:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -117,7 +141,7 @@
     <date>
       <create>2026-02-13T10:25:50+01:00</create>
       <lastuse>2026-02-13T14:25:50+01:00</lastuse>
-      <lastconfirm>2026-02-13T12:03:54+01:00</lastconfirm>
+      <lastconfirm>2026-02-13T12:07:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,15 +188,15 @@
     </location>
     <date>
       <create>2026-02-11T10:07:41+01:00</create>
-      <lastuse>2026-02-13T19:52:53+01:00</lastuse>
-      <lastconfirm>2026-02-13T11:52:53+01:00</lastconfirm>
+      <lastuse>2026-02-13T20:04:50+01:00</lastuse>
+      <lastconfirm>2026-02-13T12:04:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18376241773</id>
     <type>29</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2026-02-13T10:42:20+01:00</create>
-      <lastuse>2026-02-13T12:26:03+01:00</lastuse>
-      <lastconfirm>2026-02-13T11:56:03+01:00</lastconfirm>
+      <lastuse>2026-02-13T12:36:19+01:00</lastuse>
+      <lastconfirm>2026-02-13T12:06:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
