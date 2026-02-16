@@ -49,30 +49,6 @@
     </date>
   </event>
   <event>
-    <id>18396597584</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.423982</latitude>
-        <longitude>10.867239</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-16T16:07:32+01:00</create>
-      <lastuse>2026-02-16T17:08:28+01:00</lastuse>
-      <lastconfirm>2026-02-16T16:38:28+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2026-02-18T09:48:00+01:00</lastuse>
-      <lastconfirm>2026-02-16T09:48:00+01:00</lastconfirm>
+      <lastuse>2026-02-18T16:35:33+01:00</lastuse>
+      <lastconfirm>2026-02-16T16:35:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2026-02-18T16:32:44+01:00</lastuse>
-      <lastconfirm>2026-02-16T16:32:44+01:00</lastconfirm>
+      <lastuse>2026-02-18T16:36:46+01:00</lastuse>
+      <lastconfirm>2026-02-16T16:36:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-02-18T16:17:50+01:00</lastuse>
-      <lastconfirm>2026-02-16T16:17:50+01:00</lastconfirm>
+      <lastuse>2026-02-18T16:38:45+01:00</lastuse>
+      <lastconfirm>2026-02-16T16:38:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -454,6 +430,30 @@
       <create>2026-02-13T14:58:02+01:00</create>
       <lastuse>2026-02-18T16:12:11+01:00</lastuse>
       <lastconfirm>2026-02-16T16:12:12+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18396417023</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Lechhauser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.372960</latitude>
+        <longitude>10.911456</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-16T15:28:02+01:00</create>
+      <lastuse>2026-02-18T16:39:46+01:00</lastuse>
+      <lastconfirm>2026-02-16T16:39:46+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
