@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18388669949</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.410452</latitude>
-        <longitude>10.617261</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-15T10:15:00+01:00</create>
-      <lastuse>2026-02-16T03:16:48+01:00</lastuse>
-      <lastconfirm>2026-02-16T02:01:49+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18359728825</id>
     <type>7</type>
     <speed>30</speed>
@@ -116,12 +92,12 @@
     </location>
     <date>
       <create>2026-02-16T02:07:02+01:00</create>
-      <lastuse>2026-02-16T02:23:00+01:00</lastuse>
+      <lastuse>2026-02-16T02:28:00+01:00</lastuse>
       <lastconfirm>2026-02-16T02:07:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18392812985</id>
+    <id>18392833106</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -134,14 +110,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.418322</latitude>
-        <longitude>10.701620</longitude>
+        <latitude>48.417875</latitude>
+        <longitude>10.708287</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-16T02:16:03+01:00</create>
-      <lastuse>2026-02-16T02:23:00+01:00</lastuse>
-      <lastconfirm>2026-02-16T02:16:03+01:00</lastconfirm>
+      <create>2026-02-16T02:21:02+01:00</create>
+      <lastuse>2026-02-16T02:28:00+01:00</lastuse>
+      <lastconfirm>2026-02-16T02:21:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18392833115</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383158</latitude>
+        <longitude>11.082196</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-16T02:21:02+01:00</create>
+      <lastuse>2026-02-16T02:28:00+01:00</lastuse>
+      <lastconfirm>2026-02-16T02:21:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
