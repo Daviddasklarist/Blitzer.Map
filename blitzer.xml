@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18404443726</id>
+    <type>24</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369984</latitude>
+        <longitude>11.103684</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-17T22:04:43+01:00</create>
+      <lastuse>2026-02-17T23:43:04+01:00</lastuse>
+      <lastconfirm>2026-02-17T22:13:05+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18404458930</id>
     <type>20</type>
     <speed></speed>
@@ -20,56 +44,32 @@
     </location>
     <date>
       <create>2026-02-17T22:07:01+01:00</create>
-      <lastuse>2026-02-17T22:17:00+01:00</lastuse>
+      <lastuse>2026-02-17T22:23:00+01:00</lastuse>
       <lastconfirm>2026-02-17T22:07:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18404461658</id>
+    <id>18404482486</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
     <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
+      <zip>86316</zip>
+      <city>Friedberg</city>
       <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.357840</latitude>
-        <longitude>11.129621</longitude>
+        <latitude>48.403611</latitude>
+        <longitude>10.957333</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-17T22:09:01+01:00</create>
-      <lastuse>2026-02-17T22:17:00+01:00</lastuse>
-      <lastconfirm>2026-02-17T22:09:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18404464377</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.400787</latitude>
-        <longitude>10.996526</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-17T22:10:01+01:00</create>
-      <lastuse>2026-02-17T22:17:00+01:00</lastuse>
-      <lastconfirm>2026-02-17T22:10:01+01:00</lastconfirm>
+      <create>2026-02-17T22:13:01+01:00</create>
+      <lastuse>2026-02-17T22:23:00+01:00</lastuse>
+      <lastconfirm>2026-02-17T22:13:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +500,8 @@
     </location>
     <date>
       <create>2026-02-16T17:04:10+01:00</create>
-      <lastuse>2026-02-19T21:19:56+01:00</lastuse>
-      <lastconfirm>2026-02-17T21:19:57+01:00</lastconfirm>
+      <lastuse>2026-02-19T22:11:32+01:00</lastuse>
+      <lastconfirm>2026-02-17T22:11:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
