@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18404352660</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.405790</latitude>
-        <longitude>10.944164</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-17T21:42:01+01:00</create>
-      <lastuse>2026-02-17T21:53:00+01:00</lastuse>
-      <lastconfirm>2026-02-17T21:42:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18404376340</id>
     <type>20</type>
     <speed></speed>
@@ -44,8 +20,56 @@
     </location>
     <date>
       <create>2026-02-17T21:47:02+01:00</create>
-      <lastuse>2026-02-17T21:53:00+01:00</lastuse>
+      <lastuse>2026-02-17T21:58:00+01:00</lastuse>
       <lastconfirm>2026-02-17T21:47:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18404394204</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.356602</latitude>
+        <longitude>11.130615</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-17T21:51:02+01:00</create>
+      <lastuse>2026-02-17T21:58:00+01:00</lastuse>
+      <lastconfirm>2026-02-17T21:51:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18404397153</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.405790</latitude>
+        <longitude>10.944164</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-17T21:52:02+01:00</create>
+      <lastuse>2026-02-17T21:58:00+01:00</lastuse>
+      <lastconfirm>2026-02-17T21:52:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
