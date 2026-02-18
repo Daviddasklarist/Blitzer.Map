@@ -69,7 +69,7 @@
     <date>
       <create>2026-02-18T06:31:19+01:00</create>
       <lastuse>2026-02-18T10:31:19+01:00</lastuse>
-      <lastconfirm>2026-02-18T07:30:34+01:00</lastconfirm>
+      <lastconfirm>2026-02-18T07:35:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -117,7 +117,31 @@
     <date>
       <create>2026-02-18T07:11:51+01:00</create>
       <lastuse>2026-02-18T10:11:51+01:00</lastuse>
-      <lastconfirm>2026-02-18T07:32:27+01:00</lastconfirm>
+      <lastconfirm>2026-02-18T07:34:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18406538285</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86485</zip>
+      <city>Biberbach</city>
+      <state>DE-BY</state>
+      <street>St 2033</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.524381</latitude>
+        <longitude>10.818705</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-18T07:14:58+01:00</create>
+      <lastuse>2026-02-18T10:14:58+01:00</lastuse>
+      <lastconfirm>2026-02-18T07:36:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,7 +164,7 @@
     </location>
     <date>
       <create>2026-02-17T22:04:43+01:00</create>
-      <lastuse>2026-02-18T09:31:02+01:00</lastuse>
+      <lastuse>2026-02-18T09:01:02+01:00</lastuse>
       <lastconfirm>2026-02-18T07:31:02+01:00</lastconfirm>
     </date>
   </event>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2026-02-17T22:16:02+01:00</create>
-      <lastuse>2026-02-18T08:59:50+01:00</lastuse>
-      <lastconfirm>2026-02-18T07:29:50+01:00</lastconfirm>
+      <lastuse>2026-02-18T09:35:12+01:00</lastuse>
+      <lastconfirm>2026-02-18T07:35:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,32 +212,8 @@
     </location>
     <date>
       <create>2026-02-17T22:50:43+01:00</create>
-      <lastuse>2026-02-18T09:33:19+01:00</lastuse>
-      <lastconfirm>2026-02-18T07:33:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18406364072</id>
-    <type>24</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.402201</latitude>
-        <longitude>10.966889</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-18T06:30:17+01:00</create>
-      <lastuse>2026-02-18T09:02:01+01:00</lastuse>
-      <lastconfirm>2026-02-18T07:32:02+01:00</lastconfirm>
+      <lastuse>2026-02-18T09:36:20+01:00</lastuse>
+      <lastconfirm>2026-02-18T07:36:20+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2026-02-18T06:33:49+01:00</create>
-      <lastuse>2026-02-18T07:58:35+01:00</lastuse>
-      <lastconfirm>2026-02-18T07:28:36+01:00</lastconfirm>
+      <lastuse>2026-02-18T08:04:15+01:00</lastuse>
+      <lastconfirm>2026-02-18T07:34:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2026-02-18T06:33:49+01:00</create>
-      <lastuse>2026-02-18T08:00:29+01:00</lastuse>
-      <lastconfirm>2026-02-18T07:30:29+01:00</lastconfirm>
+      <lastuse>2026-02-18T08:04:16+01:00</lastuse>
+      <lastconfirm>2026-02-18T07:34:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +284,32 @@
     </location>
     <date>
       <create>2026-02-18T07:33:02+01:00</create>
-      <lastuse>2026-02-18T07:38:00+01:00</lastuse>
+      <lastuse>2026-02-18T07:42:00+01:00</lastuse>
       <lastconfirm>2026-02-18T07:33:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18406639107</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.376408</latitude>
+        <longitude>11.092544</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-18T07:36:02+01:00</create>
+      <lastuse>2026-02-18T07:42:00+01:00</lastuse>
+      <lastconfirm>2026-02-18T07:36:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
