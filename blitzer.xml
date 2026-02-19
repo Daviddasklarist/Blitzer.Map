@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18414440790</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Fichtelbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.367745</latitude>
-        <longitude>10.914249</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-19T12:32:55+01:00</create>
-      <lastuse>2026-02-19T16:32:55+01:00</lastuse>
-      <lastconfirm>2026-02-19T14:45:59+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18414925707</id>
     <type>1</type>
     <speed>50</speed>
@@ -49,10 +25,34 @@
     </date>
   </event>
   <event>
+    <id>18415325190</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86695</zip>
+      <city>Allmannshofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.609937</latitude>
+        <longitude>10.838088</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-19T15:28:12+01:00</create>
+      <lastuse>2026-02-19T18:06:03+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:06:04+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18415347299</id>
     <type>1</type>
     <speed>110</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86695</zip>
       <city>Allmannshofen</city>
@@ -69,7 +69,7 @@
     <date>
       <create>2026-02-19T15:32:56+01:00</create>
       <lastuse>2026-02-19T18:32:56+01:00</lastuse>
-      <lastconfirm>2026-02-19T16:00:51+01:00</lastconfirm>
+      <lastconfirm>2026-02-19T16:07:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2026-02-19T15:07:31+01:00</create>
-      <lastuse>2026-02-19T16:15:46+01:00</lastuse>
-      <lastconfirm>2026-02-19T15:55:46+01:00</lastconfirm>
+      <lastuse>2026-02-19T16:34:00+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:04:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +116,32 @@
     </location>
     <date>
       <create>2026-02-19T15:41:25+01:00</create>
-      <lastuse>2026-02-19T16:31:22+01:00</lastuse>
-      <lastconfirm>2026-02-19T16:01:23+01:00</lastconfirm>
+      <lastuse>2026-02-19T16:36:55+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:06:55+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18415472356</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.537516</latitude>
+        <longitude>10.837799</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-19T15:56:35+01:00</create>
+      <lastuse>2026-02-19T16:37:36+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:07:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +164,8 @@
     </location>
     <date>
       <create>2026-02-19T14:39:17+01:00</create>
-      <lastuse>2026-02-19T16:58:26+01:00</lastuse>
-      <lastconfirm>2026-02-19T15:58:26+01:00</lastconfirm>
+      <lastuse>2026-02-19T17:07:18+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:07:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,7 +188,7 @@
     </location>
     <date>
       <create>2026-02-19T14:45:34+01:00</create>
-      <lastuse>2026-02-19T17:00:18+01:00</lastuse>
+      <lastuse>2026-02-19T16:40:18+01:00</lastuse>
       <lastconfirm>2026-02-19T16:00:19+01:00</lastconfirm>
     </date>
   </event>
@@ -212,7 +236,7 @@
     </location>
     <date>
       <create>2026-02-19T15:56:02+01:00</create>
-      <lastuse>2026-02-19T16:07:00+01:00</lastuse>
+      <lastuse>2026-02-19T16:12:00+01:00</lastuse>
       <lastconfirm>2026-02-19T15:56:02+01:00</lastconfirm>
     </date>
   </event>
@@ -236,7 +260,7 @@
     </location>
     <date>
       <create>2026-02-19T15:58:02+01:00</create>
-      <lastuse>2026-02-19T16:07:00+01:00</lastuse>
+      <lastuse>2026-02-19T16:12:00+01:00</lastuse>
       <lastconfirm>2026-02-19T15:58:02+01:00</lastconfirm>
     </date>
   </event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2026-02-21T13:11:10+01:00</lastuse>
-      <lastconfirm>2026-02-19T13:11:11+01:00</lastconfirm>
+      <lastuse>2026-02-21T16:00:28+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:00:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-02-21T15:59:54+01:00</lastuse>
-      <lastconfirm>2026-02-19T15:59:55+01:00</lastconfirm>
+      <lastuse>2026-02-21T16:04:52+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:04:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +620,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-21T15:56:04+01:00</lastuse>
-      <lastconfirm>2026-02-19T15:56:04+01:00</lastconfirm>
+      <lastuse>2026-02-21T16:04:14+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:04:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +644,8 @@
     </location>
     <date>
       <create>2026-02-13T14:58:02+01:00</create>
-      <lastuse>2026-02-21T14:54:03+01:00</lastuse>
-      <lastconfirm>2026-02-19T14:54:04+01:00</lastconfirm>
+      <lastuse>2026-02-21T16:00:37+01:00</lastuse>
+      <lastconfirm>2026-02-19T16:00:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
