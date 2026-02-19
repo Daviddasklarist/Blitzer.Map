@@ -117,7 +117,7 @@
     <date>
       <create>2026-02-19T11:34:30+01:00</create>
       <lastuse>2026-02-19T15:34:30+01:00</lastuse>
-      <lastconfirm>2026-02-19T12:57:16+01:00</lastconfirm>
+      <lastconfirm>2026-02-19T13:02:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -166,6 +166,30 @@
       <create>2026-02-19T12:10:02+01:00</create>
       <lastuse>2026-02-19T14:54:23+01:00</lastuse>
       <lastconfirm>2026-02-19T12:54:23+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18414440790</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Fichtelbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.367745</latitude>
+        <longitude>10.914249</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-19T12:32:55+01:00</create>
+      <lastuse>2026-02-19T15:02:34+01:00</lastuse>
+      <lastconfirm>2026-02-19T13:02:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,7 +260,7 @@
     </location>
     <date>
       <create>2026-02-19T12:57:02+01:00</create>
-      <lastuse>2026-02-19T13:02:00+01:00</lastuse>
+      <lastuse>2026-02-19T13:07:00+01:00</lastuse>
       <lastconfirm>2026-02-19T12:57:02+01:00</lastconfirm>
     </date>
   </event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-02-21T12:54:41+01:00</lastuse>
-      <lastconfirm>2026-02-19T12:54:42+01:00</lastconfirm>
+      <lastuse>2026-02-21T12:58:42+01:00</lastuse>
+      <lastconfirm>2026-02-19T12:58:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +620,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-21T12:52:25+01:00</lastuse>
-      <lastconfirm>2026-02-19T12:52:25+01:00</lastconfirm>
+      <lastuse>2026-02-21T12:56:56+01:00</lastuse>
+      <lastconfirm>2026-02-19T12:56:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +668,8 @@
     </location>
     <date>
       <create>2026-02-16T15:28:02+01:00</create>
-      <lastuse>2026-02-21T03:14:51+01:00</lastuse>
-      <lastconfirm>2026-02-16T15:28:02+01:00</lastconfirm>
+      <lastuse>2026-02-21T12:58:21+01:00</lastuse>
+      <lastconfirm>2026-02-19T12:58:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -766,6 +790,30 @@
       <create>2026-02-19T09:46:34+01:00</create>
       <lastuse>2026-02-19T17:37:27+01:00</lastuse>
       <lastconfirm>2026-02-19T09:46:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18414147848</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-HH</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400790</latitude>
+        <longitude>10.834030</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-19T11:30:06+01:00</create>
+      <lastuse>2026-02-19T20:55:06+01:00</lastuse>
+      <lastconfirm>2026-02-19T12:55:06+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
