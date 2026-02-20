@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18422690587</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337335</latitude>
+        <longitude>10.903292</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-20T18:35:22+01:00</create>
+      <lastuse>2026-02-20T23:35:32+01:00</lastuse>
+      <lastconfirm>2026-02-20T22:35:32+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18423025928</id>
     <type>1</type>
     <speed>80</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -20,7 +44,7 @@
     </location>
     <date>
       <create>2026-02-20T19:45:53+01:00</create>
-      <lastuse>2026-02-20T23:55:20+01:00</lastuse>
+      <lastuse>2026-02-20T22:55:20+01:00</lastuse>
       <lastconfirm>2026-02-20T22:25:21+01:00</lastconfirm>
     </date>
   </event>
@@ -46,30 +70,6 @@
       <create>2026-02-20T19:47:22+01:00</create>
       <lastuse>2026-02-21T06:13:00+01:00</lastuse>
       <lastconfirm>2026-02-20T22:13:01+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18423538629</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.403308</latitude>
-        <longitude>10.958866</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-20T21:39:09+01:00</create>
-      <lastuse>2026-02-20T22:42:42+01:00</lastuse>
-      <lastconfirm>2026-02-20T22:22:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +476,8 @@
     </location>
     <date>
       <create>2026-02-16T15:28:02+01:00</create>
-      <lastuse>2026-02-22T21:43:55+01:00</lastuse>
-      <lastconfirm>2026-02-20T21:43:55+01:00</lastconfirm>
+      <lastuse>2026-02-22T13:43:55+01:00</lastuse>
+      <lastconfirm>2026-02-16T15:28:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
