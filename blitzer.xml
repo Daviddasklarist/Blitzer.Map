@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18418279324</id>
+    <id>18418281585</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.399040</latitude>
+        <longitude>11.018213</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-20T02:38:02+01:00</create>
+      <lastuse>2026-02-20T02:48:00+01:00</lastuse>
+      <lastconfirm>2026-02-20T02:38:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18418295787</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -14,14 +38,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.408848</latitude>
-        <longitude>10.583260</longitude>
+        <latitude>48.410234</latitude>
+        <longitude>10.622994</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-20T02:37:02+01:00</create>
-      <lastuse>2026-02-20T02:42:00+01:00</lastuse>
-      <lastconfirm>2026-02-20T02:37:02+01:00</lastconfirm>
+      <create>2026-02-20T02:42:01+01:00</create>
+      <lastuse>2026-02-20T02:48:00+01:00</lastuse>
+      <lastconfirm>2026-02-20T02:42:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-22T00:50:31+01:00</lastuse>
-      <lastconfirm>2026-02-20T00:50:32+01:00</lastconfirm>
+      <lastuse>2026-02-22T02:38:13+01:00</lastuse>
+      <lastconfirm>2026-02-20T02:38:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
