@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18418314535</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.399891</latitude>
-        <longitude>11.011926</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-20T02:46:02+01:00</create>
-      <lastuse>2026-02-20T02:53:00+01:00</lastuse>
-      <lastconfirm>2026-02-20T02:46:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18418314537</id>
+    <id>18418331186</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -38,14 +14,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.412084</latitude>
-        <longitude>10.652863</longitude>
+        <latitude>48.419149</latitude>
+        <longitude>10.675020</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-20T02:46:02+01:00</create>
-      <lastuse>2026-02-20T02:53:00+01:00</lastuse>
-      <lastconfirm>2026-02-20T02:46:02+01:00</lastconfirm>
+      <create>2026-02-20T02:50:02+01:00</create>
+      <lastuse>2026-02-20T02:58:00+01:00</lastuse>
+      <lastconfirm>2026-02-20T02:50:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18418337873</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413395</latitude>
+        <longitude>10.898832</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-20T02:53:02+01:00</create>
+      <lastuse>2026-02-20T02:58:00+01:00</lastuse>
+      <lastconfirm>2026-02-20T02:53:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +404,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-22T02:38:13+01:00</lastuse>
-      <lastconfirm>2026-02-20T02:38:14+01:00</lastconfirm>
+      <lastuse>2026-02-22T02:47:06+01:00</lastuse>
+      <lastconfirm>2026-02-20T02:47:07+01:00</lastconfirm>
     </date>
   </event>
   <event>
