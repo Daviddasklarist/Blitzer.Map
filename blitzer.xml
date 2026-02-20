@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18418487059</id>
+    <id>18418505379</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -14,14 +14,38 @@
     </address>
     <location>
       <point>
-        <latitude>48.385770</latitude>
-        <longitude>11.078369</longitude>
+        <latitude>48.360113</latitude>
+        <longitude>11.127134</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-20T03:33:02+01:00</create>
-      <lastuse>2026-02-20T03:38:00+01:00</lastuse>
-      <lastconfirm>2026-02-20T03:33:02+01:00</lastconfirm>
+      <create>2026-02-20T03:38:01+01:00</create>
+      <lastuse>2026-02-20T03:43:00+01:00</lastuse>
+      <lastconfirm>2026-02-20T03:38:01+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18418505383</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.420082</latitude>
+        <longitude>10.790233</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-20T03:38:01+01:00</create>
+      <lastuse>2026-02-20T03:43:00+01:00</lastuse>
+      <lastconfirm>2026-02-20T03:38:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-22T02:47:06+01:00</lastuse>
-      <lastconfirm>2026-02-20T02:47:07+01:00</lastconfirm>
+      <lastuse>2026-02-22T03:30:03+01:00</lastuse>
+      <lastconfirm>2026-02-20T03:30:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
