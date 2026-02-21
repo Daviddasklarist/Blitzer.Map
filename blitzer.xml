@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18426357494</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.411123</latitude>
+        <longitude>10.912895</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-21T09:23:50+01:00</create>
+      <lastuse>2026-02-21T10:57:29+01:00</lastuse>
+      <lastconfirm>2026-02-21T09:27:30+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18426309544</id>
     <type>23</type>
     <speed></speed>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-02-23T09:11:49+01:00</lastuse>
-      <lastconfirm>2026-02-21T09:11:50+01:00</lastconfirm>
+      <lastuse>2026-02-23T09:23:48+01:00</lastuse>
+      <lastconfirm>2026-02-21T09:23:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-23T09:14:52+01:00</lastuse>
-      <lastconfirm>2026-02-21T09:14:52+01:00</lastconfirm>
+      <lastuse>2026-02-23T09:24:09+01:00</lastuse>
+      <lastconfirm>2026-02-21T09:24:09+01:00</lastconfirm>
     </date>
   </event>
   <event>
