@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-02-22T09:51:32+01:00</create>
-      <lastuse>2026-02-22T18:38:01+01:00</lastuse>
-      <lastconfirm>2026-02-22T16:38:01+01:00</lastconfirm>
+      <lastuse>2026-02-22T18:42:26+01:00</lastuse>
+      <lastconfirm>2026-02-22T16:42:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-02-22T10:33:49+01:00</create>
-      <lastuse>2026-02-22T18:37:26+01:00</lastuse>
-      <lastconfirm>2026-02-22T16:37:27+01:00</lastconfirm>
+      <lastuse>2026-02-22T18:42:51+01:00</lastuse>
+      <lastconfirm>2026-02-22T16:42:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,32 @@
     </location>
     <date>
       <create>2026-02-22T10:34:00+01:00</create>
-      <lastuse>2026-02-22T18:37:53+01:00</lastuse>
-      <lastconfirm>2026-02-22T16:37:54+01:00</lastconfirm>
+      <lastuse>2026-02-22T18:40:09+01:00</lastuse>
+      <lastconfirm>2026-02-22T16:40:09+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18433947590</id>
+    <type>1</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.455247</latitude>
+        <longitude>10.874475</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-22T14:50:26+01:00</create>
+      <lastuse>2026-02-22T18:50:26+01:00</lastuse>
+      <lastconfirm>2026-02-22T16:39:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-24T16:22:25+01:00</lastuse>
-      <lastconfirm>2026-02-22T16:22:26+01:00</lastconfirm>
+      <lastuse>2026-02-24T16:39:32+01:00</lastuse>
+      <lastconfirm>2026-02-22T16:39:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -502,30 +526,6 @@
       <create>2026-02-18T09:43:26+01:00</create>
       <lastuse>2026-02-24T14:30:02+01:00</lastuse>
       <lastconfirm>2026-02-22T14:30:03+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18432889527</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.407227</latitude>
-        <longitude>10.575913</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-22T10:47:39+01:00</create>
-      <lastuse>2026-02-24T16:18:12+01:00</lastuse>
-      <lastconfirm>2026-02-22T16:18:12+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
