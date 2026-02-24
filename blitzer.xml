@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18444387628</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86830</zip>
-      <city>Schwabmünchen</city>
-      <state>DE-BY</state>
-      <street>Giromagnystraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.175253</latitude>
-        <longitude>10.745916</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-24T06:23:09+01:00</create>
-      <lastuse>2026-02-24T10:23:09+01:00</lastuse>
-      <lastconfirm>2026-02-24T08:20:47+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18444411620</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,7 +44,7 @@
     </location>
     <date>
       <create>2026-02-24T06:31:56+01:00</create>
-      <lastuse>2026-02-24T12:21:48+01:00</lastuse>
+      <lastuse>2026-02-24T11:51:48+01:00</lastuse>
       <lastconfirm>2026-02-24T10:21:49+01:00</lastconfirm>
     </date>
   </event>
@@ -140,7 +116,7 @@
     </location>
     <date>
       <create>2026-02-24T08:15:46+01:00</create>
-      <lastuse>2026-02-24T11:58:24+01:00</lastuse>
+      <lastuse>2026-03-03T10:24:56+01:00</lastuse>
       <lastconfirm>2026-02-24T09:58:25+01:00</lastconfirm>
     </date>
   </event>
@@ -189,7 +165,7 @@
     <date>
       <create>2026-02-24T09:52:00+01:00</create>
       <lastuse>2026-02-24T13:52:00+01:00</lastuse>
-      <lastconfirm>2026-02-24T10:23:47+01:00</lastconfirm>
+      <lastconfirm>2026-02-24T10:27:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-02-26T10:19:08+01:00</lastuse>
-      <lastconfirm>2026-02-24T10:19:09+01:00</lastconfirm>
+      <lastuse>2026-02-26T10:23:06+01:00</lastuse>
+      <lastconfirm>2026-02-24T10:23:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +548,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-26T10:04:45+01:00</lastuse>
-      <lastconfirm>2026-02-24T10:04:45+01:00</lastconfirm>
+      <lastuse>2026-02-26T10:23:08+01:00</lastuse>
+      <lastconfirm>2026-02-24T10:23:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +668,32 @@
     </location>
     <date>
       <create>2026-02-24T08:42:27+01:00</create>
-      <lastuse>2026-02-24T18:15:28+01:00</lastuse>
-      <lastconfirm>2026-02-24T10:15:29+01:00</lastconfirm>
+      <lastuse>2026-02-24T18:24:30+01:00</lastuse>
+      <lastconfirm>2026-02-24T10:24:30+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18445493435</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403425</latitude>
+        <longitude>10.559465</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-24T10:06:33+01:00</create>
+      <lastuse>2026-02-24T18:23:54+01:00</lastuse>
+      <lastconfirm>2026-02-24T10:23:55+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
