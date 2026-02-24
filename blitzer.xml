@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18445904762</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86150</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberer Graben</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.365947</latitude>
-        <longitude>10.903692</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-24T11:27:50+01:00</create>
-      <lastuse>2026-02-24T16:48:22+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:48:23+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18446465079</id>
     <type>1</type>
     <speed>50</speed>
@@ -217,6 +193,30 @@
     </date>
   </event>
   <event>
+    <id>18447366533</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403190</latitude>
+        <longitude>10.960498</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-24T15:58:57+01:00</create>
+      <lastuse>2026-02-24T16:52:21+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:22:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18447373949</id>
     <type>29</type>
     <speed></speed>
@@ -236,32 +236,8 @@
     </location>
     <date>
       <create>2026-02-24T15:59:59+01:00</create>
-      <lastuse>2026-02-24T16:43:07+01:00</lastuse>
-      <lastconfirm>2026-02-24T16:13:08+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18447400336</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.394660</latitude>
-        <longitude>11.063574</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-24T16:04:02+01:00</create>
-      <lastuse>2026-02-24T16:36:29+01:00</lastuse>
-      <lastconfirm>2026-02-24T16:16:29+01:00</lastconfirm>
+      <lastuse>2026-02-24T16:52:29+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:22:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +260,8 @@
     </location>
     <date>
       <create>2026-02-24T13:28:11+01:00</create>
-      <lastuse>2026-02-24T17:07:08+01:00</lastuse>
-      <lastconfirm>2026-02-24T16:07:08+01:00</lastconfirm>
+      <lastuse>2026-02-24T17:22:33+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:22:34+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,12 +356,12 @@
     </location>
     <date>
       <create>2026-02-24T16:02:48+01:00</create>
-      <lastuse>2026-02-24T17:16:51+01:00</lastuse>
-      <lastconfirm>2026-02-24T16:16:51+01:00</lastconfirm>
+      <lastuse>2026-02-24T17:19:26+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:19:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18447472941</id>
+    <id>18447479127</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -398,14 +374,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.409363</latitude>
-        <longitude>10.923566</longitude>
+        <latitude>48.409092</latitude>
+        <longitude>10.925198</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-24T16:16:01+01:00</create>
-      <lastuse>2026-02-24T16:22:00+01:00</lastuse>
-      <lastconfirm>2026-02-24T16:16:01+01:00</lastconfirm>
+      <create>2026-02-24T16:18:02+01:00</create>
+      <lastuse>2026-02-24T16:27:00+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:18:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2025-07-06T11:27:02+02:00</create>
-      <lastuse>2026-02-26T11:32:27+01:00</lastuse>
-      <lastconfirm>2026-02-24T11:32:28+01:00</lastconfirm>
+      <lastuse>2026-02-26T16:18:52+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:18:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +716,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-02-26T07:50:50+01:00</lastuse>
-      <lastconfirm>2026-02-12T16:57:19+01:00</lastconfirm>
+      <lastuse>2026-02-26T16:16:58+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:16:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +740,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-26T16:12:36+01:00</lastuse>
-      <lastconfirm>2026-02-24T16:12:36+01:00</lastconfirm>
+      <lastuse>2026-02-26T16:19:26+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:19:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +908,8 @@
     </location>
     <date>
       <create>2026-02-24T15:01:47+01:00</create>
-      <lastuse>2026-02-26T16:02:18+01:00</lastuse>
-      <lastconfirm>2026-02-24T16:02:19+01:00</lastconfirm>
+      <lastuse>2026-02-26T16:16:47+01:00</lastuse>
+      <lastconfirm>2026-02-24T16:16:48+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
