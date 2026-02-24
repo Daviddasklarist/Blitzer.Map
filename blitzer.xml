@@ -4,7 +4,7 @@
     <id>18445401725</id>
     <type>6</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-02-24T09:52:00+01:00</create>
-      <lastuse>2026-02-24T17:17:22+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:47:23+01:00</lastconfirm>
+      <lastuse>2026-02-24T17:53:39+01:00</lastuse>
+      <lastconfirm>2026-02-24T15:53:39+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-02-24T11:27:50+01:00</create>
-      <lastuse>2026-02-24T16:41:56+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:11:57+01:00</lastconfirm>
+      <lastuse>2026-02-24T17:48:22+01:00</lastuse>
+      <lastconfirm>2026-02-24T15:48:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,6 +121,30 @@
     </date>
   </event>
   <event>
+    <id>18446981216</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86570</zip>
+      <city>Inchenhofen</city>
+      <state>DE-BY</state>
+      <street>Pöttmeser Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.516303</latitude>
+        <longitude>11.109432</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-24T14:47:58+01:00</create>
+      <lastuse>2026-02-24T17:49:06+01:00</lastuse>
+      <lastconfirm>2026-02-24T15:49:07+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18445439723</id>
     <type>7</type>
     <speed>30</speed>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2026-02-24T14:41:39+01:00</create>
-      <lastuse>2026-02-24T16:17:28+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:47:28+01:00</lastconfirm>
+      <lastuse>2026-02-24T16:22:54+01:00</lastuse>
+      <lastconfirm>2026-02-24T15:52:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,12 +236,12 @@
     </location>
     <date>
       <create>2026-02-24T13:28:11+01:00</create>
-      <lastuse>2026-02-24T16:39:28+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:39:29+01:00</lastconfirm>
+      <lastuse>2026-02-24T16:51:32+01:00</lastuse>
+      <lastconfirm>2026-02-24T15:51:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
-    <id>18447258721</id>
+    <id>18447314752</id>
     <type>20</type>
     <speed></speed>
     <quality>3</quality>
@@ -230,14 +254,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.412060</latitude>
-        <longitude>10.907238</longitude>
+        <latitude>48.410442</latitude>
+        <longitude>10.917035</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-24T15:38:02+01:00</create>
-      <lastuse>2026-02-24T15:52:00+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:38:02+01:00</lastconfirm>
+      <create>2026-02-24T15:49:02+01:00</create>
+      <lastuse>2026-02-24T15:58:00+01:00</lastuse>
+      <lastconfirm>2026-02-24T15:49:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-02-26T15:44:47+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:44:47+01:00</lastconfirm>
+      <lastuse>2026-02-26T15:49:19+01:00</lastuse>
+      <lastconfirm>2026-02-24T15:49:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +620,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-26T15:38:06+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:38:07+01:00</lastconfirm>
+      <lastuse>2026-02-26T07:38:06+01:00</lastuse>
+      <lastconfirm>2026-02-13T07:27:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2026-02-24T15:01:47+01:00</create>
-      <lastuse>2026-02-26T15:42:26+01:00</lastuse>
-      <lastconfirm>2026-02-24T15:42:28+01:00</lastconfirm>
+      <lastuse>2026-02-26T15:49:05+01:00</lastuse>
+      <lastconfirm>2026-02-24T15:49:06+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
