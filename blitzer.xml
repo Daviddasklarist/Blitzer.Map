@@ -1,27 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18450753492</id>
+    <id>18450753527</id>
     <type>1</type>
-    <speed>60</speed>
+    <speed>50</speed>
     <quality>2</quality>
     <address>
-      <zip>86156</zip>
+      <zip>86153</zip>
       <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>Dayton-Ring</street>
+      <street>Amagasaki-Allee</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.379333</latitude>
-        <longitude>10.857721</longitude>
+        <latitude>48.370579</latitude>
+        <longitude>10.923105</longitude>
       </point>
     </location>
     <date>
-      <create>2026-02-25T06:33:54+01:00</create>
-      <lastuse>2026-02-25T09:22:48+01:00</lastuse>
-      <lastconfirm>2026-02-25T07:22:48+01:00</lastconfirm>
+      <create>2026-02-25T06:36:36+01:00</create>
+      <lastuse>2026-02-25T09:24:04+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:24:04+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18450753880</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.282010</latitude>
+        <longitude>10.893368</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-25T06:56:03+01:00</create>
+      <lastuse>2026-02-25T10:56:03+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:27:15+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18450753927</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Gabelsbergerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.346661</latitude>
+        <longitude>10.871012</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-25T06:58:05+01:00</create>
+      <lastuse>2026-02-25T10:58:05+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:27:59+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18450754353</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337385</latitude>
+        <longitude>10.901418</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-25T07:12:04+01:00</create>
+      <lastuse>2026-02-25T11:12:04+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:25:51+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18450754360</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Amagasaki-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370202</latitude>
+        <longitude>10.922361</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-25T07:12:08+01:00</create>
+      <lastuse>2026-02-25T11:12:08+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:27:54+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18450754556</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schillstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382711</latitude>
+        <longitude>10.908864</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-02-25T07:17:42+01:00</create>
+      <lastuse>2026-02-25T09:24:48+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:24:49+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +188,8 @@
     </location>
     <date>
       <create>2026-02-25T06:57:37+01:00</create>
-      <lastuse>2026-02-25T08:20:59+01:00</lastuse>
-      <lastconfirm>2026-02-25T07:21:00+01:00</lastconfirm>
+      <lastuse>2026-02-25T08:26:38+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:26:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +212,8 @@
     </location>
     <date>
       <create>2026-02-25T07:08:55+01:00</create>
-      <lastuse>2026-02-25T07:53:13+01:00</lastuse>
-      <lastconfirm>2026-02-25T07:13:13+01:00</lastconfirm>
+      <lastuse>2026-02-25T08:24:47+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:24:48+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +548,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-02-27T07:15:14+01:00</lastuse>
-      <lastconfirm>2026-02-25T07:15:15+01:00</lastconfirm>
+      <lastuse>2026-02-27T07:21:15+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:21:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +572,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-02-27T07:19:14+01:00</lastuse>
-      <lastconfirm>2026-02-25T07:19:15+01:00</lastconfirm>
+      <lastuse>2026-02-27T07:23:22+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:23:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +692,8 @@
     </location>
     <date>
       <create>2026-02-24T15:01:47+01:00</create>
-      <lastuse>2026-02-27T07:15:05+01:00</lastuse>
-      <lastconfirm>2026-02-25T07:15:05+01:00</lastconfirm>
+      <lastuse>2026-02-27T07:21:10+01:00</lastuse>
+      <lastconfirm>2026-02-25T07:21:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
