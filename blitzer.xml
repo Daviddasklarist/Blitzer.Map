@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18474530528</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.416847</latitude>
-        <longitude>10.840376</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-02-28T14:42:23+01:00</create>
-      <lastuse>2026-02-28T22:10:44+01:00</lastuse>
-      <lastconfirm>2026-02-28T20:25:45+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18445439723</id>
     <type>7</type>
     <speed>20</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2026-02-24T09:59:33+01:00</create>
-      <lastuse>2026-03-01T04:20:05+01:00</lastuse>
-      <lastconfirm>2026-02-28T20:20:06+01:00</lastconfirm>
+      <lastuse>2026-03-01T04:33:10+01:00</lastuse>
+      <lastconfirm>2026-02-28T20:33:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -62,13 +38,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.416812</latitude>
-        <longitude>10.734975</longitude>
+        <latitude>48.416698</latitude>
+        <longitude>10.731636</longitude>
       </point>
     </location>
     <date>
       <create>2026-02-28T20:22:01+01:00</create>
-      <lastuse>2026-02-28T20:32:00+01:00</lastuse>
+      <lastuse>2026-02-28T20:38:00+01:00</lastuse>
       <lastconfirm>2026-02-28T20:22:01+01:00</lastconfirm>
     </date>
   </event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-24T15:01:47+01:00</create>
-      <lastuse>2026-03-02T20:13:43+01:00</lastuse>
-      <lastconfirm>2026-02-28T20:13:44+01:00</lastconfirm>
+      <lastuse>2026-03-02T20:29:26+01:00</lastuse>
+      <lastconfirm>2026-02-28T20:29:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2026-02-27T15:31:49+01:00</create>
-      <lastuse>2026-03-02T19:40:29+01:00</lastuse>
-      <lastconfirm>2026-02-28T19:40:29+01:00</lastconfirm>
+      <lastuse>2026-03-02T20:25:15+01:00</lastuse>
+      <lastconfirm>2026-02-28T20:25:16+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
