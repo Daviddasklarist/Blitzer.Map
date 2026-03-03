@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18491162311</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410989</latitude>
+        <longitude>10.645122</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-03T00:44:57+01:00</create>
+      <lastuse>2026-03-03T01:50:52+01:00</lastuse>
+      <lastconfirm>2026-03-03T01:20:53+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2026-03-02T21:12:07+01:00</create>
-      <lastuse>2026-03-03T09:08:57+01:00</lastuse>
-      <lastconfirm>2026-03-03T01:08:58+01:00</lastconfirm>
+      <lastuse>2026-03-03T09:15:08+01:00</lastuse>
+      <lastconfirm>2026-03-03T01:15:08+01:00</lastconfirm>
     </date>
   </event>
   <event>
