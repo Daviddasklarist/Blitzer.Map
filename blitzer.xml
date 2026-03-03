@@ -44,15 +44,15 @@
     </location>
     <date>
       <create>2026-03-03T11:41:34+01:00</create>
-      <lastuse>2026-03-03T16:41:54+01:00</lastuse>
-      <lastconfirm>2026-03-03T14:41:55+01:00</lastconfirm>
+      <lastuse>2026-03-03T16:45:53+01:00</lastuse>
+      <lastconfirm>2026-03-03T14:45:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18494236852</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -404,8 +404,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-05T14:39:48+01:00</lastuse>
-      <lastconfirm>2026-03-03T14:39:48+01:00</lastconfirm>
+      <lastuse>2026-03-05T14:40:21+01:00</lastuse>
+      <lastconfirm>2026-03-03T14:40:23+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +428,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-05T14:35:33+01:00</lastuse>
-      <lastconfirm>2026-03-03T14:35:33+01:00</lastconfirm>
+      <lastuse>2026-03-05T14:43:56+01:00</lastuse>
+      <lastconfirm>2026-03-03T14:43:57+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +524,8 @@
     </location>
     <date>
       <create>2026-02-24T15:01:47+01:00</create>
-      <lastuse>2026-03-05T14:39:40+01:00</lastuse>
-      <lastconfirm>2026-03-03T14:39:40+01:00</lastconfirm>
+      <lastuse>2026-03-05T14:40:08+01:00</lastuse>
+      <lastconfirm>2026-03-03T14:40:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -649,10 +649,34 @@
     </date>
   </event>
   <event>
+    <id>18494989759</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Untermeitingen</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.169092</latitude>
+        <longitude>10.837909</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-03T13:53:15+01:00</create>
+      <lastuse>2026-03-03T22:44:34+01:00</lastuse>
+      <lastconfirm>2026-03-03T14:44:35+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18494989763</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86836</zip>
       <city>Untermeitingen</city>
@@ -668,8 +692,8 @@
     </location>
     <date>
       <create>2026-03-03T13:54:00+01:00</create>
-      <lastuse>2026-03-03T22:33:13+01:00</lastuse>
-      <lastconfirm>2026-03-03T14:33:14+01:00</lastconfirm>
+      <lastuse>2026-03-03T22:42:44+01:00</lastuse>
+      <lastconfirm>2026-03-03T14:42:45+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
