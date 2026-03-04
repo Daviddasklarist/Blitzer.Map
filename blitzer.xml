@@ -4,7 +4,7 @@
     <id>18499736238</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86161</zip>
       <city>Augsburg</city>
@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2026-03-04T05:53:10+01:00</create>
-      <lastuse>2026-03-04T11:12:30+01:00</lastuse>
+      <lastuse>2026-03-04T10:12:30+01:00</lastuse>
       <lastconfirm>2026-03-04T09:42:30+01:00</lastconfirm>
     </date>
   </event>
@@ -165,7 +165,31 @@
     <date>
       <create>2026-03-04T08:44:54+01:00</create>
       <lastuse>2026-03-04T12:44:54+01:00</lastuse>
-      <lastconfirm>2026-03-04T09:56:55+01:00</lastconfirm>
+      <lastconfirm>2026-03-04T10:02:22+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18500756097</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Aurnhammer-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.336724</latitude>
+        <longitude>10.867582</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-04T09:13:15+01:00</create>
+      <lastuse>2026-03-04T12:13:15+01:00</lastuse>
+      <lastconfirm>2026-03-04T09:59:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2026-03-04T09:38:42+01:00</create>
-      <lastuse>2026-03-04T10:24:47+01:00</lastuse>
-      <lastconfirm>2026-03-04T09:54:47+01:00</lastconfirm>
+      <lastuse>2026-03-04T10:33:36+01:00</lastuse>
+      <lastconfirm>2026-03-04T10:03:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +308,8 @@
     </location>
     <date>
       <create>2025-03-08T09:54:17+01:00</create>
-      <lastuse>2026-03-06T08:40:49+01:00</lastuse>
-      <lastconfirm>2026-03-04T08:40:50+01:00</lastconfirm>
+      <lastuse>2026-03-06T09:58:46+01:00</lastuse>
+      <lastconfirm>2026-03-04T09:58:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2026-02-13T14:58:02+01:00</create>
-      <lastuse>2026-03-06T09:51:50+01:00</lastuse>
-      <lastconfirm>2026-03-04T09:51:51+01:00</lastconfirm>
+      <lastuse>2026-03-06T09:59:28+01:00</lastuse>
+      <lastconfirm>2026-03-04T09:59:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2026-03-04T09:18:59+01:00</create>
-      <lastuse>2026-03-04T17:52:18+01:00</lastuse>
-      <lastconfirm>2026-03-04T09:52:18+01:00</lastconfirm>
+      <lastuse>2026-03-04T17:57:48+01:00</lastuse>
+      <lastconfirm>2026-03-04T09:57:49+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
