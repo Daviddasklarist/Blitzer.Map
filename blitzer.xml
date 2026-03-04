@@ -165,7 +165,7 @@
     <date>
       <create>2026-03-04T08:44:54+01:00</create>
       <lastuse>2026-03-04T12:44:54+01:00</lastuse>
-      <lastconfirm>2026-03-04T09:23:30+01:00</lastconfirm>
+      <lastconfirm>2026-03-04T09:27:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2026-03-04T07:32:48+01:00</create>
-      <lastuse>2026-03-04T10:05:03+01:00</lastuse>
-      <lastconfirm>2026-03-04T09:05:04+01:00</lastconfirm>
+      <lastuse>2026-03-04T10:26:52+01:00</lastuse>
+      <lastconfirm>2026-03-04T09:26:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +524,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-06T09:13:38+01:00</lastuse>
-      <lastconfirm>2026-03-04T09:13:39+01:00</lastconfirm>
+      <lastuse>2026-03-06T09:21:44+01:00</lastuse>
+      <lastconfirm>2026-03-04T09:21:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2026-03-02T07:14:03+01:00</create>
-      <lastuse>2026-03-06T00:36:34+01:00</lastuse>
-      <lastconfirm>2026-03-02T07:14:03+01:00</lastconfirm>
+      <lastuse>2026-03-06T09:24:16+01:00</lastuse>
+      <lastconfirm>2026-03-04T09:24:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -766,6 +766,30 @@
       <create>2026-03-04T07:00:03+01:00</create>
       <lastuse>2026-03-06T09:09:29+01:00</lastuse>
       <lastconfirm>2026-03-04T09:09:29+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18500791345</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.419992</latitude>
+        <longitude>10.795078</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-04T09:18:59+01:00</create>
+      <lastuse>2026-03-04T17:24:13+01:00</lastuse>
+      <lastconfirm>2026-03-04T09:24:14+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
