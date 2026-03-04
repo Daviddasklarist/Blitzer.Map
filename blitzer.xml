@@ -49,6 +49,30 @@
     </date>
   </event>
   <event>
+    <id>18499844941</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.279067</latitude>
+        <longitude>10.870710</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-04T06:18:14+01:00</create>
+      <lastuse>2026-03-04T06:57:25+01:00</lastuse>
+      <lastconfirm>2026-03-04T06:27:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-06T06:18:31+01:00</lastuse>
-      <lastconfirm>2026-03-04T06:18:31+01:00</lastconfirm>
+      <lastuse>2026-03-06T06:23:59+01:00</lastuse>
+      <lastconfirm>2026-03-04T06:24:00+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2026-02-16T17:04:10+01:00</create>
-      <lastuse>2026-03-06T04:52:45+01:00</lastuse>
-      <lastconfirm>2026-03-04T04:52:45+01:00</lastconfirm>
+      <lastuse>2026-03-05T20:52:45+01:00</lastuse>
+      <lastconfirm>2026-02-16T17:04:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2026-02-27T15:31:49+01:00</create>
-      <lastuse>2026-03-06T06:13:33+01:00</lastuse>
-      <lastconfirm>2026-03-04T06:13:34+01:00</lastconfirm>
+      <lastuse>2026-03-06T06:22:37+01:00</lastuse>
+      <lastconfirm>2026-03-04T06:22:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -622,30 +646,6 @@
       <create>2026-03-03T18:11:28+01:00</create>
       <lastuse>2026-03-06T06:00:39+01:00</lastuse>
       <lastconfirm>2026-03-04T06:00:40+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18497704554</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86159</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.339052</latitude>
-        <longitude>10.889546</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-03T22:00:43+01:00</create>
-      <lastuse>2026-03-04T12:06:59+01:00</lastuse>
-      <lastconfirm>2026-03-03T22:00:43+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
