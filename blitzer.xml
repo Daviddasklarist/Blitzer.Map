@@ -97,6 +97,30 @@
     </date>
   </event>
   <event>
+    <id>18502612009</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>AIC 25</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.371382</latitude>
+        <longitude>10.960259</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-04T14:48:39+01:00</create>
+      <lastuse>2026-03-04T16:57:02+01:00</lastuse>
+      <lastconfirm>2026-03-04T14:57:02+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18495330543</id>
     <type>7</type>
     <speed>30</speed>
@@ -118,30 +142,6 @@
       <create>2026-03-03T14:54:47+01:00</create>
       <lastuse>2026-03-04T21:30:13+01:00</lastuse>
       <lastconfirm>2026-03-04T13:30:14+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18502445235</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86485</zip>
-      <city>Biberbach</city>
-      <state>DE-BY</state>
-      <street>St 2033</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.524555</latitude>
-        <longitude>10.811048</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-04T14:18:43+01:00</create>
-      <lastuse>2026-03-04T14:55:21+01:00</lastuse>
-      <lastconfirm>2026-03-04T14:35:22+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2026-03-06T14:25:01+01:00</lastuse>
-      <lastconfirm>2026-03-04T14:25:01+01:00</lastconfirm>
+      <lastuse>2026-03-06T14:53:18+01:00</lastuse>
+      <lastconfirm>2026-03-04T14:53:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-06T14:48:35+01:00</lastuse>
-      <lastconfirm>2026-03-04T14:48:35+01:00</lastconfirm>
+      <lastuse>2026-03-06T14:52:23+01:00</lastuse>
+      <lastconfirm>2026-03-04T14:52:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -721,30 +721,6 @@
     </date>
   </event>
   <event>
-    <id>18501511078</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86836</zip>
-      <city>Graben</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.182239</latitude>
-        <longitude>10.844330</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-04T11:29:29+01:00</create>
-      <lastuse>2026-03-04T16:15:42+01:00</lastuse>
-      <lastconfirm>2026-03-04T11:29:29+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18501566349</id>
     <type>22</type>
     <speed></speed>
@@ -764,7 +740,7 @@
     </location>
     <date>
       <create>2026-03-04T11:36:01+01:00</create>
-      <lastuse>2026-03-04T20:32:57+01:00</lastuse>
+      <lastuse>2026-03-04T18:32:57+01:00</lastuse>
       <lastconfirm>2026-03-04T11:36:01+01:00</lastconfirm>
     </date>
   </event>
