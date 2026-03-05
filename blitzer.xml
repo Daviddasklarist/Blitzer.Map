@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18506983145</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Friedberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.355171</latitude>
-        <longitude>10.920851</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-05T06:08:46+01:00</create>
-      <lastuse>2026-03-05T08:08:46+01:00</lastuse>
-      <lastconfirm>2026-03-05T06:27:17+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18495330543</id>
     <type>7</type>
     <speed>30</speed>
@@ -332,8 +308,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-07T06:15:51+01:00</lastuse>
-      <lastconfirm>2026-03-05T06:15:52+01:00</lastconfirm>
+      <lastuse>2026-03-07T06:34:27+01:00</lastuse>
+      <lastconfirm>2026-03-05T06:34:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +332,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-07T06:23:12+01:00</lastuse>
-      <lastconfirm>2026-03-05T06:23:12+01:00</lastconfirm>
+      <lastuse>2026-03-07T06:34:58+01:00</lastuse>
+      <lastconfirm>2026-03-05T06:34:59+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +548,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-03-07T06:05:35+01:00</lastuse>
-      <lastconfirm>2026-03-05T06:05:36+01:00</lastconfirm>
+      <lastuse>2026-03-07T06:32:45+01:00</lastuse>
+      <lastconfirm>2026-03-05T06:32:46+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -652,7 +628,7 @@
     <id>18506291814</id>
     <type>22</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -668,8 +644,8 @@
     </location>
     <date>
       <create>2026-03-05T03:18:26+01:00</create>
-      <lastuse>2026-03-05T14:27:50+01:00</lastuse>
-      <lastconfirm>2026-03-05T06:27:50+01:00</lastconfirm>
+      <lastuse>2026-03-05T12:32:29+01:00</lastuse>
+      <lastconfirm>2026-03-05T03:18:26+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
