@@ -28,7 +28,7 @@
     <id>18510099872</id>
     <type>7</type>
     <speed>80</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-03-05T14:39:20+01:00</create>
-      <lastuse>2026-03-09T01:32:21+01:00</lastuse>
-      <lastconfirm>2026-03-08T17:32:22+01:00</lastconfirm>
+      <lastuse>2026-03-09T01:37:13+01:00</lastuse>
+      <lastconfirm>2026-03-08T17:37:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-03-07T11:27:45+01:00</create>
-      <lastuse>2026-03-08T22:29:42+01:00</lastuse>
-      <lastconfirm>2026-03-08T17:29:43+01:00</lastconfirm>
+      <lastuse>2026-03-09T00:37:03+01:00</lastuse>
+      <lastconfirm>2026-03-08T17:37:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +356,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-10T17:28:46+01:00</lastuse>
-      <lastconfirm>2026-03-08T17:28:47+01:00</lastconfirm>
+      <lastuse>2026-03-10T17:34:01+01:00</lastuse>
+      <lastconfirm>2026-03-08T17:34:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +380,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-10T17:29:45+01:00</lastuse>
-      <lastconfirm>2026-03-08T17:29:45+01:00</lastconfirm>
+      <lastuse>2026-03-10T17:30:14+01:00</lastuse>
+      <lastconfirm>2026-03-08T17:30:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-24T15:22:36+01:00</create>
-      <lastuse>2026-03-10T15:42:11+01:00</lastuse>
-      <lastconfirm>2026-03-08T15:42:12+01:00</lastconfirm>
+      <lastuse>2026-03-10T17:31:23+01:00</lastuse>
+      <lastconfirm>2026-03-08T17:31:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +500,8 @@
     </location>
     <date>
       <create>2026-02-27T15:31:49+01:00</create>
-      <lastuse>2026-03-10T16:56:00+01:00</lastuse>
-      <lastconfirm>2026-03-08T16:56:00+01:00</lastconfirm>
+      <lastuse>2026-03-10T17:34:50+01:00</lastuse>
+      <lastconfirm>2026-03-08T17:34:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +644,8 @@
     </location>
     <date>
       <create>2026-03-05T13:34:50+01:00</create>
-      <lastuse>2026-03-10T17:05:52+01:00</lastuse>
-      <lastconfirm>2026-03-08T17:05:52+01:00</lastconfirm>
+      <lastuse>2026-03-10T09:05:52+01:00</lastuse>
+      <lastconfirm>2026-03-05T13:34:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -676,7 +676,7 @@
     <id>18516387730</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2026-03-06T13:08:56+01:00</create>
-      <lastuse>2026-03-10T17:21:56+01:00</lastuse>
-      <lastconfirm>2026-03-08T17:21:56+01:00</lastconfirm>
+      <lastuse>2026-03-10T09:21:56+01:00</lastuse>
+      <lastconfirm>2026-03-06T13:08:56+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -766,6 +766,30 @@
       <create>2026-03-08T13:27:21+01:00</create>
       <lastuse>2026-03-10T16:21:25+01:00</lastuse>
       <lastconfirm>2026-03-08T16:21:26+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18530995264</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Pferseer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365819</latitude>
+        <longitude>10.881619</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-08T15:57:29+01:00</create>
+      <lastuse>2026-03-10T08:19:46+01:00</lastuse>
+      <lastconfirm>2026-03-08T15:57:29+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
