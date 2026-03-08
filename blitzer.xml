@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18528730203</id>
+    <type>6</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414252</latitude>
+        <longitude>10.889399</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-08T07:56:19+01:00</create>
+      <lastuse>2026-03-08T09:32:45+01:00</lastuse>
+      <lastconfirm>2026-03-08T08:02:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18495330543</id>
     <type>7</type>
     <speed>30</speed>
