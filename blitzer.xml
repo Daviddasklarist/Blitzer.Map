@@ -1,6 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18556465147</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.363428</latitude>
+        <longitude>10.872814</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T06:12:17+01:00</create>
+      <lastuse>2026-03-12T10:57:34+01:00</lastuse>
+      <lastconfirm>2026-03-12T09:57:34+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18556486361</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86163</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberländer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.352985</latitude>
+        <longitude>10.938149</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T06:17:45+01:00</create>
+      <lastuse>2026-03-12T10:41:43+01:00</lastuse>
+      <lastconfirm>2026-03-12T09:41:44+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18556553655</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Argonstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369624</latitude>
+        <longitude>10.911058</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T06:33:23+01:00</create>
+      <lastuse>2026-03-12T12:33:31+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:33:31+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18556836561</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86497</zip>
+      <city>Horgau</city>
+      <state>DE-BY</state>
+      <street>St 2510</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.387439</latitude>
+        <longitude>10.730881</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T07:33:28+01:00</create>
+      <lastuse>2026-03-12T12:18:51+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:18:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18557110459</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Unterer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.371742</latitude>
+        <longitude>10.901148</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T08:25:53+01:00</create>
+      <lastuse>2026-03-12T12:34:13+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:34:13+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18557137993</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Wertachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.378327</latitude>
+        <longitude>10.884575</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T08:30:58+01:00</create>
+      <lastuse>2026-03-12T12:30:58+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:07:38+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18557218526</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Miehle-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.333296</latitude>
+        <longitude>10.876448</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T08:45:18+01:00</create>
+      <lastuse>2026-03-12T11:44:37+01:00</lastuse>
+      <lastconfirm>2026-03-12T09:44:37+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18510099872</id>
+    <type>7</type>
+    <speed>80</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.415934</latitude>
+        <longitude>10.870856</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-05T14:39:20+01:00</create>
+      <lastuse>2026-03-12T18:35:13+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:35:14+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18543154598</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Leitershofer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.361092</latitude>
+        <longitude>10.843049</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-10T09:45:31+01:00</create>
+      <lastuse>2026-03-12T18:09:16+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:09:17+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18556932255</id>
     <type>29</type>
     <speed></speed>
@@ -44,8 +260,8 @@
     </location>
     <date>
       <create>2026-03-12T09:20:34+01:00</create>
-      <lastuse>2026-03-12T11:02:48+01:00</lastuse>
-      <lastconfirm>2026-03-12T10:32:50+01:00</lastconfirm>
+      <lastuse>2026-03-12T11:05:06+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:35:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +332,8 @@
     </location>
     <date>
       <create>2025-07-06T11:27:02+02:00</create>
-      <lastuse>2026-03-14T08:48:07+01:00</lastuse>
-      <lastconfirm>2026-03-12T08:48:07+01:00</lastconfirm>
+      <lastuse>2026-03-14T10:33:43+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:33:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +428,8 @@
     </location>
     <date>
       <create>2025-11-25T14:52:27+01:00</create>
-      <lastuse>2026-03-14T09:40:29+01:00</lastuse>
-      <lastconfirm>2026-03-12T09:40:30+01:00</lastconfirm>
+      <lastuse>2026-03-14T10:30:50+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:30:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +548,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-14T10:27:22+01:00</lastuse>
-      <lastconfirm>2026-03-12T10:27:23+01:00</lastconfirm>
+      <lastuse>2026-03-14T10:34:35+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:34:36+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +572,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-14T10:25:29+01:00</lastuse>
-      <lastconfirm>2026-03-12T10:25:29+01:00</lastconfirm>
+      <lastuse>2026-03-14T10:30:54+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:30:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +932,8 @@
     </location>
     <date>
       <create>2026-03-10T19:34:58+01:00</create>
-      <lastuse>2026-03-14T09:08:42+01:00</lastuse>
-      <lastconfirm>2026-03-12T09:08:42+01:00</lastconfirm>
+      <lastuse>2026-03-14T10:33:37+01:00</lastuse>
+      <lastconfirm>2026-03-12T10:33:38+01:00</lastconfirm>
     </date>
   </event>
   <event>
