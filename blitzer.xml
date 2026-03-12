@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18557137993</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Wertachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.378327</latitude>
-        <longitude>10.884575</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-12T08:30:58+01:00</create>
-      <lastuse>2026-03-12T14:28:51+01:00</lastuse>
-      <lastconfirm>2026-03-12T13:58:52+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18558291680</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,8 +92,32 @@
     </location>
     <date>
       <create>2026-03-12T14:17:31+01:00</create>
-      <lastuse>2026-03-12T16:17:31+01:00</lastuse>
-      <lastconfirm>2026-03-12T14:24:04+01:00</lastconfirm>
+      <lastuse>2026-03-12T18:17:31+01:00</lastuse>
+      <lastconfirm>2026-03-12T14:32:49+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18559127716</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>89407</zip>
+      <city>Dillingen a.d.Donau</city>
+      <state>DE-BY</state>
+      <street>Pfalz-Neuburg-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.598684</latitude>
+        <longitude>10.542283</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T14:24:06+01:00</create>
+      <lastuse>2026-03-12T16:32:51+01:00</lastuse>
+      <lastconfirm>2026-03-12T14:32:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2026-03-05T14:39:20+01:00</create>
-      <lastuse>2026-03-12T22:27:07+01:00</lastuse>
-      <lastconfirm>2026-03-12T14:27:09+01:00</lastconfirm>
+      <lastuse>2026-03-12T22:33:00+01:00</lastuse>
+      <lastconfirm>2026-03-12T14:33:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2026-03-12T13:53:37+01:00</create>
-      <lastuse>2026-03-12T14:56:34+01:00</lastuse>
-      <lastconfirm>2026-03-12T14:26:34+01:00</lastconfirm>
+      <lastuse>2026-03-12T15:03:50+01:00</lastuse>
+      <lastconfirm>2026-03-12T14:33:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -238,6 +238,30 @@
       <create>2026-03-12T13:38:55+01:00</create>
       <lastuse>2026-03-12T14:49:40+01:00</lastuse>
       <lastconfirm>2026-03-12T14:09:41+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18559142365</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>89343</zip>
+      <city>Landkreis Günzburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400159</latitude>
+        <longitude>10.542099</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-12T14:27:01+01:00</create>
+      <lastuse>2026-03-12T14:38:00+01:00</lastuse>
+      <lastconfirm>2026-03-12T14:27:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-14T14:01:30+01:00</lastuse>
-      <lastconfirm>2026-03-12T14:01:31+01:00</lastconfirm>
+      <lastuse>2026-03-14T14:28:36+01:00</lastuse>
+      <lastconfirm>2026-03-12T14:28:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +572,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-14T14:22:56+01:00</lastuse>
-      <lastconfirm>2026-03-12T14:22:56+01:00</lastconfirm>
+      <lastuse>2026-03-14T14:28:02+01:00</lastuse>
+      <lastconfirm>2026-03-12T14:28:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
