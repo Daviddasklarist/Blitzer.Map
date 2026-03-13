@@ -4,7 +4,7 @@
     <id>18563826182</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86161</zip>
       <city>Augsburg</city>
@@ -20,7 +20,7 @@
     </location>
     <date>
       <create>2026-03-13T06:10:03+01:00</create>
-      <lastuse>2026-03-13T12:24:11+01:00</lastuse>
+      <lastuse>2026-03-13T11:54:11+01:00</lastuse>
       <lastconfirm>2026-03-13T10:24:13+01:00</lastconfirm>
     </date>
   </event>
@@ -44,7 +44,7 @@
     </location>
     <date>
       <create>2026-03-13T06:32:31+01:00</create>
-      <lastuse>2026-03-13T12:45:27+01:00</lastuse>
+      <lastuse>2026-03-13T12:15:27+01:00</lastuse>
       <lastconfirm>2026-03-13T10:45:28+01:00</lastconfirm>
     </date>
   </event>
@@ -92,32 +92,8 @@
     </location>
     <date>
       <create>2026-03-13T07:19:21+01:00</create>
-      <lastuse>2026-03-13T12:49:09+01:00</lastuse>
-      <lastconfirm>2026-03-13T10:49:10+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18564724360</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Holzbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.371468</latitude>
-        <longitude>10.879222</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-13T09:12:46+01:00</create>
-      <lastuse>2026-03-13T12:37:42+01:00</lastuse>
-      <lastconfirm>2026-03-13T10:37:43+01:00</lastconfirm>
+      <lastuse>2026-03-13T12:54:03+01:00</lastuse>
+      <lastconfirm>2026-03-13T10:54:04+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -172,7 +148,7 @@
     <id>18565106777</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2026-03-13T10:22:56+01:00</create>
-      <lastuse>2026-03-13T12:31:45+01:00</lastuse>
-      <lastconfirm>2026-03-13T10:31:45+01:00</lastconfirm>
+      <lastuse>2026-03-13T12:57:35+01:00</lastuse>
+      <lastconfirm>2026-03-13T10:57:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -241,6 +217,30 @@
     </date>
   </event>
   <event>
+    <id>18565169069</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337434</latitude>
+        <longitude>10.901963</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-13T10:34:40+01:00</create>
+      <lastuse>2026-03-13T12:58:49+01:00</lastuse>
+      <lastconfirm>2026-03-13T10:58:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18543154598</id>
     <type>7</type>
     <speed>50</speed>
@@ -260,8 +260,8 @@
     </location>
     <date>
       <create>2026-03-10T09:45:31+01:00</create>
-      <lastuse>2026-03-13T18:43:39+01:00</lastuse>
-      <lastconfirm>2026-03-13T10:43:40+01:00</lastconfirm>
+      <lastuse>2026-03-13T18:56:17+01:00</lastuse>
+      <lastconfirm>2026-03-13T10:56:17+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +548,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-15T10:44:38+01:00</lastuse>
-      <lastconfirm>2026-03-13T10:44:38+01:00</lastconfirm>
+      <lastuse>2026-03-15T10:51:01+01:00</lastuse>
+      <lastconfirm>2026-03-13T10:51:02+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +572,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-15T10:48:18+01:00</lastuse>
-      <lastconfirm>2026-03-13T10:48:20+01:00</lastconfirm>
+      <lastuse>2026-03-15T10:53:00+01:00</lastuse>
+      <lastconfirm>2026-03-13T10:53:01+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -745,30 +745,6 @@
     </date>
   </event>
   <event>
-    <id>18516387730</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-HH</state>
-      <street>Augsburger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.355912</latitude>
-        <longitude>10.965851</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-06T13:08:56+01:00</create>
-      <lastuse>2026-03-15T10:40:19+01:00</lastuse>
-      <lastconfirm>2026-03-13T10:40:20+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18517283720</id>
     <type>26</type>
     <speed></speed>
@@ -908,8 +884,8 @@
     </location>
     <date>
       <create>2026-03-10T19:34:58+01:00</create>
-      <lastuse>2026-03-15T10:30:22+01:00</lastuse>
-      <lastconfirm>2026-03-13T10:30:22+01:00</lastconfirm>
+      <lastuse>2026-03-15T10:52:50+01:00</lastuse>
+      <lastconfirm>2026-03-13T10:52:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
