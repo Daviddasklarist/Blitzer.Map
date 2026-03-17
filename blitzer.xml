@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18595102870</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Pferseer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365637</latitude>
+        <longitude>10.880929</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-17T14:11:29+01:00</create>
+      <lastuse>2026-03-17T19:43:24+01:00</lastuse>
+      <lastconfirm>2026-03-17T17:43:24+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18595517073</id>
     <type>1</type>
     <speed>50</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2026-03-14T09:59:38+01:00</create>
-      <lastuse>2026-03-18T00:38:49+01:00</lastuse>
-      <lastconfirm>2026-03-17T17:38:50+01:00</lastconfirm>
+      <lastuse>2026-03-18T01:47:03+01:00</lastuse>
+      <lastconfirm>2026-03-17T17:47:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -97,30 +121,6 @@
     </date>
   </event>
   <event>
-    <id>18596097661</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.419413</latitude>
-        <longitude>10.689923</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-17T16:58:48+01:00</create>
-      <lastuse>2026-03-17T18:05:51+01:00</lastuse>
-      <lastconfirm>2026-03-17T17:35:52+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18596180713</id>
     <type>29</type>
     <speed></speed>
@@ -140,56 +140,8 @@
     </location>
     <date>
       <create>2026-03-17T17:11:40+01:00</create>
-      <lastuse>2026-03-17T18:10:44+01:00</lastuse>
-      <lastconfirm>2026-03-17T17:40:45+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18595724039</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.346316</latitude>
-        <longitude>10.877762</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-17T15:56:25+01:00</create>
-      <lastuse>2026-03-17T17:58:01+01:00</lastuse>
-      <lastconfirm>2026-03-17T17:38:02+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18596062145</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.355696</latitude>
-        <longitude>10.851715</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-17T16:51:22+01:00</create>
-      <lastuse>2026-03-17T18:39:43+01:00</lastuse>
-      <lastconfirm>2026-03-17T17:39:43+01:00</lastconfirm>
+      <lastuse>2026-03-17T18:17:50+01:00</lastuse>
+      <lastconfirm>2026-03-17T17:47:50+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +404,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-19T09:32:50+01:00</lastuse>
-      <lastconfirm>2026-02-12T16:57:19+01:00</lastconfirm>
+      <lastuse>2026-03-19T17:40:54+01:00</lastuse>
+      <lastconfirm>2026-03-17T17:40:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +716,8 @@
     </location>
     <date>
       <create>2026-03-10T16:54:59+01:00</create>
-      <lastuse>2026-03-19T15:56:55+01:00</lastuse>
-      <lastconfirm>2026-03-17T15:56:55+01:00</lastconfirm>
+      <lastuse>2026-03-19T17:41:21+01:00</lastuse>
+      <lastconfirm>2026-03-17T17:41:21+01:00</lastconfirm>
     </date>
   </event>
   <event>
