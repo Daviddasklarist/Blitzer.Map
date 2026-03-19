@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-03-19T14:58:21+01:00</create>
-      <lastuse>2026-03-19T21:22:58+01:00</lastuse>
-      <lastconfirm>2026-03-19T19:23:00+01:00</lastconfirm>
+      <lastuse>2026-03-19T20:54:47+01:00</lastuse>
+      <lastconfirm>2026-03-19T19:24:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,8 +92,32 @@
     </location>
     <date>
       <create>2026-03-19T18:50:43+01:00</create>
-      <lastuse>2026-03-19T19:46:38+01:00</lastuse>
-      <lastconfirm>2026-03-19T19:16:39+01:00</lastconfirm>
+      <lastuse>2026-03-19T19:56:49+01:00</lastuse>
+      <lastconfirm>2026-03-19T19:26:50+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18611863168</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414324</latitude>
+        <longitude>10.875064</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-19T19:18:25+01:00</create>
+      <lastuse>2026-03-19T19:57:09+01:00</lastuse>
+      <lastconfirm>2026-03-19T19:27:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -340,7 +364,7 @@
     <id>18371800993</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-21T19:13:24+01:00</lastuse>
-      <lastconfirm>2026-03-19T19:13:25+01:00</lastconfirm>
+      <lastuse>2026-03-21T19:23:32+01:00</lastuse>
+      <lastconfirm>2026-03-19T19:23:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -934,6 +958,30 @@
       <create>2026-03-19T15:04:17+01:00</create>
       <lastuse>2026-03-21T17:22:30+01:00</lastuse>
       <lastconfirm>2026-03-19T17:22:30+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18611290518</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86157</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Pröllstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355353</latitude>
+        <longitude>10.854629</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-19T17:38:33+01:00</create>
+      <lastuse>2026-03-21T19:23:52+01:00</lastuse>
+      <lastconfirm>2026-03-19T19:23:53+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
