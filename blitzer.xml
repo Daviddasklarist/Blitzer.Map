@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18622755265</id>
-    <type>6</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.245496</latitude>
-        <longitude>10.869623</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-21T07:43:39+01:00</create>
-      <lastuse>2026-03-21T13:47:30+01:00</lastuse>
-      <lastconfirm>2026-03-21T11:47:31+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18623396396</id>
     <type>1</type>
     <speed>70</speed>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2026-03-21T09:59:28+01:00</create>
-      <lastuse>2026-03-21T13:47:04+01:00</lastuse>
-      <lastconfirm>2026-03-21T11:47:05+01:00</lastconfirm>
+      <lastuse>2026-03-21T13:53:40+01:00</lastuse>
+      <lastconfirm>2026-03-21T11:53:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -57,43 +33,43 @@
       <zip>86356</zip>
       <city>Neusäß</city>
       <state>DE-BY</state>
-      <street>Straßenname unbekannt</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417169</latitude>
-        <longitude>10.838463</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-21T10:11:44+01:00</create>
-      <lastuse>2026-03-21T13:47:18+01:00</lastuse>
-      <lastconfirm>2026-03-21T11:47:18+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18623468296</id>
-    <type>1</type>
-    <speed>120</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
       <street>A8</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.416749</latitude>
-        <longitude>10.842213</longitude>
+        <latitude>48.416428</latitude>
+        <longitude>10.845973</longitude>
       </point>
     </location>
     <date>
-      <create>2026-03-21T10:13:54+01:00</create>
-      <lastuse>2026-03-21T13:14:56+01:00</lastuse>
-      <lastconfirm>2026-03-21T11:44:58+01:00</lastconfirm>
+      <create>2026-03-21T10:11:44+01:00</create>
+      <lastuse>2026-03-21T14:11:44+01:00</lastuse>
+      <lastconfirm>2026-03-21T11:53:03+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18623875159</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Straßenname unbekannt</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414184</latitude>
+        <longitude>10.839829</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-21T11:31:35+01:00</create>
+      <lastuse>2026-03-21T12:50:31+01:00</lastuse>
+      <lastconfirm>2026-03-21T11:50:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2025-11-18T12:30:03+01:00</create>
-      <lastuse>2026-03-23T10:02:44+01:00</lastuse>
-      <lastconfirm>2026-03-21T10:02:45+01:00</lastconfirm>
+      <lastuse>2026-03-23T11:47:19+01:00</lastuse>
+      <lastconfirm>2026-03-21T11:47:19+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +332,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-23T11:41:44+01:00</lastuse>
-      <lastconfirm>2026-03-21T11:41:45+01:00</lastconfirm>
+      <lastuse>2026-03-23T11:45:10+01:00</lastuse>
+      <lastconfirm>2026-03-21T11:45:11+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -428,8 +404,8 @@
     </location>
     <date>
       <create>2026-02-27T15:31:49+01:00</create>
-      <lastuse>2026-03-23T11:39:00+01:00</lastuse>
-      <lastconfirm>2026-03-21T11:39:01+01:00</lastconfirm>
+      <lastuse>2026-03-23T11:49:12+01:00</lastuse>
+      <lastconfirm>2026-03-21T11:49:14+01:00</lastconfirm>
     </date>
   </event>
   <event>
