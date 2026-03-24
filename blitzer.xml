@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18643940028</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86161</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Friedberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.355158</latitude>
-        <longitude>10.924183</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-24T05:53:05+01:00</create>
-      <lastuse>2026-03-24T11:02:43+01:00</lastuse>
-      <lastconfirm>2026-03-24T10:02:43+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18644045327</id>
     <type>1</type>
     <speed>60</speed>
@@ -52,7 +28,7 @@
     <id>18644213845</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86356</zip>
       <city>Neusäß</city>
@@ -124,7 +100,7 @@
     <id>18644341523</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -140,8 +116,8 @@
     </location>
     <date>
       <create>2026-03-24T07:16:46+01:00</create>
-      <lastuse>2026-03-31T10:52:36+02:00</lastuse>
-      <lastconfirm>2026-03-24T09:52:08+01:00</lastconfirm>
+      <lastuse>2026-03-24T12:22:25+01:00</lastuse>
+      <lastconfirm>2026-03-24T10:22:25+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2026-03-24T10:13:18+01:00</create>
-      <lastuse>2026-03-24T10:47:34+01:00</lastuse>
-      <lastconfirm>2026-03-24T10:17:34+01:00</lastconfirm>
+      <lastuse>2026-03-24T10:52:23+01:00</lastuse>
+      <lastconfirm>2026-03-24T10:22:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,8 +260,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2026-03-26T08:14:32+01:00</lastuse>
-      <lastconfirm>2026-03-24T08:14:33+01:00</lastconfirm>
+      <lastuse>2026-03-26T10:16:16+01:00</lastuse>
+      <lastconfirm>2026-03-24T10:16:18+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-26T02:08:51+01:00</lastuse>
-      <lastconfirm>2026-02-12T16:57:19+01:00</lastconfirm>
+      <lastuse>2026-03-26T10:16:25+01:00</lastuse>
+      <lastconfirm>2026-03-24T10:16:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-26T10:06:03+01:00</lastuse>
-      <lastconfirm>2026-03-24T10:06:03+01:00</lastconfirm>
+      <lastuse>2026-03-26T10:16:44+01:00</lastuse>
+      <lastconfirm>2026-03-24T10:16:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +500,8 @@
     </location>
     <date>
       <create>2026-02-13T14:58:02+01:00</create>
-      <lastuse>2026-03-26T10:04:43+01:00</lastuse>
-      <lastconfirm>2026-03-24T10:04:44+01:00</lastconfirm>
+      <lastuse>2026-03-26T10:15:35+01:00</lastuse>
+      <lastconfirm>2026-03-24T10:15:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,8 +644,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-03-26T10:04:04+01:00</lastuse>
-      <lastconfirm>2026-03-24T10:04:05+01:00</lastconfirm>
+      <lastuse>2026-03-26T10:18:54+01:00</lastuse>
+      <lastconfirm>2026-03-24T10:18:54+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -790,30 +766,6 @@
       <create>2026-03-10T16:54:59+01:00</create>
       <lastuse>2026-03-26T07:15:41+01:00</lastuse>
       <lastconfirm>2026-03-24T07:15:41+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18644714589</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-HH</state>
-      <street>Luitpoldstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.351517</latitude>
-        <longitude>10.979887</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-11T06:20:13+01:00</create>
-      <lastuse>2026-03-31T07:19:02+02:00</lastuse>
-      <lastconfirm>2026-03-11T06:20:13+01:00</lastconfirm>
     </date>
   </event>
   <event>
