@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-03-24T10:57:27+01:00</create>
-      <lastuse>2026-03-24T15:46:32+01:00</lastuse>
-      <lastconfirm>2026-03-24T13:46:33+01:00</lastconfirm>
+      <lastuse>2026-03-24T15:50:30+01:00</lastuse>
+      <lastconfirm>2026-03-24T13:50:31+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-03-24T11:05:50+01:00</create>
-      <lastuse>2026-03-24T15:46:08+01:00</lastuse>
-      <lastconfirm>2026-03-24T13:46:08+01:00</lastconfirm>
+      <lastuse>2026-03-24T15:52:58+01:00</lastuse>
+      <lastconfirm>2026-03-24T13:52:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +76,7 @@
     <id>18645840199</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86167</zip>
       <city>Augsburg</city>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2026-03-24T10:13:18+01:00</create>
-      <lastuse>2026-03-24T14:16:41+01:00</lastuse>
-      <lastconfirm>2026-03-24T13:46:42+01:00</lastconfirm>
+      <lastuse>2026-03-24T14:22:44+01:00</lastuse>
+      <lastconfirm>2026-03-24T13:52:45+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,7 +188,7 @@
     </location>
     <date>
       <create>2026-03-24T10:51:31+01:00</create>
-      <lastuse>2026-03-24T14:17:26+01:00</lastuse>
+      <lastuse>2026-03-24T14:07:26+01:00</lastuse>
       <lastconfirm>2026-03-24T13:47:27+01:00</lastconfirm>
     </date>
   </event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2025-02-05T14:47:28+01:00</create>
-      <lastuse>2026-03-26T07:50:47+01:00</lastuse>
-      <lastconfirm>2026-03-24T07:50:48+01:00</lastconfirm>
+      <lastuse>2026-03-26T13:48:44+01:00</lastuse>
+      <lastconfirm>2026-03-24T13:48:44+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-26T13:16:58+01:00</lastuse>
-      <lastconfirm>2026-03-24T13:16:59+01:00</lastconfirm>
+      <lastuse>2026-03-26T13:48:32+01:00</lastuse>
+      <lastconfirm>2026-03-24T13:48:32+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +596,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-03-26T13:42:38+01:00</lastuse>
-      <lastconfirm>2026-03-24T13:42:39+01:00</lastconfirm>
+      <lastuse>2026-03-26T13:46:34+01:00</lastuse>
+      <lastconfirm>2026-03-24T13:46:35+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1078,6 +1078,30 @@
       <create>2026-03-24T13:07:34+01:00</create>
       <lastuse>2026-03-24T21:39:51+01:00</lastuse>
       <lastconfirm>2026-03-24T13:39:52+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18646487147</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.348732</latitude>
+        <longitude>10.867662</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-24T13:21:07+01:00</create>
+      <lastuse>2026-03-26T13:48:29+01:00</lastuse>
+      <lastconfirm>2026-03-24T13:48:29+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
