@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-03-25T08:53:37+01:00</create>
-      <lastuse>2026-03-25T13:05:36+01:00</lastuse>
-      <lastconfirm>2026-03-25T11:05:37+01:00</lastconfirm>
+      <lastuse>2026-03-25T13:23:16+01:00</lastuse>
+      <lastconfirm>2026-03-25T11:23:16+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -110,38 +110,14 @@
     </address>
     <location>
       <point>
-        <latitude>48.244761</latitude>
-        <longitude>10.869703</longitude>
+        <latitude>48.248119</latitude>
+        <longitude>10.869209</longitude>
       </point>
     </location>
     <date>
       <create>2026-03-25T11:10:11+01:00</create>
-      <lastuse>2026-03-25T15:10:11+01:00</lastuse>
-      <lastconfirm>2026-03-25T11:19:48+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18653485228</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Adelsried</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.418336</latitude>
-        <longitude>10.701034</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-25T11:17:22+01:00</create>
-      <lastuse>2026-03-25T11:51:12+01:00</lastuse>
-      <lastconfirm>2026-03-25T11:21:12+01:00</lastconfirm>
+      <lastuse>2026-04-01T12:27:06+02:00</lastuse>
+      <lastconfirm>2026-03-25T11:26:40+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +140,8 @@
     </location>
     <date>
       <create>2026-03-25T08:47:30+01:00</create>
-      <lastuse>2026-03-25T12:22:43+01:00</lastuse>
-      <lastconfirm>2026-03-25T11:22:43+01:00</lastconfirm>
+      <lastuse>2026-03-25T12:26:29+01:00</lastuse>
+      <lastconfirm>2026-03-25T11:26:29+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -196,7 +172,7 @@
     <id>18653286612</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2026-03-25T10:43:10+01:00</create>
-      <lastuse>2026-03-25T12:19:56+01:00</lastuse>
-      <lastconfirm>2026-03-25T11:19:57+01:00</lastconfirm>
+      <lastuse>2026-03-25T12:05:50+01:00</lastuse>
+      <lastconfirm>2026-03-25T11:25:51+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-27T11:19:38+01:00</lastuse>
-      <lastconfirm>2026-03-25T11:19:38+01:00</lastconfirm>
+      <lastuse>2026-03-27T11:20:10+01:00</lastuse>
+      <lastconfirm>2026-03-25T11:20:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +596,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-03-27T10:28:50+01:00</lastuse>
-      <lastconfirm>2026-03-25T10:28:50+01:00</lastconfirm>
+      <lastuse>2026-03-27T11:24:46+01:00</lastuse>
+      <lastconfirm>2026-03-25T11:24:47+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1126,6 +1102,30 @@
       <create>2026-03-25T10:34:21+01:00</create>
       <lastuse>2026-03-25T19:13:24+01:00</lastuse>
       <lastconfirm>2026-03-25T11:13:25+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18653438743</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382691</latitude>
+        <longitude>10.858221</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-25T11:05:13+01:00</create>
+      <lastuse>2026-03-25T19:24:21+01:00</lastuse>
+      <lastconfirm>2026-03-25T11:24:22+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
