@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-03-25T06:09:04+01:00</create>
-      <lastuse>2026-03-25T12:09:48+01:00</lastuse>
-      <lastconfirm>2026-03-25T10:09:49+01:00</lastconfirm>
+      <lastuse>2026-03-25T12:17:14+01:00</lastuse>
+      <lastconfirm>2026-03-25T10:17:15+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-03-25T07:25:49+01:00</create>
-      <lastuse>2026-04-01T11:04:32+02:00</lastuse>
-      <lastconfirm>2026-03-25T09:41:59+01:00</lastconfirm>
+      <lastuse>2026-03-25T12:17:53+01:00</lastuse>
+      <lastconfirm>2026-03-25T10:17:55+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,7 +188,7 @@
     </location>
     <date>
       <create>2026-03-25T08:47:30+01:00</create>
-      <lastuse>2026-03-25T11:10:56+01:00</lastuse>
+      <lastuse>2026-03-25T10:30:56+01:00</lastuse>
       <lastconfirm>2026-03-25T10:10:57+01:00</lastconfirm>
     </date>
   </event>
@@ -196,7 +196,7 @@
     <id>18652827658</id>
     <type>20</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2026-03-25T09:23:34+01:00</create>
-      <lastuse>2026-03-25T11:13:28+01:00</lastuse>
-      <lastconfirm>2026-03-25T10:13:29+01:00</lastconfirm>
+      <lastuse>2026-03-25T11:14:23+01:00</lastuse>
+      <lastconfirm>2026-03-25T10:14:24+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2026-03-25T09:34:35+01:00</create>
-      <lastuse>2026-03-25T10:49:17+01:00</lastuse>
-      <lastconfirm>2026-03-25T10:09:17+01:00</lastconfirm>
+      <lastuse>2026-03-25T11:17:57+01:00</lastuse>
+      <lastconfirm>2026-03-25T10:17:58+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -284,32 +284,8 @@
     </location>
     <date>
       <create>2026-03-25T10:08:08+01:00</create>
-      <lastuse>2026-03-25T11:11:50+01:00</lastuse>
-      <lastconfirm>2026-03-25T10:11:51+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18653101878</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.351362</latitude>
-        <longitude>10.859555</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-25T10:10:23+01:00</create>
-      <lastuse>2026-03-25T11:13:12+01:00</lastuse>
-      <lastconfirm>2026-03-25T10:13:12+01:00</lastconfirm>
+      <lastuse>2026-03-25T11:15:26+01:00</lastuse>
+      <lastconfirm>2026-03-25T10:15:26+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +380,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-03-27T08:17:49+01:00</lastuse>
-      <lastconfirm>2026-03-25T08:17:49+01:00</lastconfirm>
+      <lastuse>2026-03-27T10:13:41+01:00</lastuse>
+      <lastconfirm>2026-03-25T10:13:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +572,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-27T10:08:33+01:00</lastuse>
-      <lastconfirm>2026-03-25T10:08:34+01:00</lastconfirm>
+      <lastuse>2026-03-27T10:11:52+01:00</lastuse>
+      <lastconfirm>2026-03-25T10:11:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1174,6 +1150,30 @@
       <create>2026-03-25T08:08:27+01:00</create>
       <lastuse>2026-03-27T09:22:45+01:00</lastuse>
       <lastconfirm>2026-03-25T09:22:46+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18653092046</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.346223</latitude>
+        <longitude>10.878040</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-25T10:06:29+01:00</create>
+      <lastuse>2026-03-25T18:13:28+01:00</lastuse>
+      <lastconfirm>2026-03-25T10:13:29+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
