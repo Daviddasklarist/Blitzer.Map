@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-03-26T09:02:22+01:00</create>
-      <lastuse>2026-03-26T13:02:22+01:00</lastuse>
-      <lastconfirm>2026-03-26T11:28:31+01:00</lastconfirm>
+      <lastuse>2026-03-26T13:47:37+01:00</lastuse>
+      <lastconfirm>2026-03-26T11:47:37+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +68,8 @@
     </location>
     <date>
       <create>2026-03-25T08:53:37+01:00</create>
-      <lastuse>2026-03-26T19:06:15+01:00</lastuse>
-      <lastconfirm>2026-03-26T11:06:15+01:00</lastconfirm>
+      <lastuse>2026-03-26T19:45:29+01:00</lastuse>
+      <lastconfirm>2026-03-26T11:45:30+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -92,7 +92,7 @@
     </location>
     <date>
       <create>2026-03-26T11:17:15+01:00</create>
-      <lastuse>2026-03-26T12:10:08+01:00</lastuse>
+      <lastuse>2026-03-26T12:00:08+01:00</lastuse>
       <lastconfirm>2026-03-26T11:40:08+01:00</lastconfirm>
     </date>
   </event>
@@ -380,8 +380,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-28T11:37:22+01:00</lastuse>
-      <lastconfirm>2026-03-26T11:37:23+01:00</lastconfirm>
+      <lastuse>2026-03-28T11:42:42+01:00</lastuse>
+      <lastconfirm>2026-03-26T11:42:42+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +620,8 @@
     </location>
     <date>
       <create>2026-03-10T16:17:09+01:00</create>
-      <lastuse>2026-03-28T07:26:02+01:00</lastuse>
-      <lastconfirm>2026-03-26T07:26:02+01:00</lastconfirm>
+      <lastuse>2026-03-28T11:43:51+01:00</lastuse>
+      <lastconfirm>2026-03-26T11:43:52+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -982,6 +982,30 @@
       <create>2026-03-26T06:57:44+01:00</create>
       <lastuse>2026-03-26T16:00:46+01:00</lastuse>
       <lastconfirm>2026-03-26T08:00:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18661124903</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400325</latitude>
+        <longitude>10.870124</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-26T11:31:49+01:00</create>
+      <lastuse>2026-03-26T19:43:43+01:00</lastuse>
+      <lastconfirm>2026-03-26T11:43:44+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
