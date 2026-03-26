@@ -25,54 +25,6 @@
     </date>
   </event>
   <event>
-    <id>18663789932</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.418499</latitude>
-        <longitude>10.769486</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-26T19:38:53+01:00</create>
-      <lastuse>2026-03-26T22:47:27+01:00</lastuse>
-      <lastconfirm>2026-03-26T22:37:28+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18664039806</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.418039</latitude>
-        <longitude>10.762740</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-26T20:26:42+01:00</create>
-      <lastuse>2026-03-26T22:45:33+01:00</lastuse>
-      <lastconfirm>2026-03-26T22:35:33+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -332,8 +284,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-28T22:39:23+01:00</lastuse>
-      <lastconfirm>2026-03-26T22:39:24+01:00</lastconfirm>
+      <lastuse>2026-03-28T22:44:52+01:00</lastuse>
+      <lastconfirm>2026-03-26T22:44:53+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -910,6 +862,30 @@
       <create>2026-03-25T14:33:09+01:00</create>
       <lastuse>2026-03-28T20:51:20+01:00</lastuse>
       <lastconfirm>2026-03-26T20:51:21+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18664671330</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.362512</latitude>
+        <longitude>10.852980</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-26T22:30:42+01:00</create>
+      <lastuse>2026-03-27T06:43:22+01:00</lastuse>
+      <lastconfirm>2026-03-26T22:43:22+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
