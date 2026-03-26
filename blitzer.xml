@@ -121,6 +121,30 @@
     </date>
   </event>
   <event>
+    <id>18660152694</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Stadtbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.381244</latitude>
+        <longitude>10.900891</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-26T08:45:14+01:00</create>
+      <lastuse>2026-03-26T10:55:44+01:00</lastuse>
+      <lastconfirm>2026-03-26T08:55:44+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18656839297</id>
     <type>7</type>
     <speed>50</speed>
@@ -145,30 +169,6 @@
     </date>
   </event>
   <event>
-    <id>18659823747</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86154</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.405994</latitude>
-        <longitude>10.874533</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-26T07:46:44+01:00</create>
-      <lastuse>2026-03-26T09:30:07+01:00</lastuse>
-      <lastconfirm>2026-03-26T08:50:08+01:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18659937828</id>
     <type>20</type>
     <speed></speed>
@@ -188,15 +188,15 @@
     </location>
     <date>
       <create>2026-03-26T08:07:49+01:00</create>
-      <lastuse>2026-03-26T09:50:11+01:00</lastuse>
-      <lastconfirm>2026-03-26T08:50:12+01:00</lastconfirm>
+      <lastuse>2026-03-26T09:57:09+01:00</lastuse>
+      <lastconfirm>2026-03-26T08:57:10+01:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18659992134</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86154</zip>
       <city>Augsburg</city>
@@ -212,7 +212,7 @@
     </location>
     <date>
       <create>2026-03-26T08:17:35+01:00</create>
-      <lastuse>2026-03-26T09:52:33+01:00</lastuse>
+      <lastuse>2026-03-26T09:12:33+01:00</lastuse>
       <lastconfirm>2026-03-26T08:52:33+01:00</lastconfirm>
     </date>
   </event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2026-01-31T20:05:15+01:00</create>
-      <lastuse>2026-03-28T08:04:40+01:00</lastuse>
-      <lastconfirm>2026-03-26T08:04:41+01:00</lastconfirm>
+      <lastuse>2026-03-28T08:53:05+01:00</lastuse>
+      <lastconfirm>2026-03-26T08:53:06+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +476,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-03-28T08:31:25+01:00</lastuse>
-      <lastconfirm>2026-03-26T08:31:26+01:00</lastconfirm>
+      <lastuse>2026-03-28T08:52:27+01:00</lastuse>
+      <lastconfirm>2026-03-26T08:52:27+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +500,8 @@
     </location>
     <date>
       <create>2026-02-13T07:27:21+01:00</create>
-      <lastuse>2026-03-28T08:49:30+01:00</lastuse>
-      <lastconfirm>2026-03-26T08:49:30+01:00</lastconfirm>
+      <lastuse>2026-03-28T08:54:41+01:00</lastuse>
+      <lastconfirm>2026-03-26T08:54:43+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +644,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-03-28T08:33:45+01:00</lastuse>
-      <lastconfirm>2026-03-26T08:33:45+01:00</lastconfirm>
+      <lastuse>2026-03-28T00:33:45+01:00</lastuse>
+      <lastconfirm>2026-03-05T16:38:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1102,6 +1102,30 @@
       <create>2026-03-26T06:57:44+01:00</create>
       <lastuse>2026-03-26T16:00:46+01:00</lastuse>
       <lastconfirm>2026-03-26T08:00:47+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18660114511</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86462</zip>
+      <city>Langweid am Lech</city>
+      <state>DE-HH</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.468487</latitude>
+        <longitude>10.878898</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-26T08:38:35+01:00</create>
+      <lastuse>2026-03-26T14:50:12+01:00</lastuse>
+      <lastconfirm>2026-03-26T08:38:35+01:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
