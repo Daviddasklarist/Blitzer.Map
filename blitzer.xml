@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18657657455</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Pferseer Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365468</latitude>
+        <longitude>10.880251</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-25T23:49:53+01:00</create>
+      <lastuse>2026-03-26T03:16:57+01:00</lastuse>
+      <lastconfirm>2026-03-26T01:16:58+01:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18656839297</id>
     <type>7</type>
     <speed>50</speed>
