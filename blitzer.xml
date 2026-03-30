@@ -92,8 +92,8 @@
     </location>
     <date>
       <create>2026-03-25T08:53:37+01:00</create>
-      <lastuse>2026-03-31T04:10:28+02:00</lastuse>
-      <lastconfirm>2026-03-30T20:10:28+02:00</lastconfirm>
+      <lastuse>2026-03-31T04:25:13+02:00</lastuse>
+      <lastconfirm>2026-03-30T20:25:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2026-03-30T19:54:23+02:00</create>
-      <lastuse>2026-03-30T20:51:47+02:00</lastuse>
-      <lastconfirm>2026-03-30T20:21:48+02:00</lastconfirm>
+      <lastuse>2026-03-30T20:55:20+02:00</lastuse>
+      <lastconfirm>2026-03-30T20:25:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +212,8 @@
     </location>
     <date>
       <create>2026-03-30T19:58:54+02:00</create>
-      <lastuse>2026-03-30T20:50:47+02:00</lastuse>
-      <lastconfirm>2026-03-30T20:10:47+02:00</lastconfirm>
+      <lastuse>2026-03-30T21:28:54+02:00</lastuse>
+      <lastconfirm>2026-03-30T20:28:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2026-03-30T20:11:41+02:00</create>
-      <lastuse>2026-03-30T21:22:21+02:00</lastuse>
-      <lastconfirm>2026-03-30T20:22:22+02:00</lastconfirm>
+      <lastuse>2026-03-30T21:28:12+02:00</lastuse>
+      <lastconfirm>2026-03-30T20:28:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +308,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2026-04-01T17:44:33+02:00</lastuse>
-      <lastconfirm>2026-03-30T17:44:34+02:00</lastconfirm>
+      <lastuse>2026-04-01T20:24:54+02:00</lastuse>
+      <lastconfirm>2026-03-30T20:24:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1105,10 +1105,34 @@
     </date>
   </event>
   <event>
+    <id>18691668243</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Neuburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403873</latitude>
+        <longitude>10.910253</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-30T16:46:53+02:00</create>
+      <lastuse>2026-04-01T20:21:44+02:00</lastuse>
+      <lastconfirm>2026-03-30T20:21:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18692243024</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -1124,8 +1148,8 @@
     </location>
     <date>
       <create>2026-03-30T18:29:16+02:00</create>
-      <lastuse>2026-03-31T03:34:39+02:00</lastuse>
-      <lastconfirm>2026-03-30T19:34:39+02:00</lastconfirm>
+      <lastuse>2026-03-31T04:21:17+02:00</lastuse>
+      <lastconfirm>2026-03-30T20:21:18+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
