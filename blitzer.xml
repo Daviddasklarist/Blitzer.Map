@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2026-03-30T18:21:03+02:00</create>
-      <lastuse>2026-03-30T19:48:46+02:00</lastuse>
+      <lastuse>2026-03-30T19:38:46+02:00</lastuse>
       <lastconfirm>2026-03-30T19:18:46+02:00</lastconfirm>
     </date>
   </event>
@@ -169,30 +169,6 @@
     </date>
   </event>
   <event>
-    <id>18692475070</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.280614</latitude>
-        <longitude>10.871228</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-30T19:11:54+02:00</create>
-      <lastuse>2026-03-30T19:45:31+02:00</lastuse>
-      <lastconfirm>2026-03-30T19:15:31+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18692485253</id>
     <type>29</type>
     <speed></speed>
@@ -214,6 +190,30 @@
       <create>2026-03-30T19:14:10+02:00</create>
       <lastuse>2026-03-30T19:51:58+02:00</lastuse>
       <lastconfirm>2026-03-30T19:21:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18692612083</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400787</latitude>
+        <longitude>10.996526</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-30T19:38:01+02:00</create>
+      <lastuse>2026-03-30T19:43:00+02:00</lastuse>
+      <lastconfirm>2026-03-30T19:38:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +308,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-04-01T18:45:46+02:00</lastuse>
-      <lastconfirm>2026-03-30T18:45:47+02:00</lastconfirm>
+      <lastuse>2026-04-01T19:33:14+02:00</lastuse>
+      <lastconfirm>2026-03-30T19:33:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +476,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-04-01T19:14:53+02:00</lastuse>
-      <lastconfirm>2026-03-30T19:14:53+02:00</lastconfirm>
+      <lastuse>2026-04-01T19:34:07+02:00</lastuse>
+      <lastconfirm>2026-03-30T19:34:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -580,7 +580,7 @@
     <id>18510410526</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -596,8 +596,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-04-01T02:03:02+02:00</lastuse>
-      <lastconfirm>2026-03-05T16:38:33+01:00</lastconfirm>
+      <lastuse>2026-04-01T19:33:15+02:00</lastuse>
+      <lastconfirm>2026-03-30T19:33:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +836,8 @@
     </location>
     <date>
       <create>2026-03-16T19:45:17+01:00</create>
-      <lastuse>2026-04-01T17:21:54+02:00</lastuse>
-      <lastconfirm>2026-03-30T17:21:54+02:00</lastconfirm>
+      <lastuse>2026-04-01T19:34:15+02:00</lastuse>
+      <lastconfirm>2026-03-30T19:34:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1078,6 +1078,30 @@
       <create>2026-03-30T14:07:18+02:00</create>
       <lastuse>2026-04-01T19:02:43+02:00</lastuse>
       <lastconfirm>2026-03-30T19:02:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18692243024</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Riedingerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383814</latitude>
+        <longitude>10.889660</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-30T18:29:16+02:00</create>
+      <lastuse>2026-03-31T03:34:39+02:00</lastuse>
+      <lastconfirm>2026-03-30T19:34:39+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
