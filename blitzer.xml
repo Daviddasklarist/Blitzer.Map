@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-03-30T11:53:27+02:00</create>
-      <lastuse>2026-03-30T15:53:27+02:00</lastuse>
-      <lastconfirm>2026-03-30T13:58:07+02:00</lastconfirm>
+      <lastuse>2026-03-30T16:43:19+02:00</lastuse>
+      <lastconfirm>2026-03-30T14:43:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -99,7 +99,7 @@
   <event>
     <id>18690264687</id>
     <type>1</type>
-    <speed>40</speed>
+    <speed>50</speed>
     <quality>3</quality>
     <address>
       <zip>86462</zip>
@@ -188,8 +188,32 @@
     </location>
     <date>
       <create>2026-03-30T14:08:26+02:00</create>
-      <lastuse>2026-03-30T15:02:03+02:00</lastuse>
-      <lastconfirm>2026-03-30T14:32:04+02:00</lastconfirm>
+      <lastuse>2026-03-30T15:13:36+02:00</lastuse>
+      <lastconfirm>2026-03-30T14:43:36+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18690893311</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.343922</latitude>
+        <longitude>10.885614</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-30T14:36:36+02:00</create>
+      <lastuse>2026-03-30T15:42:29+02:00</lastuse>
+      <lastconfirm>2026-03-30T14:42:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2025-09-01T13:08:14+02:00</create>
-      <lastuse>2026-04-01T14:25:22+02:00</lastuse>
-      <lastconfirm>2026-03-30T14:25:22+02:00</lastconfirm>
+      <lastuse>2026-04-01T14:37:19+02:00</lastuse>
+      <lastconfirm>2026-03-30T14:37:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1036,7 +1060,7 @@
     <id>18690821249</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -1052,8 +1076,8 @@
     </location>
     <date>
       <create>2026-03-30T14:21:05+02:00</create>
-      <lastuse>2026-03-30T22:34:30+02:00</lastuse>
-      <lastconfirm>2026-03-30T14:34:31+02:00</lastconfirm>
+      <lastuse>2026-03-30T22:37:29+02:00</lastuse>
+      <lastconfirm>2026-03-30T14:37:29+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
