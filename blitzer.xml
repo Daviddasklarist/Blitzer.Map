@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18689756321</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Friedberg</city>
-      <state>DE-BY</state>
-      <street>Aichacher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.366148</latitude>
-        <longitude>10.992899</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-30T11:19:30+02:00</create>
-      <lastuse>2026-03-30T15:27:23+02:00</lastuse>
-      <lastconfirm>2026-03-30T14:27:24+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18689955986</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,7 +68,7 @@
     </location>
     <date>
       <create>2026-03-30T12:15:13+02:00</create>
-      <lastuse>2026-03-30T17:07:57+02:00</lastuse>
+      <lastuse>2026-03-30T16:37:57+02:00</lastuse>
       <lastconfirm>2026-03-30T15:07:58+02:00</lastconfirm>
     </date>
   </event>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2026-03-30T12:46:42+02:00</create>
-      <lastuse>2026-03-30T17:14:43+02:00</lastuse>
-      <lastconfirm>2026-03-30T15:14:44+02:00</lastconfirm>
+      <lastuse>2026-03-30T17:28:43+02:00</lastuse>
+      <lastconfirm>2026-03-30T15:28:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,32 +164,8 @@
     </location>
     <date>
       <create>2026-03-30T12:46:05+02:00</create>
-      <lastuse>2026-03-30T15:43:47+02:00</lastuse>
-      <lastconfirm>2026-03-30T15:13:47+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18690727334</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>Straßenname unbekannt</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.414405</latitude>
-        <longitude>10.871795</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-30T14:08:26+02:00</create>
-      <lastuse>2026-03-30T15:34:10+02:00</lastuse>
-      <lastconfirm>2026-03-30T15:14:12+02:00</lastconfirm>
+      <lastuse>2026-03-30T15:55:11+02:00</lastuse>
+      <lastconfirm>2026-03-30T15:25:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -238,6 +190,30 @@
       <create>2026-03-30T15:03:50+02:00</create>
       <lastuse>2026-03-30T16:21:10+02:00</lastuse>
       <lastconfirm>2026-03-30T15:21:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18691066134</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B2</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.423623</latitude>
+        <longitude>10.867205</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-30T15:05:40+02:00</create>
+      <lastuse>2026-03-30T16:24:37+02:00</lastuse>
+      <lastconfirm>2026-03-30T15:24:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +476,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-04-01T15:15:42+02:00</lastuse>
-      <lastconfirm>2026-03-30T15:15:42+02:00</lastconfirm>
+      <lastuse>2026-04-01T15:21:35+02:00</lastuse>
+      <lastconfirm>2026-03-30T15:21:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +668,8 @@
     </location>
     <date>
       <create>2026-03-09T16:02:28+01:00</create>
-      <lastuse>2026-04-01T15:07:07+02:00</lastuse>
-      <lastconfirm>2026-03-30T15:07:07+02:00</lastconfirm>
+      <lastuse>2026-04-01T15:24:51+02:00</lastuse>
+      <lastconfirm>2026-03-30T15:24:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1084,7 +1060,7 @@
     <id>18690734893</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86391</zip>
       <city>Stadtbergen</city>
@@ -1100,15 +1076,15 @@
     </location>
     <date>
       <create>2026-03-30T14:07:18+02:00</create>
-      <lastuse>2026-04-01T15:06:51+02:00</lastuse>
-      <lastconfirm>2026-03-30T15:06:51+02:00</lastconfirm>
+      <lastuse>2026-04-01T15:23:36+02:00</lastuse>
+      <lastconfirm>2026-03-30T15:23:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18690821249</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -1124,8 +1100,8 @@
     </location>
     <date>
       <create>2026-03-30T14:21:05+02:00</create>
-      <lastuse>2026-03-30T23:18:47+02:00</lastuse>
-      <lastconfirm>2026-03-30T15:18:48+02:00</lastconfirm>
+      <lastuse>2026-03-30T23:21:47+02:00</lastuse>
+      <lastconfirm>2026-03-30T15:21:47+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
