@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>18691500523</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Aretinstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.343704</latitude>
+        <longitude>11.050885</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-03-30T16:20:52+02:00</create>
+      <lastuse>2026-03-30T18:32:45+02:00</lastuse>
+      <lastconfirm>2026-03-30T16:32:46+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18656839297</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,15 +92,15 @@
     </location>
     <date>
       <create>2026-03-30T16:17:21+02:00</create>
-      <lastuse>2026-03-30T16:58:00+02:00</lastuse>
-      <lastconfirm>2026-03-30T16:28:01+02:00</lastconfirm>
+      <lastuse>2026-03-30T17:01:55+02:00</lastuse>
+      <lastconfirm>2026-03-30T16:31:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18691507706</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86159</zip>
       <city>Augsburg</city>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2026-03-30T16:22:56+02:00</create>
-      <lastuse>2026-03-30T16:57:06+02:00</lastuse>
-      <lastconfirm>2026-03-30T16:27:06+02:00</lastconfirm>
+      <lastuse>2026-03-30T17:02:09+02:00</lastuse>
+      <lastconfirm>2026-03-30T16:32:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2025-11-18T12:30:03+01:00</create>
-      <lastuse>2026-04-01T12:33:00+02:00</lastuse>
-      <lastconfirm>2026-03-30T12:33:00+02:00</lastconfirm>
+      <lastuse>2026-04-01T16:29:48+02:00</lastuse>
+      <lastconfirm>2026-03-30T16:29:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-04-01T16:22:05+02:00</lastuse>
-      <lastconfirm>2026-03-30T16:22:05+02:00</lastconfirm>
+      <lastuse>2026-04-01T16:29:52+02:00</lastuse>
+      <lastconfirm>2026-03-30T16:29:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2026-03-17T07:36:18+01:00</create>
-      <lastuse>2026-04-01T16:12:05+02:00</lastuse>
-      <lastconfirm>2026-03-30T16:12:05+02:00</lastconfirm>
+      <lastuse>2026-04-01T16:26:24+02:00</lastuse>
+      <lastconfirm>2026-03-30T16:26:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -958,30 +982,6 @@
       <create>2026-03-30T14:07:18+02:00</create>
       <lastuse>2026-04-01T15:52:34+02:00</lastuse>
       <lastconfirm>2026-03-30T15:52:34+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18690821249</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-HH</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.522677</latitude>
-        <longitude>10.835166</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-03-30T14:21:05+02:00</create>
-      <lastuse>2026-03-30T18:19:50+02:00</lastuse>
-      <lastconfirm>2026-03-30T14:21:05+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
