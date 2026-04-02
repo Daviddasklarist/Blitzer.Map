@@ -44,8 +44,8 @@
     </location>
     <date>
       <create>2026-04-02T08:58:00+02:00</create>
-      <lastuse>2026-04-02T13:32:58+02:00</lastuse>
-      <lastconfirm>2026-04-02T11:32:58+02:00</lastconfirm>
+      <lastuse>2026-04-02T13:37:47+02:00</lastuse>
+      <lastconfirm>2026-04-02T11:37:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,6 +121,30 @@
     </date>
   </event>
   <event>
+    <id>18712832623</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Affinger Weg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414925</latitude>
+        <longitude>10.938277</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-02T11:26:33+02:00</create>
+      <lastuse>2026-04-02T13:35:08+02:00</lastuse>
+      <lastconfirm>2026-04-02T11:35:09+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18712662303</id>
     <type>29</type>
     <speed></speed>
@@ -140,15 +164,15 @@
     </location>
     <date>
       <create>2026-04-02T10:59:23+02:00</create>
-      <lastuse>2026-04-02T11:59:45+02:00</lastuse>
-      <lastconfirm>2026-04-02T11:29:46+02:00</lastconfirm>
+      <lastuse>2026-04-02T12:07:57+02:00</lastuse>
+      <lastconfirm>2026-04-02T11:37:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18712809855</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -164,8 +188,8 @@
     </location>
     <date>
       <create>2026-04-02T11:23:45+02:00</create>
-      <lastuse>2026-04-02T12:02:19+02:00</lastuse>
-      <lastconfirm>2026-04-02T11:32:20+02:00</lastconfirm>
+      <lastuse>2026-04-02T12:04:06+02:00</lastuse>
+      <lastconfirm>2026-04-02T11:34:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1148,8 +1172,8 @@
     </location>
     <date>
       <create>2026-04-01T08:08:54+02:00</create>
-      <lastuse>2026-04-04T11:18:51+02:00</lastuse>
-      <lastconfirm>2026-04-02T11:18:52+02:00</lastconfirm>
+      <lastuse>2026-04-04T11:30:21+02:00</lastuse>
+      <lastconfirm>2026-04-02T11:30:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1220,8 +1244,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-04T11:22:01+02:00</lastuse>
-      <lastconfirm>2026-04-02T11:22:01+02:00</lastconfirm>
+      <lastuse>2026-04-04T11:34:55+02:00</lastuse>
+      <lastconfirm>2026-04-02T11:34:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1244,8 +1268,8 @@
     </location>
     <date>
       <create>2026-04-02T10:53:13+02:00</create>
-      <lastuse>2026-04-02T19:28:41+02:00</lastuse>
-      <lastconfirm>2026-04-02T11:28:42+02:00</lastconfirm>
+      <lastuse>2026-04-02T15:28:41+02:00</lastuse>
+      <lastconfirm>2026-04-02T10:53:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1268,8 +1292,32 @@
     </location>
     <date>
       <create>2026-04-02T10:58:58+02:00</create>
-      <lastuse>2026-04-02T19:28:25+02:00</lastuse>
-      <lastconfirm>2026-04-02T11:28:26+02:00</lastconfirm>
+      <lastuse>2026-04-02T19:30:56+02:00</lastuse>
+      <lastconfirm>2026-04-02T11:30:57+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18712818072</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.275121</latitude>
+        <longitude>10.869202</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-02T11:22:02+02:00</create>
+      <lastuse>2026-04-02T19:31:27+02:00</lastuse>
+      <lastconfirm>2026-04-02T11:31:27+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
