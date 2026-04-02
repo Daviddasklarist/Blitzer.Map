@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18711034123</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86399</zip>
+      <city>Bobingen</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.279316</latitude>
+        <longitude>10.841130</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-02T05:58:06+02:00</create>
+      <lastuse>2026-04-02T08:34:45+02:00</lastuse>
+      <lastconfirm>2026-04-02T06:34:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18711084756</id>
     <type>1</type>
     <speed>50</speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2026-04-02T06:09:40+02:00</create>
-      <lastuse>2026-04-02T08:32:55+02:00</lastuse>
-      <lastconfirm>2026-04-02T06:32:58+02:00</lastconfirm>
+      <lastuse>2026-04-02T08:35:13+02:00</lastuse>
+      <lastconfirm>2026-04-02T06:35:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-04-02T06:16:12+02:00</create>
-      <lastuse>2026-04-02T08:32:53+02:00</lastuse>
-      <lastconfirm>2026-04-02T06:32:54+02:00</lastconfirm>
+      <lastuse>2026-04-02T08:36:07+02:00</lastuse>
+      <lastconfirm>2026-04-02T06:36:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +980,8 @@
     </location>
     <date>
       <create>2026-03-31T10:56:01+02:00</create>
-      <lastuse>2026-04-04T06:25:23+02:00</lastuse>
-      <lastconfirm>2026-04-02T06:25:24+02:00</lastconfirm>
+      <lastuse>2026-04-04T06:33:09+02:00</lastuse>
+      <lastconfirm>2026-04-02T06:33:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1076,8 +1100,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-04T06:24:09+02:00</lastuse>
-      <lastconfirm>2026-04-02T06:24:09+02:00</lastconfirm>
+      <lastuse>2026-04-04T06:33:38+02:00</lastuse>
+      <lastconfirm>2026-04-02T06:33:40+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
