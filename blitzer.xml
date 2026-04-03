@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18722401019</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.386187</latitude>
+        <longitude>10.859740</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-03T15:14:03+02:00</create>
+      <lastuse>2026-04-03T19:38:00+02:00</lastuse>
+      <lastconfirm>2026-04-03T17:38:00+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18723028947</id>
     <type>1</type>
     <speed>60</speed>
@@ -21,7 +45,7 @@
     <date>
       <create>2026-04-03T16:56:43+02:00</create>
       <lastuse>2026-04-03T20:56:43+02:00</lastuse>
-      <lastconfirm>2026-04-03T17:31:25+02:00</lastconfirm>
+      <lastconfirm>2026-04-03T17:37:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -70,6 +94,30 @@
       <create>2026-04-03T10:19:35+02:00</create>
       <lastuse>2026-04-04T01:27:53+02:00</lastuse>
       <lastconfirm>2026-04-03T17:27:55+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18723162265</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Sebastianstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.381583</latitude>
+        <longitude>10.895171</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-03T17:19:10+02:00</create>
+      <lastuse>2026-04-03T18:37:34+02:00</lastuse>
+      <lastconfirm>2026-04-03T17:37:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +260,8 @@
     </location>
     <date>
       <create>2025-11-25T14:52:27+01:00</create>
-      <lastuse>2026-04-05T16:19:03+02:00</lastuse>
-      <lastconfirm>2026-04-03T16:19:03+02:00</lastconfirm>
+      <lastuse>2026-04-05T17:31:50+02:00</lastuse>
+      <lastconfirm>2026-04-03T17:31:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -332,8 +380,8 @@
     </location>
     <date>
       <create>2026-02-12T16:57:19+01:00</create>
-      <lastuse>2026-04-05T17:29:48+02:00</lastuse>
-      <lastconfirm>2026-04-03T17:29:48+02:00</lastconfirm>
+      <lastuse>2026-04-05T17:33:40+02:00</lastuse>
+      <lastconfirm>2026-04-03T17:33:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +692,8 @@
     </location>
     <date>
       <create>2026-03-16T16:26:28+01:00</create>
-      <lastuse>2026-04-05T16:12:15+02:00</lastuse>
-      <lastconfirm>2026-04-03T16:12:15+02:00</lastconfirm>
+      <lastuse>2026-04-05T17:34:44+02:00</lastuse>
+      <lastconfirm>2026-04-03T17:34:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +980,8 @@
     </location>
     <date>
       <create>2026-03-31T10:56:01+02:00</create>
-      <lastuse>2026-04-05T16:43:15+02:00</lastuse>
-      <lastconfirm>2026-04-03T16:43:15+02:00</lastconfirm>
+      <lastuse>2026-04-05T17:34:41+02:00</lastuse>
+      <lastconfirm>2026-04-03T17:34:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
