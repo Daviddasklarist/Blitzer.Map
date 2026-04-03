@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18718710489</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Mittlerer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369861</latitude>
+        <longitude>10.901340</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-03T03:56:09+02:00</create>
+      <lastuse>2026-04-03T06:11:20+02:00</lastuse>
+      <lastconfirm>2026-04-03T04:11:20+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -812,8 +836,8 @@
     </location>
     <date>
       <create>2026-03-30T14:07:18+02:00</create>
-      <lastuse>2026-04-05T00:36:36+02:00</lastuse>
-      <lastconfirm>2026-04-03T00:36:36+02:00</lastconfirm>
+      <lastuse>2026-04-05T04:05:56+02:00</lastuse>
+      <lastconfirm>2026-04-03T04:05:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
