@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18732746972</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Pankratiusstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.381152</latitude>
+        <longitude>10.918719</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-04T22:47:43+02:00</create>
+      <lastuse>2026-04-05T02:14:20+02:00</lastuse>
+      <lastconfirm>2026-04-05T00:14:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18732871047</id>
     <type>1</type>
     <speed>50</speed>
