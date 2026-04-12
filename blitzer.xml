@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18789257450</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.370632</latitude>
+        <longitude>10.810425</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-12T09:41:04+02:00</create>
+      <lastuse>2026-04-12T11:47:40+02:00</lastuse>
+      <lastconfirm>2026-04-12T09:47:42+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18755203528</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-04-08T14:42:09+02:00</create>
-      <lastuse>2026-04-12T13:42:27+02:00</lastuse>
-      <lastconfirm>2026-04-12T09:42:28+02:00</lastconfirm>
+      <lastuse>2026-04-12T12:13:53+02:00</lastuse>
+      <lastconfirm>2026-04-12T09:43:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-04-14T07:35:10+02:00</lastuse>
-      <lastconfirm>2026-04-12T07:35:10+02:00</lastconfirm>
+      <lastuse>2026-04-14T09:41:25+02:00</lastuse>
+      <lastconfirm>2026-04-12T09:41:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-04-14T09:03:21+02:00</lastuse>
-      <lastconfirm>2026-04-12T09:03:21+02:00</lastconfirm>
+      <lastuse>2026-04-14T09:44:55+02:00</lastuse>
+      <lastconfirm>2026-04-12T09:44:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +836,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-14T09:37:31+02:00</lastuse>
-      <lastconfirm>2026-04-12T09:37:32+02:00</lastconfirm>
+      <lastuse>2026-04-14T09:42:38+02:00</lastuse>
+      <lastconfirm>2026-04-12T09:42:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1028,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-14T09:33:53+02:00</lastuse>
-      <lastconfirm>2026-04-12T09:33:54+02:00</lastconfirm>
+      <lastuse>2026-04-14T09:40:24+02:00</lastuse>
+      <lastconfirm>2026-04-12T09:40:24+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
