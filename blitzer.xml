@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18799961864</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Donauwörther Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.395115</latitude>
+        <longitude>10.881715</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-13T18:13:17+02:00</create>
+      <lastuse>2026-04-14T00:41:08+02:00</lastuse>
+      <lastconfirm>2026-04-13T22:41:09+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18800221168</id>
     <type>1</type>
     <speed>40</speed>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2026-04-08T14:42:09+02:00</create>
-      <lastuse>2026-04-14T02:07:51+02:00</lastuse>
-      <lastconfirm>2026-04-13T22:37:52+02:00</lastconfirm>
+      <lastuse>2026-04-14T02:42:58+02:00</lastuse>
+      <lastconfirm>2026-04-13T22:42:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1052,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-15T22:17:46+02:00</lastuse>
-      <lastconfirm>2026-04-13T22:17:46+02:00</lastconfirm>
+      <lastuse>2026-04-15T22:38:47+02:00</lastuse>
+      <lastconfirm>2026-04-13T22:38:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
