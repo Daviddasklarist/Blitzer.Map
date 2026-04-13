@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18801613867</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Inverness-Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355648</latitude>
+        <longitude>10.909188</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-13T23:14:44+02:00</create>
+      <lastuse>2026-04-14T01:22:52+02:00</lastuse>
+      <lastconfirm>2026-04-13T23:22:53+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18764087182</id>
     <type>7</type>
     <speed>120</speed>
@@ -980,8 +1004,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-15T23:09:00+02:00</lastuse>
-      <lastconfirm>2026-04-13T23:09:01+02:00</lastconfirm>
+      <lastuse>2026-04-15T15:09:00+02:00</lastuse>
+      <lastconfirm>2026-04-11T20:56:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
