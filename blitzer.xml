@@ -49,30 +49,6 @@
     </date>
   </event>
   <event>
-    <id>18755203528</id>
-    <type>7</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Gartenstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.267845</latitude>
-        <longitude>10.877114</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-04-07T10:34:54+02:00</create>
-      <lastuse>2026-04-13T18:01:09+02:00</lastuse>
-      <lastconfirm>2026-04-13T15:01:10+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18764087182</id>
     <type>7</type>
     <speed>120</speed>
@@ -92,8 +68,8 @@
     </location>
     <date>
       <create>2026-04-08T14:42:09+02:00</create>
-      <lastuse>2026-04-13T20:47:57+02:00</lastuse>
-      <lastconfirm>2026-04-13T16:47:58+02:00</lastconfirm>
+      <lastuse>2026-04-13T20:51:49+02:00</lastuse>
+      <lastconfirm>2026-04-13T16:51:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +92,32 @@
     </location>
     <date>
       <create>2026-04-13T16:35:33+02:00</create>
-      <lastuse>2026-04-13T17:26:21+02:00</lastuse>
-      <lastconfirm>2026-04-13T16:46:22+02:00</lastconfirm>
+      <lastuse>2026-04-13T17:50:23+02:00</lastuse>
+      <lastconfirm>2026-04-13T16:50:23+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18799368441</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.189475</latitude>
+        <longitude>10.847978</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-13T16:39:04+02:00</create>
+      <lastuse>2026-04-13T17:52:36+02:00</lastuse>
+      <lastconfirm>2026-04-13T16:52:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -844,7 +844,7 @@
     <id>18705386621</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86156</zip>
       <city>Augsburg</city>
@@ -860,8 +860,8 @@
     </location>
     <date>
       <create>2026-04-01T12:44:06+02:00</create>
-      <lastuse>2026-04-15T16:32:10+02:00</lastuse>
-      <lastconfirm>2026-04-13T16:32:11+02:00</lastconfirm>
+      <lastuse>2026-04-15T08:32:10+02:00</lastuse>
+      <lastconfirm>2026-04-01T12:44:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +884,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-15T16:44:50+02:00</lastuse>
-      <lastconfirm>2026-04-13T16:44:50+02:00</lastconfirm>
+      <lastuse>2026-04-15T16:46:19+02:00</lastuse>
+      <lastconfirm>2026-04-13T16:46:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1028,8 @@
     </location>
     <date>
       <create>2026-04-09T09:38:11+02:00</create>
-      <lastuse>2026-04-15T16:37:46+02:00</lastuse>
-      <lastconfirm>2026-04-13T16:37:46+02:00</lastconfirm>
+      <lastuse>2026-04-15T16:48:48+02:00</lastuse>
+      <lastconfirm>2026-04-13T16:48:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1124,8 +1124,8 @@
     </location>
     <date>
       <create>2026-04-13T09:14:21+02:00</create>
-      <lastuse>2026-04-14T00:42:54+02:00</lastuse>
-      <lastconfirm>2026-04-13T16:42:54+02:00</lastconfirm>
+      <lastuse>2026-04-14T00:46:50+02:00</lastuse>
+      <lastconfirm>2026-04-13T16:46:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1148,8 +1148,8 @@
     </location>
     <date>
       <create>2026-04-13T09:50:30+02:00</create>
-      <lastuse>2026-04-14T00:41:26+02:00</lastuse>
-      <lastconfirm>2026-04-13T16:41:27+02:00</lastconfirm>
+      <lastuse>2026-04-14T00:48:27+02:00</lastuse>
+      <lastconfirm>2026-04-13T16:48:28+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
