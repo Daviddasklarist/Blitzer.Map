@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18764087182</id>
+    <type>7</type>
+    <speed>120</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409290</latitude>
+        <longitude>10.923704</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-08T14:42:09+02:00</create>
+      <lastuse>2026-04-15T00:56:00+02:00</lastuse>
+      <lastconfirm>2026-04-14T20:56:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18808913647</id>
     <type>29</type>
     <speed></speed>
@@ -20,8 +44,8 @@
     </location>
     <date>
       <create>2026-04-14T20:14:49+02:00</create>
-      <lastuse>2026-04-14T21:15:26+02:00</lastuse>
-      <lastconfirm>2026-04-14T20:45:26+02:00</lastconfirm>
+      <lastuse>2026-04-14T21:24:12+02:00</lastuse>
+      <lastconfirm>2026-04-14T20:54:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +764,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-16T20:46:33+02:00</lastuse>
-      <lastconfirm>2026-04-14T20:46:34+02:00</lastconfirm>
+      <lastuse>2026-04-16T20:54:03+02:00</lastuse>
+      <lastconfirm>2026-04-14T20:54:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +836,8 @@
     </location>
     <date>
       <create>2026-04-07T19:25:40+02:00</create>
-      <lastuse>2026-04-16T18:03:20+02:00</lastuse>
-      <lastconfirm>2026-04-14T18:03:21+02:00</lastconfirm>
+      <lastuse>2026-04-16T20:52:05+02:00</lastuse>
+      <lastconfirm>2026-04-14T20:52:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-16T20:47:36+02:00</lastuse>
-      <lastconfirm>2026-04-14T20:47:37+02:00</lastconfirm>
+      <lastuse>2026-04-16T20:52:16+02:00</lastuse>
+      <lastconfirm>2026-04-14T20:52:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -964,7 +988,7 @@
     <id>18796589781</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86836</zip>
       <city>Graben</city>
@@ -980,8 +1004,8 @@
     </location>
     <date>
       <create>2026-04-13T09:14:21+02:00</create>
-      <lastuse>2026-04-16T20:24:55+02:00</lastuse>
-      <lastconfirm>2026-04-14T20:24:55+02:00</lastconfirm>
+      <lastuse>2026-04-16T20:53:35+02:00</lastuse>
+      <lastconfirm>2026-04-14T20:53:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
