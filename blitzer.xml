@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18813506202</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86450</zip>
-      <city>Altenmünster</city>
-      <state>DE-BY</state>
-      <street>Schulstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.467655</latitude>
-        <longitude>10.589064</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-04-15T10:20:05+02:00</create>
-      <lastuse>2026-04-15T23:37:30+02:00</lastuse>
-      <lastconfirm>2026-04-15T21:37:31+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18818326105</id>
     <type>1</type>
     <speed>50</speed>
@@ -46,6 +22,30 @@
       <create>2026-04-15T22:00:02+02:00</create>
       <lastuse>2026-04-16T00:03:12+02:00</lastuse>
       <lastconfirm>2026-04-15T22:03:14+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18818443596</id>
+    <type>7</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86450</zip>
+      <city>Altenmünster</city>
+      <state>DE-BY</state>
+      <street>Schulstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.467655</latitude>
+        <longitude>10.589064</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-15T10:20:05+02:00</create>
+      <lastuse>2026-04-16T07:37:30+02:00</lastuse>
+      <lastconfirm>2026-04-15T21:37:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1100,8 @@
     </location>
     <date>
       <create>2026-04-15T09:08:05+02:00</create>
-      <lastuse>2026-04-16T05:54:11+02:00</lastuse>
-      <lastconfirm>2026-04-15T21:54:12+02:00</lastconfirm>
+      <lastuse>2026-04-16T06:19:27+02:00</lastuse>
+      <lastconfirm>2026-04-15T22:19:28+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
