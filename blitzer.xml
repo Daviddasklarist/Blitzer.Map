@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18818421205</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Riedingerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.383050</latitude>
-        <longitude>10.892225</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-04-15T22:18:04+02:00</create>
-      <lastuse>2026-04-16T00:36:13+02:00</lastuse>
-      <lastconfirm>2026-04-15T23:36:13+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18818526762</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Heinrich-von-Buz-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.381702</latitude>
-        <longitude>10.892655</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-04-15T22:36:57+02:00</create>
-      <lastuse>2026-04-16T00:41:32+02:00</lastuse>
-      <lastconfirm>2026-04-15T22:41:32+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18818557876</id>
     <type>1</type>
     <speed>50</speed>
@@ -452,8 +404,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-04-17T23:43:01+02:00</lastuse>
-      <lastconfirm>2026-04-15T23:43:02+02:00</lastconfirm>
+      <lastuse>2026-04-17T23:59:22+02:00</lastuse>
+      <lastconfirm>2026-04-15T23:59:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +740,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-17T23:54:37+02:00</lastuse>
-      <lastconfirm>2026-04-15T23:54:38+02:00</lastconfirm>
+      <lastuse>2026-04-17T23:59:11+02:00</lastuse>
+      <lastconfirm>2026-04-15T23:59:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +884,8 @@
     </location>
     <date>
       <create>2026-04-09T09:38:11+02:00</create>
-      <lastuse>2026-04-17T23:50:48+02:00</lastuse>
-      <lastconfirm>2026-04-15T23:50:48+02:00</lastconfirm>
+      <lastuse>2026-04-17T23:55:11+02:00</lastuse>
+      <lastconfirm>2026-04-15T23:55:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +932,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-17T23:50:35+02:00</lastuse>
-      <lastconfirm>2026-04-15T23:50:36+02:00</lastconfirm>
+      <lastuse>2026-04-17T23:55:25+02:00</lastuse>
+      <lastconfirm>2026-04-15T23:55:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1148,32 +1100,8 @@
     </location>
     <date>
       <create>2026-04-15T09:08:05+02:00</create>
-      <lastuse>2026-04-16T07:50:26+02:00</lastuse>
-      <lastconfirm>2026-04-15T23:50:27+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>18816051256</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86169</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Mühlhauser Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.397647</latitude>
-        <longitude>10.920444</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-04-15T16:12:56+02:00</create>
-      <lastuse>2026-04-16T07:15:44+02:00</lastuse>
-      <lastconfirm>2026-04-15T23:15:45+02:00</lastconfirm>
+      <lastuse>2026-04-16T07:59:18+02:00</lastuse>
+      <lastconfirm>2026-04-15T23:59:18+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
