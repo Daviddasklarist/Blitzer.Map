@@ -68,7 +68,7 @@
     </location>
     <date>
       <create>2026-04-16T06:44:30+02:00</create>
-      <lastuse>2026-04-16T11:00:18+02:00</lastuse>
+      <lastuse>2026-04-16T10:44:30+02:00</lastuse>
       <lastconfirm>2026-04-16T09:00:19+02:00</lastconfirm>
     </date>
   </event>
@@ -124,7 +124,7 @@
     <id>18821546763</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86163</zip>
       <city>Augsburg</city>
@@ -141,7 +141,7 @@
     <date>
       <create>2026-04-16T08:14:22+02:00</create>
       <lastuse>2026-04-16T11:14:22+02:00</lastuse>
-      <lastconfirm>2026-04-16T09:00:24+02:00</lastconfirm>
+      <lastconfirm>2026-04-16T09:10:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -169,30 +169,6 @@
     </date>
   </event>
   <event>
-    <id>18820855277</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86477</zip>
-      <city>Adelsried</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.417068</latitude>
-        <longitude>10.719738</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-04-16T06:11:04+02:00</create>
-      <lastuse>2026-04-16T09:16:33+02:00</lastuse>
-      <lastconfirm>2026-04-16T09:06:33+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18821207330</id>
     <type>23</type>
     <speed></speed>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2026-04-16T07:17:59+02:00</create>
-      <lastuse>2026-04-16T09:33:36+02:00</lastuse>
-      <lastconfirm>2026-04-16T09:03:37+02:00</lastconfirm>
+      <lastuse>2026-04-16T09:42:54+02:00</lastuse>
+      <lastconfirm>2026-04-16T09:12:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,8 +212,32 @@
     </location>
     <date>
       <create>2026-04-16T07:32:34+02:00</create>
-      <lastuse>2026-04-16T09:37:47+02:00</lastuse>
-      <lastconfirm>2026-04-16T09:07:49+02:00</lastconfirm>
+      <lastuse>2026-04-16T09:42:48+02:00</lastuse>
+      <lastconfirm>2026-04-16T09:12:49+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18821881077</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369960</latitude>
+        <longitude>10.854987</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-16T09:05:46+02:00</create>
+      <lastuse>2026-04-16T10:10:38+02:00</lastuse>
+      <lastconfirm>2026-04-16T09:10:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +644,8 @@
     </location>
     <date>
       <create>2026-03-09T16:02:28+01:00</create>
-      <lastuse>2026-04-18T07:58:27+02:00</lastuse>
-      <lastconfirm>2026-04-16T07:58:27+02:00</lastconfirm>
+      <lastuse>2026-04-18T09:09:53+02:00</lastuse>
+      <lastconfirm>2026-04-16T09:09:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +836,8 @@
     </location>
     <date>
       <create>2026-03-25T14:33:09+01:00</create>
-      <lastuse>2026-04-18T08:35:57+02:00</lastuse>
-      <lastconfirm>2026-04-16T08:35:57+02:00</lastconfirm>
+      <lastuse>2026-04-18T09:07:52+02:00</lastuse>
+      <lastconfirm>2026-04-16T09:07:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +932,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-18T09:03:23+02:00</lastuse>
-      <lastconfirm>2026-04-16T09:03:24+02:00</lastconfirm>
+      <lastuse>2026-04-18T09:09:39+02:00</lastuse>
+      <lastconfirm>2026-04-16T09:09:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1153,30 +1153,6 @@
     </date>
   </event>
   <event>
-    <id>18796589781</id>
-    <type>26</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86836</zip>
-      <city>Graben</city>
-      <state>DE-HH</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.184545</latitude>
-        <longitude>10.845464</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-04-13T09:14:21+02:00</create>
-      <lastuse>2026-04-18T09:02:28+02:00</lastuse>
-      <lastconfirm>2026-04-16T09:02:29+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18799148663</id>
     <type>26</type>
     <speed></speed>
@@ -1274,7 +1250,7 @@
   </event>
   <event>
     <id>18813018211</id>
-    <type>22</type>
+    <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
@@ -1292,8 +1268,8 @@
     </location>
     <date>
       <create>2026-04-15T09:08:05+02:00</create>
-      <lastuse>2026-04-16T17:00:12+02:00</lastuse>
-      <lastconfirm>2026-04-16T09:00:12+02:00</lastconfirm>
+      <lastuse>2026-04-16T17:05:17+02:00</lastuse>
+      <lastconfirm>2026-04-16T09:05:17+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
