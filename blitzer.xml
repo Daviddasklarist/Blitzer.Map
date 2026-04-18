@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18834432289</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.363695</latitude>
+        <longitude>10.853625</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-17T19:17:03+02:00</create>
+      <lastuse>2026-04-18T05:30:58+02:00</lastuse>
+      <lastconfirm>2026-04-18T03:30:59+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18836612234</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-04-18T02:58:10+02:00</create>
-      <lastuse>2026-04-18T05:19:56+02:00</lastuse>
-      <lastconfirm>2026-04-18T03:19:57+02:00</lastconfirm>
+      <lastuse>2026-04-18T05:29:24+02:00</lastuse>
+      <lastconfirm>2026-04-18T03:29:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -76,7 +100,7 @@
     <id>18836577809</id>
     <type>21</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86405</zip>
       <city>Meitingen</city>
@@ -92,7 +116,7 @@
     </location>
     <date>
       <create>2026-04-18T01:41:26+02:00</create>
-      <lastuse>2026-04-18T03:54:32+02:00</lastuse>
+      <lastuse>2026-04-18T03:34:32+02:00</lastuse>
       <lastconfirm>2026-04-18T03:14:34+02:00</lastconfirm>
     </date>
   </event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2026-03-13T22:51:59+01:00</create>
-      <lastuse>2026-04-20T02:53:19+02:00</lastuse>
-      <lastconfirm>2026-04-18T02:53:20+02:00</lastconfirm>
+      <lastuse>2026-04-20T03:25:59+02:00</lastuse>
+      <lastconfirm>2026-04-18T03:26:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-20T03:07:57+02:00</lastuse>
-      <lastconfirm>2026-04-18T03:07:57+02:00</lastconfirm>
+      <lastuse>2026-04-20T03:28:37+02:00</lastuse>
+      <lastconfirm>2026-04-18T03:28:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +1004,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-20T03:23:07+02:00</lastuse>
-      <lastconfirm>2026-04-18T03:23:07+02:00</lastconfirm>
+      <lastuse>2026-04-20T03:26:15+02:00</lastuse>
+      <lastconfirm>2026-04-18T03:26:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
