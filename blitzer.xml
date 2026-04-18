@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18843933746</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86150</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rosenaustraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.365652</latitude>
+        <longitude>10.881809</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-19T00:00:49+02:00</create>
+      <lastuse>2026-04-19T02:17:54+02:00</lastuse>
+      <lastconfirm>2026-04-19T00:17:55+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18818443596</id>
     <type>7</type>
     <speed>50</speed>
@@ -884,8 +908,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-20T23:41:43+02:00</lastuse>
-      <lastconfirm>2026-04-18T23:41:43+02:00</lastconfirm>
+      <lastuse>2026-04-21T00:12:17+02:00</lastuse>
+      <lastconfirm>2026-04-19T00:12:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
