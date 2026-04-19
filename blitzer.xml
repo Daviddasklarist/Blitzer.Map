@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18844792848</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Kobelweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383569</latitude>
+        <longitude>10.867648</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-19T02:48:56+02:00</create>
+      <lastuse>2026-04-19T06:43:26+02:00</lastuse>
+      <lastconfirm>2026-04-19T04:43:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18818443596</id>
     <type>7</type>
     <speed>50</speed>
