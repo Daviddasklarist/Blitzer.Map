@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18869050677</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Landkreis Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.410533</latitude>
+        <longitude>10.620778</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-22T03:06:01+02:00</create>
+      <lastuse>2026-04-22T03:13:00+02:00</lastuse>
+      <lastconfirm>2026-04-22T03:06:01+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -836,8 +860,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-24T02:15:32+02:00</lastuse>
-      <lastconfirm>2026-04-22T02:15:33+02:00</lastconfirm>
+      <lastuse>2026-04-24T03:00:14+02:00</lastuse>
+      <lastconfirm>2026-04-22T03:00:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1076,8 @@
     </location>
     <date>
       <create>2026-04-19T17:15:28+02:00</create>
-      <lastuse>2026-04-23T18:37:35+02:00</lastuse>
-      <lastconfirm>2026-04-19T17:15:28+02:00</lastconfirm>
+      <lastuse>2026-04-24T03:01:45+02:00</lastuse>
+      <lastconfirm>2026-04-22T03:01:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
