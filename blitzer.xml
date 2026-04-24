@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>18886902181</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Holzbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.371319</latitude>
-        <longitude>10.879256</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-04-24T05:52:44+02:00</create>
-      <lastuse>2026-04-24T11:57:14+02:00</lastuse>
-      <lastconfirm>2026-04-24T09:57:14+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18887027290</id>
     <type>1</type>
     <speed>30</speed>
@@ -116,7 +92,7 @@
     </location>
     <date>
       <create>2026-04-24T06:52:42+02:00</create>
-      <lastuse>2026-04-24T11:08:24+02:00</lastuse>
+      <lastuse>2026-04-24T10:38:24+02:00</lastuse>
       <lastconfirm>2026-04-24T09:08:25+02:00</lastconfirm>
     </date>
   </event>
@@ -164,7 +140,7 @@
     </location>
     <date>
       <create>2026-04-24T07:06:05+02:00</create>
-      <lastuse>2026-04-24T11:17:15+02:00</lastuse>
+      <lastuse>2026-04-24T11:06:05+02:00</lastuse>
       <lastconfirm>2026-04-24T09:47:16+02:00</lastconfirm>
     </date>
   </event>
@@ -188,8 +164,8 @@
     </location>
     <date>
       <create>2026-04-24T07:15:51+02:00</create>
-      <lastuse>2026-04-24T11:50:08+02:00</lastuse>
-      <lastconfirm>2026-04-24T09:50:09+02:00</lastconfirm>
+      <lastuse>2026-04-24T12:06:45+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:06:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,8 +188,8 @@
     </location>
     <date>
       <create>2026-04-24T07:44:06+02:00</create>
-      <lastuse>2026-04-24T12:02:09+02:00</lastuse>
-      <lastconfirm>2026-04-24T10:02:10+02:00</lastconfirm>
+      <lastuse>2026-04-24T12:08:53+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:08:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -238,6 +214,30 @@
       <create>2026-04-24T09:01:32+02:00</create>
       <lastuse>2026-04-24T11:44:42+02:00</lastuse>
       <lastconfirm>2026-04-24T09:44:42+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18888319640</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.269101</latitude>
+        <longitude>10.867282</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-24T09:57:07+02:00</create>
+      <lastuse>2026-04-24T10:37:45+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:07:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -556,7 +556,7 @@
     <id>18510410526</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -572,8 +572,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-04-26T09:57:02+02:00</lastuse>
-      <lastconfirm>2026-04-24T09:57:03+02:00</lastconfirm>
+      <lastuse>2026-04-26T01:57:02+02:00</lastuse>
+      <lastconfirm>2026-03-05T16:38:33+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +956,8 @@
     </location>
     <date>
       <create>2026-04-09T09:38:11+02:00</create>
-      <lastuse>2026-04-26T01:56:21+02:00</lastuse>
-      <lastconfirm>2026-04-09T09:38:11+02:00</lastconfirm>
+      <lastuse>2026-04-26T10:03:37+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:03:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1004,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-26T01:50:00+02:00</lastuse>
-      <lastconfirm>2026-04-11T20:56:37+02:00</lastconfirm>
+      <lastuse>2026-04-26T10:02:07+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:02:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
