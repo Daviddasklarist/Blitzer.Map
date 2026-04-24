@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>18886902181</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Holzbachstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.371319</latitude>
+        <longitude>10.879256</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-24T05:52:44+02:00</create>
+      <lastuse>2026-04-24T12:12:50+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:12:50+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18887027290</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-04-24T06:30:18+02:00</create>
-      <lastuse>2026-05-01T09:33:11+02:00</lastuse>
-      <lastconfirm>2026-04-24T08:38:53+02:00</lastconfirm>
+      <lastuse>2026-04-24T12:11:59+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:12:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2026-04-24T07:44:06+02:00</create>
-      <lastuse>2026-04-24T12:08:53+02:00</lastuse>
-      <lastconfirm>2026-04-24T10:08:53+02:00</lastconfirm>
+      <lastuse>2026-04-24T12:11:14+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:11:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -220,7 +244,7 @@
     <id>18888319640</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -236,8 +260,8 @@
     </location>
     <date>
       <create>2026-04-24T09:57:07+02:00</create>
-      <lastuse>2026-04-24T10:37:45+02:00</lastuse>
-      <lastconfirm>2026-04-24T10:07:45+02:00</lastconfirm>
+      <lastuse>2026-04-24T10:42:37+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:12:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -308,8 +332,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-04-26T09:44:37+02:00</lastuse>
-      <lastconfirm>2026-04-24T09:44:38+02:00</lastconfirm>
+      <lastuse>2026-04-26T10:09:14+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:09:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +860,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-26T09:55:39+02:00</lastuse>
-      <lastconfirm>2026-04-24T09:55:40+02:00</lastconfirm>
+      <lastuse>2026-04-26T10:09:47+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:09:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1028,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-26T10:02:07+02:00</lastuse>
-      <lastconfirm>2026-04-24T10:02:07+02:00</lastconfirm>
+      <lastuse>2026-04-26T10:09:01+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:09:01+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1124,8 @@
     </location>
     <date>
       <create>2026-04-15T09:08:05+02:00</create>
-      <lastuse>2026-04-26T09:47:22+02:00</lastuse>
-      <lastconfirm>2026-04-24T09:47:24+02:00</lastconfirm>
+      <lastuse>2026-04-26T10:08:51+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:08:51+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1172,8 +1196,8 @@
     </location>
     <date>
       <create>2026-04-19T21:50:24+02:00</create>
-      <lastuse>2026-04-26T09:56:31+02:00</lastuse>
-      <lastconfirm>2026-04-24T09:56:32+02:00</lastconfirm>
+      <lastuse>2026-04-26T10:08:14+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:08:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1342,6 +1366,30 @@
       <create>2026-04-23T14:05:05+02:00</create>
       <lastuse>2026-04-26T09:59:47+02:00</lastuse>
       <lastconfirm>2026-04-24T09:59:47+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18888300355</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Langenmantelstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377613</latitude>
+        <longitude>10.882977</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-24T09:54:47+02:00</create>
+      <lastuse>2026-04-26T10:06:09+02:00</lastuse>
+      <lastconfirm>2026-04-24T10:06:09+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
