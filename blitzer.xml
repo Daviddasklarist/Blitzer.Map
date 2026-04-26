@@ -284,8 +284,8 @@
     </location>
     <date>
       <create>2026-03-04T07:00:03+01:00</create>
-      <lastuse>2026-04-28T19:42:15+02:00</lastuse>
-      <lastconfirm>2026-04-26T19:42:15+02:00</lastconfirm>
+      <lastuse>2026-04-28T11:42:15+02:00</lastuse>
+      <lastconfirm>2026-03-04T07:00:03+01:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -652,7 +652,7 @@
     <id>18766081795</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -668,8 +668,8 @@
     </location>
     <date>
       <create>2026-04-09T09:38:11+02:00</create>
-      <lastuse>2026-04-28T19:39:08+02:00</lastuse>
-      <lastconfirm>2026-04-26T19:39:09+02:00</lastconfirm>
+      <lastuse>2026-04-28T19:47:16+02:00</lastuse>
+      <lastconfirm>2026-04-26T19:47:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +716,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-28T19:44:04+02:00</lastuse>
-      <lastconfirm>2026-04-26T19:44:04+02:00</lastconfirm>
+      <lastuse>2026-04-28T11:45:03+02:00</lastuse>
+      <lastconfirm>2026-04-11T20:56:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1102,6 +1102,30 @@
       <create>2026-04-26T11:00:24+02:00</create>
       <lastuse>2026-04-28T16:52:47+02:00</lastuse>
       <lastconfirm>2026-04-26T16:52:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18908231000</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409723</latitude>
+        <longitude>10.634862</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-26T19:43:21+02:00</create>
+      <lastuse>2026-04-27T03:48:53+02:00</lastuse>
+      <lastconfirm>2026-04-26T19:48:54+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
