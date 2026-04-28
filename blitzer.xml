@@ -45,7 +45,7 @@
     <date>
       <create>2026-04-28T14:42:32+02:00</create>
       <lastuse>2026-04-28T18:42:32+02:00</lastuse>
-      <lastconfirm>2026-04-28T16:42:32+02:00</lastconfirm>
+      <lastconfirm>2026-04-28T16:45:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,7 +116,7 @@
     </location>
     <date>
       <create>2026-04-28T15:32:33+02:00</create>
-      <lastuse>2026-04-28T17:12:29+02:00</lastuse>
+      <lastuse>2026-04-28T16:52:29+02:00</lastuse>
       <lastconfirm>2026-04-28T16:42:29+02:00</lastconfirm>
     </date>
   </event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2026-04-28T16:14:27+02:00</create>
-      <lastuse>2026-04-28T17:09:31+02:00</lastuse>
-      <lastconfirm>2026-04-28T16:39:33+02:00</lastconfirm>
+      <lastuse>2026-04-28T17:15:57+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:45:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-04-30T16:27:55+02:00</lastuse>
-      <lastconfirm>2026-04-28T16:27:55+02:00</lastconfirm>
+      <lastuse>2026-04-30T16:44:58+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:44:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +476,8 @@
     </location>
     <date>
       <create>2026-03-04T07:00:03+01:00</create>
-      <lastuse>2026-04-30T16:39:04+02:00</lastuse>
-      <lastconfirm>2026-04-28T16:39:06+02:00</lastconfirm>
+      <lastuse>2026-04-30T16:40:22+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:40:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +764,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-04-30T16:23:33+02:00</lastuse>
-      <lastconfirm>2026-04-28T16:23:33+02:00</lastconfirm>
+      <lastuse>2026-04-30T16:41:39+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:41:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +812,8 @@
     </location>
     <date>
       <create>2026-04-04T14:58:14+02:00</create>
-      <lastuse>2026-04-30T16:21:12+02:00</lastuse>
-      <lastconfirm>2026-04-28T16:21:12+02:00</lastconfirm>
+      <lastuse>2026-04-30T16:40:47+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:40:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -860,7 +860,7 @@
     </location>
     <date>
       <create>2026-04-09T09:38:11+02:00</create>
-      <lastuse>2026-04-30T00:30:17+02:00</lastuse>
+      <lastuse>2026-04-29T16:30:17+02:00</lastuse>
       <lastconfirm>2026-04-09T09:38:11+02:00</lastconfirm>
     </date>
   </event>
@@ -884,8 +884,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-04-30T16:32:23+02:00</lastuse>
-      <lastconfirm>2026-04-28T16:32:23+02:00</lastconfirm>
+      <lastuse>2026-04-30T16:43:14+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:43:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +980,8 @@
     </location>
     <date>
       <create>2026-04-15T09:08:05+02:00</create>
-      <lastuse>2026-04-30T08:28:06+02:00</lastuse>
-      <lastconfirm>2026-04-15T09:08:05+02:00</lastconfirm>
+      <lastuse>2026-04-30T16:41:58+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:42:00+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1460,8 +1460,32 @@
     </location>
     <date>
       <create>2026-04-28T16:16:20+02:00</create>
-      <lastuse>2026-04-29T00:36:18+02:00</lastuse>
-      <lastconfirm>2026-04-28T16:36:18+02:00</lastconfirm>
+      <lastuse>2026-04-29T00:41:49+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:41:50+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18924194732</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-HH</state>
+      <street>Auenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.426674</latitude>
+        <longitude>10.883442</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-04-28T16:32:52+02:00</create>
+      <lastuse>2026-04-30T16:44:13+02:00</lastuse>
+      <lastconfirm>2026-04-28T16:44:14+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
