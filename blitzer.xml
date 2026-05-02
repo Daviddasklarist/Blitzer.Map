@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>18957695810</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355987</latitude>
+        <longitude>10.966094</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-02T17:12:26+02:00</create>
+      <lastuse>2026-05-02T20:42:47+02:00</lastuse>
+      <lastconfirm>2026-05-02T18:42:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18957903184</id>
     <type>1</type>
     <speed>30</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-05-02T17:46:16+02:00</create>
-      <lastuse>2026-05-02T20:35:17+02:00</lastuse>
-      <lastconfirm>2026-05-02T18:35:20+02:00</lastconfirm>
+      <lastuse>2026-05-02T20:40:14+02:00</lastuse>
+      <lastconfirm>2026-05-02T18:40:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -121,34 +145,10 @@
     </date>
   </event>
   <event>
-    <id>18958026144</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86368</zip>
-      <city>Gersthofen</city>
-      <state>DE-BY</state>
-      <street>B2</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.439018</latitude>
-        <longitude>10.871761</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-02T18:07:43+02:00</create>
-      <lastuse>2026-05-02T19:00:50+02:00</lastuse>
-      <lastconfirm>2026-05-02T18:30:51+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18958152632</id>
     <type>23</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -164,15 +164,15 @@
     </location>
     <date>
       <create>2026-05-02T18:29:38+02:00</create>
-      <lastuse>2026-05-02T19:05:20+02:00</lastuse>
-      <lastconfirm>2026-05-02T18:35:21+02:00</lastconfirm>
+      <lastuse>2026-05-02T19:09:58+02:00</lastuse>
+      <lastconfirm>2026-05-02T18:39:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18957786081</id>
     <type>20</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86165</zip>
       <city>Augsburg</city>
@@ -188,7 +188,7 @@
     </location>
     <date>
       <create>2026-05-02T17:27:47+02:00</create>
-      <lastuse>2026-05-02T19:26:24+02:00</lastuse>
+      <lastuse>2026-05-02T19:06:24+02:00</lastuse>
       <lastconfirm>2026-05-02T18:26:24+02:00</lastconfirm>
     </date>
   </event>
@@ -230,13 +230,13 @@
     </address>
     <location>
       <point>
-        <latitude>48.397362</latitude>
-        <longitude>11.024337</longitude>
+        <latitude>48.397799</latitude>
+        <longitude>11.022811</longitude>
       </point>
     </location>
     <date>
       <create>2026-05-02T18:31:01+02:00</create>
-      <lastuse>2026-05-02T18:42:00+02:00</lastuse>
+      <lastuse>2026-05-02T18:48:00+02:00</lastuse>
       <lastconfirm>2026-05-02T18:31:01+02:00</lastconfirm>
     </date>
   </event>
@@ -788,8 +788,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-05-04T18:31:55+02:00</lastuse>
-      <lastconfirm>2026-05-02T18:31:55+02:00</lastconfirm>
+      <lastuse>2026-05-04T18:38:26+02:00</lastuse>
+      <lastconfirm>2026-05-02T18:38:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +884,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-05-04T18:24:28+02:00</lastuse>
-      <lastconfirm>2026-05-02T18:24:28+02:00</lastconfirm>
+      <lastuse>2026-05-04T18:39:44+02:00</lastuse>
+      <lastconfirm>2026-05-02T18:39:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +956,8 @@
     </location>
     <date>
       <create>2026-04-15T09:08:05+02:00</create>
-      <lastuse>2026-05-04T18:34:48+02:00</lastuse>
-      <lastconfirm>2026-05-02T18:34:48+02:00</lastconfirm>
+      <lastuse>2026-05-04T18:39:12+02:00</lastuse>
+      <lastconfirm>2026-05-02T18:39:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1412,8 +1412,8 @@
     </location>
     <date>
       <create>2026-04-29T19:33:40+02:00</create>
-      <lastuse>2026-05-04T18:33:21+02:00</lastuse>
-      <lastconfirm>2026-05-02T18:33:21+02:00</lastconfirm>
+      <lastuse>2026-05-04T18:39:24+02:00</lastuse>
+      <lastconfirm>2026-05-02T18:39:26+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
