@@ -241,30 +241,6 @@
     </date>
   </event>
   <event>
-    <id>18971604090</id>
-    <type>23</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.406169</latitude>
-        <longitude>10.568623</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-04T10:38:06+02:00</create>
-      <lastuse>2026-05-04T11:12:20+02:00</lastuse>
-      <lastconfirm>2026-05-04T10:42:21+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -332,8 +308,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-05-06T10:04:15+02:00</lastuse>
-      <lastconfirm>2026-05-04T10:04:15+02:00</lastconfirm>
+      <lastuse>2026-05-06T10:40:40+02:00</lastuse>
+      <lastconfirm>2026-05-04T10:40:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-13T14:58:02+01:00</create>
-      <lastuse>2026-05-06T09:01:53+02:00</lastuse>
-      <lastconfirm>2026-05-04T09:01:53+02:00</lastconfirm>
+      <lastuse>2026-05-06T10:43:21+02:00</lastuse>
+      <lastconfirm>2026-05-04T10:43:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1028,8 @@
     </location>
     <date>
       <create>2026-04-19T21:50:24+02:00</create>
-      <lastuse>2026-05-06T10:39:00+02:00</lastuse>
-      <lastconfirm>2026-05-04T10:39:02+02:00</lastconfirm>
+      <lastuse>2026-05-06T10:44:48+02:00</lastuse>
+      <lastconfirm>2026-05-04T10:44:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1076,8 @@
     </location>
     <date>
       <create>2026-04-22T05:34:38+02:00</create>
-      <lastuse>2026-05-06T10:37:00+02:00</lastuse>
-      <lastconfirm>2026-05-04T10:37:02+02:00</lastconfirm>
+      <lastuse>2026-05-06T10:42:47+02:00</lastuse>
+      <lastconfirm>2026-05-04T10:42:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1388,8 +1364,8 @@
     </location>
     <date>
       <create>2026-04-29T14:47:40+02:00</create>
-      <lastuse>2026-05-06T10:35:07+02:00</lastuse>
-      <lastconfirm>2026-05-04T10:35:07+02:00</lastconfirm>
+      <lastuse>2026-05-06T10:44:06+02:00</lastuse>
+      <lastconfirm>2026-05-04T10:44:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1412,15 +1388,15 @@
     </location>
     <date>
       <create>2026-05-03T13:19:57+02:00</create>
-      <lastuse>2026-05-06T10:28:29+02:00</lastuse>
-      <lastconfirm>2026-05-04T10:28:29+02:00</lastconfirm>
+      <lastuse>2026-05-06T10:44:56+02:00</lastuse>
+      <lastconfirm>2026-05-04T10:44:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>18971519564</id>
     <type>22</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86462</zip>
       <city>Langweid am Lech</city>
@@ -1436,8 +1412,32 @@
     </location>
     <date>
       <create>2026-05-04T10:24:28+02:00</create>
-      <lastuse>2026-05-04T18:28:22+02:00</lastuse>
-      <lastconfirm>2026-05-04T10:28:22+02:00</lastconfirm>
+      <lastuse>2026-05-04T18:44:42+02:00</lastuse>
+      <lastconfirm>2026-05-04T10:44:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>18971611757</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-HH</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.419491</latitude>
+        <longitude>10.688029</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-04T10:37:16+02:00</create>
+      <lastuse>2026-05-04T18:44:50+02:00</lastuse>
+      <lastconfirm>2026-05-04T10:44:51+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
