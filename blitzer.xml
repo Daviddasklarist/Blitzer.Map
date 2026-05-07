@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19105079068</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Karlsruher Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.403165</latitude>
-        <longitude>10.864106</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-07T06:12:54+02:00</create>
-      <lastuse>2026-05-07T10:25:32+02:00</lastuse>
-      <lastconfirm>2026-05-07T09:55:33+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19105341696</id>
     <type>1</type>
     <speed>70</speed>
@@ -140,8 +116,32 @@
     </location>
     <date>
       <create>2026-05-07T10:00:02+02:00</create>
-      <lastuse>2026-05-07T12:37:35+02:00</lastuse>
-      <lastconfirm>2026-05-07T10:37:36+02:00</lastconfirm>
+      <lastuse>2026-05-07T12:43:45+02:00</lastuse>
+      <lastconfirm>2026-05-07T10:43:46+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19106663496</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86161</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Friedberger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.355150</latitude>
+        <longitude>10.922749</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-07T10:33:29+02:00</create>
+      <lastuse>2026-05-07T12:45:34+02:00</lastuse>
+      <lastconfirm>2026-05-07T10:45:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,32 +212,8 @@
     </location>
     <date>
       <create>2026-05-07T10:18:07+02:00</create>
-      <lastuse>2026-05-07T11:11:18+02:00</lastuse>
-      <lastconfirm>2026-05-07T10:41:19+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19106572227</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86156</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Ackermann-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.373566</latitude>
-        <longitude>10.854684</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-07T10:19:22+02:00</create>
-      <lastuse>2026-05-07T10:52:20+02:00</lastuse>
-      <lastconfirm>2026-05-07T10:32:20+02:00</lastconfirm>
+      <lastuse>2026-05-07T11:16:45+02:00</lastuse>
+      <lastconfirm>2026-05-07T10:46:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +332,8 @@
     </location>
     <date>
       <create>2025-11-25T15:54:36+01:00</create>
-      <lastuse>2026-05-09T07:21:06+02:00</lastuse>
-      <lastconfirm>2026-05-07T07:21:06+02:00</lastconfirm>
+      <lastuse>2026-05-09T10:42:36+02:00</lastuse>
+      <lastconfirm>2026-05-07T10:42:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -548,8 +524,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-05-09T10:36:55+02:00</lastuse>
-      <lastconfirm>2026-05-07T10:36:55+02:00</lastconfirm>
+      <lastuse>2026-05-09T10:43:18+02:00</lastuse>
+      <lastconfirm>2026-05-07T10:43:19+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -884,8 +860,8 @@
     </location>
     <date>
       <create>2026-04-16T10:59:24+02:00</create>
-      <lastuse>2026-05-08T06:18:25+02:00</lastuse>
-      <lastconfirm>2026-04-16T10:59:24+02:00</lastconfirm>
+      <lastuse>2026-05-09T10:42:29+02:00</lastuse>
+      <lastconfirm>2026-05-07T10:42:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1316,8 +1292,8 @@
     </location>
     <date>
       <create>2026-05-04T15:24:17+02:00</create>
-      <lastuse>2026-05-08T20:43:58+02:00</lastuse>
-      <lastconfirm>2026-05-06T20:43:59+02:00</lastconfirm>
+      <lastuse>2026-05-09T10:42:41+02:00</lastuse>
+      <lastconfirm>2026-05-07T10:42:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
