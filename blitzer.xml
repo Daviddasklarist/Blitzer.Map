@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19118811838</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Bürgermeister-Aurnhammer-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337585</latitude>
+        <longitude>10.867933</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-08T19:56:52+02:00</create>
+      <lastuse>2026-05-08T23:25:42+02:00</lastuse>
+      <lastconfirm>2026-05-08T21:25:42+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19119121407</id>
     <type>1</type>
     <speed>50</speed>
@@ -118,30 +142,6 @@
       <create>2026-05-06T19:15:43+02:00</create>
       <lastuse>2026-05-09T05:01:23+02:00</lastuse>
       <lastconfirm>2026-05-08T21:01:24+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19119166774</id>
-    <type>29</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.347031</latitude>
-        <longitude>10.874555</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-08T20:55:06+02:00</create>
-      <lastuse>2026-05-08T21:41:09+02:00</lastuse>
-      <lastconfirm>2026-05-08T21:11:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
