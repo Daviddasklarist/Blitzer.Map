@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19123286580</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Oberbürgermeister-Müller-Ring</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.357405</latitude>
-        <longitude>10.850808</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-09T09:47:37+02:00</create>
-      <lastuse>2026-05-09T19:01:48+02:00</lastuse>
-      <lastconfirm>2026-05-09T17:01:49+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19124938564</id>
     <type>1</type>
     <speed>50</speed>
@@ -49,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>19125054793</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337383</latitude>
+        <longitude>10.906690</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-09T14:41:04+02:00</create>
+      <lastuse>2026-05-09T19:07:29+02:00</lastuse>
+      <lastconfirm>2026-05-09T17:07:30+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19125436180</id>
     <type>2</type>
     <speed></speed>
@@ -70,30 +70,6 @@
       <create>2026-05-09T15:44:11+02:00</create>
       <lastuse>2026-05-09T18:19:05+02:00</lastuse>
       <lastconfirm>2026-05-09T16:49:05+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19125462915</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86391</zip>
-      <city>Stadtbergen</city>
-      <state>DE-BY</state>
-      <street>Daimlerstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.377397</latitude>
-        <longitude>10.841784</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-09T15:48:05+02:00</create>
-      <lastuse>2026-05-09T18:13:46+02:00</lastuse>
-      <lastconfirm>2026-05-09T16:43:46+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +428,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-05-11T08:54:25+02:00</lastuse>
-      <lastconfirm>2026-03-05T16:38:33+01:00</lastconfirm>
+      <lastuse>2026-05-11T17:00:47+02:00</lastuse>
+      <lastconfirm>2026-05-09T17:00:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +716,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-05-11T16:59:35+02:00</lastuse>
-      <lastconfirm>2026-05-09T16:59:36+02:00</lastconfirm>
+      <lastuse>2026-05-11T17:03:13+02:00</lastuse>
+      <lastconfirm>2026-05-09T17:03:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +740,8 @@
     </location>
     <date>
       <create>2026-04-15T09:08:05+02:00</create>
-      <lastuse>2026-05-11T08:47:49+02:00</lastuse>
-      <lastconfirm>2026-04-15T09:08:05+02:00</lastconfirm>
+      <lastuse>2026-05-11T17:04:14+02:00</lastuse>
+      <lastconfirm>2026-05-09T17:04:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
