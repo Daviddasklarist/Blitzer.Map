@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19133756011</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86830</zip>
-      <city>Schwabmünchen</city>
-      <state>DE-BY</state>
-      <street>Alpenstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.172055</latitude>
-        <longitude>10.756052</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-10T16:51:10+02:00</create>
-      <lastuse>2026-05-10T19:36:58+02:00</lastuse>
-      <lastconfirm>2026-05-10T17:36:59+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19133852420</id>
     <type>1</type>
     <speed>30</speed>
@@ -100,7 +76,7 @@
     <id>19133915219</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -116,8 +92,8 @@
     </location>
     <date>
       <create>2026-05-10T17:19:19+02:00</create>
-      <lastuse>2026-05-10T18:10:09+02:00</lastuse>
-      <lastconfirm>2026-05-10T17:50:09+02:00</lastconfirm>
+      <lastuse>2026-05-10T18:25:36+02:00</lastuse>
+      <lastconfirm>2026-05-10T17:55:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,7 +116,7 @@
     </location>
     <date>
       <create>2026-05-10T17:20:35+02:00</create>
-      <lastuse>2026-05-10T18:21:30+02:00</lastuse>
+      <lastuse>2026-05-10T18:11:30+02:00</lastuse>
       <lastconfirm>2026-05-10T17:51:31+02:00</lastconfirm>
     </date>
   </event>
@@ -404,8 +380,8 @@
     </location>
     <date>
       <create>2026-03-05T16:38:33+01:00</create>
-      <lastuse>2026-05-12T01:27:22+02:00</lastuse>
-      <lastconfirm>2026-03-05T16:38:33+01:00</lastconfirm>
+      <lastuse>2026-05-12T17:50:23+02:00</lastuse>
+      <lastconfirm>2026-05-10T17:50:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +620,8 @@
     </location>
     <date>
       <create>2026-04-04T14:58:14+02:00</create>
-      <lastuse>2026-05-12T17:42:20+02:00</lastuse>
-      <lastconfirm>2026-05-10T17:42:21+02:00</lastconfirm>
+      <lastuse>2026-05-12T17:51:02+02:00</lastuse>
+      <lastconfirm>2026-05-10T17:51:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -692,8 +668,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-05-12T17:44:38+02:00</lastuse>
-      <lastconfirm>2026-05-10T17:44:38+02:00</lastconfirm>
+      <lastuse>2026-05-12T17:52:16+02:00</lastuse>
+      <lastconfirm>2026-05-10T17:52:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -812,8 +788,8 @@
     </location>
     <date>
       <create>2026-04-22T05:34:38+02:00</create>
-      <lastuse>2026-05-12T17:43:11+02:00</lastuse>
-      <lastconfirm>2026-05-10T17:43:12+02:00</lastconfirm>
+      <lastuse>2026-05-12T17:51:41+02:00</lastuse>
+      <lastconfirm>2026-05-10T17:51:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +980,8 @@
     </location>
     <date>
       <create>2026-04-29T07:35:48+02:00</create>
-      <lastuse>2026-05-11T22:23:11+02:00</lastuse>
-      <lastconfirm>2026-05-09T22:23:11+02:00</lastconfirm>
+      <lastuse>2026-05-12T17:54:10+02:00</lastuse>
+      <lastconfirm>2026-05-10T17:54:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1076,8 @@
     </location>
     <date>
       <create>2026-05-04T17:38:36+02:00</create>
-      <lastuse>2026-05-12T17:36:47+02:00</lastuse>
-      <lastconfirm>2026-05-10T17:36:47+02:00</lastconfirm>
+      <lastuse>2026-05-12T17:51:47+02:00</lastuse>
+      <lastconfirm>2026-05-10T17:51:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1292,8 +1268,8 @@
     </location>
     <date>
       <create>2026-05-09T09:00:24+02:00</create>
-      <lastuse>2026-05-12T17:32:55+02:00</lastuse>
-      <lastconfirm>2026-05-10T17:32:55+02:00</lastconfirm>
+      <lastuse>2026-05-12T17:51:57+02:00</lastuse>
+      <lastconfirm>2026-05-10T17:51:57+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
