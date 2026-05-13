@@ -25,30 +25,6 @@
     </date>
   </event>
   <event>
-    <id>19158721075</id>
-    <type>1</type>
-    <speed>60</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86415</zip>
-      <city>Mering</city>
-      <state>DE-BY</state>
-      <street>St 2380</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.266452</latitude>
-        <longitude>10.943369</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-13T16:06:34+02:00</create>
-      <lastuse>2026-05-13T20:06:34+02:00</lastuse>
-      <lastconfirm>2026-05-13T18:41:18+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19159254090</id>
     <type>1</type>
     <speed>50</speed>
@@ -69,7 +45,7 @@
     <date>
       <create>2026-05-13T17:20:02+02:00</create>
       <lastuse>2026-05-13T21:20:02+02:00</lastuse>
-      <lastconfirm>2026-05-13T19:01:38+02:00</lastconfirm>
+      <lastconfirm>2026-05-13T19:07:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -94,6 +70,30 @@
       <create>2026-05-12T10:06:05+02:00</create>
       <lastuse>2026-05-14T02:50:07+02:00</lastuse>
       <lastconfirm>2026-05-13T18:50:07+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19159934791</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.349945</latitude>
+        <longitude>10.863747</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-13T18:59:37+02:00</create>
+      <lastuse>2026-05-13T19:37:11+02:00</lastuse>
+      <lastconfirm>2026-05-13T19:07:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +596,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-05-15T18:56:45+02:00</lastuse>
-      <lastconfirm>2026-05-13T18:56:46+02:00</lastconfirm>
+      <lastuse>2026-05-15T19:01:39+02:00</lastuse>
+      <lastconfirm>2026-05-13T19:01:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +764,8 @@
     </location>
     <date>
       <create>2026-04-29T07:35:48+02:00</create>
-      <lastuse>2026-05-15T18:09:13+02:00</lastuse>
-      <lastconfirm>2026-05-13T18:09:14+02:00</lastconfirm>
+      <lastuse>2026-05-15T19:04:25+02:00</lastuse>
+      <lastconfirm>2026-05-13T19:04:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1052,8 @@
     </location>
     <date>
       <create>2026-05-13T16:17:13+02:00</create>
-      <lastuse>2026-05-14T00:31:02+02:00</lastuse>
-      <lastconfirm>2026-05-13T16:17:13+02:00</lastconfirm>
+      <lastuse>2026-05-14T03:00:05+02:00</lastuse>
+      <lastconfirm>2026-05-13T19:00:05+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
