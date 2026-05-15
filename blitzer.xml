@@ -572,8 +572,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-05-17T12:22:55+02:00</lastuse>
-      <lastconfirm>2026-04-11T20:56:37+02:00</lastconfirm>
+      <lastuse>2026-05-17T21:05:37+02:00</lastuse>
+      <lastconfirm>2026-05-15T21:05:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -962,7 +962,7 @@
   </event>
   <event>
     <id>19168564300</id>
-    <type>22</type>
+    <type>26</type>
     <speed></speed>
     <quality>3</quality>
     <address>
@@ -982,6 +982,30 @@
       <create>2026-05-14T21:05:20+02:00</create>
       <lastuse>2026-05-16T03:35:02+02:00</lastuse>
       <lastconfirm>2026-05-15T19:35:02+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19176606859</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Bürgermeister-Aurnhammer-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.336046</latitude>
+        <longitude>10.867177</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-15T20:59:47+02:00</create>
+      <lastuse>2026-05-16T05:06:31+02:00</lastuse>
+      <lastconfirm>2026-05-15T21:06:32+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
