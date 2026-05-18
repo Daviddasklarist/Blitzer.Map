@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19200574256</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Derchinger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.403407</latitude>
+        <longitude>10.970809</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-18T18:53:27+02:00</create>
+      <lastuse>2026-05-18T23:40:51+02:00</lastuse>
+      <lastconfirm>2026-05-18T21:40:52+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19200637882</id>
     <type>1</type>
     <speed>30</speed>
@@ -22,6 +46,30 @@
       <create>2026-05-18T19:04:26+02:00</create>
       <lastuse>2026-05-18T23:34:55+02:00</lastuse>
       <lastconfirm>2026-05-18T21:34:56+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19201461720</id>
+    <type>21</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Ulmer Landstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369980</latitude>
+        <longitude>10.816937</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-18T21:27:23+02:00</create>
+      <lastuse>2026-05-18T22:41:28+02:00</lastuse>
+      <lastconfirm>2026-05-18T21:41:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
