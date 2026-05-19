@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19203479119</id>
+    <type>1</type>
+    <speed>20</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86405</zip>
+      <city>Meitingen</city>
+      <state>DE-BY</state>
+      <street>Raiffeisenstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.546868</latitude>
+        <longitude>10.847229</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-19T04:02:19+02:00</create>
+      <lastuse>2026-05-19T07:43:27+02:00</lastuse>
+      <lastconfirm>2026-05-19T05:43:29+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-05-21T05:34:50+02:00</lastuse>
-      <lastconfirm>2026-05-19T05:34:51+02:00</lastconfirm>
+      <lastuse>2026-05-21T05:39:47+02:00</lastuse>
+      <lastconfirm>2026-05-19T05:39:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-05-21T05:18:00+02:00</lastuse>
-      <lastconfirm>2026-05-19T05:18:02+02:00</lastconfirm>
+      <lastuse>2026-05-21T05:39:40+02:00</lastuse>
+      <lastconfirm>2026-05-19T05:39:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2026-04-19T21:50:24+02:00</create>
-      <lastuse>2026-05-21T05:33:23+02:00</lastuse>
-      <lastconfirm>2026-05-19T05:33:23+02:00</lastconfirm>
+      <lastuse>2026-05-20T21:36:39+02:00</lastuse>
+      <lastconfirm>2026-04-19T21:50:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -764,8 +788,8 @@
     </location>
     <date>
       <create>2026-05-17T19:38:43+02:00</create>
-      <lastuse>2026-05-21T05:20:14+02:00</lastuse>
-      <lastconfirm>2026-05-19T05:20:15+02:00</lastconfirm>
+      <lastuse>2026-05-21T05:35:43+02:00</lastuse>
+      <lastconfirm>2026-05-19T05:35:43+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -980,8 +1004,8 @@
     </location>
     <date>
       <create>2026-05-18T20:24:53+02:00</create>
-      <lastuse>2026-05-19T13:34:38+02:00</lastuse>
-      <lastconfirm>2026-05-19T05:34:39+02:00</lastconfirm>
+      <lastuse>2026-05-19T09:34:38+02:00</lastuse>
+      <lastconfirm>2026-05-18T20:24:53+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
