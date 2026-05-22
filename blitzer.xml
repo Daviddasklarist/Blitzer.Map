@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19231770419</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>3</quality>
-    <address>
-      <zip>86836</zip>
-      <city>Untermeitingen</city>
-      <state>DE-BY</state>
-      <street>Südostspange</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.172146</latitude>
-        <longitude>10.792259</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-22T12:15:24+02:00</create>
-      <lastuse>2026-05-22T18:54:21+02:00</lastuse>
-      <lastconfirm>2026-05-22T17:54:21+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19232281732</id>
     <type>1</type>
     <speed>120</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86368</zip>
       <city>Gersthofen</city>
@@ -44,8 +20,8 @@
     </location>
     <date>
       <create>2026-05-22T13:31:25+02:00</create>
-      <lastuse>2026-05-22T20:37:47+02:00</lastuse>
-      <lastconfirm>2026-05-22T18:52:49+02:00</lastconfirm>
+      <lastuse>2026-05-22T20:57:39+02:00</lastuse>
+      <lastconfirm>2026-05-22T18:57:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -116,8 +92,32 @@
     </location>
     <date>
       <create>2026-05-22T18:40:22+02:00</create>
-      <lastuse>2026-05-22T19:21:51+02:00</lastuse>
-      <lastconfirm>2026-05-22T18:51:51+02:00</lastconfirm>
+      <lastuse>2026-05-22T19:14:10+02:00</lastuse>
+      <lastconfirm>2026-05-22T18:54:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19234522079</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.180015</latitude>
+        <longitude>10.843185</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-22T18:45:12+02:00</create>
+      <lastuse>2026-05-22T19:25:48+02:00</lastuse>
+      <lastconfirm>2026-05-22T18:55:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +452,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-05-24T18:48:01+02:00</lastuse>
-      <lastconfirm>2026-05-22T18:48:02+02:00</lastconfirm>
+      <lastuse>2026-05-24T18:51:40+02:00</lastuse>
+      <lastconfirm>2026-05-22T18:51:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +572,8 @@
     </location>
     <date>
       <create>2026-04-19T21:50:24+02:00</create>
-      <lastuse>2026-05-24T18:46:34+02:00</lastuse>
-      <lastconfirm>2026-05-22T18:46:35+02:00</lastconfirm>
+      <lastuse>2026-05-24T18:52:43+02:00</lastuse>
+      <lastconfirm>2026-05-22T18:52:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
