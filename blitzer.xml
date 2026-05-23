@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19238317924</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377065</latitude>
+        <longitude>10.856763</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-23T05:54:52+02:00</create>
+      <lastuse>2026-05-23T08:07:18+02:00</lastuse>
+      <lastconfirm>2026-05-23T06:07:18+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19214201888</id>
     <type>7</type>
     <speed>50</speed>
@@ -404,8 +428,8 @@
     </location>
     <date>
       <create>2026-04-04T14:58:14+02:00</create>
-      <lastuse>2026-05-25T01:15:55+02:00</lastuse>
-      <lastconfirm>2026-05-23T01:15:55+02:00</lastconfirm>
+      <lastuse>2026-05-25T06:02:26+02:00</lastuse>
+      <lastconfirm>2026-05-23T06:02:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2026-05-21T16:04:51+02:00</create>
-      <lastuse>2026-05-25T02:44:36+02:00</lastuse>
-      <lastconfirm>2026-05-23T02:44:36+02:00</lastconfirm>
+      <lastuse>2026-05-25T06:04:20+02:00</lastuse>
+      <lastconfirm>2026-05-23T06:04:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
