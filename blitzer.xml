@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19247372069</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86159</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Rumplerstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.337296</latitude>
+        <longitude>10.902766</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-24T07:45:04+02:00</create>
+      <lastuse>2026-05-24T11:30:08+02:00</lastuse>
+      <lastconfirm>2026-05-24T09:30:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19214201888</id>
     <type>7</type>
     <speed>50</speed>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-05-26T09:21:13+02:00</lastuse>
-      <lastconfirm>2026-05-24T09:21:14+02:00</lastconfirm>
+      <lastuse>2026-05-26T09:29:48+02:00</lastuse>
+      <lastconfirm>2026-05-24T09:29:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -788,8 +812,8 @@
     </location>
     <date>
       <create>2026-05-18T13:55:17+02:00</create>
-      <lastuse>2026-05-26T09:20:28+02:00</lastuse>
-      <lastconfirm>2026-05-24T09:20:28+02:00</lastconfirm>
+      <lastuse>2026-05-26T09:25:34+02:00</lastuse>
+      <lastconfirm>2026-05-24T09:25:34+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2026-05-21T16:04:51+02:00</create>
-      <lastuse>2026-05-26T09:24:03+02:00</lastuse>
-      <lastconfirm>2026-05-24T09:24:05+02:00</lastconfirm>
+      <lastuse>2026-05-26T09:25:39+02:00</lastuse>
+      <lastconfirm>2026-05-24T09:25:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
