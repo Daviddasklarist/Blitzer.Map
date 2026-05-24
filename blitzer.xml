@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19251395085</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>ADAC-Fahrsicherheitstrainingszentrum Augsburg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409316</latitude>
+        <longitude>10.935951</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-24T19:13:49+02:00</create>
+      <lastuse>2026-05-24T21:20:32+02:00</lastuse>
+      <lastconfirm>2026-05-24T19:20:33+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19214201888</id>
     <type>7</type>
     <speed>50</speed>
@@ -92,8 +116,8 @@
     </location>
     <date>
       <create>2025-09-11T18:04:33+02:00</create>
-      <lastuse>2026-05-26T17:27:28+02:00</lastuse>
-      <lastconfirm>2026-05-24T17:27:29+02:00</lastconfirm>
+      <lastuse>2026-05-26T19:16:48+02:00</lastuse>
+      <lastconfirm>2026-05-24T19:16:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -356,8 +380,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-05-26T19:13:03+02:00</lastuse>
-      <lastconfirm>2026-05-24T19:13:03+02:00</lastconfirm>
+      <lastuse>2026-05-26T11:13:03+02:00</lastuse>
+      <lastconfirm>2026-04-01T16:32:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +956,8 @@
     </location>
     <date>
       <create>2026-05-21T16:04:51+02:00</create>
-      <lastuse>2026-05-26T19:10:56+02:00</lastuse>
-      <lastconfirm>2026-05-24T19:10:57+02:00</lastconfirm>
+      <lastuse>2026-05-26T19:17:22+02:00</lastuse>
+      <lastconfirm>2026-05-24T19:17:22+02:00</lastconfirm>
     </date>
   </event>
   <event>
