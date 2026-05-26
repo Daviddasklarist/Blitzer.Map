@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19270931857</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.401310</latitude>
+        <longitude>10.990735</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-27T01:51:53+02:00</create>
+      <lastuse>2026-05-27T02:27:20+02:00</lastuse>
+      <lastconfirm>2026-05-27T01:57:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
