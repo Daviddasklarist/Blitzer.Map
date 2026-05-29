@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19291785401</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86153</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Fichtelbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.367580</latitude>
-        <longitude>10.914675</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-29T11:41:05+02:00</create>
-      <lastuse>2026-05-29T16:31:35+02:00</lastuse>
-      <lastconfirm>2026-05-29T16:01:36+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19291819110</id>
     <type>1</type>
     <speed>50</speed>
@@ -70,54 +46,6 @@
       <create>2026-05-29T14:01:32+02:00</create>
       <lastuse>2026-05-29T18:01:32+02:00</lastuse>
       <lastconfirm>2026-05-29T15:06:31+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19293050814</id>
-    <type>1</type>
-    <speed>70</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86405</zip>
-      <city>Meitingen</city>
-      <state>DE-BY</state>
-      <street>A29</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.530128</latitude>
-        <longitude>10.859404</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-29T14:45:27+02:00</create>
-      <lastuse>2026-05-29T16:53:54+02:00</lastuse>
-      <lastconfirm>2026-05-29T15:53:55+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19293234975</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Landsberger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.259283</latitude>
-        <longitude>10.883450</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-05-29T15:11:12+02:00</create>
-      <lastuse>2026-05-29T17:20:53+02:00</lastuse>
-      <lastconfirm>2026-05-29T15:20:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -193,27 +121,27 @@
     </date>
   </event>
   <event>
-    <id>19293603719</id>
-    <type>23</type>
+    <id>19293701750</id>
+    <type>29</type>
     <speed></speed>
     <quality>2</quality>
     <address>
-      <zip>86441</zip>
-      <city>Zusmarshausen</city>
+      <zip>86199</zip>
+      <city>Augsburg</city>
       <state>DE-BY</state>
-      <street>A8</street>
+      <street>Oberbürgermeister-Müller-Ring</street>
       <country>DE</country>
     </address>
     <location>
       <point>
-        <latitude>48.403199</latitude>
-        <longitude>10.559194</longitude>
+        <latitude>48.348844</latitude>
+        <longitude>10.867531</longitude>
       </point>
     </location>
     <date>
-      <create>2026-05-29T16:04:34+02:00</create>
-      <lastuse>2026-05-29T16:24:23+02:00</lastuse>
-      <lastconfirm>2026-05-29T16:14:23+02:00</lastconfirm>
+      <create>2026-05-29T16:17:16+02:00</create>
+      <lastuse>2026-05-29T16:51:07+02:00</lastuse>
+      <lastconfirm>2026-05-29T16:21:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,7 +164,7 @@
     </location>
     <date>
       <create>2026-05-29T15:11:37+02:00</create>
-      <lastuse>2026-05-29T16:47:36+02:00</lastuse>
+      <lastuse>2026-05-29T16:27:36+02:00</lastuse>
       <lastconfirm>2026-05-29T16:07:36+02:00</lastconfirm>
     </date>
   </event>
@@ -284,8 +212,8 @@
     </location>
     <date>
       <create>2026-05-29T15:40:19+02:00</create>
-      <lastuse>2026-05-29T17:16:20+02:00</lastuse>
-      <lastconfirm>2026-05-29T16:16:20+02:00</lastconfirm>
+      <lastuse>2026-05-29T17:20:48+02:00</lastuse>
+      <lastconfirm>2026-05-29T16:20:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -310,6 +238,30 @@
       <create>2026-05-29T15:42:20+02:00</create>
       <lastuse>2026-05-29T17:09:37+02:00</lastuse>
       <lastconfirm>2026-05-29T16:09:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19293698830</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.346157</latitude>
+        <longitude>10.878598</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-29T16:16:44+02:00</create>
+      <lastuse>2026-05-29T17:20:05+02:00</lastuse>
+      <lastconfirm>2026-05-29T16:20:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -740,8 +692,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-05-31T16:07:07+02:00</lastuse>
-      <lastconfirm>2026-05-29T16:07:08+02:00</lastconfirm>
+      <lastuse>2026-05-31T16:19:07+02:00</lastuse>
+      <lastconfirm>2026-05-29T16:19:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
