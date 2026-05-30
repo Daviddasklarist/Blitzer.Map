@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19303360470</id>
+    <type>1</type>
+    <speed>100</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86836</zip>
+      <city>Graben</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.181253</latitude>
+        <longitude>10.843979</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-30T19:14:32+02:00</create>
+      <lastuse>2026-05-30T22:07:27+02:00</lastuse>
+      <lastconfirm>2026-05-30T20:07:27+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19273996622</id>
     <type>7</type>
     <speed>20</speed>
@@ -1148,8 +1172,8 @@
     </location>
     <date>
       <create>2026-05-29T21:39:36+02:00</create>
-      <lastuse>2026-06-01T19:56:03+02:00</lastuse>
-      <lastconfirm>2026-05-30T19:56:04+02:00</lastconfirm>
+      <lastuse>2026-06-01T20:03:55+02:00</lastuse>
+      <lastconfirm>2026-05-30T20:03:56+02:00</lastconfirm>
     </date>
   </event>
   <event>
