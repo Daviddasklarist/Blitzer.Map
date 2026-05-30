@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-05-29T19:11:27+02:00</create>
-      <lastuse>2026-05-30T02:40:44+02:00</lastuse>
-      <lastconfirm>2026-05-30T01:40:45+02:00</lastconfirm>
+      <lastuse>2026-05-30T04:01:43+02:00</lastuse>
+      <lastconfirm>2026-05-30T02:01:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -52,7 +52,7 @@
     <id>19296747389</id>
     <type>1</type>
     <speed>60</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86157</zip>
       <city>Augsburg</city>
@@ -142,6 +142,30 @@
       <create>2026-05-30T00:39:29+02:00</create>
       <lastuse>2026-05-30T02:17:25+02:00</lastuse>
       <lastconfirm>2026-05-30T01:47:25+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19297277830</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414513</latitude>
+        <longitude>10.872657</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-30T01:52:51+02:00</create>
+      <lastuse>2026-05-30T02:30:17+02:00</lastuse>
+      <lastconfirm>2026-05-30T02:00:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +500,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-06-01T01:54:41+02:00</lastuse>
-      <lastconfirm>2026-05-30T01:54:41+02:00</lastconfirm>
+      <lastuse>2026-06-01T01:56:13+02:00</lastuse>
+      <lastconfirm>2026-05-30T01:56:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +596,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-06-01T01:36:35+02:00</lastuse>
-      <lastconfirm>2026-05-30T01:36:37+02:00</lastconfirm>
+      <lastuse>2026-06-01T01:57:18+02:00</lastuse>
+      <lastconfirm>2026-05-30T01:57:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -596,8 +620,8 @@
     </location>
     <date>
       <create>2026-04-19T21:50:24+02:00</create>
-      <lastuse>2026-06-01T01:44:10+02:00</lastuse>
-      <lastconfirm>2026-05-30T01:44:11+02:00</lastconfirm>
+      <lastuse>2026-06-01T01:59:43+02:00</lastuse>
+      <lastconfirm>2026-05-30T01:59:44+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1246,6 +1270,30 @@
       <create>2026-05-29T21:39:36+02:00</create>
       <lastuse>2026-06-01T00:39:26+02:00</lastuse>
       <lastconfirm>2026-05-30T00:39:26+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19297205003</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.289692</latitude>
+        <longitude>10.896768</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-30T01:37:24+02:00</create>
+      <lastuse>2026-06-01T01:58:18+02:00</lastuse>
+      <lastconfirm>2026-05-30T01:58:18+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
