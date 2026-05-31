@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19308145202</id>
+    <type>1</type>
+    <speed>70</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86391</zip>
+      <city>Stadtbergen</city>
+      <state>DE-BY</state>
+      <street>Oberbürgermeister-Müller-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.357402</latitude>
+        <longitude>10.850933</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-05-31T09:35:03+02:00</create>
+      <lastuse>2026-05-31T11:38:10+02:00</lastuse>
+      <lastconfirm>2026-05-31T09:38:11+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19273996622</id>
     <type>7</type>
     <speed>20</speed>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-06-02T01:20:22+02:00</lastuse>
-      <lastconfirm>2026-05-31T01:20:22+02:00</lastconfirm>
+      <lastuse>2026-06-02T09:34:46+02:00</lastuse>
+      <lastconfirm>2026-05-31T09:34:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -380,8 +404,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-06-02T09:25:37+02:00</lastuse>
-      <lastconfirm>2026-05-31T09:25:37+02:00</lastconfirm>
+      <lastuse>2026-06-02T09:33:26+02:00</lastuse>
+      <lastconfirm>2026-05-31T09:33:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -500,8 +524,8 @@
     </location>
     <date>
       <create>2026-04-19T21:50:24+02:00</create>
-      <lastuse>2026-06-02T09:18:18+02:00</lastuse>
-      <lastconfirm>2026-05-31T09:18:18+02:00</lastconfirm>
+      <lastuse>2026-06-02T01:32:00+02:00</lastuse>
+      <lastconfirm>2026-04-19T21:50:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
