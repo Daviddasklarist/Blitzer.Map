@@ -172,7 +172,7 @@
     <id>19318793994</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2026-06-01T15:08:00+02:00</create>
-      <lastuse>2026-06-01T15:41:27+02:00</lastuse>
-      <lastconfirm>2026-06-01T15:11:27+02:00</lastconfirm>
+      <lastuse>2026-06-01T15:48:03+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:18:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +572,8 @@
     </location>
     <date>
       <create>2026-04-04T14:58:14+02:00</create>
-      <lastuse>2026-06-03T14:38:32+02:00</lastuse>
-      <lastconfirm>2026-06-01T14:38:32+02:00</lastconfirm>
+      <lastuse>2026-06-03T15:11:56+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:11:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -956,8 +956,8 @@
     </location>
     <date>
       <create>2026-05-21T15:38:17+02:00</create>
-      <lastuse>2026-06-03T14:11:19+02:00</lastuse>
-      <lastconfirm>2026-06-01T14:11:20+02:00</lastconfirm>
+      <lastuse>2026-06-03T15:14:10+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:14:11+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1100,8 @@
     </location>
     <date>
       <create>2026-05-27T13:38:32+02:00</create>
-      <lastuse>2026-06-03T13:23:24+02:00</lastuse>
-      <lastconfirm>2026-06-01T13:23:25+02:00</lastconfirm>
+      <lastuse>2026-06-03T15:11:07+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:11:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1342,6 +1342,30 @@
       <create>2026-06-01T10:46:51+02:00</create>
       <lastuse>2026-06-03T14:12:42+02:00</lastuse>
       <lastconfirm>2026-06-01T14:12:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19318311007</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Berliner Allee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.374175</latitude>
+        <longitude>10.916147</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-01T13:50:43+02:00</create>
+      <lastuse>2026-06-01T23:10:16+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:10:16+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
