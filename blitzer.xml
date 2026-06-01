@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19317344159</id>
-    <type>1</type>
-    <speed>30</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86356</zip>
-      <city>Neusäß</city>
-      <state>DE-BY</state>
-      <street>Ulmer Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.375021</latitude>
-        <longitude>10.823367</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-06-01T11:28:25+02:00</create>
-      <lastuse>2026-06-01T15:28:25+02:00</lastuse>
-      <lastconfirm>2026-06-01T13:51:55+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19317476028</id>
     <type>1</type>
     <speed>30</speed>
@@ -92,8 +68,32 @@
     </location>
     <date>
       <create>2026-06-01T14:06:13+02:00</create>
-      <lastuse>2026-06-01T17:24:44+02:00</lastuse>
-      <lastconfirm>2026-06-01T15:24:45+02:00</lastconfirm>
+      <lastuse>2026-06-01T17:29:22+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:29:22+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19318923719</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86356</zip>
+      <city>Neusäß</city>
+      <state>DE-BY</state>
+      <street>Konrad-Kopp-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377830</latitude>
+        <longitude>10.823332</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-01T15:26:11+02:00</create>
+      <lastuse>2026-06-01T17:30:16+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:30:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -148,7 +148,7 @@
     <id>19318793994</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86453</zip>
       <city>Dasing</city>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2026-06-01T15:08:00+02:00</create>
-      <lastuse>2026-06-01T15:43:31+02:00</lastuse>
-      <lastconfirm>2026-06-01T15:23:31+02:00</lastconfirm>
+      <lastuse>2026-06-01T16:02:15+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:32:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -190,6 +190,30 @@
       <create>2026-06-01T15:10:47+02:00</create>
       <lastuse>2026-06-01T16:24:55+02:00</lastuse>
       <lastconfirm>2026-06-01T15:24:56+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19318956410</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Landkreis Aichach-Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.377915</latitude>
+        <longitude>11.090609</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-01T15:30:02+02:00</create>
+      <lastuse>2026-06-01T15:37:00+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:30:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -524,8 +548,8 @@
     </location>
     <date>
       <create>2026-04-01T16:32:29+02:00</create>
-      <lastuse>2026-06-03T15:21:45+02:00</lastuse>
-      <lastconfirm>2026-06-01T15:21:45+02:00</lastconfirm>
+      <lastuse>2026-06-03T15:28:54+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:28:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -620,8 +644,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-06-03T15:08:30+02:00</lastuse>
-      <lastconfirm>2026-06-01T15:08:31+02:00</lastconfirm>
+      <lastuse>2026-06-03T15:29:15+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:29:15+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1172,8 +1196,8 @@
     </location>
     <date>
       <create>2026-05-28T12:40:59+02:00</create>
-      <lastuse>2026-06-03T06:39:34+02:00</lastuse>
-      <lastconfirm>2026-05-28T12:40:59+02:00</lastconfirm>
+      <lastuse>2026-06-03T15:28:25+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:28:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1268,8 +1292,8 @@
     </location>
     <date>
       <create>2026-05-29T21:39:36+02:00</create>
-      <lastuse>2026-06-03T15:06:22+02:00</lastuse>
-      <lastconfirm>2026-06-01T15:06:22+02:00</lastconfirm>
+      <lastuse>2026-06-03T15:26:35+02:00</lastuse>
+      <lastconfirm>2026-06-01T15:26:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
