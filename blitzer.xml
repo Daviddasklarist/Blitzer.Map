@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19347760198</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86152</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Oberer Graben</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.368939</latitude>
+        <longitude>10.901923</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-04T22:35:37+02:00</create>
+      <lastuse>2026-06-05T00:50:34+02:00</lastuse>
+      <lastconfirm>2026-06-04T22:50:35+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19333915249</id>
     <type>7</type>
     <speed>50</speed>
