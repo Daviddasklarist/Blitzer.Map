@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>19364080899</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86199</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Isegrimstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.341154</latitude>
+        <longitude>10.847703</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-06T20:37:39+02:00</create>
+      <lastuse>2026-06-07T00:12:40+02:00</lastuse>
+      <lastconfirm>2026-06-06T22:12:41+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19333915249</id>
     <type>7</type>
     <speed>50</speed>
@@ -68,32 +92,8 @@
     </location>
     <date>
       <create>2026-06-06T21:37:55+02:00</create>
-      <lastuse>2026-06-06T23:07:50+02:00</lastuse>
-      <lastconfirm>2026-06-06T22:07:51+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19364577492</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>3</quality>
-    <address>
-      <zip>86316</zip>
-      <city>Landkreis Aichach-Friedberg</city>
-      <state>DE-BY</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.399584</latitude>
-        <longitude>11.015086</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-06-06T22:01:02+02:00</create>
-      <lastuse>2026-06-06T22:13:00+02:00</lastuse>
-      <lastconfirm>2026-06-06T22:01:02+02:00</lastconfirm>
+      <lastuse>2026-06-06T23:10:47+02:00</lastuse>
+      <lastconfirm>2026-06-06T22:10:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -220,7 +220,7 @@
     <id>18496527697</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86343</zip>
       <city>Königsbrunn</city>
@@ -236,8 +236,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-06-08T04:18:58+02:00</lastuse>
-      <lastconfirm>2026-03-03T18:11:28+01:00</lastconfirm>
+      <lastuse>2026-06-08T22:06:14+02:00</lastuse>
+      <lastconfirm>2026-06-06T22:06:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -668,15 +668,15 @@
     </location>
     <date>
       <create>2026-05-06T08:02:11+02:00</create>
-      <lastuse>2026-06-08T21:39:50+02:00</lastuse>
-      <lastconfirm>2026-06-06T21:39:50+02:00</lastconfirm>
+      <lastuse>2026-06-08T22:08:32+02:00</lastuse>
+      <lastconfirm>2026-06-06T22:08:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>19117672383</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -692,8 +692,8 @@
     </location>
     <date>
       <create>2026-05-08T16:55:07+02:00</create>
-      <lastuse>2026-06-08T21:05:51+02:00</lastuse>
-      <lastconfirm>2026-06-06T21:05:51+02:00</lastconfirm>
+      <lastuse>2026-06-08T22:06:47+02:00</lastuse>
+      <lastconfirm>2026-06-06T22:06:49+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1028,8 @@
     </location>
     <date>
       <create>2026-06-01T15:04:12+02:00</create>
-      <lastuse>2026-06-08T21:54:27+02:00</lastuse>
-      <lastconfirm>2026-06-06T21:54:28+02:00</lastconfirm>
+      <lastuse>2026-06-08T22:09:39+02:00</lastuse>
+      <lastconfirm>2026-06-06T22:09:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1172,8 +1172,8 @@
     </location>
     <date>
       <create>2026-06-05T07:09:18+02:00</create>
-      <lastuse>2026-06-08T12:56:36+02:00</lastuse>
-      <lastconfirm>2026-06-05T07:09:18+02:00</lastconfirm>
+      <lastuse>2026-06-08T22:06:11+02:00</lastuse>
+      <lastconfirm>2026-06-06T22:06:12+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1222,6 +1222,30 @@
       <create>2026-06-06T14:53:24+02:00</create>
       <lastuse>2026-06-08T21:57:23+02:00</lastuse>
       <lastconfirm>2026-06-06T21:57:23+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19364299002</id>
+    <type>22</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-HH</state>
+      <street>Haunstetter Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.288827</latitude>
+        <longitude>10.896315</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-06T21:11:06+02:00</create>
+      <lastuse>2026-06-07T06:08:23+02:00</lastuse>
+      <lastconfirm>2026-06-06T22:08:23+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
