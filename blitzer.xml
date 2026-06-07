@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19372904017</id>
+    <type>2</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Meraner Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.383372</latitude>
+        <longitude>10.937080</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-07T21:52:48+02:00</create>
+      <lastuse>2026-06-08T01:48:23+02:00</lastuse>
+      <lastconfirm>2026-06-07T23:48:24+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19333915249</id>
     <type>7</type>
     <speed>50</speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-06-07T20:15:07+02:00</create>
-      <lastuse>2026-06-08T00:42:27+02:00</lastuse>
-      <lastconfirm>2026-06-07T23:42:28+02:00</lastconfirm>
+      <lastuse>2026-06-08T00:29:31+02:00</lastuse>
+      <lastconfirm>2026-06-07T23:49:32+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,8 @@
     </location>
     <date>
       <create>2026-06-07T22:47:56+02:00</create>
-      <lastuse>2026-06-08T00:09:08+02:00</lastuse>
-      <lastconfirm>2026-06-07T23:39:09+02:00</lastconfirm>
+      <lastuse>2026-06-08T00:09:04+02:00</lastuse>
+      <lastconfirm>2026-06-07T23:49:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1036,7 +1060,7 @@
     <id>19327381101</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -1052,8 +1076,8 @@
     </location>
     <date>
       <create>2026-06-02T14:52:59+02:00</create>
-      <lastuse>2026-06-09T23:34:41+02:00</lastuse>
-      <lastconfirm>2026-06-07T23:34:41+02:00</lastconfirm>
+      <lastuse>2026-06-09T15:34:41+02:00</lastuse>
+      <lastconfirm>2026-06-02T14:52:59+02:00</lastconfirm>
     </date>
   </event>
   <event>
