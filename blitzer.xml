@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19389819576</id>
+    <type>1</type>
+    <speed>80</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.404664</latitude>
+        <longitude>10.873734</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-09T20:04:46+02:00</create>
+      <lastuse>2026-06-09T22:04:46+02:00</lastuse>
+      <lastconfirm>2026-06-09T20:11:55+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19389039813</id>
     <type>21</type>
     <speed></speed>
@@ -44,8 +68,8 @@
     </location>
     <date>
       <create>2026-06-09T19:33:43+02:00</create>
-      <lastuse>2026-06-09T20:34:43+02:00</lastuse>
-      <lastconfirm>2026-06-09T20:04:43+02:00</lastconfirm>
+      <lastuse>2026-06-09T20:38:25+02:00</lastuse>
+      <lastconfirm>2026-06-09T20:08:25+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -68,8 +92,56 @@
     </location>
     <date>
       <create>2026-06-09T19:57:20+02:00</create>
-      <lastuse>2026-06-09T20:35:29+02:00</lastuse>
-      <lastconfirm>2026-06-09T20:05:29+02:00</lastconfirm>
+      <lastuse>2026-06-09T20:32:32+02:00</lastuse>
+      <lastconfirm>2026-06-09T20:12:32+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19389819329</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.414348</latitude>
+        <longitude>10.887937</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-09T20:04:06+02:00</create>
+      <lastuse>2026-06-09T20:42:19+02:00</lastuse>
+      <lastconfirm>2026-06-09T20:12:21+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19389839275</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86441</zip>
+      <city>Zusmarshausen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.405837</latitude>
+        <longitude>10.566514</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-09T20:06:52+02:00</create>
+      <lastuse>2026-06-09T20:43:17+02:00</lastuse>
+      <lastconfirm>2026-06-09T20:13:18+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +524,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-06-11T20:03:15+02:00</lastuse>
-      <lastconfirm>2026-06-09T20:03:16+02:00</lastconfirm>
+      <lastuse>2026-06-11T20:09:52+02:00</lastuse>
+      <lastconfirm>2026-06-09T20:09:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +908,8 @@
     </location>
     <date>
       <create>2026-05-29T11:24:49+02:00</create>
-      <lastuse>2026-06-11T18:35:05+02:00</lastuse>
-      <lastconfirm>2026-06-09T18:35:05+02:00</lastconfirm>
+      <lastuse>2026-06-11T20:05:38+02:00</lastuse>
+      <lastconfirm>2026-06-09T20:05:38+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -932,8 +1004,8 @@
     </location>
     <date>
       <create>2026-06-01T17:55:50+02:00</create>
-      <lastuse>2026-06-11T18:01:13+02:00</lastuse>
-      <lastconfirm>2026-06-09T18:01:13+02:00</lastconfirm>
+      <lastuse>2026-06-11T10:01:13+02:00</lastuse>
+      <lastconfirm>2026-06-01T17:55:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1316,8 +1388,8 @@
     </location>
     <date>
       <create>2026-06-09T14:03:38+02:00</create>
-      <lastuse>2026-06-10T04:03:03+02:00</lastuse>
-      <lastconfirm>2026-06-09T20:03:04+02:00</lastconfirm>
+      <lastuse>2026-06-10T04:09:38+02:00</lastuse>
+      <lastconfirm>2026-06-09T20:09:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
