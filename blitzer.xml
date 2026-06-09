@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19383960788</id>
+    <type>1</type>
+    <speed>40</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86415</zip>
+      <city>Mering</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.273502</latitude>
+        <longitude>10.984438</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-09T05:03:15+02:00</create>
+      <lastuse>2026-06-09T07:10:45+02:00</lastuse>
+      <lastconfirm>2026-06-09T05:40:45+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19333915249</id>
     <type>7</type>
     <speed>50</speed>
@@ -428,8 +452,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-06-11T05:27:10+02:00</lastuse>
-      <lastconfirm>2026-06-09T05:27:11+02:00</lastconfirm>
+      <lastuse>2026-06-11T05:38:52+02:00</lastuse>
+      <lastconfirm>2026-06-09T05:38:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -940,7 +964,7 @@
     <id>19327381101</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -956,7 +980,7 @@
     </location>
     <date>
       <create>2026-06-02T14:52:59+02:00</create>
-      <lastuse>2026-06-10T21:03:16+02:00</lastuse>
+      <lastuse>2026-06-10T13:03:16+02:00</lastuse>
       <lastconfirm>2026-06-02T14:52:59+02:00</lastconfirm>
     </date>
   </event>
@@ -1100,8 +1124,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-06-11T05:27:52+02:00</lastuse>
-      <lastconfirm>2026-06-09T05:27:53+02:00</lastconfirm>
+      <lastuse>2026-06-11T05:38:53+02:00</lastuse>
+      <lastconfirm>2026-06-09T05:38:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1196,8 +1220,8 @@
     </location>
     <date>
       <create>2026-06-08T11:34:20+02:00</create>
-      <lastuse>2026-06-11T05:28:15+02:00</lastuse>
-      <lastconfirm>2026-06-09T05:28:16+02:00</lastconfirm>
+      <lastuse>2026-06-11T05:35:50+02:00</lastuse>
+      <lastconfirm>2026-06-09T05:35:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1244,8 +1268,8 @@
     </location>
     <date>
       <create>2026-06-08T22:11:55+02:00</create>
-      <lastuse>2026-06-09T13:32:01+02:00</lastuse>
-      <lastconfirm>2026-06-09T05:32:01+02:00</lastconfirm>
+      <lastuse>2026-06-09T11:38:15+02:00</lastuse>
+      <lastconfirm>2026-06-08T22:11:55+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
