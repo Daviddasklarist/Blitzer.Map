@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19452665632</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86477</zip>
+      <city>Adelsried</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.416979</latitude>
+        <longitude>10.735441</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-16T22:13:51+02:00</create>
+      <lastuse>2026-06-16T23:02:22+02:00</lastuse>
+      <lastconfirm>2026-06-16T22:32:24+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -860,8 +884,8 @@
     </location>
     <date>
       <create>2026-06-02T04:56:13+02:00</create>
-      <lastuse>2026-06-18T12:07:17+02:00</lastuse>
-      <lastconfirm>2026-06-02T04:56:13+02:00</lastconfirm>
+      <lastuse>2026-06-18T22:29:47+02:00</lastuse>
+      <lastconfirm>2026-06-16T22:29:48+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1052,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-06-18T22:12:05+02:00</lastuse>
-      <lastconfirm>2026-06-16T22:12:06+02:00</lastconfirm>
+      <lastuse>2026-06-18T22:25:08+02:00</lastuse>
+      <lastconfirm>2026-06-16T22:25:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
