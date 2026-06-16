@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19446206645</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86453</zip>
+      <city>Dasing</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396111</latitude>
+        <longitude>11.040635</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-16T05:55:45+02:00</create>
+      <lastuse>2026-06-16T06:31:19+02:00</lastuse>
+      <lastconfirm>2026-06-16T06:01:19+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -868,7 +892,7 @@
     <id>19327381101</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -884,8 +908,8 @@
     </location>
     <date>
       <create>2026-06-02T14:52:59+02:00</create>
-      <lastuse>2026-06-18T05:53:22+02:00</lastuse>
-      <lastconfirm>2026-06-16T05:53:22+02:00</lastconfirm>
+      <lastuse>2026-06-18T05:59:38+02:00</lastuse>
+      <lastconfirm>2026-06-16T05:59:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1028,8 +1052,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-06-18T05:50:45+02:00</lastuse>
-      <lastconfirm>2026-06-16T05:50:45+02:00</lastconfirm>
+      <lastuse>2026-06-18T05:55:58+02:00</lastuse>
+      <lastconfirm>2026-06-16T05:55:58+02:00</lastconfirm>
     </date>
   </event>
   <event>
