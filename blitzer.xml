@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19453855970</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.419641</latitude>
+        <longitude>10.779543</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-17T01:47:37+02:00</create>
+      <lastuse>2026-06-17T02:50:51+02:00</lastuse>
+      <lastconfirm>2026-06-17T02:20:51+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -884,8 +908,8 @@
     </location>
     <date>
       <create>2026-06-02T14:52:59+02:00</create>
-      <lastuse>2026-06-19T02:03:40+02:00</lastuse>
-      <lastconfirm>2026-06-17T02:03:40+02:00</lastconfirm>
+      <lastuse>2026-06-19T02:17:13+02:00</lastuse>
+      <lastconfirm>2026-06-17T02:17:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1076,8 @@
     </location>
     <date>
       <create>2026-06-07T16:13:29+02:00</create>
-      <lastuse>2026-06-18T23:08:12+02:00</lastuse>
-      <lastconfirm>2026-06-16T23:08:13+02:00</lastconfirm>
+      <lastuse>2026-06-19T02:17:38+02:00</lastuse>
+      <lastconfirm>2026-06-17T02:17:39+02:00</lastconfirm>
     </date>
   </event>
   <event>
