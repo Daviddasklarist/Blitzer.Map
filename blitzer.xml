@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19467627937</id>
-    <type>1</type>
-    <speed>100</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-BY</state>
-      <street>B300</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.381295</latitude>
-        <longitude>11.019855</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-06-18T14:09:08+02:00</create>
-      <lastuse>2026-06-18T21:21:48+02:00</lastuse>
-      <lastconfirm>2026-06-18T20:51:48+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19470335123</id>
     <type>1</type>
     <speed>50</speed>
@@ -44,8 +20,32 @@
     </location>
     <date>
       <create>2026-06-18T20:38:57+02:00</create>
-      <lastuse>2026-06-18T23:10:29+02:00</lastuse>
-      <lastconfirm>2026-06-18T21:10:29+02:00</lastconfirm>
+      <lastuse>2026-06-18T23:15:53+02:00</lastuse>
+      <lastconfirm>2026-06-18T21:15:53+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19470400973</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86438</zip>
+      <city>Kissing</city>
+      <state>DE-BY</state>
+      <street>AIC 12</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.311973</latitude>
+        <longitude>10.998955</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-18T20:49:10+02:00</create>
+      <lastuse>2026-06-18T23:49:10+02:00</lastuse>
+      <lastconfirm>2026-06-18T21:16:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -70,6 +70,30 @@
       <create>2026-06-18T18:08:37+02:00</create>
       <lastuse>2026-06-19T03:37:38+02:00</lastuse>
       <lastconfirm>2026-06-18T20:37:38+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19470520260</id>
+    <type>29</type>
+    <speed></speed>
+    <quality>3</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.400080</latitude>
+        <longitude>11.009616</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-18T21:08:18+02:00</create>
+      <lastuse>2026-06-18T21:46:09+02:00</lastuse>
+      <lastconfirm>2026-06-18T21:16:10+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1028,8 @@
     </location>
     <date>
       <create>2026-06-06T14:53:24+02:00</create>
-      <lastuse>2026-06-20T20:31:26+02:00</lastuse>
-      <lastconfirm>2026-06-18T20:31:27+02:00</lastconfirm>
+      <lastuse>2026-06-20T21:11:08+02:00</lastuse>
+      <lastconfirm>2026-06-18T21:11:08+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1364,8 +1388,8 @@
     </location>
     <date>
       <create>2026-06-17T15:24:41+02:00</create>
-      <lastuse>2026-06-20T19:55:06+02:00</lastuse>
-      <lastconfirm>2026-06-18T19:55:07+02:00</lastconfirm>
+      <lastuse>2026-06-20T21:10:14+02:00</lastuse>
+      <lastconfirm>2026-06-18T21:10:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
