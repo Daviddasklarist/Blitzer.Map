@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19481879266</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86316</zip>
+      <city>Friedberg</city>
+      <state>DE-BY</state>
+      <street>Joseph-Hohenbleicher-Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.359223</latitude>
+        <longitude>10.977838</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-20T03:55:17+02:00</create>
+      <lastuse>2026-06-20T07:41:33+02:00</lastuse>
+      <lastconfirm>2026-06-20T05:41:34+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19470676644</id>
     <type>7</type>
     <speed>30</speed>
@@ -956,8 +980,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-06-21T21:04:12+02:00</lastuse>
-      <lastconfirm>2026-06-07T10:52:02+02:00</lastconfirm>
+      <lastuse>2026-06-22T05:35:08+02:00</lastuse>
+      <lastconfirm>2026-06-20T05:35:09+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1340,8 +1364,8 @@
     </location>
     <date>
       <create>2026-06-17T18:20:35+02:00</create>
-      <lastuse>2026-06-21T23:27:57+02:00</lastuse>
-      <lastconfirm>2026-06-19T23:27:58+02:00</lastconfirm>
+      <lastuse>2026-06-22T05:37:13+02:00</lastuse>
+      <lastconfirm>2026-06-20T05:37:14+02:00</lastconfirm>
     </date>
   </event>
   <event>
