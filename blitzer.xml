@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19499133061</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.443899</latitude>
+        <longitude>11.119988</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-22T04:57:13+02:00</create>
+      <lastuse>2026-06-22T07:00:24+02:00</lastuse>
+      <lastconfirm>2026-06-22T05:00:24+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19470676644</id>
     <type>7</type>
     <speed>30</speed>
