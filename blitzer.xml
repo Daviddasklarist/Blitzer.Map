@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19520092819</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86179</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Bürgermeister-Ulrich-Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.327729</latitude>
-        <longitude>10.905774</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-06-24T13:00:00+02:00</create>
-      <lastuse>2026-06-24T17:27:17+02:00</lastuse>
-      <lastconfirm>2026-06-24T16:57:17+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19520230614</id>
     <type>1</type>
     <speed>30</speed>
@@ -68,8 +44,8 @@
     </location>
     <date>
       <create>2026-06-24T15:59:05+02:00</create>
-      <lastuse>2026-06-24T18:39:44+02:00</lastuse>
-      <lastconfirm>2026-06-24T16:39:45+02:00</lastconfirm>
+      <lastuse>2026-06-24T19:16:26+02:00</lastuse>
+      <lastconfirm>2026-06-24T17:16:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,32 +140,8 @@
     </location>
     <date>
       <create>2026-06-24T16:51:49+02:00</create>
-      <lastuse>2026-06-24T17:40:22+02:00</lastuse>
-      <lastconfirm>2026-06-24T17:10:22+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19521543782</id>
-    <type>20</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86199</zip>
-      <city>Augsburg</city>
-      <state>DE-BY</state>
-      <street>Gögginger Straße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.346436</latitude>
-        <longitude>10.876722</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-06-24T16:31:24+02:00</create>
-      <lastuse>2026-06-24T18:11:45+02:00</lastuse>
-      <lastconfirm>2026-06-24T17:11:45+02:00</lastconfirm>
+      <lastuse>2026-06-24T17:36:30+02:00</lastuse>
+      <lastconfirm>2026-06-24T17:16:30+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,7 +164,7 @@
     </location>
     <date>
       <create>2026-06-24T17:02:30+02:00</create>
-      <lastuse>2026-06-24T18:12:32+02:00</lastuse>
+      <lastuse>2026-06-24T17:52:32+02:00</lastuse>
       <lastconfirm>2026-06-24T17:12:34+02:00</lastconfirm>
     </date>
   </event>
@@ -332,8 +284,8 @@
     </location>
     <date>
       <create>2026-02-13T14:58:02+01:00</create>
-      <lastuse>2026-06-26T16:42:05+02:00</lastuse>
-      <lastconfirm>2026-06-24T16:42:06+02:00</lastconfirm>
+      <lastuse>2026-06-26T17:12:40+02:00</lastuse>
+      <lastconfirm>2026-06-24T17:12:41+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -644,8 +596,8 @@
     </location>
     <date>
       <create>2026-04-19T21:50:24+02:00</create>
-      <lastuse>2026-06-26T16:55:25+02:00</lastuse>
-      <lastconfirm>2026-06-24T16:55:25+02:00</lastconfirm>
+      <lastuse>2026-06-26T17:14:33+02:00</lastuse>
+      <lastconfirm>2026-06-24T17:14:33+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +788,8 @@
     </location>
     <date>
       <create>2026-05-08T17:28:55+02:00</create>
-      <lastuse>2026-06-26T16:42:22+02:00</lastuse>
-      <lastconfirm>2026-06-24T16:42:23+02:00</lastconfirm>
+      <lastuse>2026-06-26T08:42:22+02:00</lastuse>
+      <lastconfirm>2026-05-08T17:28:55+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1100,8 +1052,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-06-26T17:03:45+02:00</lastuse>
-      <lastconfirm>2026-06-24T17:03:45+02:00</lastconfirm>
+      <lastuse>2026-06-26T17:10:52+02:00</lastuse>
+      <lastconfirm>2026-06-24T17:10:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1196,8 +1148,8 @@
     </location>
     <date>
       <create>2026-06-09T08:35:40+02:00</create>
-      <lastuse>2026-06-26T16:33:19+02:00</lastuse>
-      <lastconfirm>2026-06-24T16:33:20+02:00</lastconfirm>
+      <lastuse>2026-06-26T17:13:19+02:00</lastuse>
+      <lastconfirm>2026-06-24T17:13:20+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1532,8 +1484,8 @@
     </location>
     <date>
       <create>2026-06-22T10:34:13+02:00</create>
-      <lastuse>2026-06-26T17:08:22+02:00</lastuse>
-      <lastconfirm>2026-06-24T17:08:23+02:00</lastconfirm>
+      <lastuse>2026-06-26T17:11:16+02:00</lastuse>
+      <lastconfirm>2026-06-24T17:11:16+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1580,8 +1532,8 @@
     </location>
     <date>
       <create>2026-06-22T16:45:57+02:00</create>
-      <lastuse>2026-06-26T16:21:21+02:00</lastuse>
-      <lastconfirm>2026-06-24T16:21:22+02:00</lastconfirm>
+      <lastuse>2026-06-26T08:21:21+02:00</lastuse>
+      <lastconfirm>2026-06-22T16:45:57+02:00</lastconfirm>
     </date>
   </event>
   <event>
