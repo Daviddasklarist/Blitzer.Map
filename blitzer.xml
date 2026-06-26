@@ -25,6 +25,30 @@
     </date>
   </event>
   <event>
+    <id>19535069659</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86153</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Hanreiweg</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.366981</latitude>
+        <longitude>10.915981</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-26T06:13:01+02:00</create>
+      <lastuse>2026-06-26T08:21:43+02:00</lastuse>
+      <lastconfirm>2026-06-26T06:21:44+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19510172557</id>
     <type>7</type>
     <speed>30</speed>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-06-28T06:02:01+02:00</lastuse>
-      <lastconfirm>2026-06-26T06:02:01+02:00</lastconfirm>
+      <lastuse>2026-06-28T06:19:34+02:00</lastuse>
+      <lastconfirm>2026-06-26T06:19:35+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -452,8 +476,8 @@
     </location>
     <date>
       <create>2026-04-11T20:56:37+02:00</create>
-      <lastuse>2026-06-28T06:14:15+02:00</lastuse>
-      <lastconfirm>2026-06-26T06:14:15+02:00</lastconfirm>
+      <lastuse>2026-06-28T06:19:37+02:00</lastuse>
+      <lastconfirm>2026-06-26T06:19:37+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -908,8 +932,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-06-28T06:05:57+02:00</lastuse>
-      <lastconfirm>2026-06-26T06:05:58+02:00</lastconfirm>
+      <lastuse>2026-06-28T06:19:20+02:00</lastuse>
+      <lastconfirm>2026-06-26T06:19:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1004,8 +1028,8 @@
     </location>
     <date>
       <create>2026-06-09T08:35:40+02:00</create>
-      <lastuse>2026-06-28T05:44:52+02:00</lastuse>
-      <lastconfirm>2026-06-26T05:44:52+02:00</lastconfirm>
+      <lastuse>2026-06-28T06:17:30+02:00</lastuse>
+      <lastconfirm>2026-06-26T06:17:31+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1324,7 +1348,7 @@
     <id>19501205964</id>
     <type>26</type>
     <speed></speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86477</zip>
       <city>Adelsried</city>
@@ -1340,8 +1364,8 @@
     </location>
     <date>
       <create>2026-06-22T10:34:13+02:00</create>
-      <lastuse>2026-06-28T06:10:56+02:00</lastuse>
-      <lastconfirm>2026-06-26T06:10:56+02:00</lastconfirm>
+      <lastuse>2026-06-27T22:10:56+02:00</lastuse>
+      <lastconfirm>2026-06-22T10:34:13+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1484,32 +1508,8 @@
     </location>
     <date>
       <create>2026-06-25T19:29:26+02:00</create>
-      <lastuse>2026-06-27T23:23:37+02:00</lastuse>
-      <lastconfirm>2026-06-25T23:23:37+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19532607805</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86152</zip>
-      <city>Augsburg</city>
-      <state>DE-HH</state>
-      <street>Holzbachstraße</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.371663</latitude>
-        <longitude>10.879463</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-06-25T22:28:15+02:00</create>
-      <lastuse>2026-06-26T07:27:12+02:00</lastuse>
-      <lastconfirm>2026-06-25T23:27:13+02:00</lastconfirm>
+      <lastuse>2026-06-28T06:19:46+02:00</lastuse>
+      <lastconfirm>2026-06-26T06:19:46+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
