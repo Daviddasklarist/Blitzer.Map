@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19534679660</id>
+    <type>1</type>
+    <speed>60</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86551</zip>
+      <city>Aichach</city>
+      <state>DE-BY</state>
+      <street>Augsburger Straße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.439843</latitude>
+        <longitude>11.112615</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-26T04:57:14+02:00</create>
+      <lastuse>2026-06-26T07:09:47+02:00</lastuse>
+      <lastconfirm>2026-06-26T05:09:48+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>19510172557</id>
     <type>7</type>
     <speed>30</speed>
@@ -1268,8 +1292,8 @@
     </location>
     <date>
       <create>2026-06-22T06:23:54+02:00</create>
-      <lastuse>2026-06-28T00:35:44+02:00</lastuse>
-      <lastconfirm>2026-06-26T00:35:46+02:00</lastconfirm>
+      <lastuse>2026-06-28T05:06:24+02:00</lastuse>
+      <lastconfirm>2026-06-26T05:06:24+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1292,8 +1316,8 @@
     </location>
     <date>
       <create>2026-06-22T09:07:07+02:00</create>
-      <lastuse>2026-06-27T16:32:39+02:00</lastuse>
-      <lastconfirm>2026-06-22T09:07:07+02:00</lastconfirm>
+      <lastuse>2026-06-28T05:05:44+02:00</lastuse>
+      <lastconfirm>2026-06-26T05:05:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
