@@ -836,8 +836,8 @@
     </location>
     <date>
       <create>2026-05-30T11:00:19+02:00</create>
-      <lastuse>2026-06-26T20:39:25+02:00</lastuse>
-      <lastconfirm>2026-06-26T11:45:06+02:00</lastconfirm>
+      <lastuse>2026-06-27T04:39:25+02:00</lastuse>
+      <lastconfirm>2026-06-26T19:45:03+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1558,6 +1558,30 @@
       <create>2026-06-26T11:11:41+02:00</create>
       <lastuse>2026-06-27T02:38:36+02:00</lastuse>
       <lastconfirm>2026-06-26T18:38:36+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19540191118</id>
+    <type>26</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86165</zip>
+      <city>Augsburg</city>
+      <state>DE-HH</state>
+      <street>Zugspitzstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.369965</latitude>
+        <longitude>10.932604</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-26T19:06:01+02:00</create>
+      <lastuse>2026-06-28T19:46:17+02:00</lastuse>
+      <lastconfirm>2026-06-26T19:46:17+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
