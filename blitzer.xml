@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19567745582</id>
+    <type>23</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86169</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>A8</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.413737</latitude>
+        <longitude>10.896097</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-29T23:29:18+02:00</create>
+      <lastuse>2026-06-30T00:07:04+02:00</lastuse>
+      <lastconfirm>2026-06-29T23:37:05+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -212,8 +236,8 @@
     </location>
     <date>
       <create>2026-03-09T16:02:28+01:00</create>
-      <lastuse>2026-07-01T22:05:39+02:00</lastuse>
-      <lastconfirm>2026-06-29T22:05:39+02:00</lastconfirm>
+      <lastuse>2026-07-01T23:30:27+02:00</lastuse>
+      <lastconfirm>2026-06-29T23:30:27+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +860,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-07-01T23:19:38+02:00</lastuse>
-      <lastconfirm>2026-06-29T23:19:38+02:00</lastconfirm>
+      <lastuse>2026-07-01T23:30:46+02:00</lastuse>
+      <lastconfirm>2026-06-29T23:30:47+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1316,8 +1340,8 @@
     </location>
     <date>
       <create>2026-06-25T19:29:26+02:00</create>
-      <lastuse>2026-07-01T20:41:10+02:00</lastuse>
-      <lastconfirm>2026-06-29T20:41:12+02:00</lastconfirm>
+      <lastuse>2026-07-01T12:41:10+02:00</lastuse>
+      <lastconfirm>2026-06-25T19:29:26+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1420,7 +1444,7 @@
     <id>19566418861</id>
     <type>26</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86153</zip>
       <city>Augsburg</city>
@@ -1436,8 +1460,8 @@
     </location>
     <date>
       <create>2026-06-29T19:44:24+02:00</create>
-      <lastuse>2026-07-01T20:50:44+02:00</lastuse>
-      <lastconfirm>2026-06-29T20:50:45+02:00</lastconfirm>
+      <lastuse>2026-07-01T23:30:31+02:00</lastuse>
+      <lastconfirm>2026-06-29T23:30:31+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
