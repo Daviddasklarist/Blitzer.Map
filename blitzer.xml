@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
+    <id>19569962890</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86156</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Dayton-Ring</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.396501</latitude>
+        <longitude>10.865572</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-30T06:24:39+02:00</create>
+      <lastuse>2026-06-30T07:33:49+02:00</lastuse>
+      <lastconfirm>2026-06-30T06:33:49+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19569984459</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86154</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.397569</latitude>
+        <longitude>10.868320</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-30T06:27:39+02:00</create>
+      <lastuse>2026-06-30T07:33:22+02:00</lastuse>
+      <lastconfirm>2026-06-30T06:33:23+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19569990593</id>
+    <type>20</type>
+    <speed></speed>
+    <quality>2</quality>
+    <address>
+      <zip>86368</zip>
+      <city>Gersthofen</city>
+      <state>DE-BY</state>
+      <street>B17</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.409756</latitude>
+        <longitude>10.873593</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-06-30T06:29:54+02:00</create>
+      <lastuse>2026-06-30T07:33:42+02:00</lastuse>
+      <lastconfirm>2026-06-30T06:33:43+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
     <id>18269305463</id>
     <type>26</type>
     <speed></speed>
@@ -140,8 +212,8 @@
     </location>
     <date>
       <create>2026-03-03T18:11:28+01:00</create>
-      <lastuse>2026-07-02T06:22:42+02:00</lastuse>
-      <lastconfirm>2026-06-30T06:22:44+02:00</lastconfirm>
+      <lastuse>2026-07-02T06:28:20+02:00</lastuse>
+      <lastconfirm>2026-06-30T06:28:21+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -572,8 +644,8 @@
     </location>
     <date>
       <create>2026-05-08T16:55:07+02:00</create>
-      <lastuse>2026-07-02T06:04:22+02:00</lastuse>
-      <lastconfirm>2026-06-30T06:04:23+02:00</lastconfirm>
+      <lastuse>2026-07-01T22:04:22+02:00</lastuse>
+      <lastconfirm>2026-05-08T16:55:07+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -716,8 +788,8 @@
     </location>
     <date>
       <create>2026-06-01T17:55:50+02:00</create>
-      <lastuse>2026-07-02T06:21:22+02:00</lastuse>
-      <lastconfirm>2026-06-30T06:21:23+02:00</lastconfirm>
+      <lastuse>2026-07-02T06:27:52+02:00</lastuse>
+      <lastconfirm>2026-06-30T06:27:52+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -836,8 +908,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-07-02T06:17:49+02:00</lastuse>
-      <lastconfirm>2026-06-30T06:17:49+02:00</lastconfirm>
+      <lastuse>2026-07-01T22:17:49+02:00</lastuse>
+      <lastconfirm>2026-06-07T10:52:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1412,8 +1484,8 @@
     </location>
     <date>
       <create>2026-06-29T19:44:24+02:00</create>
-      <lastuse>2026-07-02T06:16:52+02:00</lastuse>
-      <lastconfirm>2026-06-30T06:16:52+02:00</lastconfirm>
+      <lastuse>2026-07-02T06:29:22+02:00</lastuse>
+      <lastconfirm>2026-06-30T06:29:22+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
