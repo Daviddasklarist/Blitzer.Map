@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <traffic_informations>
   <event>
-    <id>19582237331</id>
-    <type>1</type>
-    <speed>50</speed>
-    <quality>2</quality>
-    <address>
-      <zip>86343</zip>
-      <city>Königsbrunn</city>
-      <state>DE-BY</state>
-      <street>Königsallee</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.273202</latitude>
-        <longitude>10.879830</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-07-01T14:22:53+02:00</create>
-      <lastuse>2026-07-01T18:22:53+02:00</lastuse>
-      <lastconfirm>2026-07-01T16:50:39+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
     <id>19582444253</id>
     <type>1</type>
     <speed>50</speed>
@@ -76,7 +52,7 @@
     <id>19582998397</id>
     <type>1</type>
     <speed>30</speed>
-    <quality>3</quality>
+    <quality>2</quality>
     <address>
       <zip>86199</zip>
       <city>Augsburg</city>
@@ -94,6 +70,30 @@
       <create>2026-07-01T16:10:03+02:00</create>
       <lastuse>2026-07-01T20:10:03+02:00</lastuse>
       <lastconfirm>2026-07-01T17:15:04+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19583500281</id>
+    <type>1</type>
+    <speed>50</speed>
+    <quality>3</quality>
+    <address>
+      <zip>86343</zip>
+      <city>Königsbrunn</city>
+      <state>DE-BY</state>
+      <street>Römerallee</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.264691</latitude>
+        <longitude>10.883680</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-07-01T17:21:22+02:00</create>
+      <lastuse>2026-07-08T17:27:39+02:00</lastuse>
+      <lastconfirm>2026-07-01T17:26:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2026-06-30T09:15:56+02:00</create>
-      <lastuse>2026-07-02T00:18:54+02:00</lastuse>
-      <lastconfirm>2026-07-01T17:18:54+02:00</lastconfirm>
+      <lastuse>2026-07-02T01:24:52+02:00</lastuse>
+      <lastconfirm>2026-07-01T17:24:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -164,8 +164,8 @@
     </location>
     <date>
       <create>2026-07-01T15:35:18+02:00</create>
-      <lastuse>2026-07-01T17:52:44+02:00</lastuse>
-      <lastconfirm>2026-07-01T17:22:45+02:00</lastconfirm>
+      <lastuse>2026-07-01T17:57:06+02:00</lastuse>
+      <lastconfirm>2026-07-01T17:27:06+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +188,8 @@
     </location>
     <date>
       <create>2026-07-01T16:15:50+02:00</create>
-      <lastuse>2026-07-01T17:52:46+02:00</lastuse>
-      <lastconfirm>2026-07-01T17:22:47+02:00</lastconfirm>
+      <lastuse>2026-07-01T17:55:34+02:00</lastuse>
+      <lastconfirm>2026-07-01T17:25:36+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -212,32 +212,8 @@
     </location>
     <date>
       <create>2026-07-01T16:20:55+02:00</create>
-      <lastuse>2026-07-01T17:57:57+02:00</lastuse>
-      <lastconfirm>2026-07-01T16:57:58+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19583228673</id>
-    <type>21</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86836</zip>
-      <city>Graben</city>
-      <state>DE-BY</state>
-      <street>B17</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.196148</latitude>
-        <longitude>10.851616</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-07-01T16:44:58+02:00</create>
-      <lastuse>2026-07-01T18:22:55+02:00</lastuse>
-      <lastconfirm>2026-07-01T17:22:55+02:00</lastconfirm>
+      <lastuse>2026-07-01T18:25:44+02:00</lastuse>
+      <lastconfirm>2026-07-01T17:25:45+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -476,8 +452,8 @@
     </location>
     <date>
       <create>2026-02-13T14:58:02+01:00</create>
-      <lastuse>2026-07-03T16:54:12+02:00</lastuse>
-      <lastconfirm>2026-07-01T16:54:13+02:00</lastconfirm>
+      <lastuse>2026-07-03T17:21:15+02:00</lastuse>
+      <lastconfirm>2026-07-01T17:21:17+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1676,8 +1652,8 @@
     </location>
     <date>
       <create>2026-06-30T16:18:59+02:00</create>
-      <lastuse>2026-07-03T16:50:54+02:00</lastuse>
-      <lastconfirm>2026-07-01T16:50:55+02:00</lastconfirm>
+      <lastuse>2026-07-03T17:21:23+02:00</lastuse>
+      <lastconfirm>2026-07-01T17:21:23+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1700,8 +1676,8 @@
     </location>
     <date>
       <create>2026-07-01T05:27:04+02:00</create>
-      <lastuse>2026-07-03T17:01:25+02:00</lastuse>
-      <lastconfirm>2026-07-01T17:01:26+02:00</lastconfirm>
+      <lastuse>2026-07-03T17:20:04+02:00</lastuse>
+      <lastconfirm>2026-07-01T17:20:04+02:00</lastconfirm>
     </date>
   </event>
   <event>
