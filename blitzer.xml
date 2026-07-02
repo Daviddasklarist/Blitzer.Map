@@ -20,8 +20,8 @@
     </location>
     <date>
       <create>2026-07-02T07:13:51+02:00</create>
-      <lastuse>2026-07-02T13:48:13+02:00</lastuse>
-      <lastconfirm>2026-07-02T11:48:14+02:00</lastconfirm>
+      <lastuse>2026-07-02T13:56:28+02:00</lastuse>
+      <lastconfirm>2026-07-02T11:56:29+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -124,7 +124,7 @@
     <id>19589903139</id>
     <type>1</type>
     <speed>50</speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86447</zip>
       <city>Aindling</city>
@@ -140,8 +140,8 @@
     </location>
     <date>
       <create>2026-07-02T11:01:55+02:00</create>
-      <lastuse>2026-07-02T13:51:03+02:00</lastuse>
-      <lastconfirm>2026-07-02T11:51:04+02:00</lastconfirm>
+      <lastuse>2026-07-02T13:57:39+02:00</lastuse>
+      <lastconfirm>2026-07-02T11:57:40+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -165,7 +165,31 @@
     <date>
       <create>2026-07-02T11:20:17+02:00</create>
       <lastuse>2026-07-02T15:20:17+02:00</lastuse>
-      <lastconfirm>2026-07-02T11:52:40+02:00</lastconfirm>
+      <lastconfirm>2026-07-02T11:58:10+02:00</lastconfirm>
+    </date>
+  </event>
+  <event>
+    <id>19590251532</id>
+    <type>1</type>
+    <speed>30</speed>
+    <quality>2</quality>
+    <address>
+      <zip>86167</zip>
+      <city>Augsburg</city>
+      <state>DE-BY</state>
+      <street>Schillstraße</street>
+      <country>DE</country>
+    </address>
+    <location>
+      <point>
+        <latitude>48.382766</latitude>
+        <longitude>10.908939</longitude>
+      </point>
+    </location>
+    <date>
+      <create>2026-07-02T11:50:54+02:00</create>
+      <lastuse>2026-07-02T13:55:50+02:00</lastuse>
+      <lastconfirm>2026-07-02T11:55:50+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -188,8 +212,8 @@
     </location>
     <date>
       <create>2026-06-30T13:57:55+02:00</create>
-      <lastuse>2026-07-02T16:46:00+02:00</lastuse>
-      <lastconfirm>2026-07-02T08:46:00+02:00</lastconfirm>
+      <lastuse>2026-07-02T19:57:52+02:00</lastuse>
+      <lastconfirm>2026-07-02T11:57:53+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -236,15 +260,15 @@
     </location>
     <date>
       <create>2026-07-02T11:28:27+02:00</create>
-      <lastuse>2026-07-02T12:20:06+02:00</lastuse>
-      <lastconfirm>2026-07-02T11:50:06+02:00</lastconfirm>
+      <lastuse>2026-07-02T12:16:01+02:00</lastuse>
+      <lastconfirm>2026-07-02T11:56:02+02:00</lastconfirm>
     </date>
   </event>
   <event>
     <id>19590229036</id>
     <type>29</type>
     <speed></speed>
-    <quality>2</quality>
+    <quality>3</quality>
     <address>
       <zip>86316</zip>
       <city>Friedberg</city>
@@ -260,8 +284,8 @@
     </location>
     <date>
       <create>2026-07-02T11:48:35+02:00</create>
-      <lastuse>2026-07-02T12:22:27+02:00</lastuse>
-      <lastconfirm>2026-07-02T11:52:28+02:00</lastconfirm>
+      <lastuse>2026-07-02T12:27:54+02:00</lastuse>
+      <lastconfirm>2026-07-02T11:57:54+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1052,8 +1076,8 @@
     </location>
     <date>
       <create>2026-06-07T10:52:02+02:00</create>
-      <lastuse>2026-07-04T11:48:49+02:00</lastuse>
-      <lastconfirm>2026-07-02T11:48:50+02:00</lastconfirm>
+      <lastuse>2026-07-04T11:52:05+02:00</lastuse>
+      <lastconfirm>2026-07-02T11:52:05+02:00</lastconfirm>
     </date>
   </event>
   <event>
@@ -1630,30 +1654,6 @@
       <create>2026-07-02T06:06:40+02:00</create>
       <lastuse>2026-07-04T06:37:14+02:00</lastuse>
       <lastconfirm>2026-07-02T06:37:14+02:00</lastconfirm>
-    </date>
-  </event>
-  <event>
-    <id>19588591034</id>
-    <type>22</type>
-    <speed></speed>
-    <quality>2</quality>
-    <address>
-      <zip>86453</zip>
-      <city>Dasing</city>
-      <state>DE-HH</state>
-      <street>A8</street>
-      <country>DE</country>
-    </address>
-    <location>
-      <point>
-        <latitude>48.396628</latitude>
-        <longitude>11.052858</longitude>
-      </point>
-    </location>
-    <date>
-      <create>2026-07-02T07:48:37+02:00</create>
-      <lastuse>2026-07-02T19:47:44+02:00</lastuse>
-      <lastconfirm>2026-07-02T11:47:44+02:00</lastconfirm>
     </date>
   </event>
 </traffic_informations>
